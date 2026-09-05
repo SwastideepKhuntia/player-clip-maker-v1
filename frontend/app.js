@@ -1082,6 +1082,8 @@
                 targetVideoUrl = apiUrl(clip.source_video_url);
             } else if (currentSourceVideoUrl) {
                 targetVideoUrl = currentSourceVideoUrl;
+            } else if (currentSourceVideoName) {
+                targetVideoUrl = apiUrl(`/api/videos/${currentSourceVideoName}`);
             } else if (clip.clip_url) {
                 targetVideoUrl = apiUrl(clip.clip_url);
             }
