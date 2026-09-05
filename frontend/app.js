@@ -838,32 +838,20 @@
             
             if (studioClips && studioClips[activeClipIndex]) {
                 const clip = studioClips[activeClipIndex];
-                const isSingleClipMode = Boolean(clip.clip_url);
+                const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
                 
-                if (isSingleClipMode) {
-                    // Playing individual extracted clip file
-                    const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
-                    if (ksOverviewPlayhead) {
-                        const localPct = Math.max(0, Math.min(100, (curTime / (kairoStudioVideo.duration || clipDuration)) * 100));
-                        const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
-                        const widthPct = (clipDuration / studioTotalDuration) * 100;
-                        ksOverviewPlayhead.style.left = `${startPct + (localPct * widthPct / 100)}%`;
-                    }
-                } else {
-                    // Playing source match video segmented by clip bounds
-                    if (ksOverviewPlayhead) {
-                        const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
-                        const progressInClip = Math.max(0, Math.min(1, (curTime - clip.start_sec) / clipDuration));
-                        const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
-                        const widthPct = (clipDuration / studioTotalDuration) * 100;
-                        ksOverviewPlayhead.style.left = `${startPct + (progressInClip * widthPct)}%`;
-                    }
+                // Update Playhead on Compiled Reel Track
+                if (ksOverviewPlayhead) {
+                    const progressInClip = Math.max(0, Math.min(1, (curTime - clip.start_sec) / clipDuration));
+                    const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
+                    const widthPct = (clipDuration / studioTotalDuration) * 100;
+                    ksOverviewPlayhead.style.left = `${startPct + (progressInClip * widthPct)}%`;
+                }
 
-                    // Loop active clip bounds
-                    if (curTime >= clip.end_sec) {
-                        kairoStudioVideo.currentTime = clip.start_sec;
-                        kairoStudioVideo.pause();
-                    }
+                // Loop active clip bounds
+                if (curTime >= clip.end_sec) {
+                    kairoStudioVideo.currentTime = clip.start_sec;
+                    kairoStudioVideo.pause();
                 }
             }
         });
@@ -1013,30 +1001,27 @@
         updateActiveClipUI();
         updateTrimmerTrackUI();
 
-        // Load and play the specific cut clip or source segment
+        // Load the full match video source so user can seek/drag anywhere in match context
         const clip = studioClips[activeClipIndex];
         if (kairoStudioVideo && clip) {
-            // Prioritize individual cut clip file URL if available
             let targetVideoUrl = "";
-            if (clip.clip_url) {
-                targetVideoUrl = apiUrl(clip.clip_url);
-            } else if (clip.source_video_url) {
+            if (clip.source_video_url) {
                 targetVideoUrl = apiUrl(clip.source_video_url);
             } else if (currentSourceVideoUrl) {
                 targetVideoUrl = currentSourceVideoUrl;
+            } else if (clip.clip_url) {
+                targetVideoUrl = apiUrl(clip.clip_url);
             }
 
             if (targetVideoUrl && !kairoStudioVideo.src.endsWith(targetVideoUrl)) {
                 kairoStudioVideo.src = targetVideoUrl;
                 kairoStudioVideo.load();
                 kairoStudioVideo.onloadedmetadata = function() {
-                    const seekPos = clip.clip_url ? 0 : (clip.start_sec || 0);
-                    kairoStudioVideo.currentTime = seekPos;
+                    kairoStudioVideo.currentTime = clip.start_sec || 0;
                     kairoStudioVideo.play().catch(() => {});
                 };
             } else {
-                const seekPos = clip.clip_url ? 0 : (clip.start_sec || 0);
-                kairoStudioVideo.currentTime = seekPos;
+                kairoStudioVideo.currentTime = clip.start_sec || 0;
                 kairoStudioVideo.play().catch(() => {});
             }
         }
@@ -1073,8 +1058,8 @@
         const clip = studioClips[activeClipIndex];
         if (!clip) return;
 
-        // Dynamic Trimming Window with context around clip bounds
-        const padding = 15.0; // 15s context window
+        // Dynamic Trimming Window with context around clip bounds (allows expanding before & after)
+        const padding = 25.0; // 25s context window on each side
         const zoomStart = Math.max(0, clip.start_sec - padding);
         const zoomEnd = clip.end_sec + padding;
         const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
@@ -1103,7 +1088,7 @@
         const clientX = e.touches ? e.touches[0].clientX : e.clientX;
         
         const clip = studioClips[activeClipIndex];
-        const padding = 15.0;
+        const padding = 25.0;
         const zoomStart = Math.max(0, clip.start_sec - padding);
         const zoomEnd = clip.end_sec + padding;
         const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
@@ -1119,7 +1104,7 @@
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
             clip.start_sec = clampedSec;
-            if (kairoStudioVideo && !clip.clip_url) {
+            if (kairoStudioVideo) {
                 kairoStudioVideo.currentTime = clampedSec;
             }
         } else if (isDraggingHandle === "right") {
@@ -1129,7 +1114,7 @@
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
             clip.end_sec = clampedSec;
-            if (kairoStudioVideo && !clip.clip_url) {
+            if (kairoStudioVideo) {
                 kairoStudioVideo.currentTime = clampedSec;
             }
         }
