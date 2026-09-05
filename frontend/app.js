@@ -780,9 +780,6 @@
     let originalStudioClips = [];
     let currentSourceVideoName = "";
     let currentSourceVideoUrl = "";
-    let originalStudioClips = [];
-    let currentSourceVideoName = "";
-    let currentSourceVideoUrl = "";
     let currentHighlightUrl = "";
     let studioTotalDuration = 35.0; // Total duration of all cut clips combined in reel
 
