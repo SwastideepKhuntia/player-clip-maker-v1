@@ -77,65 +77,61 @@ def extract_clips(
         duration = max(0.5, end - start)
         out_file = output_dir / f"clip_{idx:04d}.mp4"
 
-        # Frame-accurate extraction with PTS zeroing
-        # Eliminates corrupt starting B-frames, freeze lags, and desync fast-forwards
-        cmd = [
+        # STEP 1: Blazing Fast Stream Copy (-c copy) — 0.1s instant extraction without CPU re-encoding
+        cmd_stream_copy = [
             FFMPEG,
             "-y",
-            "-ss", str(start),               # Fast frame-accurate seek
-            "-i", str(clip_src_video),       # Input source video
-            "-t", str(duration),             # Exact clip duration
-            "-vf", "fps=30,setpts=PTS-STARTPTS",  # Force constant 30fps and zero-based presentation timestamps
-            "-af", "aresample=async=1000,asetpts=PTS-STARTPTS", # Lock audio timestamps strictly to zero
-            "-c:v", "libx264",
-            "-preset", "ultrafast",
-            "-crf", "23",
-            "-pix_fmt", "yuv420p",
-            "-g", "30",                      # Keyframe at least once every second
-            "-c:a", "aac",
-            "-ar", "44100",
-            "-ac", "2",
-            "-b:a", "192k",
+            "-ss", str(start),
+            "-i", str(clip_src_video),
+            "-t", str(duration),
+            "-c", "copy",
+            "-avoid_negative_ts", "make_zero",
+            "-fflags", "+genpts",
             "-movflags", "+faststart",
             str(out_file),
         ]
 
-        logger.info(f"Extracting clip {idx}: {start}s → {end}s (duration={duration}s)")
+        logger.info(f"Extracting clip {idx} [Fast Stream Copy]: {start}s → {end}s (duration={duration}s)")
 
+        extracted_successfully = False
         try:
-            result = subprocess.run(
-                cmd,
-                capture_output=True,
-                text=True,
-                timeout=120,
-            )
-            if result.returncode != 0 or not out_file.exists() or out_file.stat().st_size < 1000:
-                logger.error(f"FFmpeg error or empty output for clip {idx}: {result.stderr[-500:]}")
-                # Fallback: simple fast-seek only (still better than nothing)
-                cmd_fallback = [
-                    FFMPEG, "-y",
-                    "-ss", str(start),
-                    "-i", str(clip_src_video),
-                    "-t", str(duration),
-                    "-c:v", "libx264", "-preset", "ultrafast", "-crf", "23",
-                    "-pix_fmt", "yuv420p", "-g", "60",
-                    "-c:a", "aac", "-movflags", "+faststart",
-                    str(out_file),
-                ]
-                result2 = subprocess.run(
-                    cmd_fallback,
-                    capture_output=True,
-                    text=True,
-                    timeout=300,
-                )
-                if result2.returncode != 0 or not out_file.exists() or out_file.stat().st_size < 1000:
-                    logger.error(f"Fallback also failed for clip {idx}")
-                    if out_file.exists():
-                        out_file.unlink(missing_ok=True)
-                    continue
+            result = subprocess.run(cmd_stream_copy, capture_output=True, text=True, timeout=15)
+            if result.returncode == 0 and out_file.exists() and out_file.stat().st_size >= 2000:
+                extracted_successfully = True
+        except Exception:
+            extracted_successfully = False
 
-            if out_file.exists() and out_file.stat().st_size >= 1000:
-                clip_paths.append(str(out_file))
+        # STEP 2: Fallback to frame-accurate ultrafast re-encoding if stream copy fails
+        if not extracted_successfully:
+            cmd_ultrafast = [
+                FFMPEG,
+                "-y",
+                "-ss", str(start),
+                "-i", str(clip_src_video),
+                "-t", str(duration),
+                "-vf", "fps=30,setpts=PTS-STARTPTS",
+                "-af", "aresample=async=1000,asetpts=PTS-STARTPTS",
+                "-c:v", "libx264",
+                "-preset", "ultrafast",
+                "-crf", "23",
+                "-pix_fmt", "yuv420p",
+                "-g", "30",
+                "-c:a", "aac",
+                "-ar", "44100",
+                "-ac", "2",
+                "-b:a", "192k",
+                "-movflags", "+faststart",
+                str(out_file),
+            ]
+            try:
+                result2 = subprocess.run(cmd_ultrafast, capture_output=True, text=True, timeout=60)
+                if result2.returncode == 0 and out_file.exists() and out_file.stat().st_size >= 1000:
+                    extracted_successfully = True
+            except Exception as e:
+                logger.error(f"Extraction failed for clip {idx}: {e}")
+
+        if extracted_successfully:
+            clip_paths.append(str(out_file))
 
         except subprocess.TimeoutExpired:
             logger.error(f"Timeout extracting clip {idx}")
