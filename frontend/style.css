@@ -1040,6 +1040,138 @@ body {
     padding-bottom: 2rem;
 }
 
+/* Track 3: Individual Action Clips Strip */
+.ks-clips-strip-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.ks-clips-strip-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+.ks-strip-title {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+.ks-strip-title span {
+    color: #a3e635;
+}
+
+.ks-strip-tip {
+    color: #8b95a5;
+    font-size: 0.75rem;
+}
+
+.ks-clips-strip {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    padding: 0.4rem 0.2rem 0.6rem 0.2rem;
+    -webkit-overflow-scrolling: touch;
+}
+
+.ks-clips-strip::-webkit-scrollbar {
+    height: 6px;
+}
+
+.ks-clips-strip::-webkit-scrollbar-track {
+    background: #13151b;
+    border-radius: 3px;
+}
+
+.ks-clips-strip::-webkit-scrollbar-thumb {
+    background: #2a2f3d;
+    border-radius: 3px;
+}
+
+.ks-clips-strip::-webkit-scrollbar-thumb:hover {
+    background: #3b4254;
+}
+
+.ks-clip-card {
+    flex: 0 0 140px;
+    background: #161820;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 0.55rem 0.65rem;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    transition: all 0.15s ease;
+    user-select: none;
+    position: relative;
+}
+
+.ks-clip-card:hover {
+    background: #1f232e;
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+.ks-clip-card--active {
+    background: #1b2416;
+    border-color: #a3e635;
+    box-shadow: 0 0 10px rgba(163, 230, 53, 0.25);
+}
+
+.ks-clip-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ks-card-num {
+    font-size: 0.72rem;
+    font-weight: 800;
+    color: #8b95a5;
+}
+
+.ks-clip-card--active .ks-card-num {
+    color: #a3e635;
+}
+
+.ks-card-dur {
+    font-size: 0.7rem;
+    color: #94a3b8;
+    background: rgba(255, 255, 255, 0.06);
+    padding: 0.1rem 0.35rem;
+    border-radius: 4px;
+}
+
+.ks-card-event {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ks-card-times {
+    font-size: 0.72rem;
+    color: #8b95a5;
+    font-family: monospace;
+}
+
+.ks-card-player {
+    font-size: 0.7rem;
+    color: #a3e635;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 /* Toasts */
 .toast-container {
     position: fixed;

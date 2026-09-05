@@ -771,6 +771,9 @@
     const ksDeleteClipBtn = document.getElementById("ks-delete-clip-btn");
     const ksDownloadClipBtn = document.getElementById("ks-download-clip-btn");
 
+    const ksClipsStrip = document.getElementById("ks-clips-strip");
+    const ksClipsCount = document.getElementById("ks-clips-count");
+
     let originalStudioClips = [];
     let currentSourceVideoName = "";
     let currentSourceVideoUrl = "";
@@ -844,11 +847,17 @@
         });
     }
 
+    let draggedClipIdx = null;
+
     function renderStudioClipsList() {
         if (!studioClips || studioClips.length === 0) return;
 
         if (ksTimelineSummary) {
             ksTimelineSummary.textContent = `${studioClips.length} clips · match ${formatTimecode(matchTotalDuration)}`;
+        }
+
+        if (ksClipsCount) {
+            ksClipsCount.textContent = studioClips.length;
         }
 
         // Render overview track markers
@@ -871,6 +880,66 @@
             });
         }
 
+        // Render Individual Action Clips Strip Cards
+        if (ksClipsStrip) {
+            ksClipsStrip.innerHTML = "";
+            studioClips.forEach((c, idx) => {
+                const card = document.createElement("div");
+                card.className = `ks-clip-card ${idx === activeClipIndex ? 'ks-clip-card--active' : ''}`;
+                card.draggable = true;
+                card.dataset.index = idx;
+
+                const dur = Math.max(0, (c.end_sec || 0) - (c.start_sec || 0)).toFixed(1);
+                const eventName = c.event || (c.tags && c.tags[0]) || "Action";
+                const playerLabel = c.player || "";
+
+                card.innerHTML = `
+                    <div class="ks-clip-card-header">
+                        <span class="ks-card-num">#${idx + 1}</span>
+                        <span class="ks-card-dur">${dur}s</span>
+                    </div>
+                    <div class="ks-card-event" title="${eventName}">${eventName}</div>
+                    <div class="ks-card-times">${formatTimecode(c.start_sec || 0)} - ${formatTimecode(c.end_sec || 0)}</div>
+                    ${playerLabel ? `<div class="ks-card-player" title="${playerLabel}">👤 ${playerLabel}</div>` : ''}
+                `;
+
+                card.addEventListener("click", () => {
+                    selectStudioClip(idx);
+                });
+
+                // Drag and Drop support for reordering individual clips
+                card.addEventListener("dragstart", (e) => {
+                    draggedClipIdx = idx;
+                    e.dataTransfer.effectAllowed = "move";
+                    card.style.opacity = "0.5";
+                });
+
+                card.addEventListener("dragend", () => {
+                    draggedClipIdx = null;
+                    card.style.opacity = "1";
+                });
+
+                card.addEventListener("dragover", (e) => {
+                    e.preventDefault();
+                    e.dataTransfer.dropEffect = "move";
+                });
+
+                card.addEventListener("drop", (e) => {
+                    e.preventDefault();
+                    if (draggedClipIdx !== null && draggedClipIdx !== idx) {
+                        const moved = studioClips.splice(draggedClipIdx, 1)[0];
+                        studioClips.splice(idx, 0, moved);
+                        activeClipIndex = idx;
+                        renderStudioClipsList();
+                        selectStudioClip(idx);
+                        toast(`Moved Clip #${draggedClipIdx + 1} to position #${idx + 1}`, "info");
+                    }
+                });
+
+                ksClipsStrip.appendChild(card);
+            });
+        }
+
         updateActiveClipUI();
         updateTrimmerTrackUI();
     }
@@ -884,6 +953,18 @@
             blocks.forEach((b, i) => {
                 if (i === activeClipIndex) b.classList.add("ks-overview-block--active");
                 else b.classList.remove("ks-overview-block--active");
+            });
+        }
+
+        if (ksClipsStrip) {
+            const cards = ksClipsStrip.querySelectorAll(".ks-clip-card");
+            cards.forEach((c, i) => {
+                if (i === activeClipIndex) {
+                    c.classList.add("ks-clip-card--active");
+                    c.scrollIntoView({ behavior: "smooth", inline: "nearest", block: "nearest" });
+                } else {
+                    c.classList.remove("ks-clip-card--active");
+                }
             });
         }
 

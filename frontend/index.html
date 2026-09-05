@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=6.5.0">
+    <link rel="stylesheet" href="style.css?v=7.0.0">
 </head>
 <body>
 
@@ -617,6 +617,17 @@
                             <div class="ks-trim-handle ks-trim-handle-right" id="ks-handle-right"></div>
                         </div>
                     </div>
+
+                    <!-- Track 3: Individual Action Clips Sequence & Reorder Strip -->
+                    <div class="ks-clips-strip-wrapper">
+                        <div class="ks-clips-strip-header">
+                            <span class="ks-strip-title">Individual Event Clips (<span id="ks-clips-count">0</span>)</span>
+                            <span class="ks-strip-tip">Click clip to inspect &amp; trim · Drag cards to re-order reel</span>
+                        </div>
+                        <div class="ks-clips-strip" id="ks-clips-strip">
+                            <!-- Populated dynamically with individual action clip cards -->
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -629,6 +640,6 @@
 
     <!-- Toast Notifications -->
     <div id="toast-container" class="toast-container"></div>
-    <script src="app.js?v=6.5.0"></script>
+    <script src="app.js?v=7.0.0"></script>
 </body>
 </html>
