@@ -1062,6 +1062,19 @@
             const pct = Math.max(0, Math.min(100, (targetTime / matchTotalDuration) * 100));
             ksOverviewPlayhead.style.left = `${pct}%`;
         }
+
+        // If seeking beyond current clip bounds, dynamically adjust the active clip boundary
+        if (studioClips && studioClips[activeClipIndex]) {
+            const clip = studioClips[activeClipIndex];
+            if (targetTime < clip.start_sec) {
+                clip.start_sec = Math.round(targetTime * 10) / 10;
+            } else if (targetTime > clip.end_sec) {
+                clip.end_sec = Math.round(targetTime * 10) / 10;
+            }
+            updateActiveClipUI();
+            updateTrimmerTrackUI();
+            renderStudioClipsList();
+        }
     }
 
     if (ksSeekBack8) ksSeekBack8.addEventListener("click", () => seekStudioVideo(-8));
