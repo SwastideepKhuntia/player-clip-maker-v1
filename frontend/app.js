@@ -10,7 +10,7 @@
     // Dynamic API Base Configuration for Production / Vercel
     const API_BASE = (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1" || window.location.protocol === "file:")
         ? "" 
-        : (window.BACKEND_API_URL || "");
+        : "https://player-clip-maker-v1-1.onrender.com";
 
     function apiUrl(endpoint) {
         if (!endpoint.startsWith("/")) endpoint = "/" + endpoint;
@@ -428,7 +428,7 @@
             form.append("url_or_id", urlVal);
 
             try {
-                const res = await fetch("/api/scrape_whoscored", { method: "POST", body: form });
+                const res = await fetch(apiUrl("/api/scrape_whoscored"), { method: "POST", body: form });
                 const data = await res.json();
                 if (!res.ok) throw new Error(data.detail || "Scraping failed");
 
@@ -486,7 +486,7 @@
             form.append("url_or_id", urlVal);
 
             try {
-                const res = await fetch("/api/scrape_scoresway", { method: "POST", body: form });
+                const res = await fetch(apiUrl("/api/scrape_scoresway"), { method: "POST", body: form });
                 const data = await res.json();
                 if (!res.ok) throw new Error(data.detail || "Scraping failed");
 
@@ -541,7 +541,7 @@
             uploadBtn.textContent = "Uploading...";
 
             try {
-                const res = await fetch("/api/upload", { method: "POST", body: form });
+                const res = await fetch(apiUrl("/api/upload"), { method: "POST", body: form });
                 const data = await res.json();
                 if (!res.ok) throw new Error(data.detail || "Upload failed");
 
@@ -565,7 +565,7 @@
     async function loadMusic() {
         if (!musicSelect) return;
         try {
-            const res = await fetch("/api/music");
+            const res = await fetch(apiUrl("/api/music"));
             const data = await res.json();
             if (data.songs && data.songs.length > 0) {
                 musicSelect.innerHTML = '<option value="">No Music</option>';
@@ -586,7 +586,7 @@
     if (browseDirBtn) {
         browseDirBtn.addEventListener("click", async () => {
             try {
-                const res = await fetch("/api/browse_folder");
+                const res = await fetch(apiUrl("/api/browse_folder"));
                 const data = await res.json();
                 if (data.folder) {
                     outputFolderInput.value = data.folder;
@@ -658,7 +658,7 @@
             }
 
             try {
-                const res = await fetch("/api/generate", {
+                const res = await fetch(apiUrl("/api/generate"), {
                     method: "POST",
                     body: form
                 });
@@ -668,7 +668,7 @@
                 // Background pipeline started — start polling /api/status
                 let pollInterval = setInterval(async () => {
                     try {
-                        const statusRes = await fetch("/api/status");
+                        const statusRes = await fetch(apiUrl("/api/status"));
                         const statusData = await statusRes.json();
 
                         if (statusData.state === "processing") {
@@ -687,7 +687,7 @@
                             if (progressFill) progressFill.style.width = "100%";
                             if (statusText) statusText.textContent = `✓ Done! Created ${statusData.progress || 0} clips.`;
 
-                            const videoUrl = `/api/download/${statusData.output_file}`;
+                            const videoUrl = apiUrl(`/api/download/${statusData.output_file}`);
 
                             // Show preview video
                             if (resultSection && statusData.output_file) {
@@ -784,7 +784,7 @@
         if (!clips || clips.length === 0) return;
         
         currentSourceVideoName = videoFilename || uploadedNames.video || uploadedNames.video_1h || "";
-        currentSourceVideoUrl = videoSrcUrl || (currentSourceVideoName ? `/api/videos/${currentSourceVideoName}` : "");
+        currentSourceVideoUrl = videoSrcUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : "");
         studioClips = JSON.parse(JSON.stringify(clips));
         originalStudioClips = JSON.parse(JSON.stringify(clips));
         activeClipIndex = 0;
@@ -798,7 +798,7 @@
         const firstClip = studioClips[0];
         const initialVideoUrl = (firstClip && firstClip.source_video_url) ? 
             firstClip.source_video_url : 
-            (videoSrcUrl || (currentSourceVideoName ? `/api/videos/${currentSourceVideoName}` : ""));
+            (videoSrcUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : ""));
 
         // Load correct source video into Clip Studio player
         if (kairoStudioVideo && initialVideoUrl) {
@@ -892,7 +892,7 @@
         const clip = studioClips[activeClipIndex];
         if (kairoStudioVideo && clip) {
             const clipVideoUrl = clip.source_video_url || 
-                (clip.source_video ? `/api/videos/${clip.source_video}` : currentSourceVideoUrl);
+                (clip.source_video ? apiUrl(`/api/videos/${clip.source_video}`) : currentSourceVideoUrl);
 
             if (clipVideoUrl && !kairoStudioVideo.src.endsWith(clipVideoUrl)) {
                 kairoStudioVideo.src = clipVideoUrl;
@@ -1172,7 +1172,7 @@
         toast(saveIndividual ? "Exporting individual clips ZIP..." : "Compiling timeline reel with FFmpeg...", "info");
 
         try {
-            const res = await fetch("/api/render_custom", {
+            const res = await fetch(apiUrl("/api/render_custom"), {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(payload)
@@ -1191,7 +1191,7 @@
             // Poll /api/status until completion
             let poll = setInterval(async () => {
                 try {
-                    const sRes = await fetch("/api/status");
+                    const sRes = await fetch(apiUrl("/api/status"));
                     const sData = await sRes.json();
                     if (sData.state === "processing") {
                         if (statusText) statusText.textContent = sData.message || "Rendering...";
@@ -1204,10 +1204,10 @@
                         if (statusText) statusText.textContent = "✓ Export complete!";
                         if (resultSection && sData.output_file) {
                             resultSection.style.display = "block";
-                            resultVideo.src = `/api/download/${sData.output_file}`;
+                            resultVideo.src = apiUrl(`/api/download/${sData.output_file}`);
                             resultVideo.load();
                             savedPathLabel.textContent = sData.actual_path || sData.output_file;
-                            downloadLink.href = `/api/download/${sData.output_file}`;
+                            downloadLink.href = apiUrl(`/api/download/${sData.output_file}`);
                             downloadLink.download = sData.output_file;
                             resultSection.scrollIntoView({ behavior: "smooth" });
                         }
