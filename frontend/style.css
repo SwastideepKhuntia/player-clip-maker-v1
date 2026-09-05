@@ -744,6 +744,7 @@ body {
 }
 
 .ks-video-wrapper {
+    position: relative;
     width: 100%;
     max-width: 100%;
     height: auto;
@@ -760,6 +761,76 @@ body {
     max-height: 480px;
     display: block;
     object-fit: contain;
+}
+
+.ks-custom-controls {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 70%, transparent 100%);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.6rem 1rem;
+    z-index: 10;
+    transition: opacity 0.2s ease;
+}
+
+.ks-ctrl-play, .ks-ctrl-btn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+    border-radius: 4px;
+    transition: color 0.15s, transform 0.15s;
+}
+
+.ks-ctrl-play:hover, .ks-ctrl-btn:hover {
+    color: var(--neon-green);
+    transform: scale(1.1);
+}
+
+.ks-ctrl-time {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #e2e8f0;
+    font-family: monospace;
+    white-space: nowrap;
+    min-width: 85px;
+}
+
+.ks-ctrl-scrubber-track {
+    flex: 1;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+    position: relative;
+    cursor: pointer;
+}
+
+.ks-ctrl-scrubber-fill {
+    height: 100%;
+    width: 0%;
+    background: var(--neon-green);
+    border-radius: 3px;
+    position: relative;
+}
+
+.ks-ctrl-scrubber-fill::after {
+    content: '';
+    position: absolute;
+    right: -5px;
+    top: -3px;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.6);
 }
 
 .ks-topbar {

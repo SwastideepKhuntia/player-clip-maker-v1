@@ -525,9 +525,25 @@
                     </div>
                 </div>
 
-                <!-- 2. Video Player -->
+                <!-- 2. Video Player with Clean Trim-Aware Controls -->
                 <div class="ks-video-wrapper">
-                    <video id="kairo-studio-video" controls class="ks-video"></video>
+                    <video id="kairo-studio-video" class="ks-video"></video>
+                    <div class="ks-custom-controls" id="ks-custom-controls">
+                        <button id="ks-play-pause-btn" class="ks-ctrl-play" title="Play/Pause">
+                            <svg id="ks-play-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                            <svg id="ks-pause-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+                        </button>
+                        <div class="ks-ctrl-time" id="ks-ctrl-time">0:00 / 0:11</div>
+                        <div class="ks-ctrl-scrubber-track" id="ks-ctrl-scrubber-track">
+                            <div class="ks-ctrl-scrubber-fill" id="ks-ctrl-scrubber-fill"></div>
+                        </div>
+                        <button id="ks-mute-btn" class="ks-ctrl-btn" title="Mute/Unmute">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+                        </button>
+                        <button id="ks-fullscreen-btn" class="ks-ctrl-btn" title="Fullscreen">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+                        </button>
+                    </div>
                 </div>
 
                 <!-- 3. Navigation, Action Tags & Buttons Bar -->

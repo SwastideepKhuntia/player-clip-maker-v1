@@ -827,6 +827,67 @@
         selectStudioClip(0);
     }
 
+    // Custom Video Controls Elements
+    const ksPlayPauseBtn = document.getElementById("ks-play-pause-btn");
+    const ksPlayIcon = document.getElementById("ks-play-icon");
+    const ksPauseIcon = document.getElementById("ks-pause-icon");
+    const ksCtrlTime = document.getElementById("ks-ctrl-time");
+    const ksCtrlScrubberTrack = document.getElementById("ks-ctrl-scrubber-track");
+    const ksCtrlScrubberFill = document.getElementById("ks-ctrl-scrubber-fill");
+    const ksMuteBtn = document.getElementById("ks-mute-btn");
+    const ksFullscreenBtn = document.getElementById("ks-fullscreen-btn");
+
+    function updatePlayPauseIcons() {
+        if (!kairoStudioVideo) return;
+        if (kairoStudioVideo.paused) {
+            if (ksPlayIcon) ksPlayIcon.style.display = "block";
+            if (ksPauseIcon) ksPauseIcon.style.display = "none";
+        } else {
+            if (ksPlayIcon) ksPlayIcon.style.display = "none";
+            if (ksPauseIcon) ksPauseIcon.style.display = "block";
+        }
+    }
+
+    if (ksPlayPauseBtn && kairoStudioVideo) {
+        ksPlayPauseBtn.addEventListener("click", () => {
+            if (kairoStudioVideo.paused) {
+                kairoStudioVideo.play().catch(() => {});
+            } else {
+                kairoStudioVideo.pause();
+            }
+            updatePlayPauseIcons();
+        });
+        kairoStudioVideo.addEventListener("play", updatePlayPauseIcons);
+        kairoStudioVideo.addEventListener("pause", updatePlayPauseIcons);
+    }
+
+    if (ksMuteBtn && kairoStudioVideo) {
+        ksMuteBtn.addEventListener("click", () => {
+            kairoStudioVideo.muted = !kairoStudioVideo.muted;
+            ksMuteBtn.style.color = kairoStudioVideo.muted ? "var(--neon-green)" : "#fff";
+        });
+    }
+
+    if (ksFullscreenBtn && kairoStudioVideo) {
+        ksFullscreenBtn.addEventListener("click", () => {
+            if (kairoStudioVideo.requestFullscreen) {
+                kairoStudioVideo.requestFullscreen();
+            }
+        });
+    }
+
+    if (ksCtrlScrubberTrack && kairoStudioVideo) {
+        ksCtrlScrubberTrack.addEventListener("click", (e) => {
+            if (!studioClips || !studioClips[activeClipIndex]) return;
+            const clip = studioClips[activeClipIndex];
+            const clipDur = Math.max(0.1, clip.end_sec - clip.start_sec);
+            const rect = ksCtrlScrubberTrack.getBoundingClientRect();
+            const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+            const targetPos = clip.start_sec + (ratio * clipDur);
+            kairoStudioVideo.currentTime = targetPos;
+        });
+    }
+
     // Video playback synchronization inside active clip bounds
     if (kairoStudioVideo) {
         kairoStudioVideo.addEventListener("loadedmetadata", () => {
@@ -839,10 +900,21 @@
             if (studioClips && studioClips[activeClipIndex]) {
                 const clip = studioClips[activeClipIndex];
                 const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
+                const relTime = Math.max(0, Math.min(clipDuration, curTime - clip.start_sec));
+                const progressInClip = Math.max(0, Math.min(1, relTime / clipDuration));
+
+                // Update custom video overlay timecode: e.g. 0:01 / 0:11
+                if (ksCtrlTime) {
+                    ksCtrlTime.textContent = `${formatTimecode(relTime)} / ${formatTimecode(clipDuration)}`;
+                }
+
+                // Update custom scrubber bar
+                if (ksCtrlScrubberFill) {
+                    ksCtrlScrubberFill.style.width = `${progressInClip * 100}%`;
+                }
                 
                 // Update Playhead on Compiled Reel Track
                 if (ksOverviewPlayhead) {
-                    const progressInClip = Math.max(0, Math.min(1, (curTime - clip.start_sec) / clipDuration));
                     const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
                     const widthPct = (clipDuration / studioTotalDuration) * 100;
                     ksOverviewPlayhead.style.left = `${startPct + (progressInClip * widthPct)}%`;
@@ -852,6 +924,7 @@
                 if (curTime >= clip.end_sec) {
                     kairoStudioVideo.currentTime = clip.start_sec;
                     kairoStudioVideo.pause();
+                    updatePlayPauseIcons();
                 }
             }
         });
