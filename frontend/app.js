@@ -170,9 +170,10 @@
             const storedClips = window.latestFilteredClips || JSON.parse(sessionStorage.getItem("latest_filtered_clips") || "[]");
             const storedVid = window.latestSourceVideoName || sessionStorage.getItem("latest_source_video_name") || "";
             const storedUrl = window.latestSourceVideoUrl || sessionStorage.getItem("latest_source_video_url") || "";
+            const storedHighlight = window.latestHighlightUrl || sessionStorage.getItem("latest_highlight_url") || "";
 
             if (storedClips && storedClips.length > 0) {
-                initStudioData(storedClips, storedVid, storedUrl);
+                initStudioData(storedClips, storedVid, storedUrl, storedHighlight);
             }
         });
     }
@@ -707,14 +708,16 @@
                                 window.latestFilteredClips = statusData.clips_preview;
                                 window.latestSourceVideoName = statusData.video_filename;
                                 window.latestSourceVideoUrl = statusData.source_video_url;
+                                window.latestHighlightUrl = statusData.highlight_url || apiUrl(`/api/download/${statusData.output_file}`);
 
                                 try {
                                     sessionStorage.setItem("latest_filtered_clips", JSON.stringify(statusData.clips_preview));
                                     sessionStorage.setItem("latest_source_video_name", statusData.video_filename || "");
                                     sessionStorage.setItem("latest_source_video_url", statusData.source_video_url || "");
+                                    sessionStorage.setItem("latest_highlight_url", window.latestHighlightUrl || "");
                                 } catch (e) {}
 
-                                initStudioData(statusData.clips_preview, statusData.video_filename, statusData.source_video_url);
+                                initStudioData(statusData.clips_preview, statusData.video_filename, statusData.source_video_url, window.latestHighlightUrl);
                             }
 
                             toast("🎉 Highlights generated successfully!", "success");
@@ -777,71 +780,93 @@
     let originalStudioClips = [];
     let currentSourceVideoName = "";
     let currentSourceVideoUrl = "";
-    let matchTotalDuration = 99 * 60 + 4; // default ~99m 4s
+    let originalStudioClips = [];
+    let currentSourceVideoName = "";
+    let currentSourceVideoUrl = "";
+    let currentHighlightUrl = "";
+    let studioTotalDuration = 35.0; // Total duration of all cut clips combined in reel
 
     function formatTimecode(sec) {
         const m = Math.floor(sec / 60);
         const s = Math.floor(sec % 60);
+        const ms = Math.floor((sec % 1) * 10);
         return `${m}:${s < 10 ? '0' : ''}${s}`;
     }
 
-    function initStudioData(clips, videoFilename, videoSrcUrl) {
+    function computeReelDurations() {
+        if (!studioClips || studioClips.length === 0) {
+            studioTotalDuration = 35.0;
+            return;
+        }
+        let running = 0.0;
+        studioClips.forEach(c => {
+            const dur = Math.max(0.1, (c.end_sec || 0) - (c.start_sec || 0));
+            c.reel_start = running;
+            c.reel_end = running + dur;
+            c.duration = dur;
+            running += dur;
+        });
+        studioTotalDuration = Math.max(1.0, running);
+    }
+
+    function initStudioData(clips, videoFilename, videoSrcUrl, highlightUrl) {
         if (!clips || clips.length === 0) return;
         
         currentSourceVideoName = videoFilename || uploadedNames.video || uploadedNames.video_1h || "";
         currentSourceVideoUrl = videoSrcUrl ? apiUrl(videoSrcUrl) : (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : "");
+        currentHighlightUrl = highlightUrl ? (highlightUrl.startsWith("http") ? highlightUrl : apiUrl(highlightUrl)) : "";
         studioClips = JSON.parse(JSON.stringify(clips));
         originalStudioClips = JSON.parse(JSON.stringify(clips));
         activeClipIndex = 0;
+
+        computeReelDurations();
 
         // Set match subtitle
         if (ksMatchSubtitle && currentMatchTeams.length >= 2) {
             ksMatchSubtitle.textContent = `${currentMatchTeams[0]} vs ${currentMatchTeams[1]}`;
         }
 
-        // Determine the initial video source from the first clip's metadata if available
-        const firstClip = studioClips[0];
-        const initialVideoUrl = (firstClip && firstClip.source_video_url) ? 
-            apiUrl(firstClip.source_video_url) : 
-            (currentSourceVideoUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : ""));
-
-        // Load correct source video into Clip Studio player
-        if (kairoStudioVideo && initialVideoUrl) {
-            if (!kairoStudioVideo.src.endsWith(initialVideoUrl)) {
-                kairoStudioVideo.src = initialVideoUrl;
-                kairoStudioVideo.load();
-            }
-        }
-
         renderStudioClipsList();
         selectStudioClip(0);
     }
 
-    // Video duration detection
+    // Video playback synchronization inside active clip bounds
     if (kairoStudioVideo) {
         kairoStudioVideo.addEventListener("loadedmetadata", () => {
-            if (kairoStudioVideo.duration && !isNaN(kairoStudioVideo.duration) && kairoStudioVideo.duration > 10) {
-                matchTotalDuration = kairoStudioVideo.duration;
-            }
             renderStudioClipsList();
         });
 
-        // Loop / pause synchronization: keep playback inside active clip bounds
         kairoStudioVideo.addEventListener("timeupdate", () => {
             const curTime = kairoStudioVideo.currentTime;
             
-            // Update playhead on overview track
-            if (ksOverviewPlayhead) {
-                const pct = Math.max(0, Math.min(100, (curTime / matchTotalDuration) * 100));
-                ksOverviewPlayhead.style.left = `${pct}%`;
-            }
-
-            // Enforce active clip boundary
             if (studioClips && studioClips[activeClipIndex]) {
                 const clip = studioClips[activeClipIndex];
-                if (curTime >= clip.end_sec) {
-                    kairoStudioVideo.currentTime = clip.start_sec;
-                    kairoStudioVideo.pause();
+                const isSingleClipMode = Boolean(clip.clip_url);
+                
+                if (isSingleClipMode) {
+                    // Playing individual extracted clip file
+                    const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
+                    if (ksOverviewPlayhead) {
+                        const localPct = Math.max(0, Math.min(100, (curTime / (kairoStudioVideo.duration || clipDuration)) * 100));
+                        const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
+                        const widthPct = (clipDuration / studioTotalDuration) * 100;
+                        ksOverviewPlayhead.style.left = `${startPct + (localPct * widthPct / 100)}%`;
+                    }
+                } else {
+                    // Playing source match video segmented by clip bounds
+                    if (ksOverviewPlayhead) {
+                        const clipDuration = Math.max(0.1, clip.end_sec - clip.start_sec);
+                        const progressInClip = Math.max(0, Math.min(1, (curTime - clip.start_sec) / clipDuration));
+                        const startPct = ((clip.reel_start || 0) / studioTotalDuration) * 100;
+                        const widthPct = (clipDuration / studioTotalDuration) * 100;
+                        ksOverviewPlayhead.style.left = `${startPct + (progressInClip * widthPct)}%`;
+                    }
+
+                    // Loop active clip bounds
+                    if (curTime >= clip.end_sec) {
+                        kairoStudioVideo.currentTime = clip.start_sec;
+                        kairoStudioVideo.pause();
+                    }
                 }
             }
         });
@@ -851,19 +876,20 @@
 
     function renderStudioClipsList() {
         if (!studioClips || studioClips.length === 0) return;
+        computeReelDurations();
 
         if (ksTimelineSummary) {
-            ksTimelineSummary.textContent = `${studioClips.length} clips · match ${formatTimecode(matchTotalDuration)}`;
+            ksTimelineSummary.textContent = `${studioClips.length} clips · reel ${formatTimecode(studioTotalDuration)}`;
         }
 
         if (ksClipsCount) {
             ksClipsCount.textContent = studioClips.length;
         }
 
-        // Dynamically update the Timecode Ruler across match total duration
+        // Dynamically update the Timecode Ruler across total reel duration
         const ksRuler = document.getElementById("ks-ruler");
-        if (ksRuler && matchTotalDuration > 0) {
-            const step = matchTotalDuration / 7;
+        if (ksRuler && studioTotalDuration > 0) {
+            const step = studioTotalDuration / 7;
             ksRuler.innerHTML = `
                 <span>0:00</span>
                 <span>${formatTimecode(step * 1)}</span>
@@ -872,22 +898,24 @@
                 <span>${formatTimecode(step * 4)}</span>
                 <span>${formatTimecode(step * 5)}</span>
                 <span>${formatTimecode(step * 6)}</span>
-                <span>${formatTimecode(matchTotalDuration)}</span>
+                <span>${formatTimecode(studioTotalDuration)}</span>
             `;
         }
 
-        // Render overview track markers
+        // Render overview sequence track with proportional clip blocks
         if (ksOverviewTrack) {
             ksOverviewTrack.querySelectorAll(".ks-overview-block").forEach(b => b.remove());
 
             studioClips.forEach((c, idx) => {
                 const block = document.createElement("div");
                 block.className = `ks-overview-block ${idx === activeClipIndex ? 'ks-overview-block--active' : ''}`;
-                const startPct = Math.max(0, Math.min(100, (c.start_sec / matchTotalDuration) * 100));
-                const durPct = Math.max(0.4, ((c.end_sec - c.start_sec) / matchTotalDuration) * 100);
+                const dur = Math.max(0.1, (c.end_sec || 0) - (c.start_sec || 0));
+                const startPct = Math.max(0, Math.min(100, ((c.reel_start || 0) / studioTotalDuration) * 100));
+                const durPct = Math.max(1.5, (dur / studioTotalDuration) * 100);
+                
                 block.style.left = `${startPct}%`;
                 block.style.width = `${durPct}%`;
-                block.title = `Clip ${idx + 1}: ${c.event || 'Action'} (${formatTimecode(c.start_sec)} - ${formatTimecode(c.end_sec)})`;
+                block.title = `Clip ${idx + 1}: ${c.event || 'Action'} (${dur.toFixed(1)}s)`;
                 block.addEventListener("click", (e) => {
                     e.stopPropagation();
                     selectStudioClip(idx);
@@ -946,6 +974,7 @@
                         const moved = studioClips.splice(draggedClipIdx, 1)[0];
                         studioClips.splice(idx, 0, moved);
                         activeClipIndex = idx;
+                        computeReelDurations();
                         renderStudioClipsList();
                         selectStudioClip(idx);
                         toast(`Moved Clip #${draggedClipIdx + 1} to position #${idx + 1}`, "info");
@@ -987,21 +1016,30 @@
         updateActiveClipUI();
         updateTrimmerTrackUI();
 
-        // Seek video player to clip start timestamp with dynamic source video swapping
+        // Load and play the specific cut clip or source segment
         const clip = studioClips[activeClipIndex];
         if (kairoStudioVideo && clip) {
-            const clipVideoUrl = clip.source_video_url ? apiUrl(clip.source_video_url) : 
-                (clip.source_video ? apiUrl(`/api/videos/${clip.source_video}`) : currentSourceVideoUrl);
+            // Prioritize individual cut clip file URL if available
+            let targetVideoUrl = "";
+            if (clip.clip_url) {
+                targetVideoUrl = apiUrl(clip.clip_url);
+            } else if (clip.source_video_url) {
+                targetVideoUrl = apiUrl(clip.source_video_url);
+            } else if (currentSourceVideoUrl) {
+                targetVideoUrl = currentSourceVideoUrl;
+            }
 
-            if (clipVideoUrl && !kairoStudioVideo.src.endsWith(clipVideoUrl)) {
-                kairoStudioVideo.src = clipVideoUrl;
+            if (targetVideoUrl && !kairoStudioVideo.src.endsWith(targetVideoUrl)) {
+                kairoStudioVideo.src = targetVideoUrl;
                 kairoStudioVideo.load();
                 kairoStudioVideo.onloadedmetadata = function() {
-                    kairoStudioVideo.currentTime = clip.start_sec || 0;
+                    const seekPos = clip.clip_url ? 0 : (clip.start_sec || 0);
+                    kairoStudioVideo.currentTime = seekPos;
                     kairoStudioVideo.play().catch(() => {});
                 };
             } else {
-                kairoStudioVideo.currentTime = clip.start_sec || 0;
+                const seekPos = clip.clip_url ? 0 : (clip.start_sec || 0);
+                kairoStudioVideo.currentTime = seekPos;
                 kairoStudioVideo.play().catch(() => {});
             }
         }
@@ -1038,16 +1076,16 @@
         const clip = studioClips[activeClipIndex];
         if (!clip) return;
 
-        // Dynamic Trimming Window with fixed context
-        const padding = 30; // 30s context on each side
+        // Dynamic Trimming Window with context around clip bounds
+        const padding = 15.0; // 15s context window
         const zoomStart = Math.max(0, clip.start_sec - padding);
-        const zoomEnd = Math.min(matchTotalDuration, clip.end_sec + padding);
-        const zoomWindowDur = Math.max(10.0, zoomEnd - zoomStart);
+        const zoomEnd = clip.end_sec + padding;
+        const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
 
-        // Update ruler or zoom hint if element exists
+        // Update ruler or zoom hint
         const zoomInfo = document.getElementById("ks-trimmer-zoom-info");
         if (zoomInfo) {
-            zoomInfo.textContent = `Window: ${formatTimecode(zoomStart)} – ${formatTimecode(zoomEnd)} · Drag handles to adjust clip`;
+            zoomInfo.textContent = `Clip Window: ${formatTimecode(clip.start_sec)} – ${formatTimecode(clip.end_sec)} (${(clip.end_sec - clip.start_sec).toFixed(1)}s) · Drag handles to adjust`;
         }
 
         // Map clip boundaries into the zoomed window
@@ -1068,10 +1106,10 @@
         const clientX = e.touches ? e.touches[0].clientX : e.clientX;
         
         const clip = studioClips[activeClipIndex];
-        const padding = 30;
+        const padding = 15.0;
         const zoomStart = Math.max(0, clip.start_sec - padding);
-        const zoomEnd = Math.min(matchTotalDuration, clip.end_sec + padding);
-        const zoomWindowDur = Math.max(10.0, zoomEnd - zoomStart);
+        const zoomEnd = clip.end_sec + padding;
+        const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
 
         // Exact timestamp in zoomed timeline window
         const clickRatio = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
@@ -1084,21 +1122,22 @@
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
             clip.start_sec = clampedSec;
-            if (kairoStudioVideo) {
+            if (kairoStudioVideo && !clip.clip_url) {
                 kairoStudioVideo.currentTime = clampedSec;
             }
         } else if (isDraggingHandle === "right") {
             // Drag Right handle backward or forward with 0.1s precision
             const minAllowed = clip.start_sec + 0.5;
-            const maxAllowed = Math.min(matchTotalDuration, zoomEnd);
+            const maxAllowed = zoomEnd;
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
             clip.end_sec = clampedSec;
-            if (kairoStudioVideo) {
+            if (kairoStudioVideo && !clip.clip_url) {
                 kairoStudioVideo.currentTime = clampedSec;
             }
         }
 
+        computeReelDurations();
         updateActiveClipUI();
         updateTrimmerTrackUI();
     }
@@ -1154,23 +1193,21 @@
 
     function seekStudioVideo(offsetSec) {
         if (!kairoStudioVideo) return;
-        const maxTime = kairoStudioVideo.duration || matchTotalDuration;
+        const maxTime = kairoStudioVideo.duration || studioTotalDuration;
         const targetTime = Math.max(0, Math.min(maxTime, kairoStudioVideo.currentTime + offsetSec));
         kairoStudioVideo.currentTime = targetTime;
         
-        if (ksOverviewPlayhead) {
-            const pct = Math.max(0, Math.min(100, (targetTime / matchTotalDuration) * 100));
-            ksOverviewPlayhead.style.left = `${pct}%`;
-        }
-
-        // If seeking beyond current clip bounds, dynamically adjust the active clip boundary
+        // If seeking beyond current clip bounds in match mode, dynamically adjust the active clip boundary
         if (studioClips && studioClips[activeClipIndex]) {
             const clip = studioClips[activeClipIndex];
-            if (targetTime < clip.start_sec) {
-                clip.start_sec = Math.round(targetTime * 10) / 10;
-            } else if (targetTime > clip.end_sec) {
-                clip.end_sec = Math.round(targetTime * 10) / 10;
+            if (!clip.clip_url) {
+                if (targetTime < clip.start_sec) {
+                    clip.start_sec = Math.round(targetTime * 10) / 10;
+                } else if (targetTime > clip.end_sec) {
+                    clip.end_sec = Math.round(targetTime * 10) / 10;
+                }
             }
+            computeReelDurations();
             updateActiveClipUI();
             updateTrimmerTrackUI();
             renderStudioClipsList();
@@ -1401,17 +1438,18 @@
                                 JSON.parse(sessionStorage.getItem("latest_filtered_clips") || "[]");
             const vidName = window.latestSourceVideoName || currentSourceVideoName || sessionStorage.getItem("latest_source_video_name") || "";
             const vidUrl = window.latestSourceVideoUrl || currentSourceVideoUrl || sessionStorage.getItem("latest_source_video_url") || "";
+            const highlightUrl = window.latestHighlightUrl || sessionStorage.getItem("latest_highlight_url") || "";
 
             tabNavStudio.click();
             if (clipsToLoad && clipsToLoad.length > 0) {
-                initStudioData(clipsToLoad, vidName, vidUrl);
+                initStudioData(clipsToLoad, vidName, vidUrl, highlightUrl);
             }
         });
     }
 
     // In generator pipeline completion, pass raw clips and source video
-    window.setStudioInitialState = function(clips, videoFilename, sourceUrl) {
-        initStudioData(clips, videoFilename, sourceUrl);
+    window.setStudioInitialState = function(clips, videoFilename, sourceUrl, highlightUrl) {
+        initStudioData(clips, videoFilename, sourceUrl, highlightUrl);
     };
 
 })();

@@ -810,9 +810,11 @@ async def _run_pipeline(
             await asyncio.to_thread(merge_clips, clip_paths, output_path, music_path, mute_original)
 
             formatted_clips_preview = []
+            running_offset = 0.0
             for i, c in enumerate(clips):
                 c_start = float(c.get("clip_start", 0.0))
                 c_end = float(c.get("clip_end", 0.0))
+                c_dur = round(max(0.1, c_end - c_start), 2)
                 c_events = c.get("events", [])
                 primary_event = c_events[0].get("event", "Action") if c_events else c.get("event_summary", "Action")
                 summary_text = c.get("event_summary", primary_event)
@@ -827,20 +829,30 @@ async def _run_pipeline(
                 else:
                     src_file_name = video_path.name
 
+                clip_file_name = f"clip_{i+1:04d}.mp4"
+                clip_rel_url = f"/api/clips/{session_id}/{clip_file_name}"
+
                 formatted_clips_preview.append({
                     "id": f"clip_{i+1}_{int(c_start)}",
                     "index": i,
+                    "clip_index": i + 1,
                     "start_sec": round(c_start, 2),
                     "end_sec": round(c_end, 2),
-                    "duration": round(c_end - c_start, 2),
+                    "duration": c_dur,
+                    "reel_start": round(running_offset, 2),
+                    "reel_end": round(running_offset + c_dur, 2),
                     "event": primary_event,
                     "tags": event_tags,
                     "summary": summary_text,
                     "player": player,
+                    "clip_file": clip_file_name,
+                    "clip_url": clip_rel_url,
+                    "highlight_url": f"/api/download/{output_filename}",
                     "source_video": src_file_name,
                     "source_video_url": f"/api/videos/{src_file_name}",
                     "period": c.get("period", "FirstHalf")
                 })
+                running_offset += c_dur
 
             job_status.update(
                 state="done",
@@ -849,6 +861,7 @@ async def _run_pipeline(
                 output_file=output_filename,
                 actual_path=str(output_path.resolve()),
                 clips_preview=formatted_clips_preview,
+                highlight_url=f"/api/download/{output_filename}",
                 video_filename=video_path.name,
                 source_video_url=f"/api/videos/{video_path.name}"
             )
@@ -887,6 +900,21 @@ async def download_file(filename: str):
     if not path.exists():
         raise HTTPException(404, "File not found")
     return FileResponse(path, media_type="video/mp4", filename=filename)
+
+
+@app.get("/api/clips/{session_id}/{filename}")
+async def get_session_clip(session_id: str, filename: str):
+    """Stream an individual extracted clip directly from session storage."""
+    clip_path = CLIPS_DIR / session_id / filename
+    if not clip_path.exists():
+        # Check fallback in CLIPS_DIR root or OUTPUT_DIR
+        if (CLIPS_DIR / filename).exists():
+            clip_path = CLIPS_DIR / filename
+        elif (OUTPUT_DIR / filename).exists():
+            clip_path = OUTPUT_DIR / filename
+        else:
+            raise HTTPException(404, f"Clip not found: {filename}")
+    return FileResponse(clip_path, media_type="video/mp4", filename=filename)
 
 
 @app.get("/api/videos/{filename}")
