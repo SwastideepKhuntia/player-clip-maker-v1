@@ -1081,64 +1081,101 @@ def scrape_scoresway_match(url_or_id, output_csv_path=None):
     match_json = None
     last_exc = None
 
-    try:
-        driver = get_headless_driver()
-        driver.get(page_url)
-        time.sleep(5)
+    # FAST PATH: Attempt direct HTTP request via performfeeds API in 1 second without Chrome overhead
+    import urllib.request
+    known_outlets = ["ft1tiv1inq7v1sk3y9tv12yh5", "eu31t8r5v2061l984dsqh14sp", "1g0r82ulfowm1lgja27r2x4pml"]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "application/json",
+        "Referer": "https://www.scoresway.com/"
+    }
 
-        outlet_keys = ["ft1tiv1inq7v1sk3y9tv12yh5"]
-        html = driver.page_source
-        discovered_outlets = re.findall(r'sdapi_outlet_key:\s*["\']([^"\']+)["\']', html)
-        if discovered_outlets:
-            for ok in discovered_outlets:
-                if ok not in outlet_keys:
-                    outlet_keys.insert(0, ok)
-
-        for ok in outlet_keys:
-            # 1. Fetch matchevent
-            fetch_matchevent_script = f"""
-                var callback = arguments[arguments.length - 1];
-                var url = "https://api.performfeeds.com/soccerdata/matchevent/{ok}/{match_id}?_rt=c&_lcl=en-gb&_fmt=json";
-                fetch(url, {{ headers: {{ "Accept": "application/json" }} }})
-                .then(r => r.json())
-                .then(data => callback({{ success: true, data: data }}))
-                .catch(err => callback({{ success: false, error: err.toString() }}));
-            """
-            try:
-                result = driver.execute_async_script(fetch_matchevent_script)
-                if result and result.get("success") and result.get("data"):
-                    event_json = result["data"]
-                    logger.info(f"Got matchevent data with outlet_key={ok}")
-            except Exception as e:
-                last_exc = e
-
-            # 2. Fetch match metadata (lineups & players)
-            fetch_match_script = f"""
-                var callback = arguments[arguments.length - 1];
-                var url = "https://api.performfeeds.com/soccerdata/match/{ok}/{match_id}?_rt=c&live=yes&_lcl=en-gb&_fmt=json";
-                fetch(url, {{ headers: {{ "Accept": "application/json" }} }})
-                .then(r => r.json())
-                .then(data => callback({{ success: true, data: data }}))
-                .catch(err => callback({{ success: false, error: err.toString() }}));
-            """
-            try:
-                match_result = driver.execute_async_script(fetch_match_script)
-                if match_result and match_result.get("success") and match_result.get("data"):
-                    match_json = match_result["data"]
-                    logger.info(f"Got match metadata with outlet_key={ok}")
-            except Exception:
-                pass
+    for ok in known_outlets:
+        try:
+            req_event = urllib.request.Request(
+                f"https://api.performfeeds.com/soccerdata/matchevent/{ok}/{match_id}?_rt=c&_lcl=en-gb&_fmt=json",
+                headers=headers
+            )
+            with urllib.request.urlopen(req_event, timeout=6) as resp:
+                if resp.status == 200:
+                    data = json.loads(resp.read().decode("utf-8"))
+                    if data and (data.get("match") or data.get("liveData")):
+                        event_json = data
+                        logger.info(f"⚡ Fast-path direct API success for matchevent with outlet_key={ok}")
 
             if event_json:
+                req_match = urllib.request.Request(
+                    f"https://api.performfeeds.com/soccerdata/match/{ok}/{match_id}?_rt=c&live=yes&_lcl=en-gb&_fmt=json",
+                    headers=headers
+                )
+                with urllib.request.urlopen(req_match, timeout=6) as resp:
+                    if resp.status == 200:
+                        match_json = json.loads(resp.read().decode("utf-8"))
+                        logger.info(f"⚡ Fast-path direct API success for match metadata with outlet_key={ok}")
                 break
-    except Exception as exc:
-        last_exc = exc
-    finally:
-        if driver:
-            try:
-                driver.quit()
-            except Exception:
-                pass
+        except Exception as fast_e:
+            logger.debug(f"Fast path outlet {ok} skipped: {fast_e}")
+
+    # SLOW PATH: If direct HTTP failed, fallback to Selenium headless Chrome
+    if not event_json:
+        try:
+            driver = get_headless_driver()
+            driver.get(page_url)
+            time.sleep(3)
+
+            outlet_keys = ["ft1tiv1inq7v1sk3y9tv12yh5", "eu31t8r5v2061l984dsqh14sp", "1g0r82ulfowm1lgja27r2x4pml"]
+            html = driver.page_source
+            discovered_outlets = re.findall(r'sdapi_outlet_key:\s*["\']([^"\']+)["\']', html)
+            if discovered_outlets:
+                for ok in discovered_outlets:
+                    if ok not in outlet_keys:
+                        outlet_keys.insert(0, ok)
+
+            for ok in outlet_keys:
+                # 1. Fetch matchevent
+                fetch_matchevent_script = f"""
+                    var callback = arguments[arguments.length - 1];
+                    var url = "https://api.performfeeds.com/soccerdata/matchevent/{ok}/{match_id}?_rt=c&_lcl=en-gb&_fmt=json";
+                    fetch(url, {{ headers: {{ "Accept": "application/json" }} }})
+                    .then(r => r.json())
+                    .then(data => callback({{ success: true, data: data }}))
+                    .catch(err => callback({{ success: false, error: err.toString() }}));
+                """
+                try:
+                    result = driver.execute_async_script(fetch_matchevent_script)
+                    if result and result.get("success") and result.get("data"):
+                        event_json = result["data"]
+                        logger.info(f"Got matchevent data with outlet_key={ok}")
+                except Exception as e:
+                    last_exc = e
+
+                # 2. Fetch match metadata (lineups & players)
+                fetch_match_script = f"""
+                    var callback = arguments[arguments.length - 1];
+                    var url = "https://api.performfeeds.com/soccerdata/match/{ok}/{match_id}?_rt=c&live=yes&_lcl=en-gb&_fmt=json";
+                    fetch(url, {{ headers: {{ "Accept": "application/json" }} }})
+                    .then(r => r.json())
+                    .then(data => callback({{ success: true, data: data }}))
+                    .catch(err => callback({{ success: false, error: err.toString() }}));
+                """
+                try:
+                    match_result = driver.execute_async_script(fetch_match_script)
+                    if match_result and match_result.get("success") and match_result.get("data"):
+                        match_json = match_result["data"]
+                        logger.info(f"Got match metadata with outlet_key={ok}")
+                except Exception:
+                    pass
+
+                if event_json:
+                    break
+        except Exception as exc:
+            last_exc = exc
+        finally:
+            if driver:
+                try:
+                    driver.quit()
+                except Exception:
+                    pass
 
     if event_json is None:
         raise RuntimeError(
