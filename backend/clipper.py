@@ -88,8 +88,8 @@ def extract_clips(
             "-vf", "fps=30,setpts=PTS-STARTPTS",  # Force constant 30fps and zero-based presentation timestamps
             "-af", "aresample=async=1000,asetpts=PTS-STARTPTS", # Lock audio timestamps strictly to zero
             "-c:v", "libx264",
-            "-preset", "veryfast",
-            "-crf", "22",
+            "-preset", "ultrafast",
+            "-crf", "23",
             "-pix_fmt", "yuv420p",
             "-g", "30",                      # Keyframe at least once every second
             "-c:a", "aac",

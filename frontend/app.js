@@ -13,6 +13,8 @@
         : "https://player-clip-maker-v1-1.onrender.com";
 
     function apiUrl(endpoint) {
+        if (!endpoint) return "";
+        if (endpoint.startsWith("http://") || endpoint.startsWith("https://")) return endpoint;
         if (!endpoint.startsWith("/")) endpoint = "/" + endpoint;
         return `${API_BASE}${endpoint}`;
     }
@@ -784,7 +786,7 @@
         if (!clips || clips.length === 0) return;
         
         currentSourceVideoName = videoFilename || uploadedNames.video || uploadedNames.video_1h || "";
-        currentSourceVideoUrl = videoSrcUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : "");
+        currentSourceVideoUrl = videoSrcUrl ? apiUrl(videoSrcUrl) : (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : "");
         studioClips = JSON.parse(JSON.stringify(clips));
         originalStudioClips = JSON.parse(JSON.stringify(clips));
         activeClipIndex = 0;
@@ -797,8 +799,8 @@
         // Determine the initial video source from the first clip's metadata if available
         const firstClip = studioClips[0];
         const initialVideoUrl = (firstClip && firstClip.source_video_url) ? 
-            firstClip.source_video_url : 
-            (videoSrcUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : ""));
+            apiUrl(firstClip.source_video_url) : 
+            (currentSourceVideoUrl || (currentSourceVideoName ? apiUrl(`/api/videos/${currentSourceVideoName}`) : ""));
 
         // Load correct source video into Clip Studio player
         if (kairoStudioVideo && initialVideoUrl) {
@@ -891,7 +893,7 @@
         // Seek video player to clip start timestamp with dynamic source video swapping
         const clip = studioClips[activeClipIndex];
         if (kairoStudioVideo && clip) {
-            const clipVideoUrl = clip.source_video_url || 
+            const clipVideoUrl = clip.source_video_url ? apiUrl(clip.source_video_url) : 
                 (clip.source_video ? apiUrl(`/api/videos/${clip.source_video}`) : currentSourceVideoUrl);
 
             if (clipVideoUrl && !kairoStudioVideo.src.endsWith(clipVideoUrl)) {
