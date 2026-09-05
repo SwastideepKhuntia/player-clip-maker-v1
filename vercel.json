@@ -1,14 +1,18 @@
 {
   "version": 2,
   "cleanUrls": true,
-  "rewrites": [
+  "routes": [
     {
-      "source": "/",
-      "destination": "/frontend/index.html"
+      "src": "/style.css",
+      "dest": "/frontend/style.css"
     },
     {
-      "source": "/(.*)",
-      "destination": "/frontend/$1"
+      "src": "/app.js",
+      "dest": "/frontend/app.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/index.html"
     }
   ]
 }
