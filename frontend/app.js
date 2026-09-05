@@ -1122,6 +1122,49 @@
         });
     }
 
+    if (ksDownloadClipBtn) {
+        ksDownloadClipBtn.addEventListener("click", async () => {
+            if (!studioClips || !studioClips[activeClipIndex]) return;
+            const clip = studioClips[activeClipIndex];
+            const videoFile = currentSourceVideoName || uploadedNames.video || uploadedNames.video_1h || "";
+            if (!videoFile) {
+                toast("Source video not found.", "error");
+                return;
+            }
+
+            ksDownloadClipBtn.disabled = true;
+            ksDownloadClipBtn.textContent = "Extracting...";
+            toast(`Extracting Clip ${activeClipIndex + 1} (${formatTimecode(clip.start_sec)} – ${formatTimecode(clip.end_sec)})...`, "info");
+
+            const form = new FormData();
+            form.append("video_filename", videoFile);
+            form.append("start_time", formatTimecode(clip.start_sec));
+            form.append("end_time", formatTimecode(clip.end_sec));
+            form.append("clip_name", `clip_${activeClipIndex + 1}_${clip.event || 'action'}`);
+
+            try {
+                const res = await fetch(apiUrl("/api/cut_clip"), { method: "POST", body: form });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail || "Clip extraction failed");
+
+                const dlUrl = apiUrl(`/api/download/${data.output_file}`);
+                const a = document.createElement("a");
+                a.href = dlUrl;
+                a.download = data.output_file;
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                toast(`✓ Clip ${activeClipIndex + 1} downloaded!`, "success");
+            } catch (err) {
+                console.error("Download clip error:", err);
+                toast(err.message, "error");
+            } finally {
+                ksDownloadClipBtn.disabled = false;
+                ksDownloadClipBtn.textContent = "Download clip";
+            }
+        });
+    }
+
     if (ksResetAllBtn) {
         ksResetAllBtn.addEventListener("click", () => {
             studioClips = JSON.parse(JSON.stringify(originalStudioClips));
