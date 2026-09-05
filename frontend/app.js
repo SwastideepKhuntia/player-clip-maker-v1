@@ -860,6 +860,22 @@
             ksClipsCount.textContent = studioClips.length;
         }
 
+        // Dynamically update the Timecode Ruler across match total duration
+        const ksRuler = document.getElementById("ks-ruler");
+        if (ksRuler && matchTotalDuration > 0) {
+            const step = matchTotalDuration / 7;
+            ksRuler.innerHTML = `
+                <span>0:00</span>
+                <span>${formatTimecode(step * 1)}</span>
+                <span>${formatTimecode(step * 2)}</span>
+                <span>${formatTimecode(step * 3)}</span>
+                <span>${formatTimecode(step * 4)}</span>
+                <span>${formatTimecode(step * 5)}</span>
+                <span>${formatTimecode(step * 6)}</span>
+                <span>${formatTimecode(matchTotalDuration)}</span>
+            `;
+        }
+
         // Render overview track markers
         if (ksOverviewTrack) {
             ksOverviewTrack.querySelectorAll(".ks-overview-block").forEach(b => b.remove());
@@ -980,11 +996,10 @@
             if (clipVideoUrl && !kairoStudioVideo.src.endsWith(clipVideoUrl)) {
                 kairoStudioVideo.src = clipVideoUrl;
                 kairoStudioVideo.load();
-                kairoStudioVideo.addEventListener("loadedmetadata", function onMeta() {
-                    kairoStudioVideo.removeEventListener("loadedmetadata", onMeta);
+                kairoStudioVideo.onloadedmetadata = function() {
                     kairoStudioVideo.currentTime = clip.start_sec || 0;
                     kairoStudioVideo.play().catch(() => {});
-                });
+                };
             } else {
                 kairoStudioVideo.currentTime = clip.start_sec || 0;
                 kairoStudioVideo.play().catch(() => {});
@@ -1023,12 +1038,17 @@
         const clip = studioClips[activeClipIndex];
         if (!clip) return;
 
-        // Task 2: Zoomed Precision Trimming Window (e.g. +/- 20s context around the clip)
-        const clipDur = Math.max(1.0, clip.end_sec - clip.start_sec);
-        const padding = Math.max(15, clipDur * 1.2);
+        // Dynamic Trimming Window with fixed context
+        const padding = 30; // 30s context on each side
         const zoomStart = Math.max(0, clip.start_sec - padding);
         const zoomEnd = Math.min(matchTotalDuration, clip.end_sec + padding);
-        const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
+        const zoomWindowDur = Math.max(10.0, zoomEnd - zoomStart);
+
+        // Update ruler or zoom hint if element exists
+        const zoomInfo = document.getElementById("ks-trimmer-zoom-info");
+        if (zoomInfo) {
+            zoomInfo.textContent = `Window: ${formatTimecode(zoomStart)} – ${formatTimecode(zoomEnd)} · Drag handles to adjust clip`;
+        }
 
         // Map clip boundaries into the zoomed window
         const startPct = Math.max(0, Math.min(100, ((clip.start_sec - zoomStart) / zoomWindowDur) * 100));
@@ -1048,11 +1068,10 @@
         const clientX = e.touches ? e.touches[0].clientX : e.clientX;
         
         const clip = studioClips[activeClipIndex];
-        const clipDur = Math.max(1.0, clip.end_sec - clip.start_sec);
-        const padding = Math.max(15, clipDur * 1.2);
+        const padding = 30;
         const zoomStart = Math.max(0, clip.start_sec - padding);
         const zoomEnd = Math.min(matchTotalDuration, clip.end_sec + padding);
-        const zoomWindowDur = Math.max(5.0, zoomEnd - zoomStart);
+        const zoomWindowDur = Math.max(10.0, zoomEnd - zoomStart);
 
         // Exact timestamp in zoomed timeline window
         const clickRatio = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
@@ -1060,7 +1079,7 @@
 
         if (isDraggingHandle === "left") {
             // Drag Left handle backward or forward with 0.1s precision
-            const minAllowed = 0;
+            const minAllowed = Math.max(0, zoomStart);
             const maxAllowed = clip.end_sec - 0.5;
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
@@ -1071,7 +1090,7 @@
         } else if (isDraggingHandle === "right") {
             // Drag Right handle backward or forward with 0.1s precision
             const minAllowed = clip.start_sec + 0.5;
-            const maxAllowed = matchTotalDuration;
+            const maxAllowed = Math.min(matchTotalDuration, zoomEnd);
             const clampedSec = Math.round(Math.max(minAllowed, Math.min(maxAllowed, targetSec)) * 10) / 10;
             
             clip.end_sec = clampedSec;

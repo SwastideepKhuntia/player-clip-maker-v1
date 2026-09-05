@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=7.0.0">
+    <link rel="stylesheet" href="style.css?v=7.1.0">
 </head>
 <body>
 
@@ -593,7 +593,7 @@
                     </div>
 
                     <!-- Timecode Numbers Ruler -->
-                    <div class="ks-ruler">
+                    <div class="ks-ruler" id="ks-ruler">
                         <span>0:00</span>
                         <span>15:00</span>
                         <span>30:00</span>
@@ -605,12 +605,20 @@
                     </div>
 
                     <!-- Track 1: Match Overview Track with Clip Blocks -->
+                    <div class="ks-track-label-row">
+                        <span class="ks-track-name">Match Timeline Track</span>
+                        <span class="ks-track-info">All identified actions mapped across 90+ min</span>
+                    </div>
                     <div class="ks-overview-track" id="ks-overview-track">
                         <!-- Clip marker blocks will be generated here -->
                         <div class="ks-playhead" id="ks-overview-playhead"></div>
                     </div>
 
                     <!-- Track 2: Active Clip Trimmer Track with Drag Handles -->
+                    <div class="ks-track-label-row" style="margin-top: 0.5rem;">
+                        <span class="ks-track-name">Precision Zoom Trimmer Track</span>
+                        <span class="ks-track-info" id="ks-trimmer-zoom-info">Context window · Drag white handles to adjust</span>
+                    </div>
                     <div class="ks-trimmer-track" id="ks-trimmer-track">
                         <div class="ks-trim-selection" id="ks-trim-selection">
                             <div class="ks-trim-handle ks-trim-handle-left" id="ks-handle-left"></div>
@@ -640,6 +648,6 @@
 
     <!-- Toast Notifications -->
     <div id="toast-container" class="toast-container"></div>
-    <script src="app.js?v=7.0.0"></script>
+    <script src="app.js?v=7.1.0"></script>
 </body>
 </html>

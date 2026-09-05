@@ -954,6 +954,24 @@ body {
     padding: 0 4px;
 }
 
+.ks-track-label-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    padding: 0.1rem 0;
+}
+
+.ks-track-name {
+    color: #cbd5e1;
+    font-weight: 700;
+}
+
+.ks-track-info {
+    color: #8b95a5;
+    font-size: 0.72rem;
+}
+
 .ks-overview-track {
     position: relative;
     width: 100%;
