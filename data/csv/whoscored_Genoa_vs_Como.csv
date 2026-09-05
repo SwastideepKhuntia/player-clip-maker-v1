@@ -1,0 +1,1532 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,Genoa,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Tasos Douvikas,Como,0,0,Pass,Pass,FirstHalf,50.0,50.0,55.7,50.4,Successful
+Lucas da Cunha,Como,0,3,Pass,Pass,FirstHalf,53.7,46.5,63.9,6.9,Successful
+Assane Diao,Como,0,9,Unsuccessful Dribble,TakeOn,FirstHalf,68.8,4.2,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,0,9,Successful Tackle,Tackle,FirstHalf,31.1,95.8,0.0,0.0,Successful
+Yan Couto,Como,0,14,Long Pass,Pass,FirstHalf,58.0,0.0,38.2,10.9,Successful
+Jacobo Ramón,Como,0,17,Pass,Pass,FirstHalf,37.8,11.2,38.5,35.5,Successful
+Lucas da Cunha,Como,0,19,Pass,Pass,FirstHalf,38.5,36.6,53.0,41.7,Successful
+Nico Paz,Como,0,21,Pass,Pass,FirstHalf,52.8,41.4,36.3,41.4,Successful
+Lucas da Cunha,Como,0,22,Pass,Pass,FirstHalf,36.3,41.4,34.9,70.9,Successful
+Trevoh Chalobah,Como,0,27,Pass,Pass,FirstHalf,34.9,70.9,44.3,90.6,Successful
+Álex Valle,Como,0,30,Pass,Pass,FirstHalf,44.0,88.9,44.6,71.8,Successful
+Lucas da Cunha,Como,0,32,Pass,Pass,FirstHalf,43.9,67.9,47.2,60.5,Successful
+Nico Paz,Como,0,33,Pass,Pass,FirstHalf,49.1,58.5,42.4,90.1,Successful
+Álex Valle,Como,0,36,Pass,Pass,FirstHalf,42.0,91.4,46.2,91.8,Unsuccessful
+Stefano Sabelli,Genoa,0,37,Interception,Interception,FirstHalf,53.8,8.2,0.0,0.0,Successful
+Álex Valle,Como,0,41,Throw In,Pass,FirstHalf,44.0,100.0,26.8,87.4,Successful
+Trevoh Chalobah,Como,0,46,Pass,Pass,FirstHalf,26.8,87.4,26.0,65.8,Successful
+Máximo Perrone,Como,0,47,Pass,Pass,FirstHalf,25.8,66.0,7.2,43.5,Successful
+Jean Butez,Como,0,48,Pass,Pass,FirstHalf,7.2,43.5,14.8,16.9,Successful
+Jacobo Ramón,Como,0,51,Pass,Pass,FirstHalf,14.7,16.8,25.5,6.3,Successful
+Yan Couto,Como,0,53,Long Pass,Pass,FirstHalf,24.8,8.7,58.8,28.2,Successful
+Nico Paz,Como,0,59,Pass,Pass,FirstHalf,62.2,62.1,76.9,84.4,Successful
+Martin Baturina,Como,1,5,Key Pass,Pass,FirstHalf,78.9,72.3,93.1,34.2,Successful
+Tasos Douvikas,Como,1,9,Shot on Target,SavedShot,FirstHalf,89.9,34.4,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,1,10,Save,Save,FirstHalf,8.1,63.6,0.0,0.0,Successful
+Leo Østigård,Genoa,1,11,BallTouch,BallTouch,FirstHalf,7.1,60.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,1,13,KeeperPickup,KeeperPickup,FirstHalf,1.5,69.0,0.0,0.0,Successful
+Justin Bijlow,Genoa,1,32,Pass,Pass,FirstHalf,6.7,45.1,12.1,25.0,Successful
+Alessandro Marcandalli,Genoa,1,40,Long Pass,Pass,FirstHalf,25.4,19.2,64.7,10.3,Unsuccessful
+Trevoh Chalobah,Como,1,44,Clearance,Clearance,FirstHalf,34.0,88.9,40.9,100.0,Successful
+Stefano Sabelli,Genoa,1,56,Long Pass,Pass,FirstHalf,60.3,0.0,36.9,10.7,Successful
+Alessandro Marcandalli,Genoa,1,59,Pass,Pass,FirstHalf,35.6,12.2,30.4,40.0,Successful
+Leo Østigård,Genoa,2,1,Pass,Pass,FirstHalf,28.5,37.4,29.8,16.5,Successful
+Alessandro Marcandalli,Genoa,2,6,Pass,Pass,FirstHalf,43.3,10.3,45.4,4.1,Successful
+Stefano Sabelli,Genoa,2,9,Loss of Possession,Dispossessed,FirstHalf,53.9,5.5,0.0,0.0,Successful
+Martin Baturina,Como,2,9,Successful Tackle,Tackle,FirstHalf,46.1,94.5,0.0,0.0,Successful
+Álex Valle,Como,2,12,Ball Recovery,BallRecovery,FirstHalf,55.7,88.6,0.0,0.0,Successful
+Álex Valle,Como,2,14,Unsuccessful Dribble,TakeOn,FirstHalf,62.6,91.2,0.0,0.0,Unsuccessful
+Djibril Sow,Genoa,2,14,Successful Tackle,Tackle,FirstHalf,37.4,8.8,0.0,0.0,Successful
+Álex Valle,Como,2,23,Throw In,Pass,FirstHalf,59.8,100.0,42.9,90.0,Successful
+Máximo Perrone,Como,2,28,Pass,Pass,FirstHalf,38.8,51.9,32.9,45.0,Successful
+Jacobo Ramón,Como,2,30,Pass,Pass,FirstHalf,33.9,46.2,37.7,49.3,Successful
+Máximo Perrone,Como,2,33,Pass,Pass,FirstHalf,37.0,59.5,35.3,87.9,Successful
+Trevoh Chalobah,Como,2,35,Pass,Pass,FirstHalf,34.6,88.5,47.2,83.4,Successful
+Álex Valle,Como,2,37,Pass,Pass,FirstHalf,46.6,78.3,46.9,89.7,Successful
+Martin Baturina,Como,2,39,Pass,Pass,FirstHalf,48.9,88.0,45.0,75.4,Successful
+Máximo Perrone,Como,2,41,Pass,Pass,FirstHalf,46.2,66.2,47.7,60.9,Successful
+Nico Paz,Como,2,43,Pass,Pass,FirstHalf,47.9,56.0,60.3,63.0,Successful
+Lucas da Cunha,Como,2,45,Pass,Pass,FirstHalf,71.7,62.0,80.3,52.8,Unsuccessful
+Leo Østigård,Genoa,2,46,Clearance,Clearance,FirstHalf,15.9,42.7,24.2,36.4,Successful
+Morten Frendrup,Genoa,2,47,Pass,Pass,FirstHalf,24.2,36.4,4.1,40.9,Successful
+Justin Bijlow,Genoa,2,50,Ball Recovery,BallRecovery,FirstHalf,2.6,38.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,2,50,Pass,Pass,FirstHalf,1.9,29.5,6.7,15.9,Successful
+Alessandro Marcandalli,Genoa,2,52,Long Pass,Pass,FirstHalf,8.1,12.6,61.7,0.0,Unsuccessful
+Álex Valle,Como,3,6,Throw In,Pass,FirstHalf,46.2,100.0,33.5,86.4,Successful
+Trevoh Chalobah,Como,3,8,Pass,Pass,FirstHalf,30.4,85.9,39.3,75.9,Successful
+Máximo Perrone,Como,3,9,Pass,Pass,FirstHalf,39.3,75.9,43.2,86.8,Successful
+Álex Valle,Como,3,12,Pass,Pass,FirstHalf,41.4,81.1,48.0,62.8,Successful
+Nico Paz,Como,3,14,Pass,Pass,FirstHalf,47.7,65.1,63.2,58.8,Successful
+Tasos Douvikas,Como,3,16,Foul,Foul,FirstHalf,55.5,65.0,0.0,0.0,Successful
+Leo Østigård,Genoa,3,16,Foul,Foul,FirstHalf,44.5,35.0,0.0,0.0,Unsuccessful
+Máximo Perrone,Como,3,39,Pass,Pass,FirstHalf,54.0,57.5,45.2,33.3,Successful
+Jacobo Ramón,Como,3,41,Pass,Pass,FirstHalf,44.9,38.8,46.6,15.6,Successful
+Yan Couto,Como,3,44,Pass,Pass,FirstHalf,45.1,13.2,57.8,5.4,Successful
+Assane Diao,Como,3,45,BallTouch,BallTouch,FirstHalf,57.8,5.4,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,3,46,Clearance,Clearance,FirstHalf,36.3,97.1,38.0,100.0,Successful
+Yan Couto,Como,3,57,Throw In,Pass,FirstHalf,55.7,0.0,41.7,8.4,Successful
+Jacobo Ramón,Como,3,59,Pass,Pass,FirstHalf,42.6,8.4,40.4,31.3,Successful
+Máximo Perrone,Como,4,2,Pass,Pass,FirstHalf,38.4,37.5,40.3,70.2,Successful
+Trevoh Chalobah,Como,4,4,Pass,Pass,FirstHalf,39.0,66.4,46.9,87.4,Successful
+Lucas da Cunha,Como,4,7,Pass,Pass,FirstHalf,46.2,87.3,49.2,57.9,Successful
+Máximo Perrone,Como,4,9,Pass,Pass,FirstHalf,48.9,68.1,46.3,87.3,Successful
+Lucas da Cunha,Como,4,13,Pass,Pass,FirstHalf,45.5,78.3,34.0,68.2,Successful
+Trevoh Chalobah,Como,4,16,Long Pass,Pass,FirstHalf,37.6,65.5,42.3,13.3,Successful
+Yan Couto,Como,4,20,Pass,Pass,FirstHalf,44.0,9.0,53.6,2.7,Successful
+Assane Diao,Como,4,22,Foul,Foul,FirstHalf,41.8,9.2,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,4,22,Foul,Foul,FirstHalf,58.2,90.7,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,4,40,Pass,Pass,FirstHalf,39.5,5.4,32.5,25.8,Successful
+Máximo Perrone,Como,4,41,Pass,Pass,FirstHalf,35.5,34.0,54.8,40.5,Successful
+Tasos Douvikas,Como,4,43,BallTouch,BallTouch,FirstHalf,55.6,40.9,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,4,45,Ball Recovery,BallRecovery,FirstHalf,41.8,60.6,0.0,0.0,Successful
+Morten Frendrup,Genoa,4,46,Pass,Pass,FirstHalf,41.8,60.6,33.3,42.1,Successful
+Alessandro Marcandalli,Genoa,4,47,Pass,Pass,FirstHalf,33.7,40.6,38.7,28.2,Successful
+Djibril Sow,Genoa,4,49,Pass,Pass,FirstHalf,36.1,35.7,38.3,58.1,Successful
+Morten Frendrup,Genoa,4,50,Pass,Pass,FirstHalf,38.3,57.9,30.4,30.0,Successful
+Alessandro Marcandalli,Genoa,4,53,Pass,Pass,FirstHalf,29.8,29.2,33.8,5.8,Successful
+Stefano Sabelli,Genoa,4,55,Pass,Pass,FirstHalf,34.0,6.5,20.0,16.8,Successful
+Alessandro Marcandalli,Genoa,4,58,Pass,Pass,FirstHalf,14.4,23.9,3.2,41.9,Successful
+Justin Bijlow,Genoa,5,0,Long Pass,Pass,FirstHalf,3.4,42.1,12.9,87.2,Successful
+Johan Vásquez,Genoa,5,4,Pass,Pass,FirstHalf,12.9,87.2,29.5,94.2,Successful
+Mikael Ellertsson,Genoa,5,7,Pass,Pass,FirstHalf,28.7,94.2,37.5,74.4,Successful
+Milutin Osmajic,Genoa,5,9,Pass,Pass,FirstHalf,42.6,70.9,34.3,77.1,Successful
+Djibril Sow,Genoa,5,10,Long Pass,Pass,FirstHalf,34.4,73.9,62.3,81.5,Successful
+Mikael Ellertsson,Genoa,5,15,Pass,Pass,FirstHalf,66.5,91.5,61.6,85.4,Successful
+Tommaso Baldanzi,Genoa,5,18,Pass,Pass,FirstHalf,79.8,83.2,90.4,89.9,Successful
+Mikael Ellertsson,Genoa,5,22,Cross,Pass,FirstHalf,87.8,90.8,88.9,61.7,Unsuccessful
+Máximo Perrone,Como,5,24,Clearance,Clearance,FirstHalf,8.2,42.1,13.6,17.4,Successful
+Assane Diao,Como,5,26,Clearance,Clearance,FirstHalf,14.5,23.8,41.4,22.3,Successful
+Leo Østigård,Genoa,5,28,Pass,Pass,FirstHalf,58.0,72.1,77.5,71.4,Unsuccessful
+Jacobo Ramón,Como,5,31,Pass,Pass,FirstHalf,22.8,30.6,33.3,41.2,Unsuccessful
+Morten Frendrup,Genoa,5,32,Pass,Pass,FirstHalf,69.9,66.9,76.9,64.3,Successful
+Milutin Osmajic,Genoa,5,33,Key Pass,Pass,FirstHalf,73.2,60.3,74.6,50.5,Successful
+Lorenzo Colombo,Genoa,5,34,Shot off Target,MissedShots,FirstHalf,72.8,51.3,0.0,0.0,Successful
+Trevoh Chalobah,Como,5,51,Pass,Pass,FirstHalf,4.1,60.6,3.4,48.0,Successful
+Jean Butez,Como,5,54,Long Pass,Pass,FirstHalf,3.4,48.0,47.7,87.3,Successful
+Tasos Douvikas,Como,5,58,Aerial Won,Aerial,FirstHalf,47.7,87.3,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,5,58,Aerial Lost,Aerial,FirstHalf,52.3,12.7,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,5,58,Pass,Pass,FirstHalf,47.7,87.3,46.3,84.6,Unsuccessful
+Alessandro Marcandalli,Genoa,5,59,BallTouch,BallTouch,FirstHalf,57.4,17.4,0.0,0.0,Successful
+Nico Paz,Como,5,59,BallTouch,BallTouch,FirstHalf,43.6,61.9,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,6,1,Pass,Pass,FirstHalf,62.1,63.4,63.7,63.4,Unsuccessful
+Nico Paz,Como,6,2,BallTouch,BallTouch,FirstHalf,30.6,39.3,0.0,0.0,Successful
+Yan Couto,Como,6,6,Pass,Pass,FirstHalf,47.5,20.5,62.9,6.1,Successful
+Assane Diao,Como,6,10,Unsuccessful Dribble,TakeOn,FirstHalf,73.2,6.4,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,6,10,Successful Tackle,Tackle,FirstHalf,26.8,93.6,0.0,0.0,Successful
+Yan Couto,Como,6,19,Throw In,Pass,FirstHalf,66.7,0.0,77.2,3.7,Successful
+Mikael Ellertsson,Genoa,6,20,Challenge,Challenge,FirstHalf,26.8,96.4,0.0,0.0,Unsuccessful
+Assane Diao,Como,6,20,Successful Dribble,TakeOn,FirstHalf,73.2,3.6,0.0,0.0,Successful
+Assane Diao,Como,6,26,Key Pass,Pass,FirstHalf,89.2,10.6,79.4,28.8,Successful
+Yan Couto,Como,6,28,Shot on Target,SavedShot,FirstHalf,80.9,31.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,6,28,Save,Save,FirstHalf,1.8,50.9,0.0,0.0,Successful
+Yan Couto,Como,6,30,CornerAwarded,CornerAwarded,FirstHalf,90.1,41.4,0.0,0.0,Successful
+Justin Bijlow,Genoa,6,30,CornerAwarded,CornerAwarded,FirstHalf,9.8,58.6,0.0,0.0,Unsuccessful
+Martin Baturina,Como,7,10,Pass,Pass,FirstHalf,99.5,99.5,97.3,75.1,Successful
+Tasos Douvikas,Como,7,11,Pass,Pass,FirstHalf,97.3,75.1,82.5,58.8,Successful
+Djibril Sow,Genoa,7,12,Foul,Foul,FirstHalf,11.8,41.7,0.0,0.0,Successful
+Assane Diao,Como,7,12,Foul,Foul,FirstHalf,88.2,58.3,0.0,0.0,Unsuccessful
+Justin Bijlow,Genoa,7,58,Long Pass,Pass,FirstHalf,19.1,29.4,71.5,29.7,Unsuccessful
+Lorenzo Colombo,Genoa,8,0,Offside,OffsideGiven,FirstHalf,54.6,66.4,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,8,1,Aerial Won,Aerial,FirstHalf,28.5,70.3,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,8,1,Aerial Lost,Aerial,FirstHalf,71.5,29.7,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,8,2,Pass,Pass,FirstHalf,28.5,70.3,43.9,79.3,Unsuccessful
+Alessandro Marcandalli,Genoa,8,5,Pass,Pass,FirstHalf,64.7,13.7,71.5,6.7,Successful
+Stefano Sabelli,Genoa,8,5,Pass,Pass,FirstHalf,71.6,6.7,77.0,19.1,Successful
+Lorenzo Colombo,Genoa,8,7,Pass,Pass,FirstHalf,76.2,13.5,73.2,17.2,Successful
+Djibril Sow,Genoa,8,8,Pass,Pass,FirstHalf,71.8,18.2,73.6,15.6,Unsuccessful
+Lucas da Cunha,Como,8,8,BlockedPass,BlockedPass,FirstHalf,26.4,84.4,0.0,0.0,Successful
+Djibril Sow,Genoa,8,10,Pass,Pass,FirstHalf,69.1,17.4,61.9,6.2,Successful
+Alessandro Marcandalli,Genoa,8,11,Pass,Pass,FirstHalf,61.9,6.2,74.3,5.9,Successful
+Stefano Sabelli,Genoa,8,15,Pass,Pass,FirstHalf,77.1,9.6,74.5,12.5,Successful
+Morten Frendrup,Genoa,8,16,Pass,Pass,FirstHalf,73.6,25.6,77.8,34.9,Unsuccessful
+Trevoh Chalobah,Como,8,18,Pass,Pass,FirstHalf,19.7,72.2,27.3,72.2,Successful
+Nico Paz,Como,8,19,Pass,Pass,FirstHalf,29.9,72.0,24.3,87.4,Successful
+Martin Baturina,Como,8,21,Ball Recovery,BallRecovery,FirstHalf,26.3,87.9,0.0,0.0,Successful
+Martin Baturina,Como,8,25,Unsuccessful Dribble,TakeOn,FirstHalf,38.6,92.8,0.0,0.0,Unsuccessful
+Alessandro Marcandalli,Genoa,8,25,Pass,Pass,FirstHalf,42.3,8.5,36.8,47.0,Successful
+Johan Vásquez,Genoa,8,28,Ball Recovery,BallRecovery,FirstHalf,36.9,47.2,0.0,0.0,Successful
+Johan Vásquez,Genoa,8,30,Pass,Pass,FirstHalf,44.8,58.4,45.5,49.1,Successful
+Tommaso Baldanzi,Genoa,8,31,Pass,Pass,FirstHalf,46.5,53.9,47.9,78.2,Successful
+Johan Vásquez,Genoa,8,35,Pass,Pass,FirstHalf,46.3,77.6,30.5,52.2,Successful
+Leo Østigård,Genoa,8,38,Pass,Pass,FirstHalf,30.4,51.6,11.9,64.3,Successful
+Justin Bijlow,Genoa,8,42,Pass,Pass,FirstHalf,12.5,66.7,20.3,89.3,Successful
+Johan Vásquez,Genoa,8,48,Offside,OffsidePass,FirstHalf,33.5,84.8,54.6,66.4,Successful
+Jacobo Ramón,Como,8,48,OffsideProvoked,OffsideProvoked,FirstHalf,47.2,26.8,0.0,0.0,Successful
+Jacobo Ramón,Como,9,20,Long Pass,Pass,FirstHalf,29.2,21.9,14.0,69.6,Successful
+Trevoh Chalobah,Como,9,21,Pass,Pass,FirstHalf,14.0,68.7,23.2,87.6,Successful
+Álex Valle,Como,9,22,Pass,Pass,FirstHalf,25.8,88.7,35.9,89.3,Successful
+Tasos Douvikas,Como,9,25,Pass,Pass,FirstHalf,39.3,87.3,27.7,83.8,Successful
+Martin Baturina,Como,9,26,Long Pass,Pass,FirstHalf,32.8,84.4,66.7,86.7,Successful
+Álex Valle,Como,9,31,Key Pass,Pass,FirstHalf,90.6,73.2,81.3,44.8,Successful
+Máximo Perrone,Como,9,34,Shot off Target,MissedShots,FirstHalf,81.3,44.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,10,2,Pass,Pass,FirstHalf,5.0,63.0,12.8,76.9,Successful
+Johan Vásquez,Genoa,10,5,Long Pass,Pass,FirstHalf,25.2,79.6,78.2,79.9,Unsuccessful
+Jean Butez,Como,10,10,KeeperSweeper,KeeperSweeper,FirstHalf,22.2,24.1,0.0,0.0,Successful
+Jean Butez,Como,10,10,Pass,Pass,FirstHalf,21.6,25.6,34.1,7.8,Successful
+Yan Couto,Como,10,12,Ball Recovery,BallRecovery,FirstHalf,34.1,7.8,0.0,0.0,Successful
+Yan Couto,Como,10,13,Pass,Pass,FirstHalf,34.8,8.1,49.2,6.0,Successful
+Assane Diao,Como,10,19,Loss of Possession,Dispossessed,FirstHalf,40.3,5.8,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,10,19,Was Dribbled,Tackle,FirstHalf,59.8,94.3,0.0,0.0,Unsuccessful
+Assane Diao,Como,10,21,BallTouch,BallTouch,FirstHalf,40.6,6.7,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,10,27,Throw In,Pass,FirstHalf,56.6,100.0,44.9,93.6,Successful
+Johan Vásquez,Genoa,10,29,Pass,Pass,FirstHalf,42.1,81.8,32.5,39.4,Successful
+Leo Østigård,Genoa,10,32,Pass,Pass,FirstHalf,34.2,30.9,27.7,14.6,Successful
+Alessandro Marcandalli,Genoa,10,35,Pass,Pass,FirstHalf,25.7,18.5,13.1,50.9,Successful
+Justin Bijlow,Genoa,10,39,Pass,Pass,FirstHalf,13.5,55.8,22.1,88.4,Successful
+Johan Vásquez,Genoa,10,42,Pass,Pass,FirstHalf,26.5,90.0,22.1,78.1,Successful
+Djibril Sow,Genoa,10,45,Pass,Pass,FirstHalf,20.0,78.4,8.8,49.9,Successful
+Justin Bijlow,Genoa,10,48,Pass,Pass,FirstHalf,9.6,47.2,23.7,44.5,Successful
+Djibril Sow,Genoa,10,51,Pass,Pass,FirstHalf,23.3,23.1,31.5,7.1,Successful
+Stefano Sabelli,Genoa,10,53,Pass,Pass,FirstHalf,31.8,6.2,44.9,0.0,Unsuccessful
+Álex Valle,Como,11,2,Throw In,Pass,FirstHalf,54.0,100.0,37.9,84.1,Successful
+Trevoh Chalobah,Como,11,4,Pass,Pass,FirstHalf,37.9,84.1,42.5,66.6,Successful
+Máximo Perrone,Como,11,6,Pass,Pass,FirstHalf,44.7,65.7,68.9,67.2,Successful
+Martin Baturina,Como,11,9,Pass,Pass,FirstHalf,68.6,75.1,57.2,90.0,Successful
+Lucas da Cunha,Como,11,11,Pass,Pass,FirstHalf,57.6,89.4,63.5,59.5,Successful
+Máximo Perrone,Como,11,13,Loss of Possession,Dispossessed,FirstHalf,68.2,59.7,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,11,13,Was Dribbled,Tackle,FirstHalf,31.8,40.3,0.0,0.0,Unsuccessful
+Máximo Perrone,Como,11,14,BallTouch,BallTouch,FirstHalf,66.4,54.6,0.0,0.0,Successful
+Nico Paz,Como,11,15,Unsuccessful Dribble,TakeOn,FirstHalf,67.6,58.9,0.0,0.0,Unsuccessful
+Lorenzo Colombo,Genoa,11,15,Was Dribbled,Tackle,FirstHalf,32.4,41.1,0.0,0.0,Unsuccessful
+Máximo Perrone,Como,11,16,BallTouch,BallTouch,FirstHalf,67.6,63.1,0.0,0.0,Successful
+Nico Paz,Como,11,17,BallTouch,BallTouch,FirstHalf,64.9,84.6,0.0,0.0,Unsuccessful
+Stefano Sabelli,Genoa,11,18,Pass,Pass,FirstHalf,26.9,29.1,5.9,47.3,Successful
+Justin Bijlow,Genoa,11,19,Ball Recovery,BallRecovery,FirstHalf,6.3,47.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,11,21,Pass,Pass,FirstHalf,6.3,47.5,13.9,77.3,Successful
+Johan Vásquez,Genoa,11,24,Pass,Pass,FirstHalf,22.6,83.2,36.2,92.9,Successful
+Mikael Ellertsson,Genoa,11,28,Pass,Pass,FirstHalf,34.9,91.7,57.9,87.2,Successful
+Milutin Osmajic,Genoa,11,33,Pass,Pass,FirstHalf,57.8,96.3,47.9,96.5,Successful
+Tommaso Baldanzi,Genoa,11,36,Long Pass,Pass,FirstHalf,55.6,91.5,100.0,21.9,Unsuccessful
+Trevoh Chalobah,Como,11,54,Pass,Pass,FirstHalf,2.9,58.9,3.1,47.5,Successful
+Jean Butez,Como,11,56,Pass,Pass,FirstHalf,3.1,47.5,7.4,72.7,Successful
+Trevoh Chalobah,Como,11,58,Pass,Pass,FirstHalf,7.4,72.7,14.0,91.8,Successful
+Álex Valle,Como,12,3,Pass,Pass,FirstHalf,25.2,67.6,8.1,36.4,Successful
+Jacobo Ramón,Como,12,7,Pass,Pass,FirstHalf,7.9,36.3,12.2,49.5,Successful
+Máximo Perrone,Como,12,9,Pass,Pass,FirstHalf,12.1,49.5,16.4,71.5,Successful
+Trevoh Chalobah,Como,12,11,Pass,Pass,FirstHalf,15.8,71.7,22.5,93.1,Successful
+Martin Baturina,Como,12,14,Pass,Pass,FirstHalf,22.7,88.5,22.8,55.9,Successful
+Máximo Perrone,Como,12,19,Pass,Pass,FirstHalf,27.6,39.1,35.3,26.7,Successful
+Nico Paz,Como,12,23,Pass,Pass,FirstHalf,46.5,23.5,66.5,6.0,Successful
+Tommaso Baldanzi,Genoa,12,26,Challenge,Challenge,FirstHalf,40.2,88.4,0.0,0.0,Unsuccessful
+Assane Diao,Como,12,26,Successful Dribble,TakeOn,FirstHalf,59.8,11.6,0.0,0.0,Successful
+Assane Diao,Como,12,29,Pass,Pass,FirstHalf,56.2,19.0,52.1,42.6,Successful
+Máximo Perrone,Como,12,30,Pass,Pass,FirstHalf,52.1,42.6,56.4,57.3,Successful
+Lucas da Cunha,Como,12,33,Pass,Pass,FirstHalf,57.0,56.4,60.7,64.5,Successful
+Álex Valle,Como,12,35,Pass,Pass,FirstHalf,61.8,64.3,45.3,62.5,Successful
+Trevoh Chalobah,Como,12,36,Pass,Pass,FirstHalf,45.3,62.5,51.7,48.7,Successful
+Máximo Perrone,Como,12,36,Pass,Pass,FirstHalf,51.7,48.7,62.5,47.1,Successful
+Lucas da Cunha,Como,12,37,Pass,Pass,FirstHalf,62.5,47.1,52.5,45.3,Successful
+Máximo Perrone,Como,12,39,Pass,Pass,FirstHalf,57.0,41.5,72.9,6.6,Successful
+Yan Couto,Como,12,44,Pass,Pass,FirstHalf,73.2,12.0,66.6,24.4,Successful
+Nico Paz,Como,12,45,Pass,Pass,FirstHalf,66.6,24.4,61.6,38.7,Successful
+Máximo Perrone,Como,12,47,Pass,Pass,FirstHalf,66.9,41.7,83.6,12.6,Successful
+Assane Diao,Como,12,50,Cross,Pass,FirstHalf,86.5,11.5,93.5,42.4,Unsuccessful
+Mikael Ellertsson,Genoa,12,52,Clearance,Clearance,FirstHalf,9.0,66.0,8.6,44.0,Successful
+Stefano Sabelli,Genoa,12,53,Clearance,Clearance,FirstHalf,8.1,43.1,20.3,45.8,Successful
+Lucas da Cunha,Como,12,55,Shot off Target,MissedShots,FirstHalf,86.7,54.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,13,21,Pass,Pass,FirstHalf,4.5,50.1,13.4,78.2,Successful
+Johan Vásquez,Genoa,13,23,Pass,Pass,FirstHalf,16.0,81.1,3.6,59.0,Successful
+Justin Bijlow,Genoa,13,26,Pass,Pass,FirstHalf,3.6,59.0,4.6,28.5,Successful
+Leo Østigård,Genoa,13,31,Pass,Pass,FirstHalf,20.2,15.9,24.7,39.2,Successful
+Djibril Sow,Genoa,13,35,Pass,Pass,FirstHalf,27.3,60.2,31.6,84.5,Successful
+Johan Vásquez,Genoa,13,38,Pass,Pass,FirstHalf,31.2,84.2,26.3,69.0,Successful
+Djibril Sow,Genoa,13,39,Pass,Pass,FirstHalf,26.3,69.0,36.7,71.8,Successful
+Tommaso Baldanzi,Genoa,13,40,Pass,Pass,FirstHalf,36.8,71.8,34.4,91.1,Successful
+Johan Vásquez,Genoa,13,42,Pass,Pass,FirstHalf,33.7,90.0,28.6,70.3,Successful
+Djibril Sow,Genoa,13,45,Long Pass,Pass,FirstHalf,31.6,67.2,79.2,75.7,Unsuccessful
+Jean Butez,Como,13,49,KeeperSweeper,KeeperSweeper,FirstHalf,23.1,29.1,0.0,0.0,Successful
+Jean Butez,Como,13,50,Pass,Pass,FirstHalf,23.1,29.1,34.6,6.9,Successful
+Yan Couto,Como,13,52,Ball Recovery,BallRecovery,FirstHalf,33.3,9.0,0.0,0.0,Successful
+Yan Couto,Como,13,53,Pass,Pass,FirstHalf,33.3,9.0,38.8,19.2,Successful
+Máximo Perrone,Como,13,53,Pass,Pass,FirstHalf,38.8,19.2,32.4,21.9,Successful
+Yan Couto,Como,13,54,Pass,Pass,FirstHalf,32.6,22.5,37.7,40.2,Unsuccessful
+Djibril Sow,Genoa,13,56,Interception,Interception,FirstHalf,62.3,59.8,0.0,0.0,Successful
+Milutin Osmajic,Genoa,13,57,BallTouch,BallTouch,FirstHalf,69.2,69.3,0.0,0.0,Unsuccessful
+Jean Butez,Como,13,59,Pass,Pass,FirstHalf,10.3,47.2,20.0,69.7,Successful
+Trevoh Chalobah,Como,14,4,Pass,Pass,FirstHalf,29.4,78.3,44.7,72.3,Successful
+Martin Baturina,Como,14,5,Unsuccessful Dribble,TakeOn,FirstHalf,45.0,73.5,0.0,0.0,Unsuccessful
+Martin Baturina,Como,14,7,Foul,Foul,FirstHalf,48.2,70.0,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,14,7,Foul,Foul,FirstHalf,51.8,30.0,0.0,0.0,Unsuccessful
+Máximo Perrone,Como,14,32,Pass,Pass,FirstHalf,51.6,53.8,65.1,33.3,Successful
+Nico Paz,Como,14,33,Pass,Pass,FirstHalf,65.2,33.1,63.2,21.1,Successful
+Yan Couto,Como,14,34,Pass,Pass,FirstHalf,63.2,21.1,80.0,3.1,Successful
+Assane Diao,Como,14,37,Pass,Pass,FirstHalf,77.3,7.0,71.7,15.6,Successful
+Yan Couto,Como,14,40,Pass,Pass,FirstHalf,73.2,16.5,78.1,6.1,Successful
+Assane Diao,Como,14,41,Pass,Pass,FirstHalf,78.1,6.1,70.1,20.1,Successful
+Nico Paz,Como,14,43,Pass,Pass,FirstHalf,70.2,20.8,76.2,30.3,Successful
+Martin Baturina,Como,14,46,Pass,Pass,FirstHalf,76.2,30.3,67.6,38.8,Successful
+Máximo Perrone,Como,14,47,Pass,Pass,FirstHalf,68.3,38.8,55.0,31.2,Successful
+Jacobo Ramón,Como,14,49,Pass,Pass,FirstHalf,55.0,31.2,66.8,22.5,Successful
+Nico Paz,Como,14,53,Pass,Pass,FirstHalf,62.5,28.2,71.4,43.0,Successful
+Martin Baturina,Como,14,55,BallTouch,BallTouch,FirstHalf,72.2,44.0,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,14,57,Clearance,Clearance,FirstHalf,24.7,58.1,61.4,45.1,Successful
+Trevoh Chalobah,Como,14,59,Pass,Pass,FirstHalf,41.8,57.7,18.0,47.2,Successful
+Jean Butez,Como,15,1,Chipped Pass,Pass,FirstHalf,18.0,46.6,25.5,78.9,Successful
+Trevoh Chalobah,Como,15,6,Pass,Pass,FirstHalf,22.3,77.7,30.6,53.4,Successful
+Máximo Perrone,Como,15,9,Pass,Pass,FirstHalf,24.9,47.4,31.4,23.8,Successful
+Jacobo Ramón,Como,15,14,Pass,Pass,FirstHalf,53.7,18.4,59.1,6.3,Successful
+Yan Couto,Como,15,16,Pass,Pass,FirstHalf,61.0,7.6,55.5,20.5,Successful
+Jacobo Ramón,Como,15,18,Pass,Pass,FirstHalf,55.5,20.5,54.9,41.8,Successful
+Lucas da Cunha,Como,15,21,Long Pass,Pass,FirstHalf,55.1,39.3,76.9,91.5,Successful
+Martin Baturina,Como,15,27,Ball Recovery,BallRecovery,FirstHalf,67.9,72.3,0.0,0.0,Successful
+Martin Baturina,Como,15,28,Loss of Possession,Dispossessed,FirstHalf,68.9,73.4,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,15,28,Was Dribbled,Tackle,FirstHalf,31.1,26.6,0.0,0.0,Unsuccessful
+Martin Baturina,Como,15,29,Pass,Pass,FirstHalf,69.9,70.5,67.8,70.7,Unsuccessful
+Milutin Osmajic,Genoa,15,30,BallTouch,BallTouch,FirstHalf,32.1,27.7,0.0,0.0,Successful
+Trevoh Chalobah,Como,15,32,Pass,Pass,FirstHalf,56.9,73.8,58.2,62.1,Successful
+Martin Baturina,Como,15,34,Pass,Pass,FirstHalf,57.7,63.0,61.8,46.3,Successful
+Máximo Perrone,Como,15,35,Pass,Pass,FirstHalf,61.8,46.3,55.1,58.6,Successful
+Martin Baturina,Como,15,39,Pass,Pass,FirstHalf,56.1,44.7,57.5,28.2,Successful
+Jacobo Ramón,Como,15,41,Pass,Pass,FirstHalf,57.2,26.1,84.0,8.4,Successful
+Assane Diao,Como,15,47,Cross,Pass,FirstHalf,79.3,12.0,91.6,42.1,Unsuccessful
+Johan Vásquez,Genoa,15,49,Clearance,Clearance,FirstHalf,8.3,57.6,43.2,77.8,Successful
+Jacobo Ramón,Como,15,50,Aerial Won,Aerial,FirstHalf,56.8,22.2,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,15,50,Aerial Lost,Aerial,FirstHalf,43.2,77.8,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,15,54,Pass,Pass,FirstHalf,56.8,22.2,67.9,39.1,Successful
+Máximo Perrone,Como,15,55,Pass,Pass,FirstHalf,67.9,38.8,73.1,54.7,Successful
+Álex Valle,Como,15,56,Key Pass,Pass,FirstHalf,72.4,54.3,75.6,46.2,Successful
+Lorenzo Colombo,Genoa,16,0,Offside,OffsideGiven,FirstHalf,59.1,20.3,0.0,0.0,Unsuccessful
+Nico Paz,Como,16,2,Shot on Target,SavedShot,FirstHalf,72.5,59.9,0.0,0.0,Successful
+Justin Bijlow,Genoa,16,3,Save,Save,FirstHalf,1.7,49.0,0.0,0.0,Successful
+Justin Bijlow,Genoa,16,6,KeeperPickup,KeeperPickup,FirstHalf,4.4,44.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,16,20,Pass,Pass,FirstHalf,15.3,51.0,22.0,24.9,Successful
+Leo Østigård,Genoa,16,21,Long Pass,OffsidePass,FirstHalf,28.5,11.7,59.1,20.3,Successful
+Jacobo Ramón,Como,16,21,OffsideProvoked,OffsideProvoked,FirstHalf,48.9,76.3,0.0,0.0,Successful
+Trevoh Chalobah,Como,16,46,Pass,Pass,FirstHalf,26.2,76.8,23.3,51.9,Successful
+Jacobo Ramón,Como,16,49,Pass,Pass,FirstHalf,26.8,46.3,20.7,81.7,Successful
+Trevoh Chalobah,Como,16,50,Pass,Pass,FirstHalf,20.7,81.7,28.9,91.0,Successful
+Álex Valle,Como,16,53,Pass,Pass,FirstHalf,23.1,93.1,35.7,94.9,Successful
+Martin Baturina,Como,16,54,Pass,Pass,FirstHalf,34.9,94.0,32.2,83.2,Successful
+Álex Valle,Como,16,57,Pass,Pass,FirstHalf,36.6,74.7,29.5,55.5,Successful
+Lucas da Cunha,Como,17,0,Pass,Pass,FirstHalf,29.1,54.1,45.9,38.5,Successful
+Nico Paz,Como,17,2,Pass,Pass,FirstHalf,40.9,36.7,47.4,12.4,Successful
+Yan Couto,Como,17,6,Pass,Pass,FirstHalf,67.8,8.4,62.7,12.7,Successful
+Assane Diao,Como,17,8,Pass,Pass,FirstHalf,63.9,11.4,61.7,26.7,Successful
+Nico Paz,Como,17,11,Pass,Pass,FirstHalf,61.7,26.7,75.3,27.9,Successful
+Assane Diao,Como,17,13,Pass,Pass,FirstHalf,70.4,28.2,61.8,22.2,Successful
+Nico Paz,Como,17,14,Pass,Pass,FirstHalf,62.0,22.3,82.2,5.2,Successful
+Yan Couto,Como,17,19,Pass,Pass,FirstHalf,85.0,10.5,74.9,13.6,Successful
+Nico Paz,Como,17,21,Cross,Pass,FirstHalf,77.4,18.6,91.1,37.8,Unsuccessful
+Johan Vásquez,Genoa,17,23,Clearance,Clearance,FirstHalf,9.5,57.3,27.0,68.4,Successful
+Lucas da Cunha,Como,17,24,Shot on Target,SavedShot,FirstHalf,78.8,35.4,0.0,0.0,Successful
+Johan Vásquez,Genoa,17,24,Save,Save,FirstHalf,11.2,57.4,0.0,0.0,Successful
+Nico Paz,Como,17,29,Long Pass,Pass,FirstHalf,70.9,22.5,82.4,85.2,Unsuccessful
+Stefano Sabelli,Genoa,17,33,Aerial Won,Aerial,FirstHalf,17.6,14.8,0.0,0.0,Successful
+Martin Baturina,Como,17,33,Aerial Lost,Aerial,FirstHalf,82.4,85.2,0.0,0.0,Unsuccessful
+Stefano Sabelli,Genoa,17,34,Interception,Interception,FirstHalf,20.6,13.5,0.0,0.0,Successful
+Martin Baturina,Como,17,39,Long Pass,Pass,FirstHalf,82.8,100.0,62.3,85.9,Successful
+Trevoh Chalobah,Como,17,43,Pass,Pass,FirstHalf,43.3,82.3,25.3,58.0,Successful
+Jean Butez,Como,17,52,Pass,Pass,FirstHalf,19.4,48.9,29.8,51.9,Successful
+Máximo Perrone,Como,17,53,Pass,Pass,FirstHalf,28.6,45.4,37.2,24.1,Successful
+Jacobo Ramón,Como,17,57,Pass,Pass,FirstHalf,41.5,24.0,39.3,43.0,Successful
+Máximo Perrone,Como,18,0,Pass,Pass,FirstHalf,42.5,49.9,42.7,77.8,Successful
+Álex Valle,Como,18,4,Pass,Pass,FirstHalf,47.0,82.9,47.9,57.9,Successful
+Máximo Perrone,Como,18,7,Pass,Pass,FirstHalf,52.6,48.4,59.2,27.3,Successful
+Jacobo Ramón,Como,18,10,Pass,Pass,FirstHalf,62.1,27.6,70.6,38.5,Successful
+Nico Paz,Como,18,12,Loss of Possession,Dispossessed,FirstHalf,67.9,37.7,0.0,0.0,Successful
+Morten Frendrup,Genoa,18,12,Successful Tackle,Tackle,FirstHalf,32.1,62.3,0.0,0.0,Successful
+Djibril Sow,Genoa,18,13,Ball Recovery,BallRecovery,FirstHalf,32.7,62.3,0.0,0.0,Successful
+Djibril Sow,Genoa,18,14,Pass,Pass,FirstHalf,32.7,62.3,40.9,56.7,Successful
+Lorenzo Colombo,Genoa,18,15,Pass,Pass,FirstHalf,41.0,56.7,37.3,64.6,Successful
+Morten Frendrup,Genoa,18,19,Pass,Pass,FirstHalf,41.9,73.3,29.6,69.6,Successful
+Johan Vásquez,Genoa,18,22,Pass,Pass,FirstHalf,27.5,66.7,31.7,79.1,Successful
+Tommaso Baldanzi,Genoa,18,27,Long Pass,Pass,FirstHalf,38.1,81.4,78.3,77.2,Successful
+Lorenzo Colombo,Genoa,18,30,Assist,Pass,FirstHalf,87.4,73.8,90.6,54.8,Successful
+Milutin Osmajic,Genoa,18,31,Goal,Goal,FirstHalf,90.6,54.8,0.0,0.0,Successful
+Tasos Douvikas,Como,20,3,Pass,Pass,FirstHalf,50.1,49.9,41.9,45.7,Successful
+Máximo Perrone,Como,20,5,Pass,Pass,FirstHalf,44.9,44.4,48.3,26.8,Successful
+Nico Paz,Como,20,8,Pass,Pass,FirstHalf,49.5,28.0,62.1,7.3,Successful
+Assane Diao,Como,20,9,Pass,Pass,FirstHalf,62.1,7.3,45.4,19.6,Successful
+Yan Couto,Como,20,9,Pass,Pass,FirstHalf,46.9,18.9,46.9,42.4,Successful
+Máximo Perrone,Como,20,11,Pass,Pass,FirstHalf,46.9,42.4,43.8,65.4,Successful
+Trevoh Chalobah,Como,20,14,Pass,Pass,FirstHalf,44.0,65.2,47.7,82.3,Successful
+Lucas da Cunha,Como,20,15,Pass,Pass,FirstHalf,47.7,82.3,38.2,63.3,Successful
+Trevoh Chalobah,Como,20,17,Pass,Pass,FirstHalf,33.9,57.9,37.0,33.9,Successful
+Jacobo Ramón,Como,20,21,Pass,Pass,FirstHalf,38.3,33.7,36.6,57.4,Successful
+Trevoh Chalobah,Como,20,24,Pass,Pass,FirstHalf,36.2,63.1,39.9,91.5,Successful
+Álex Valle,Como,20,30,Foul,Foul,FirstHalf,61.4,85.2,0.0,0.0,Successful
+Stefano Sabelli,Genoa,20,30,Foul,Foul,FirstHalf,38.6,14.8,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,20,53,Pass,Pass,FirstHalf,60.3,77.7,57.3,39.1,Successful
+Jacobo Ramón,Como,20,57,Pass,Pass,FirstHalf,56.7,40.8,72.7,7.9,Successful
+Assane Diao,Como,20,58,Pass,Pass,FirstHalf,72.8,7.8,61.0,15.7,Successful
+Yan Couto,Como,21,0,Pass,Pass,FirstHalf,60.4,17.4,76.2,6.6,Successful
+Assane Diao,Como,21,2,Successful Dribble,TakeOn,FirstHalf,80.1,8.1,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,21,2,Challenge,Challenge,FirstHalf,19.9,91.9,0.0,0.0,Unsuccessful
+Assane Diao,Como,21,4,Pass,Pass,FirstHalf,90.9,21.4,90.6,31.3,Unsuccessful
+Johan Vásquez,Genoa,21,4,BlockedPass,BlockedPass,FirstHalf,9.4,68.7,0.0,0.0,Successful
+Assane Diao,Como,21,6,BallTouch,BallTouch,FirstHalf,90.7,31.5,0.0,0.0,Successful
+Johan Vásquez,Genoa,21,7,BallTouch,BallTouch,FirstHalf,9.3,69.0,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,21,8,Ball Recovery,BallRecovery,FirstHalf,7.8,72.4,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,21,11,Unsuccessful Dribble,TakeOn,FirstHalf,6.2,93.8,0.0,0.0,Unsuccessful
+Nico Paz,Como,21,13,Ball Recovery,BallRecovery,FirstHalf,86.5,7.5,0.0,0.0,Successful
+Nico Paz,Como,21,14,Pass,Pass,FirstHalf,88.0,16.0,79.8,29.9,Unsuccessful
+Djibril Sow,Genoa,21,15,BallTouch,BallTouch,FirstHalf,19.4,71.8,0.0,0.0,Successful
+Álex Valle,Como,21,17,Shot on Target,SavedShot,FirstHalf,74.3,41.1,0.0,0.0,Successful
+Justin Bijlow,Genoa,21,17,Save,Save,FirstHalf,3.1,51.0,0.0,0.0,Successful
+Justin Bijlow,Genoa,21,19,KeeperPickup,KeeperPickup,FirstHalf,3.0,49.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,21,37,Long Pass,Pass,FirstHalf,8.5,55.4,40.4,100.0,Unsuccessful
+Yan Couto,Como,21,53,Long Pass,Pass,FirstHalf,65.4,0.0,87.5,41.8,Unsuccessful
+Justin Bijlow,Genoa,21,54,KeeperPickup,KeeperPickup,FirstHalf,8.7,53.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,21,55,Pass,Pass,FirstHalf,8.1,52.5,16.9,23.3,Successful
+Leo Østigård,Genoa,21,58,Pass,Pass,FirstHalf,31.2,20.1,42.8,22.2,Unsuccessful
+Álex Valle,Como,22,0,Ball Recovery,BallRecovery,FirstHalf,55.4,86.7,0.0,0.0,Successful
+Álex Valle,Como,22,2,Pass,Pass,FirstHalf,53.3,84.8,67.4,89.7,Unsuccessful
+Leo Østigård,Genoa,22,3,Ball Recovery,BallRecovery,FirstHalf,22.7,10.0,0.0,0.0,Successful
+Leo Østigård,Genoa,22,4,Pass,Pass,FirstHalf,22.2,9.2,23.8,14.3,Successful
+Djibril Sow,Genoa,22,6,Pass,Pass,FirstHalf,27.7,22.4,3.5,46.4,Successful
+Justin Bijlow,Genoa,22,10,Pass,Pass,FirstHalf,6.7,49.1,17.3,85.3,Successful
+Johan Vásquez,Genoa,22,13,Pass,Pass,FirstHalf,14.6,84.1,4.8,59.4,Successful
+Justin Bijlow,Genoa,22,17,Pass,Pass,FirstHalf,6.8,47.5,9.4,16.7,Successful
+Leo Østigård,Genoa,22,26,Pass,Pass,FirstHalf,13.1,17.0,25.4,33.3,Successful
+Morten Frendrup,Genoa,22,27,Pass,Pass,FirstHalf,22.8,31.8,10.2,14.7,Successful
+Leo Østigård,Genoa,22,30,Long Pass,Pass,FirstHalf,10.2,14.7,39.7,5.9,Unsuccessful
+Álex Valle,Como,22,36,Pass,Pass,FirstHalf,63.8,92.7,67.6,84.1,Unsuccessful
+Morten Frendrup,Genoa,22,37,Interception,Interception,FirstHalf,32.4,15.9,0.0,0.0,Successful
+Morten Frendrup,Genoa,22,39,Pass,Pass,FirstHalf,36.3,10.9,36.3,9.6,Unsuccessful
+Álex Valle,Como,22,39,BlockedPass,BlockedPass,FirstHalf,63.7,90.4,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,22,41,Pass,Pass,FirstHalf,24.1,11.3,29.1,5.3,Successful
+Stefano Sabelli,Genoa,22,45,Pass,Pass,FirstHalf,30.9,4.9,35.4,4.6,Unsuccessful
+Álex Valle,Como,22,45,BlockedPass,BlockedPass,FirstHalf,64.6,95.4,0.0,0.0,Successful
+Stefano Sabelli,Genoa,22,54,Long Pass,Pass,FirstHalf,39.1,0.0,59.2,19.7,Successful
+Milutin Osmajic,Genoa,22,57,BallTouch,BallTouch,FirstHalf,56.8,18.2,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,22,59,Long Pass,Pass,FirstHalf,57.8,16.5,90.6,80.9,Successful
+Morten Frendrup,Genoa,23,0,Offside,OffsideGiven,FirstHalf,96.6,65.6,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,23,6,Cross,Pass,FirstHalf,97.6,82.9,90.0,49.4,Successful
+Lorenzo Colombo,Genoa,23,8,Key Pass,Pass,FirstHalf,90.2,49.9,88.3,53.0,Successful
+Tommaso Baldanzi,Genoa,23,8,Shot on Target,SavedShot,FirstHalf,88.3,53.0,0.0,0.0,Successful
+Máximo Perrone,Como,23,8,Save,Save,FirstHalf,10.3,45.7,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,23,13,Offside,OffsidePass,FirstHalf,87.6,54.2,96.6,65.6,Successful
+Jacobo Ramón,Como,23,13,OffsideProvoked,OffsideProvoked,FirstHalf,4.3,45.8,0.0,0.0,Successful
+Jean Butez,Como,23,27,Pass,Pass,FirstHalf,8.7,48.7,33.6,24.1,Successful
+Yan Couto,Como,23,30,Pass,Pass,FirstHalf,36.8,25.0,26.5,27.7,Successful
+Jacobo Ramón,Como,23,34,Pass,Pass,FirstHalf,27.5,27.3,22.9,50.1,Successful
+Máximo Perrone,Como,23,36,Pass,Pass,FirstHalf,22.8,53.7,23.0,77.2,Successful
+Álex Valle,Como,23,39,Pass,Pass,FirstHalf,28.5,80.2,17.7,68.1,Successful
+Trevoh Chalobah,Como,23,41,Pass,Pass,FirstHalf,19.4,68.9,27.6,57.0,Successful
+Máximo Perrone,Como,23,43,Pass,Pass,FirstHalf,26.7,48.9,38.8,29.1,Successful
+Yan Couto,Como,23,46,Pass,Pass,FirstHalf,41.9,27.8,45.4,13.1,Successful
+Nico Paz,Como,23,50,Pass,Pass,FirstHalf,52.4,13.6,72.0,9.0,Successful
+Yan Couto,Como,23,52,Unsuccessful Dribble,TakeOn,FirstHalf,77.7,11.6,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,23,52,Was Dribbled,Tackle,FirstHalf,22.3,88.4,0.0,0.0,Unsuccessful
+Nico Paz,Como,23,54,Pass,Pass,FirstHalf,74.4,9.9,81.8,27.6,Unsuccessful
+Mikael Ellertsson,Genoa,23,56,Clearance,Clearance,FirstHalf,24.2,75.0,71.1,34.2,Successful
+Jean Butez,Como,24,3,Pass,Pass,FirstHalf,28.9,74.2,37.8,72.3,Successful
+Trevoh Chalobah,Como,24,5,Pass,Pass,FirstHalf,34.2,69.3,42.0,30.3,Successful
+Jacobo Ramón,Como,24,9,Pass,Pass,FirstHalf,37.8,30.7,61.0,10.2,Successful
+Assane Diao,Como,24,12,Pass,Pass,FirstHalf,62.3,8.5,53.8,23.1,Successful
+Lucas da Cunha,Como,24,16,Long Pass,Pass,FirstHalf,57.1,34.0,74.8,91.0,Successful
+Álex Valle,Como,24,23,Pass,Pass,FirstHalf,74.5,84.6,81.2,75.4,Successful
+Lucas da Cunha,Como,24,23,Pass,Pass,FirstHalf,80.2,73.0,71.2,76.9,Successful
+Álex Valle,Como,24,25,Key Pass,Pass,FirstHalf,73.9,74.2,75.1,63.4,Successful
+Martin Baturina,Como,24,27,Goal,Goal,FirstHalf,74.7,62.8,0.0,0.0,Successful
+Morten Frendrup,Genoa,25,27,Pass,Pass,FirstHalf,49.9,50.1,26.0,56.7,Successful
+Justin Bijlow,Genoa,25,28,Long Pass,Pass,FirstHalf,26.2,56.9,74.1,100.0,Unsuccessful
+Yan Couto,Como,25,49,Throw In,Pass,FirstHalf,32.6,0.0,45.4,6.6,Successful
+Tasos Douvikas,Como,25,50,Pass,Pass,FirstHalf,44.0,6.0,42.2,8.4,Unsuccessful
+Johan Vásquez,Genoa,25,52,BallTouch,BallTouch,FirstHalf,58.4,91.8,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,25,54,Pass,Pass,FirstHalf,46.2,5.4,43.3,9.9,Unsuccessful
+Morten Frendrup,Genoa,25,55,Ball Recovery,BallRecovery,FirstHalf,59.5,92.1,0.0,0.0,Successful
+Morten Frendrup,Genoa,25,56,Pass,Pass,FirstHalf,59.9,93.9,73.7,89.3,Unsuccessful
+Máximo Perrone,Como,25,59,Ball Recovery,BallRecovery,FirstHalf,29.2,10.5,0.0,0.0,Successful
+Máximo Perrone,Como,26,0,Long Pass,Pass,FirstHalf,28.9,9.0,6.9,48.7,Successful
+Jean Butez,Como,26,6,Pass,Pass,FirstHalf,8.9,50.2,17.5,61.8,Successful
+Trevoh Chalobah,Como,26,7,Pass,Pass,FirstHalf,17.6,61.8,22.4,37.8,Successful
+Máximo Perrone,Como,26,9,Pass,Pass,FirstHalf,19.4,39.1,30.7,49.9,Successful
+Lucas da Cunha,Como,26,10,Pass,Pass,FirstHalf,30.7,49.9,44.2,37.3,Successful
+Nico Paz,Como,26,13,Pass,Pass,FirstHalf,42.1,41.8,38.3,62.1,Successful
+Trevoh Chalobah,Como,26,17,Pass,Pass,FirstHalf,39.5,67.6,55.3,93.3,Successful
+Álex Valle,Como,26,20,BallTouch,BallTouch,FirstHalf,60.6,94.6,0.0,0.0,Unsuccessful
+Stefano Sabelli,Genoa,26,39,Long Pass,Pass,FirstHalf,39.0,0.0,61.1,20.0,Unsuccessful
+Trevoh Chalobah,Como,26,41,Pass,Pass,FirstHalf,40.7,75.6,43.0,60.1,Unsuccessful
+Lorenzo Colombo,Genoa,26,43,Long Pass,Pass,FirstHalf,58.0,33.0,54.5,84.7,Successful
+Mikael Ellertsson,Genoa,26,48,Pass,Pass,FirstHalf,56.7,87.2,54.9,75.0,Successful
+Tommaso Baldanzi,Genoa,26,49,Pass,Pass,FirstHalf,55.4,75.6,60.3,93.3,Successful
+Mikael Ellertsson,Genoa,26,50,Pass,Pass,FirstHalf,60.0,93.0,72.6,95.6,Successful
+Johan Vásquez,Genoa,26,51,Chipped Pass,Pass,FirstHalf,72.6,95.6,74.5,77.3,Successful
+Tommaso Baldanzi,Genoa,26,56,Pass,Pass,FirstHalf,83.7,84.5,76.0,92.7,Successful
+Jacobo Ramón,Como,27,2,Challenge,Challenge,FirstHalf,6.4,19.8,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,27,2,Successful Dribble,TakeOn,FirstHalf,93.6,80.2,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,27,3,Pass,Pass,FirstHalf,98.2,76.9,94.5,57.2,Unsuccessful
+Trevoh Chalobah,Como,27,3,Clearance,Clearance,FirstHalf,3.0,45.3,20.0,14.5,Successful
+Assane Diao,Como,27,4,Ball Recovery,BallRecovery,FirstHalf,20.0,14.5,0.0,0.0,Successful
+Assane Diao,Como,27,12,Pass,Pass,FirstHalf,61.3,57.0,71.5,66.4,Successful
+Tasos Douvikas,Como,27,15,Pass,Pass,FirstHalf,69.2,77.2,65.3,87.3,Successful
+Martin Baturina,Como,27,19,Long Pass,Pass,FirstHalf,69.5,73.5,84.8,13.5,Successful
+Nico Paz,Como,27,27,Pass,Pass,FirstHalf,85.8,24.6,89.1,36.1,Successful
+Martin Baturina,Como,27,28,BallTouch,BallTouch,FirstHalf,89.1,36.1,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,27,28,Clearance,Clearance,FirstHalf,9.9,64.6,11.2,65.5,Successful
+Martin Baturina,Como,27,29,BallTouch,BallTouch,FirstHalf,89.1,36.1,0.0,0.0,Successful
+Johan Vásquez,Genoa,27,31,BallTouch,BallTouch,FirstHalf,11.4,65.5,0.0,0.0,Unsuccessful
+Martin Baturina,Como,27,32,BallTouch,BallTouch,FirstHalf,89.1,36.1,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,27,33,Clearance,Clearance,FirstHalf,13.1,62.4,53.4,52.8,Successful
+Trevoh Chalobah,Como,27,36,Chipped Pass,Pass,FirstHalf,41.3,54.1,55.5,51.7,Successful
+Álex Valle,Como,27,39,Pass,Pass,FirstHalf,54.5,47.2,74.1,11.5,Successful
+Yan Couto,Como,27,45,Pass,Pass,FirstHalf,76.4,8.5,70.3,19.2,Successful
+Nico Paz,Como,27,47,Pass,Pass,FirstHalf,70.3,19.2,74.7,36.1,Successful
+Máximo Perrone,Como,27,49,Pass,Pass,FirstHalf,73.0,40.2,77.9,59.5,Successful
+Álex Valle,Como,27,51,Pass,Pass,FirstHalf,77.9,59.5,87.5,63.6,Successful
+Tasos Douvikas,Como,27,53,Pass,Pass,FirstHalf,87.5,63.6,84.6,86.2,Successful
+Lucas da Cunha,Como,27,58,Pass,Pass,FirstHalf,79.6,73.0,80.1,51.6,Unsuccessful
+Milutin Osmajic,Genoa,27,59,Clearance,Clearance,FirstHalf,18.5,47.2,53.0,13.4,Successful
+Trevoh Chalobah,Como,28,7,Foul,Foul,FirstHalf,47.2,83.6,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,28,7,Foul,Foul,FirstHalf,52.8,16.4,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,28,16,Pass,Pass,FirstHalf,46.7,76.0,46.7,55.8,Successful
+Máximo Perrone,Como,28,19,Pass,Pass,FirstHalf,45.9,60.3,52.9,33.4,Successful
+Jacobo Ramón,Como,28,21,Pass,Pass,FirstHalf,52.3,35.4,69.6,6.9,Successful
+Yan Couto,Como,28,24,Pass,Pass,FirstHalf,71.3,11.4,66.8,22.8,Successful
+Nico Paz,Como,28,26,Pass,Pass,FirstHalf,65.1,24.1,64.7,41.5,Successful
+Máximo Perrone,Como,28,30,Pass,Pass,FirstHalf,60.9,44.7,74.7,42.6,Successful
+Martin Baturina,Como,28,37,Pass,Pass,FirstHalf,80.5,34.5,85.7,17.2,Successful
+Assane Diao,Como,28,41,Pass,Pass,FirstHalf,89.2,21.7,77.5,20.4,Successful
+Yan Couto,Como,28,46,Pass,Pass,FirstHalf,90.4,14.8,75.7,16.5,Successful
+Martin Baturina,Como,28,49,Cross,Pass,FirstHalf,75.7,16.5,93.9,42.6,Unsuccessful
+Leo Østigård,Genoa,28,51,Aerial Won,Aerial,FirstHalf,6.1,57.4,0.0,0.0,Successful
+Nico Paz,Como,28,51,Aerial Lost,Aerial,FirstHalf,93.9,42.6,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,28,52,Clearance,Clearance,FirstHalf,6.1,57.4,6.8,0.0,Successful
+Álex Valle,Como,29,20,Long Pass,Pass,FirstHalf,88.4,100.0,65.2,91.0,Successful
+Trevoh Chalobah,Como,29,22,Pass,Pass,FirstHalf,65.2,91.0,60.2,55.6,Successful
+Jacobo Ramón,Como,29,27,Pass,Pass,FirstHalf,55.3,50.7,57.9,28.6,Successful
+Yan Couto,Como,29,29,Pass,Pass,FirstHalf,60.1,32.1,78.5,2.1,Successful
+Assane Diao,Como,29,37,Pass,Pass,FirstHalf,85.1,12.7,75.3,28.2,Successful
+Yan Couto,Como,29,40,Pass,Pass,FirstHalf,73.9,24.3,77.4,48.0,Successful
+Lucas da Cunha,Como,29,40,Pass,Pass,FirstHalf,77.2,48.0,72.4,42.1,Successful
+Máximo Perrone,Como,29,43,Pass,Pass,FirstHalf,72.4,42.1,74.5,68.5,Successful
+Álex Valle,Como,29,43,Pass,Pass,FirstHalf,73.3,69.1,75.8,57.0,Successful
+Nico Paz,Como,29,44,Pass,Pass,FirstHalf,75.8,57.1,72.6,67.9,Successful
+Álex Valle,Como,29,46,Pass,Pass,FirstHalf,68.8,68.7,79.4,91.0,Successful
+Martin Baturina,Como,29,49,Pass,Pass,FirstHalf,79.8,90.0,95.2,90.7,Successful
+Álex Valle,Como,29,50,Cross,Pass,FirstHalf,95.0,90.3,96.0,55.6,Unsuccessful
+Leo Østigård,Genoa,29,51,Clearance,Clearance,FirstHalf,4.7,44.2,9.5,62.8,Successful
+Assane Diao,Como,29,52,Goal,Goal,FirstHalf,91.7,36.2,0.0,0.0,Successful
+Morten Frendrup,Genoa,31,3,Pass,Pass,FirstHalf,50.2,49.9,31.1,50.6,Successful
+Leo Østigård,Genoa,31,5,Pass,Pass,FirstHalf,29.2,53.1,32.3,74.4,Successful
+Johan Vásquez,Genoa,31,10,Pass,Pass,FirstHalf,31.3,69.7,27.2,36.7,Successful
+Leo Østigård,Genoa,31,15,Pass,Pass,FirstHalf,34.3,25.9,60.0,32.2,Successful
+Lorenzo Colombo,Genoa,31,17,Loss of Possession,Dispossessed,FirstHalf,59.5,33.5,0.0,0.0,Successful
+Trevoh Chalobah,Como,31,17,Was Dribbled,Tackle,FirstHalf,40.5,66.5,0.0,0.0,Unsuccessful
+Álex Valle,Como,31,20,Ball Recovery,BallRecovery,FirstHalf,42.7,84.4,0.0,0.0,Successful
+Álex Valle,Como,31,20,Pass,Pass,FirstHalf,42.6,83.1,67.8,74.4,Successful
+Martin Baturina,Como,31,21,Pass,Pass,FirstHalf,64.3,74.8,69.3,44.1,Successful
+Nico Paz,Como,31,25,Pass,Pass,FirstHalf,73.9,47.1,81.6,37.9,Unsuccessful
+Mikael Ellertsson,Genoa,31,27,Interception,Interception,FirstHalf,18.4,62.1,0.0,0.0,Successful
+Álex Valle,Como,31,39,Long Pass,Pass,FirstHalf,75.3,100.0,55.8,89.8,Successful
+Trevoh Chalobah,Como,31,40,Pass,Pass,FirstHalf,55.7,89.7,55.3,66.0,Successful
+Máximo Perrone,Como,31,42,Pass,Pass,FirstHalf,53.1,67.3,52.9,44.8,Successful
+Jacobo Ramón,Como,31,47,Pass,Pass,FirstHalf,51.1,39.0,67.2,10.2,Successful
+Assane Diao,Como,31,53,Pass,Pass,FirstHalf,60.4,20.8,55.6,40.3,Successful
+Máximo Perrone,Como,31,56,Long Pass,Pass,FirstHalf,55.5,42.0,85.9,87.3,Successful
+Martin Baturina,Como,32,0,Pass,Pass,FirstHalf,78.4,91.4,69.2,89.4,Successful
+Lucas da Cunha,Como,32,3,Pass,Pass,FirstHalf,76.4,83.7,76.1,61.3,Successful
+Máximo Perrone,Como,32,5,Pass,Pass,FirstHalf,72.3,59.7,75.5,82.2,Successful
+Lucas da Cunha,Como,32,6,Pass,Pass,FirstHalf,75.5,82.2,74.4,94.8,Successful
+Martin Baturina,Como,32,10,Pass,Pass,FirstHalf,73.4,90.0,74.2,60.9,Successful
+Máximo Perrone,Como,32,12,Key Pass,Pass,FirstHalf,74.0,62.4,73.6,27.6,Successful
+Yan Couto,Como,32,16,Shot off Target,MissedShots,FirstHalf,76.6,27.4,0.0,0.0,Successful
+Johan Vásquez,Genoa,32,45,Pass,Pass,FirstHalf,4.6,61.1,3.7,50.9,Successful
+Justin Bijlow,Genoa,32,46,Pass,Pass,FirstHalf,3.6,49.9,10.8,17.7,Successful
+Leo Østigård,Genoa,32,53,Pass,Pass,FirstHalf,35.0,11.1,44.3,4.1,Successful
+Alessandro Marcandalli,Genoa,32,55,Pass,Pass,FirstHalf,44.8,3.7,47.4,3.7,Unsuccessful
+Álex Valle,Como,32,55,BlockedPass,BlockedPass,FirstHalf,52.6,96.3,0.0,0.0,Successful
+Stefano Sabelli,Genoa,33,11,Throw In,Pass,FirstHalf,43.7,0.0,56.1,8.0,Unsuccessful
+Lucas da Cunha,Como,33,14,Pass,Pass,FirstHalf,44.4,91.6,55.8,85.7,Unsuccessful
+Stefano Sabelli,Genoa,33,17,Foul,Foul,FirstHalf,44.2,11.2,0.0,0.0,Successful
+Martin Baturina,Como,33,17,Foul,Foul,FirstHalf,55.8,88.8,0.0,0.0,Unsuccessful
+Stefano Sabelli,Genoa,33,38,Long Pass,Pass,FirstHalf,45.7,5.0,76.7,70.3,Unsuccessful
+Yan Couto,Como,33,42,Pass,Pass,FirstHalf,23.1,28.8,8.6,39.9,Successful
+Jean Butez,Como,33,43,KeeperPickup,KeeperPickup,FirstHalf,8.8,40.5,0.0,0.0,Successful
+Jean Butez,Como,33,44,Pass,Pass,FirstHalf,8.8,40.5,32.6,16.0,Successful
+Yan Couto,Como,33,46,Pass,Pass,FirstHalf,29.6,11.5,45.9,20.2,Successful
+Assane Diao,Como,33,49,Pass,Pass,FirstHalf,46.4,18.3,42.9,32.5,Successful
+Máximo Perrone,Como,33,51,Pass,Pass,FirstHalf,42.9,32.7,31.5,10.2,Successful
+Yan Couto,Como,33,53,Long Pass,Pass,FirstHalf,33.6,8.1,87.1,18.3,Successful
+Nico Paz,Como,33,59,Cross,Pass,FirstHalf,89.3,23.4,88.2,30.7,Unsuccessful
+Leo Østigård,Genoa,33,59,Clearance,Clearance,FirstHalf,11.8,69.3,0.0,0.0,Successful
+Nico Paz,Como,34,0,CornerAwarded,CornerAwarded,FirstHalf,89.6,25.8,0.0,0.0,Successful
+Leo Østigård,Genoa,34,0,CornerAwarded,CornerAwarded,FirstHalf,10.4,74.2,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,34,33,Cross,Pass,FirstHalf,99.5,0.5,94.5,53.1,Unsuccessful
+Alessandro Marcandalli,Genoa,34,36,Clearance,Clearance,FirstHalf,6.9,46.4,28.3,39.1,Successful
+Yan Couto,Como,34,38,Long Pass,Pass,FirstHalf,77.4,63.3,80.9,10.2,Successful
+Lucas da Cunha,Como,34,42,Pass,Pass,FirstHalf,81.1,9.1,74.5,20.5,Successful
+Máximo Perrone,Como,34,45,Pass,Pass,FirstHalf,74.5,20.2,82.4,9.3,Successful
+Lucas da Cunha,Como,34,47,Cross,Pass,FirstHalf,80.3,8.1,89.3,29.2,Unsuccessful
+Morten Frendrup,Genoa,34,49,Clearance,Clearance,FirstHalf,14.8,72.7,37.8,100.0,Successful
+Yan Couto,Como,35,7,Throw In,Pass,FirstHalf,67.6,0.0,72.2,17.5,Successful
+Máximo Perrone,Como,35,9,Pass,Pass,FirstHalf,72.5,17.5,66.4,8.1,Successful
+Yan Couto,Como,35,10,Pass,Pass,FirstHalf,66.4,8.1,57.4,18.0,Successful
+Jacobo Ramón,Como,35,12,Pass,Pass,FirstHalf,56.7,18.1,45.1,39.7,Successful
+Lucas da Cunha,Como,35,16,Long Pass,Pass,FirstHalf,39.8,40.9,61.4,82.0,Successful
+Álex Valle,Como,35,18,Chipped Pass,Pass,FirstHalf,61.0,81.9,73.1,63.6,Successful
+Tasos Douvikas,Como,35,23,Pass,Pass,FirstHalf,63.1,89.9,64.0,87.7,Unsuccessful
+Alessandro Marcandalli,Genoa,35,23,BlockedPass,BlockedPass,FirstHalf,36.0,12.3,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,35,25,Pass,Pass,FirstHalf,36.2,10.0,36.1,11.1,Unsuccessful
+Martin Baturina,Como,35,25,Unsuccessful Dribble,TakeOn,FirstHalf,68.1,83.3,0.0,0.0,Unsuccessful
+Martin Baturina,Como,35,27,Foul,Foul,FirstHalf,69.2,81.2,0.0,0.0,Successful
+Djibril Sow,Genoa,35,27,Foul,Foul,FirstHalf,30.8,18.8,0.0,0.0,Unsuccessful
+Djibril Sow,Genoa,35,32,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Jacobo Ramón,Como,36,0,Offside,OffsideGiven,FirstHalf,87.9,44.6,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,36,14,Cross,OffsidePass,FirstHalf,74.9,80.5,87.9,44.6,Successful
+Lorenzo Colombo,Genoa,36,14,OffsideProvoked,OffsideProvoked,FirstHalf,14.5,46.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,36,30,Pass,Pass,FirstHalf,13.1,49.4,18.7,21.3,Successful
+Leo Østigård,Genoa,36,31,Pass,Pass,FirstHalf,19.8,21.2,5.1,50.4,Successful
+Justin Bijlow,Genoa,36,34,Pass,Pass,FirstHalf,4.6,52.7,14.7,87.8,Successful
+Johan Vásquez,Genoa,36,36,Pass,Pass,FirstHalf,13.8,87.8,29.2,96.0,Successful
+Mikael Ellertsson,Genoa,36,39,Chipped Pass,Pass,FirstHalf,27.4,95.4,41.2,74.4,Unsuccessful
+Máximo Perrone,Como,36,42,Pass,Pass,FirstHalf,61.0,30.1,48.7,34.2,Successful
+Trevoh Chalobah,Como,36,43,BallTouch,BallTouch,FirstHalf,48.8,34.5,0.0,0.0,Unsuccessful
+Lorenzo Colombo,Genoa,36,44,Pass,Pass,FirstHalf,56.3,66.7,78.4,82.4,Successful
+Tommaso Baldanzi,Genoa,36,48,Cross,Pass,FirstHalf,78.4,82.4,88.9,18.5,Successful
+Stefano Sabelli,Genoa,36,53,Cross,Pass,FirstHalf,89.6,18.6,87.6,46.7,Unsuccessful
+Lucas da Cunha,Como,36,54,Clearance,Clearance,FirstHalf,12.1,59.1,10.8,19.0,Successful
+Tommaso Baldanzi,Genoa,37,1,Unsuccessful Dribble,TakeOn,FirstHalf,90.5,94.5,0.0,0.0,Unsuccessful
+Yan Couto,Como,37,1,Successful Tackle,Tackle,FirstHalf,9.6,5.6,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,37,27,Long Pass,Pass,FirstHalf,94.3,100.0,91.4,60.5,Unsuccessful
+Máximo Perrone,Como,37,28,Clearance,Clearance,FirstHalf,5.0,26.8,6.9,39.1,Successful
+Milutin Osmajic,Genoa,37,28,Aerial Won,Aerial,FirstHalf,93.1,60.9,0.0,0.0,Successful
+Jacobo Ramón,Como,37,28,Aerial Lost,Aerial,FirstHalf,6.9,39.1,0.0,0.0,Unsuccessful
+Milutin Osmajic,Genoa,37,29,Pass,Pass,FirstHalf,93.1,60.9,90.0,51.1,Unsuccessful
+Álex Valle,Como,37,29,Aerial Won,Aerial,FirstHalf,10.0,48.9,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,37,29,Aerial Lost,Aerial,FirstHalf,90.0,51.1,0.0,0.0,Unsuccessful
+Álex Valle,Como,37,31,BallTouch,BallTouch,FirstHalf,14.3,61.9,0.0,0.0,Successful
+Lucas da Cunha,Como,37,33,Ball Recovery,BallRecovery,FirstHalf,32.1,68.8,0.0,0.0,Successful
+Lucas da Cunha,Como,37,34,Pass,Pass,FirstHalf,20.2,58.5,31.2,49.7,Successful
+Tasos Douvikas,Como,37,36,Key Pass,Pass,FirstHalf,40.6,31.5,58.7,7.4,Successful
+Assane Diao,Como,37,43,Shot off Target,MissedShots,FirstHalf,81.1,36.2,0.0,0.0,Successful
+Justin Bijlow,Genoa,37,58,Pass,Pass,FirstHalf,5.0,37.0,12.7,23.0,Successful
+Leo Østigård,Genoa,38,0,Pass,Pass,FirstHalf,15.6,24.4,21.8,42.8,Successful
+Djibril Sow,Genoa,38,3,Pass,Pass,FirstHalf,31.2,45.2,43.9,70.6,Successful
+Tommaso Baldanzi,Genoa,38,5,Pass,Pass,FirstHalf,44.9,70.6,56.3,93.0,Successful
+Mikael Ellertsson,Genoa,38,11,Pass,Pass,FirstHalf,72.5,81.5,69.1,93.3,Successful
+Tommaso Baldanzi,Genoa,38,15,Pass,Pass,FirstHalf,67.7,84.1,55.9,79.4,Successful
+Johan Vásquez,Genoa,38,18,Pass,Pass,FirstHalf,55.9,79.9,62.4,92.9,Successful
+Tommaso Baldanzi,Genoa,38,23,Pass,Pass,FirstHalf,66.2,76.7,54.2,75.4,Successful
+Johan Vásquez,Genoa,38,28,Pass,Pass,FirstHalf,58.4,70.9,52.6,65.4,Successful
+Morten Frendrup,Genoa,38,30,Pass,Pass,FirstHalf,51.4,64.8,47.5,26.7,Successful
+Alessandro Marcandalli,Genoa,38,35,Pass,Pass,FirstHalf,55.5,45.1,52.8,56.4,Successful
+Djibril Sow,Genoa,38,37,Pass,Pass,FirstHalf,52.2,53.6,54.6,43.3,Successful
+Alessandro Marcandalli,Genoa,38,38,Pass,Pass,FirstHalf,55.0,43.3,39.5,40.4,Successful
+Leo Østigård,Genoa,38,40,Pass,Pass,FirstHalf,39.7,39.5,45.4,55.1,Successful
+Morten Frendrup,Genoa,38,46,Pass,Pass,FirstHalf,35.0,52.7,37.1,26.2,Successful
+Leo Østigård,Genoa,38,50,Long Pass,Pass,FirstHalf,39.3,25.0,87.9,35.2,Unsuccessful
+Trevoh Chalobah,Como,38,56,Ball Recovery,BallRecovery,FirstHalf,11.1,60.6,0.0,0.0,Successful
+Trevoh Chalobah,Como,38,56,Pass,Pass,FirstHalf,11.2,60.4,27.8,64.2,Successful
+Máximo Perrone,Como,38,57,Pass,Pass,FirstHalf,27.8,64.2,16.5,37.0,Successful
+Jacobo Ramón,Como,39,0,Pass,Pass,FirstHalf,21.5,38.1,47.6,34.8,Successful
+Nico Paz,Como,39,2,Pass,Pass,FirstHalf,46.9,38.8,47.5,61.8,Successful
+Lucas da Cunha,Como,39,4,Pass,Pass,FirstHalf,47.5,61.5,58.4,87.6,Successful
+Martin Baturina,Como,39,13,Pass,Pass,FirstHalf,77.9,74.5,70.4,52.8,Successful
+Nico Paz,Como,39,14,Pass,Pass,FirstHalf,68.5,53.7,75.2,27.7,Successful
+Yan Couto,Como,39,17,BallTouch,BallTouch,FirstHalf,77.1,26.8,0.0,0.0,Successful
+Assane Diao,Como,39,24,Pass,Pass,FirstHalf,76.8,19.3,70.4,42.6,Successful
+Máximo Perrone,Como,39,26,Pass,Pass,FirstHalf,67.4,43.3,67.8,68.4,Successful
+Álex Valle,Como,39,29,Pass,Pass,FirstHalf,67.4,68.5,81.4,86.8,Successful
+Martin Baturina,Como,39,31,Pass,Pass,FirstHalf,81.4,86.8,72.4,76.2,Successful
+Lucas da Cunha,Como,39,34,Pass,Pass,FirstHalf,72.4,76.2,77.1,87.0,Successful
+Martin Baturina,Como,39,39,Pass,Pass,FirstHalf,75.3,86.8,60.9,81.7,Successful
+Lucas da Cunha,Como,39,40,Pass,Pass,FirstHalf,63.6,82.0,57.9,66.7,Successful
+Trevoh Chalobah,Como,39,43,Pass,Pass,FirstHalf,56.8,66.6,60.8,84.3,Successful
+Lucas da Cunha,Como,39,47,Pass,Pass,FirstHalf,61.0,84.4,52.1,73.0,Successful
+Trevoh Chalobah,Como,39,49,Pass,Pass,FirstHalf,51.0,72.0,45.1,43.5,Successful
+Jacobo Ramón,Como,39,52,Pass,Pass,FirstHalf,41.7,31.0,60.6,8.1,Successful
+Yan Couto,Como,39,56,Assist,Pass,FirstHalf,55.9,10.8,82.2,30.6,Successful
+Nico Paz,Como,39,59,Goal,Goal,FirstHalf,91.7,38.7,0.0,0.0,Successful
+Stefano Sabelli,Genoa,41,0,Offside,OffsideGiven,FirstHalf,66.7,19.5,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,41,20,Pass,Pass,FirstHalf,49.9,50.1,37.0,60.8,Successful
+Tommaso Baldanzi,Genoa,41,22,Pass,Pass,FirstHalf,45.1,70.0,39.7,84.2,Successful
+Johan Vásquez,Genoa,41,23,Pass,Pass,FirstHalf,39.2,83.6,34.7,69.4,Successful
+Morten Frendrup,Genoa,41,24,Pass,Pass,FirstHalf,34.7,69.4,15.4,60.5,Successful
+Justin Bijlow,Genoa,41,27,Pass,Pass,FirstHalf,18.5,54.0,19.5,27.1,Successful
+Leo Østigård,Genoa,41,31,Pass,Pass,FirstHalf,19.4,27.0,38.1,21.6,Successful
+Lorenzo Colombo,Genoa,41,34,Pass,Pass,FirstHalf,38.7,15.3,37.0,6.1,Successful
+Alessandro Marcandalli,Genoa,41,39,Offside,OffsidePass,FirstHalf,56.0,9.4,66.7,19.5,Successful
+Álex Valle,Como,41,39,OffsideProvoked,OffsideProvoked,FirstHalf,38.3,88.9,0.0,0.0,Successful
+Trevoh Chalobah,Como,41,54,Pass,Pass,FirstHalf,27.2,78.1,10.7,49.3,Successful
+Jean Butez,Como,42,4,Pass,Pass,FirstHalf,12.7,54.4,21.5,20.8,Successful
+Yan Couto,Como,42,5,Long Pass,Pass,FirstHalf,21.5,20.8,75.5,9.3,Unsuccessful
+Mikael Ellertsson,Genoa,42,6,BallTouch,BallTouch,FirstHalf,11.1,95.0,0.0,0.0,Successful
+Assane Diao,Como,42,9,Pass,Pass,FirstHalf,83.6,22.1,79.5,29.9,Successful
+Nico Paz,Como,42,10,Pass,Pass,FirstHalf,80.3,30.3,88.1,31.6,Successful
+Assane Diao,Como,42,11,Key Pass,Pass,FirstHalf,83.9,35.4,78.8,42.5,Successful
+Máximo Perrone,Como,42,13,Shot on Target,SavedShot,FirstHalf,78.7,48.1,0.0,0.0,Successful
+Johan Vásquez,Genoa,42,13,Save,Save,FirstHalf,16.7,50.9,0.0,0.0,Successful
+Justin Bijlow,Genoa,42,17,KeeperPickup,KeeperPickup,FirstHalf,2.8,57.8,0.0,0.0,Successful
+Justin Bijlow,Genoa,42,28,Pass,Pass,FirstHalf,14.2,52.5,27.3,72.0,Successful
+Johan Vásquez,Genoa,42,32,Pass,Pass,FirstHalf,30.9,74.4,40.5,94.2,Successful
+Tommaso Baldanzi,Genoa,42,34,Chipped Pass,Pass,FirstHalf,40.9,96.6,60.0,83.0,Unsuccessful
+Jacobo Ramón,Como,42,36,BallTouch,BallTouch,FirstHalf,46.7,23.4,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,42,38,Pass,Pass,FirstHalf,57.5,87.1,45.3,74.2,Successful
+Tommaso Baldanzi,Genoa,42,41,Pass,Pass,FirstHalf,44.8,73.5,44.5,56.7,Successful
+Djibril Sow,Genoa,42,42,Pass,Pass,FirstHalf,45.1,53.9,46.8,23.3,Successful
+Alessandro Marcandalli,Genoa,42,45,Pass,Pass,FirstHalf,46.3,24.3,54.7,8.9,Successful
+Stefano Sabelli,Genoa,42,47,Pass,Pass,FirstHalf,54.9,8.9,42.2,16.4,Successful
+Alessandro Marcandalli,Genoa,42,49,Pass,Pass,FirstHalf,42.3,18.8,31.7,56.3,Successful
+Leo Østigård,Genoa,42,51,Pass,Pass,FirstHalf,31.6,53.9,34.7,22.7,Successful
+Alessandro Marcandalli,Genoa,42,54,Pass,Pass,FirstHalf,37.5,26.0,38.6,60.3,Unsuccessful
+Djibril Sow,Genoa,42,56,Error,Error,FirstHalf,39.5,34.9,0.0,0.0,Successful
+Nico Paz,Como,42,58,Ball Recovery,BallRecovery,FirstHalf,61.3,48.3,0.0,0.0,Successful
+Nico Paz,Como,42,58,Key Pass,Pass,FirstHalf,61.3,48.3,75.5,60.9,Successful
+Tasos Douvikas,Como,43,0,Shot on Target,SavedShot,FirstHalf,86.5,66.9,0.0,0.0,Successful
+Leo Østigård,Genoa,43,0,Save,Save,FirstHalf,12.5,35.0,0.0,0.0,Successful
+Tasos Douvikas,Como,43,1,CornerAwarded,CornerAwarded,FirstHalf,88.9,63.7,0.0,0.0,Successful
+Leo Østigård,Genoa,43,1,CornerAwarded,CornerAwarded,FirstHalf,11.1,36.2,0.0,0.0,Unsuccessful
+Martin Baturina,Como,43,32,Cross,Pass,FirstHalf,99.5,99.5,97.1,51.6,Unsuccessful
+Justin Bijlow,Genoa,43,34,Punch,Punch,FirstHalf,2.9,48.4,27.1,35.8,Unsuccessful
+Álex Valle,Como,43,37,Chipped Pass,Pass,FirstHalf,73.4,54.9,77.3,57.4,Unsuccessful
+Tommaso Baldanzi,Genoa,43,38,Ball Recovery,BallRecovery,FirstHalf,29.2,31.9,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,43,43,Pass,Pass,FirstHalf,66.1,45.2,67.0,57.2,Successful
+Milutin Osmajic,Genoa,43,43,Pass,Pass,FirstHalf,66.8,57.0,73.0,50.9,Successful
+Tommaso Baldanzi,Genoa,43,46,Loss of Possession,Dispossessed,FirstHalf,73.2,49.7,0.0,0.0,Successful
+Lucas da Cunha,Como,43,46,Successful Tackle,Tackle,FirstHalf,26.8,50.3,0.0,0.0,Successful
+Álex Valle,Como,43,47,Ball Recovery,BallRecovery,FirstHalf,24.8,54.9,0.0,0.0,Successful
+Álex Valle,Como,43,49,Pass,Pass,FirstHalf,29.4,47.5,38.0,25.8,Successful
+Assane Diao,Como,43,56,Pass,Pass,FirstHalf,48.3,29.2,57.1,18.3,Successful
+Yan Couto,Como,44,6,Pass,Pass,FirstHalf,72.2,9.1,60.2,20.5,Successful
+Assane Diao,Como,44,7,Pass,Pass,FirstHalf,60.2,20.5,56.4,27.9,Successful
+Nico Paz,Como,44,9,Pass,Pass,FirstHalf,56.4,27.9,64.2,21.0,Successful
+Assane Diao,Como,44,10,Pass,Pass,FirstHalf,63.6,20.4,54.1,25.3,Successful
+Nico Paz,Como,44,13,Pass,Pass,FirstHalf,55.1,17.6,55.0,28.4,Successful
+Máximo Perrone,Como,44,14,Pass,Pass,FirstHalf,54.6,35.7,44.9,40.2,Successful
+Jacobo Ramón,Como,44,17,Pass,Pass,FirstHalf,45.4,31.3,54.1,14.1,Successful
+Nico Paz,Como,44,20,Pass,Pass,FirstHalf,54.4,9.9,62.1,3.3,Successful
+Yan Couto,Como,44,22,Pass,Pass,FirstHalf,60.3,4.7,55.8,7.2,Successful
+Nico Paz,Como,44,24,Pass,Pass,FirstHalf,53.3,17.8,55.8,31.3,Successful
+Máximo Perrone,Como,44,25,Pass,Pass,FirstHalf,55.3,31.2,41.6,57.4,Successful
+Trevoh Chalobah,Como,44,28,Pass,Pass,FirstHalf,40.8,57.6,45.2,81.4,Successful
+Lucas da Cunha,Como,44,29,Pass,Pass,FirstHalf,45.2,81.4,27.7,65.2,Successful
+Jean Butez,Como,44,42,Long Pass,Pass,FirstHalf,15.3,44.1,49.0,58.6,Successful
+Tasos Douvikas,Como,44,45,Aerial Won,Aerial,FirstHalf,49.0,58.6,0.0,0.0,Successful
+Leo Østigård,Genoa,44,45,Aerial Lost,Aerial,FirstHalf,51.0,41.4,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,44,45,Pass,Pass,FirstHalf,49.0,58.6,47.6,58.3,Unsuccessful
+Leo Østigård,Genoa,44,46,BallTouch,BallTouch,FirstHalf,52.8,37.7,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,44,48,Ball Recovery,BallRecovery,FirstHalf,48.0,83.6,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,44,48,Pass,Pass,FirstHalf,48.0,88.5,52.7,82.2,Unsuccessful
+Yan Couto,Como,44,49,BallTouch,BallTouch,FirstHalf,48.0,20.4,0.0,0.0,Successful
+Morten Frendrup,Genoa,44,50,Key Pass,Pass,FirstHalf,60.7,69.0,58.5,64.5,Successful
+Tommaso Baldanzi,Genoa,44,55,Shot on Target,SavedShot,FirstHalf,79.7,67.1,0.0,0.0,Successful
+Milutin Osmajic,Genoa,44,57,BallTouch,BallTouch,FirstHalf,87.0,61.1,0.0,0.0,Successful
+Jean Butez,Como,44,58,KeeperPickup,KeeperPickup,FirstHalf,6.8,47.7,0.0,0.0,Successful
+Jean Butez,Como,45,4,Pass,Pass,FirstHalf,10.1,50.2,20.4,30.3,Successful
+Jacobo Ramón,Como,45,7,Pass,Pass,FirstHalf,21.3,29.5,39.7,37.5,Successful
+Assane Diao,Como,45,8,Pass,Pass,FirstHalf,37.0,33.6,29.2,35.2,Successful
+Máximo Perrone,Como,45,10,Pass,Pass,FirstHalf,26.3,39.0,20.2,24.0,Successful
+Jacobo Ramón,Como,45,12,Long Pass,Pass,FirstHalf,24.0,22.6,45.0,91.0,Successful
+Martin Baturina,Como,45,18,Foul,Foul,FirstHalf,46.0,92.6,0.0,0.0,Successful
+Stefano Sabelli,Genoa,45,18,Foul,Foul,FirstHalf,54.0,7.4,0.0,0.0,Unsuccessful
+Álex Valle,Como,45,30,Pass,Pass,FirstHalf,43.1,87.9,32.7,76.6,Successful
+Trevoh Chalobah,Como,45,32,Pass,Pass,FirstHalf,32.7,76.6,34.0,52.0,Successful
+Lucas da Cunha,Como,45,36,Pass,Pass,FirstHalf,30.7,49.6,25.9,73.0,Successful
+Trevoh Chalobah,Como,45,38,Pass,Pass,FirstHalf,23.9,71.7,11.0,49.9,Successful
+Jean Butez,Como,45,43,Pass,Pass,FirstHalf,9.5,47.5,24.4,12.4,Successful
+Yan Couto,Como,45,47,Pass,Pass,FirstHalf,24.4,12.4,36.9,9.0,Successful
+Assane Diao,Como,45,51,Pass,Pass,FirstHalf,35.8,9.7,30.7,20.2,Successful
+Nico Paz,Como,45,53,Pass,Pass,FirstHalf,26.1,10.7,31.5,6.8,Unsuccessful
+Johan Vásquez,Genoa,45,53,BlockedPass,BlockedPass,FirstHalf,68.5,93.2,0.0,0.0,Successful
+,Como,46,4,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,46,4,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Stefano Sabelli,Genoa,45,0,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Vítinha,Genoa,45,0,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Morten Frendrup,Genoa,45,0,Pass,Pass,SecondHalf,50.2,50.0,27.5,49.4,Successful
+Justin Bijlow,Genoa,45,3,Pass,Pass,SecondHalf,27.4,49.4,40.7,75.7,Successful
+Johan Vásquez,Genoa,45,6,Pass,Pass,SecondHalf,40.7,75.7,44.1,67.2,Successful
+Djibril Sow,Genoa,45,8,Pass,Pass,SecondHalf,42.9,69.1,46.1,88.6,Successful
+Tommaso Baldanzi,Genoa,45,9,Pass,Pass,SecondHalf,43.0,91.2,32.9,79.3,Successful
+Johan Vásquez,Genoa,45,12,Pass,Pass,SecondHalf,33.0,79.3,36.8,92.7,Successful
+Tommaso Baldanzi,Genoa,45,13,Pass,Pass,SecondHalf,37.1,92.9,47.8,96.0,Successful
+Mikael Ellertsson,Genoa,45,21,Pass,Pass,SecondHalf,70.6,95.6,69.6,95.6,Unsuccessful
+Assane Diao,Como,45,21,BlockedPass,BlockedPass,SecondHalf,30.4,4.4,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,45,31,Long Pass,Pass,SecondHalf,67.4,100.0,43.7,95.6,Successful
+Johan Vásquez,Genoa,45,34,Pass,Pass,SecondHalf,36.7,92.1,21.7,67.9,Successful
+Justin Bijlow,Genoa,45,35,Pass,Pass,SecondHalf,21.7,67.9,28.9,82.6,Successful
+Johan Vásquez,Genoa,45,38,Pass,Pass,SecondHalf,38.3,91.8,45.1,86.9,Unsuccessful
+Nico Paz,Como,45,40,Interception,Interception,SecondHalf,54.9,13.1,0.0,0.0,Successful
+Johan Vásquez,Genoa,45,55,Throw In,Pass,SecondHalf,35.1,100.0,53.1,93.3,Successful
+Lorenzo Colombo,Genoa,45,57,Pass,Pass,SecondHalf,53.1,93.6,62.7,89.6,Unsuccessful
+Jacobo Ramón,Como,45,58,Long Pass,Pass,SecondHalf,39.2,14.1,60.2,15.3,Unsuccessful
+Johan Vásquez,Genoa,46,2,Pass,Pass,SecondHalf,35.2,86.6,58.3,84.7,Successful
+Milutin Osmajic,Genoa,46,7,Foul,Foul,SecondHalf,58.8,85.8,0.0,0.0,Successful
+Jacobo Ramón,Como,46,7,Foul,Foul,SecondHalf,41.2,14.2,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,46,16,Pass,Pass,SecondHalf,56.1,85.7,58.0,94.5,Successful
+Tommaso Baldanzi,Genoa,46,19,Pass,Pass,SecondHalf,57.9,94.7,44.5,88.4,Successful
+Johan Vásquez,Genoa,46,21,Pass,Pass,SecondHalf,43.1,90.6,45.8,75.7,Successful
+Morten Frendrup,Genoa,46,23,Pass,Pass,SecondHalf,45.1,74.1,50.8,66.4,Successful
+Djibril Sow,Genoa,46,27,Pass,Pass,SecondHalf,45.5,90.6,37.6,92.7,Successful
+Johan Vásquez,Genoa,46,32,Foul,Foul,SecondHalf,31.4,87.5,0.0,0.0,Successful
+Nico Paz,Como,46,32,Foul,Foul,SecondHalf,68.6,12.6,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,47,0,Pass,Pass,SecondHalf,34.8,89.0,34.5,70.0,Successful
+Morten Frendrup,Genoa,47,3,Pass,Pass,SecondHalf,30.2,64.8,15.5,54.0,Successful
+Justin Bijlow,Genoa,47,5,Pass,Pass,SecondHalf,14.9,46.6,23.9,14.9,Successful
+Leo Østigård,Genoa,47,9,Pass,Pass,SecondHalf,24.7,14.7,5.1,37.9,Successful
+Justin Bijlow,Genoa,47,12,Pass,Pass,SecondHalf,7.9,50.6,16.4,83.9,Successful
+Johan Vásquez,Genoa,47,15,Long Pass,Pass,SecondHalf,15.6,88.7,68.6,83.5,Unsuccessful
+Jacobo Ramón,Como,47,20,Clearance,Clearance,SecondHalf,30.1,15.6,37.4,11.7,Successful
+Assane Diao,Como,47,25,BallTouch,BallTouch,SecondHalf,38.7,11.8,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,47,27,Chipped Pass,Pass,SecondHalf,54.9,96.6,66.0,100.0,Unsuccessful
+Yan Couto,Como,47,37,Throw In,Pass,SecondHalf,35.2,0.0,20.2,13.6,Successful
+Jacobo Ramón,Como,47,41,Pass,Pass,SecondHalf,22.8,12.7,7.0,49.8,Successful
+Jean Butez,Como,47,45,Long Pass,Pass,SecondHalf,9.6,51.4,41.2,0.0,Unsuccessful
+Johan Vásquez,Genoa,47,57,Throw In,Pass,SecondHalf,60.5,100.0,71.3,76.7,Successful
+Lorenzo Colombo,Genoa,48,0,Chipped Pass,Pass,SecondHalf,71.6,76.1,72.7,77.9,Unsuccessful
+Jacobo Ramón,Como,48,0,BallTouch,BallTouch,SecondHalf,27.3,22.1,0.0,0.0,Successful
+Máximo Perrone,Como,48,3,Ball Recovery,BallRecovery,SecondHalf,25.3,28.3,0.0,0.0,Successful
+Máximo Perrone,Como,48,4,Pass,Pass,SecondHalf,25.6,29.1,23.2,69.3,Successful
+Álex Valle,Como,48,8,Pass,Pass,SecondHalf,30.3,73.9,21.9,62.4,Successful
+Trevoh Chalobah,Como,48,10,Pass,Pass,SecondHalf,21.9,63.1,25.3,78.3,Successful
+Álex Valle,Como,48,13,Pass,Pass,SecondHalf,24.9,80.8,34.4,90.0,Successful
+Martin Baturina,Como,48,14,Pass,Pass,SecondHalf,34.8,89.8,51.9,74.1,Unsuccessful
+Leo Østigård,Genoa,48,15,Ball Recovery,BallRecovery,SecondHalf,46.0,32.1,0.0,0.0,Successful
+Leo Østigård,Genoa,48,17,Pass,Pass,SecondHalf,54.1,28.5,54.9,8.6,Successful
+Alessandro Marcandalli,Genoa,48,19,Pass,Pass,SecondHalf,54.9,8.6,64.1,5.2,Successful
+Vítinha,Genoa,48,20,Pass,Pass,SecondHalf,63.6,4.9,67.6,5.8,Unsuccessful
+Álex Valle,Como,48,23,Interception,Interception,SecondHalf,32.4,94.2,0.0,0.0,Successful
+Vítinha,Genoa,48,34,Throw In,Pass,SecondHalf,68.6,0.0,65.0,14.6,Successful
+Djibril Sow,Genoa,48,36,Pass,Pass,SecondHalf,57.9,24.1,46.2,41.9,Successful
+Leo Østigård,Genoa,48,37,Pass,Pass,SecondHalf,46.1,41.9,48.2,73.3,Successful
+Johan Vásquez,Genoa,48,41,Pass,Pass,SecondHalf,63.5,82.6,62.7,94.1,Successful
+Mikael Ellertsson,Genoa,48,46,Pass,Pass,SecondHalf,74.5,88.1,93.7,87.5,Unsuccessful
+Yan Couto,Como,48,50,Clearance,Clearance,SecondHalf,9.9,11.4,7.7,0.0,Successful
+Johan Vásquez,Genoa,49,3,Throw In,Pass,SecondHalf,94.0,100.0,94.8,73.9,Successful
+Milutin Osmajic,Genoa,49,3,Loss of Possession,Dispossessed,SecondHalf,89.9,71.0,0.0,0.0,Successful
+Máximo Perrone,Como,49,3,Was Dribbled,Tackle,SecondHalf,10.1,29.0,0.0,0.0,Unsuccessful
+Milutin Osmajic,Genoa,49,7,Key Pass,Pass,SecondHalf,93.3,74.2,89.8,74.2,Successful
+Tommaso Baldanzi,Genoa,49,7,Shot off Target,MissedShots,SecondHalf,90.9,69.7,0.0,0.0,Successful
+Álex Valle,Como,49,24,Throw In,Pass,SecondHalf,6.2,100.0,18.2,88.8,Successful
+Martin Baturina,Como,49,26,Pass,Pass,SecondHalf,18.2,88.8,12.8,82.5,Unsuccessful
+Lucas da Cunha,Como,49,29,Clearance,Clearance,SecondHalf,8.4,69.7,0.0,66.4,Successful
+Lucas da Cunha,Como,49,30,CornerAwarded,CornerAwarded,SecondHalf,2.7,67.8,0.0,0.0,Unsuccessful
+Djibril Sow,Genoa,49,30,CornerAwarded,CornerAwarded,SecondHalf,97.3,32.2,0.0,0.0,Successful
+Djibril Sow,Genoa,49,57,Key Pass,Pass,SecondHalf,99.5,0.5,90.8,53.4,Successful
+Johan Vásquez,Genoa,50,0,Aerial Won,Aerial,SecondHalf,90.8,53.4,0.0,0.0,Successful
+Assane Diao,Como,50,0,Aerial Lost,Aerial,SecondHalf,9.2,46.6,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,50,0,Shot off Target,MissedShots,SecondHalf,90.8,53.4,0.0,0.0,Successful
+Trevoh Chalobah,Como,50,18,Pass,Pass,SecondHalf,3.9,60.6,2.3,51.7,Successful
+Jean Butez,Como,50,20,Long Pass,Pass,SecondHalf,2.8,54.9,44.5,62.4,Unsuccessful
+Alessandro Marcandalli,Genoa,50,24,Pass,Pass,SecondHalf,55.9,33.6,66.4,33.1,Unsuccessful
+Lucas da Cunha,Como,50,26,Pass,Pass,SecondHalf,32.0,71.4,41.5,61.3,Successful
+Martin Baturina,Como,50,27,Pass,Pass,SecondHalf,41.6,61.3,54.6,46.5,Successful
+Nico Paz,Como,50,29,Pass,Pass,SecondHalf,54.6,46.5,71.6,8.7,Successful
+Mikael Ellertsson,Genoa,50,32,Challenge,Challenge,SecondHalf,21.9,83.9,0.0,0.0,Unsuccessful
+Assane Diao,Como,50,32,Successful Dribble,TakeOn,SecondHalf,78.1,16.1,0.0,0.0,Successful
+Assane Diao,Como,50,34,Cross,Pass,SecondHalf,93.3,26.2,95.6,53.6,Unsuccessful
+Leo Østigård,Genoa,50,36,Clearance,Clearance,SecondHalf,4.2,49.1,4.5,100.0,Successful
+Yan Couto,Como,50,56,Throw In,Pass,SecondHalf,93.5,0.0,76.0,12.9,Successful
+Jacobo Ramón,Como,51,1,Pass,Pass,SecondHalf,78.5,10.1,76.6,4.5,Successful
+Nico Paz,Como,51,3,Pass,Pass,SecondHalf,76.9,10.5,65.1,16.0,Successful
+Máximo Perrone,Como,51,6,Pass,Pass,SecondHalf,62.3,33.1,60.6,69.4,Successful
+Álex Valle,Como,51,10,Pass,Pass,SecondHalf,59.5,71.1,52.4,54.1,Successful
+Trevoh Chalobah,Como,51,12,Pass,Pass,SecondHalf,52.4,54.1,53.6,16.3,Successful
+Jacobo Ramón,Como,51,15,Pass,Pass,SecondHalf,53.6,16.3,64.7,27.3,Successful
+Nico Paz,Como,51,16,Pass,Pass,SecondHalf,64.5,27.4,57.4,36.7,Successful
+Máximo Perrone,Como,51,19,Pass,Pass,SecondHalf,57.3,35.0,55.8,67.6,Successful
+Lucas da Cunha,Como,51,24,Long Pass,Pass,SecondHalf,72.3,67.2,96.8,13.3,Successful
+Assane Diao,Como,51,30,Pass,Pass,SecondHalf,95.2,11.8,77.3,12.4,Successful
+Yan Couto,Como,51,31,Pass,Pass,SecondHalf,77.4,12.0,82.9,20.8,Successful
+Martin Baturina,Como,51,33,Pass,Pass,SecondHalf,82.9,20.8,75.8,12.0,Successful
+Yan Couto,Como,51,34,Pass,Pass,SecondHalf,75.6,12.5,77.2,29.3,Successful
+Máximo Perrone,Como,51,37,Key Pass,Pass,SecondHalf,76.8,29.7,77.2,53.8,Successful
+Vítinha,Genoa,51,38,Challenge,Challenge,SecondHalf,21.6,48.0,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,51,38,Successful Dribble,TakeOn,SecondHalf,78.4,52.0,0.0,0.0,Successful
+Lucas da Cunha,Como,51,39,Shot on Target,SavedShot,SecondHalf,82.7,47.7,0.0,0.0,Successful
+Leo Østigård,Genoa,51,40,Save,Save,SecondHalf,14.8,51.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,51,44,KeeperPickup,KeeperPickup,SecondHalf,5.4,53.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,51,46,Pass,Pass,SecondHalf,12.5,52.4,25.3,23.1,Successful
+Vítinha,Genoa,51,51,Pass,Pass,SecondHalf,38.5,22.1,36.4,29.5,Successful
+Djibril Sow,Genoa,51,54,Pass,Pass,SecondHalf,38.3,41.2,36.3,69.4,Successful
+Tommaso Baldanzi,Genoa,51,58,Pass,Pass,SecondHalf,45.9,87.5,61.5,95.4,Successful
+Johan Vásquez,Genoa,52,0,Unsuccessful Dribble,TakeOn,SecondHalf,62.0,91.0,0.0,0.0,Unsuccessful
+Assane Diao,Como,52,0,Was Dribbled,Tackle,SecondHalf,38.0,9.0,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,52,5,Unsuccessful Dribble,TakeOn,SecondHalf,56.0,96.4,0.0,0.0,Unsuccessful
+Nico Paz,Como,52,5,Successful Tackle,Tackle,SecondHalf,44.0,3.6,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,52,8,Throw In,Pass,SecondHalf,56.1,100.0,39.4,86.6,Successful
+Djibril Sow,Genoa,52,11,Pass,Pass,SecondHalf,39.0,79.7,52.3,92.6,Successful
+Tommaso Baldanzi,Genoa,52,15,Chipped Pass,Pass,SecondHalf,56.1,92.7,71.9,78.2,Unsuccessful
+Jacobo Ramón,Como,52,16,Interception,Interception,SecondHalf,28.1,21.8,0.0,0.0,Successful
+Yan Couto,Como,52,17,Long Pass,Pass,SecondHalf,17.5,16.8,30.7,40.2,Successful
+Lucas da Cunha,Como,52,19,Ball Recovery,BallRecovery,SecondHalf,30.7,40.2,0.0,0.0,Successful
+Lucas da Cunha,Como,52,19,Pass,Pass,SecondHalf,30.7,40.2,28.9,29.2,Successful
+Máximo Perrone,Como,52,20,Long Pass,Pass,SecondHalf,28.9,29.2,55.8,6.6,Successful
+Nico Paz,Como,52,22,Pass,Pass,SecondHalf,57.2,6.0,41.0,8.7,Successful
+Assane Diao,Como,52,24,Pass,Pass,SecondHalf,42.6,10.9,29.3,19.9,Successful
+Yan Couto,Como,52,27,Pass,Pass,SecondHalf,33.1,23.5,44.3,30.9,Successful
+Máximo Perrone,Como,52,30,Pass,Pass,SecondHalf,39.5,32.2,45.3,48.7,Successful
+Lucas da Cunha,Como,52,31,Pass,Pass,SecondHalf,47.1,51.6,36.3,66.1,Successful
+Trevoh Chalobah,Como,52,33,Pass,Pass,SecondHalf,34.7,61.0,37.0,49.6,Successful
+Máximo Perrone,Como,52,36,Pass,Pass,SecondHalf,37.0,49.6,41.9,28.2,Successful
+Yan Couto,Como,52,38,Pass,Pass,SecondHalf,42.8,28.6,58.8,7.3,Successful
+Nico Paz,Como,52,40,Pass,Pass,SecondHalf,59.0,6.4,75.7,6.3,Successful
+Assane Diao,Como,52,46,Pass,Pass,SecondHalf,84.5,15.6,76.9,9.4,Successful
+Nico Paz,Como,52,48,Pass,Pass,SecondHalf,77.6,9.7,76.4,25.2,Successful
+Martin Baturina,Como,52,49,Pass,Pass,SecondHalf,74.1,21.6,72.0,10.2,Successful
+Nico Paz,Como,52,51,Pass,Pass,SecondHalf,72.0,10.2,56.2,11.1,Successful
+Yan Couto,Como,52,52,Pass,Pass,SecondHalf,56.5,11.1,73.7,7.8,Successful
+Nico Paz,Como,52,52,Pass,Pass,SecondHalf,73.7,7.8,63.7,9.3,Successful
+Yan Couto,Como,52,54,Pass,Pass,SecondHalf,63.7,9.3,75.6,7.2,Successful
+Nico Paz,Como,52,55,Pass,Pass,SecondHalf,67.3,7.6,74.9,31.3,Successful
+Máximo Perrone,Como,52,57,Pass,Pass,SecondHalf,74.9,31.6,71.5,23.2,Successful
+Martin Baturina,Como,52,58,Pass,Pass,SecondHalf,71.7,34.5,89.6,35.5,Successful
+Tasos Douvikas,Como,53,3,BallTouch,BallTouch,SecondHalf,89.6,30.9,0.0,0.0,Unsuccessful
+Justin Bijlow,Genoa,53,21,Pass,Pass,SecondHalf,4.7,49.7,9.5,69.4,Successful
+Johan Vásquez,Genoa,53,23,Long Pass,Pass,SecondHalf,18.0,84.7,56.0,89.0,Unsuccessful
+Yan Couto,Como,53,26,Pass,Pass,SecondHalf,40.7,19.2,56.9,10.6,Unsuccessful
+Mikael Ellertsson,Genoa,53,30,Pass,Pass,SecondHalf,43.8,94.7,41.3,78.2,Successful
+Morten Frendrup,Genoa,53,32,Pass,Pass,SecondHalf,41.6,77.6,43.6,65.7,Successful
+Djibril Sow,Genoa,53,37,Pass,Pass,SecondHalf,53.1,67.9,38.6,42.8,Successful
+Leo Østigård,Genoa,53,39,Pass,Pass,SecondHalf,37.5,43.9,40.7,65.2,Successful
+Morten Frendrup,Genoa,53,41,Pass,Pass,SecondHalf,42.3,66.3,45.4,53.4,Successful
+Djibril Sow,Genoa,53,43,Pass,Pass,SecondHalf,46.5,61.7,43.4,72.3,Successful
+Morten Frendrup,Genoa,53,52,Pass,Pass,SecondHalf,46.8,55.7,42.8,32.7,Successful
+Leo Østigård,Genoa,53,55,Pass,Pass,SecondHalf,45.8,26.4,44.6,11.1,Successful
+Alessandro Marcandalli,Genoa,53,58,Pass,Pass,SecondHalf,43.1,13.7,43.2,33.4,Successful
+Morten Frendrup,Genoa,54,4,Pass,Pass,SecondHalf,45.4,53.6,53.6,92.1,Successful
+Johan Vásquez,Genoa,54,6,Pass,Pass,SecondHalf,57.4,92.0,67.4,94.4,Successful
+Mikael Ellertsson,Genoa,54,10,Pass,Pass,SecondHalf,55.9,93.9,44.7,75.9,Successful
+Morten Frendrup,Genoa,54,14,Pass,Pass,SecondHalf,46.4,83.8,40.7,93.3,Successful
+Mikael Ellertsson,Genoa,54,15,Pass,Pass,SecondHalf,40.5,93.3,34.3,49.4,Successful
+Leo Østigård,Genoa,54,21,Pass,Pass,SecondHalf,44.3,30.6,53.7,6.2,Successful
+Alessandro Marcandalli,Genoa,54,22,Pass,Pass,SecondHalf,55.4,6.1,63.0,3.1,Successful
+Vítinha,Genoa,54,24,Pass,Pass,SecondHalf,62.0,4.9,63.6,13.2,Successful
+Lorenzo Colombo,Genoa,54,27,Long Pass,Pass,SecondHalf,65.1,27.6,95.2,82.7,Unsuccessful
+Yan Couto,Como,54,31,Clearance,Clearance,SecondHalf,4.1,17.8,0.0,4.5,Successful
+Yan Couto,Como,54,32,CornerAwarded,CornerAwarded,SecondHalf,1.4,10.6,0.0,0.0,Unsuccessful
+Lorenzo Colombo,Genoa,54,32,CornerAwarded,CornerAwarded,SecondHalf,98.6,89.4,0.0,0.0,Successful
+Djibril Sow,Genoa,55,1,Cross,Pass,SecondHalf,99.7,99.3,93.0,46.9,Unsuccessful
+Jean Butez,Como,55,6,Claim,Claim,SecondHalf,7.0,53.1,0.0,0.0,Unsuccessful
+Assane Diao,Como,55,7,Clearance,Clearance,SecondHalf,9.8,60.4,52.6,100.0,Successful
+Vítinha,Genoa,55,27,Throw In,Pass,SecondHalf,46.4,0.0,38.6,24.6,Successful
+Morten Frendrup,Genoa,55,28,Pass,Pass,SecondHalf,38.3,24.7,47.1,40.0,Successful
+Djibril Sow,Genoa,55,29,Pass,Pass,SecondHalf,47.1,40.1,39.9,23.6,Successful
+Morten Frendrup,Genoa,55,30,Through Ball,Pass,SecondHalf,40.0,23.9,87.9,37.3,Unsuccessful
+Jean Butez,Como,55,33,KeeperPickup,KeeperPickup,SecondHalf,13.5,70.2,0.0,0.0,Successful
+Jean Butez,Como,55,34,Pass,Pass,SecondHalf,11.5,67.3,20.6,37.8,Successful
+Jacobo Ramón,Como,55,38,Pass,Pass,SecondHalf,22.6,34.8,26.4,17.2,Successful
+Yan Couto,Como,55,42,Pass,Pass,SecondHalf,29.2,17.2,21.6,30.1,Successful
+Jacobo Ramón,Como,55,45,Pass,Pass,SecondHalf,24.7,29.7,29.3,13.6,Successful
+Yan Couto,Como,55,50,Pass,Pass,SecondHalf,23.4,28.6,7.2,61.6,Successful
+Jean Butez,Como,55,54,Pass,Pass,SecondHalf,7.7,50.7,12.6,25.6,Successful
+Jacobo Ramón,Como,55,57,Pass,Pass,SecondHalf,12.1,16.3,30.9,9.3,Successful
+Assane Diao,Como,55,59,Pass,Pass,SecondHalf,30.2,9.6,35.5,9.6,Unsuccessful
+Mikael Ellertsson,Genoa,55,59,BlockedPass,BlockedPass,SecondHalf,64.5,90.4,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,56,1,Foul,Foul,SecondHalf,77.8,93.4,0.0,0.0,Successful
+Assane Diao,Como,56,1,Foul,Foul,SecondHalf,22.2,6.6,0.0,0.0,Unsuccessful
+Tommaso Baldanzi,Genoa,56,13,Pass,Pass,SecondHalf,70.5,94.4,67.3,77.8,Successful
+Djibril Sow,Genoa,56,14,Pass,Pass,SecondHalf,67.3,77.6,69.6,92.9,Successful
+Tommaso Baldanzi,Genoa,56,15,Pass,Pass,SecondHalf,69.6,92.9,77.6,95.1,Successful
+Mikael Ellertsson,Genoa,56,18,Pass,Pass,SecondHalf,71.2,93.9,70.3,79.9,Successful
+Djibril Sow,Genoa,56,19,Pass,Pass,SecondHalf,70.3,79.9,63.9,87.7,Successful
+Mikael Ellertsson,Genoa,56,21,Pass,Pass,SecondHalf,69.1,82.3,78.6,82.9,Successful
+Djibril Sow,Genoa,56,22,Pass,Pass,SecondHalf,78.5,82.9,84.7,68.4,Successful
+Tommaso Baldanzi,Genoa,56,23,Key Pass,Pass,SecondHalf,84.9,67.9,94.3,67.9,Successful
+Mikael Ellertsson,Genoa,56,25,Shot on Target,SavedShot,SecondHalf,94.3,67.9,0.0,0.0,Successful
+Jacobo Ramón,Como,56,25,Save,Save,SecondHalf,3.6,34.1,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,56,26,CornerAwarded,CornerAwarded,SecondHalf,99.4,64.8,0.0,0.0,Successful
+Jacobo Ramón,Como,56,26,CornerAwarded,CornerAwarded,SecondHalf,0.6,35.2,0.0,0.0,Unsuccessful
+Djibril Sow,Genoa,56,46,Cross,Pass,SecondHalf,99.5,99.5,92.8,50.1,Unsuccessful
+Jean Butez,Como,56,46,Aerial Won,Aerial,SecondHalf,7.2,49.9,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,56,46,Aerial Lost,Aerial,SecondHalf,92.8,50.1,0.0,0.0,Unsuccessful
+Jean Butez,Como,56,47,Punch,Punch,SecondHalf,7.2,49.9,8.2,81.9,Unsuccessful
+Alessandro Marcandalli,Genoa,56,49,BallTouch,BallTouch,SecondHalf,92.1,51.5,0.0,0.0,Successful
+Vítinha,Genoa,56,52,Loss of Possession,Dispossessed,SecondHalf,89.4,19.2,0.0,0.0,Successful
+Nico Paz,Como,56,52,Was Dribbled,Tackle,SecondHalf,10.5,80.8,0.0,0.0,Unsuccessful
+Vítinha,Genoa,56,57,Cross,Pass,SecondHalf,77.4,15.8,93.0,50.9,Unsuccessful
+Jean Butez,Como,57,0,Claim,Claim,SecondHalf,7.0,49.1,0.0,0.0,Successful
+Jean Butez,Como,57,1,Long Pass,Pass,SecondHalf,11.6,47.7,62.3,22.2,Successful
+Morten Frendrup,Genoa,57,7,Challenge,Challenge,SecondHalf,28.2,72.7,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,57,7,Successful Dribble,TakeOn,SecondHalf,71.8,27.3,0.0,0.0,Successful
+Lucas da Cunha,Como,57,9,Unsuccessful Dribble,TakeOn,SecondHalf,73.2,32.1,0.0,0.0,Unsuccessful
+Tommaso Baldanzi,Genoa,57,9,Was Dribbled,Tackle,SecondHalf,26.8,67.9,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,57,10,Pass,Pass,SecondHalf,72.9,33.8,75.4,28.6,Unsuccessful
+Morten Frendrup,Genoa,57,11,Interception,Interception,SecondHalf,24.6,71.4,0.0,0.0,Successful
+Martin Baturina,Como,57,17,Pass,Pass,SecondHalf,64.2,23.1,60.1,10.9,Successful
+Yan Couto,Como,57,20,Pass,Pass,SecondHalf,59.6,6.7,62.3,19.8,Successful
+Martin Baturina,Como,57,26,Pass,Pass,SecondHalf,63.9,15.6,53.9,25.8,Successful
+Jacobo Ramón,Como,57,29,Pass,Pass,SecondHalf,54.6,27.4,55.3,45.4,Successful
+Máximo Perrone,Como,57,31,Pass,Pass,SecondHalf,53.9,47.1,56.8,75.1,Successful
+Lucas da Cunha,Como,57,37,Pass,Pass,SecondHalf,55.3,72.0,53.9,55.8,Successful
+Trevoh Chalobah,Como,57,39,Pass,Pass,SecondHalf,54.0,55.9,48.9,29.7,Successful
+Jacobo Ramón,Como,57,41,Pass,Pass,SecondHalf,53.0,29.7,68.4,31.7,Successful
+Martin Baturina,Como,57,43,Pass,Pass,SecondHalf,67.8,25.2,66.4,23.9,Unsuccessful
+Tommaso Baldanzi,Genoa,57,44,BallTouch,BallTouch,SecondHalf,30.7,77.8,0.0,0.0,Successful
+Johan Vásquez,Genoa,57,46,Ball Recovery,BallRecovery,SecondHalf,39.2,88.4,0.0,0.0,Successful
+Johan Vásquez,Genoa,57,48,BallTouch,BallTouch,SecondHalf,48.3,89.3,0.0,0.0,Unsuccessful
+Yan Couto,Como,57,52,Ball Recovery,BallRecovery,SecondHalf,41.6,5.2,0.0,0.0,Successful
+Yan Couto,Como,57,53,Pass,Pass,SecondHalf,44.3,7.3,39.5,19.2,Successful
+Martin Baturina,Como,57,54,Pass,Pass,SecondHalf,39.5,19.2,45.2,36.7,Successful
+Máximo Perrone,Como,57,55,Pass,Pass,SecondHalf,45.4,36.7,40.1,24.6,Successful
+Martin Baturina,Como,58,0,Pass,Pass,SecondHalf,46.4,24.3,43.9,5.1,Successful
+Yan Couto,Como,58,3,Pass,Pass,SecondHalf,46.6,8.6,58.8,3.1,Successful
+Nico Paz,Como,58,4,Pass,Pass,SecondHalf,61.6,6.6,46.5,10.8,Successful
+Yan Couto,Como,58,6,Pass,Pass,SecondHalf,42.9,13.6,35.7,53.2,Successful
+Trevoh Chalobah,Como,58,9,Pass,Pass,SecondHalf,38.1,55.0,45.7,82.0,Successful
+Lucas da Cunha,Como,58,13,Pass,Pass,SecondHalf,41.6,69.6,33.2,67.2,Successful
+Trevoh Chalobah,Como,58,16,Pass,Pass,SecondHalf,33.2,67.2,32.6,39.7,Successful
+Jacobo Ramón,Como,58,19,Pass,Pass,SecondHalf,28.9,35.5,32.0,17.1,Successful
+Yan Couto,Como,58,22,Pass,Pass,SecondHalf,29.7,16.6,46.3,6.3,Successful
+Assane Diao,Como,58,27,Pass,Pass,SecondHalf,42.6,24.6,47.9,29.9,Successful
+Lucas da Cunha,Como,58,29,Pass,Pass,SecondHalf,52.4,28.2,57.8,5.8,Successful
+Nico Paz,Como,58,31,Pass,Pass,SecondHalf,56.1,9.3,40.3,13.8,Successful
+Yan Couto,Como,58,33,Pass,Pass,SecondHalf,40.3,13.8,51.6,25.9,Successful
+Lucas da Cunha,Como,58,35,Pass,Pass,SecondHalf,50.9,25.9,54.7,36.9,Successful
+Máximo Perrone,Como,58,37,Pass,Pass,SecondHalf,53.7,28.3,42.9,31.9,Successful
+Lucas da Cunha,Como,58,40,Long Pass,Pass,SecondHalf,47.4,28.6,75.8,90.1,Successful
+Martin Baturina,Como,58,49,Pass,Pass,SecondHalf,87.7,77.4,74.1,82.6,Successful
+Álex Valle,Como,58,52,Cross,Pass,SecondHalf,74.1,82.6,75.9,76.6,Unsuccessful
+Vítinha,Genoa,58,52,Clearance,Clearance,SecondHalf,24.1,23.4,0.0,0.0,Successful
+Martin Baturina,Como,58,55,Loss of Possession,Dispossessed,SecondHalf,86.0,92.4,0.0,0.0,Successful
+Vítinha,Genoa,58,55,Successful Tackle,Tackle,SecondHalf,14.0,7.6,0.0,0.0,Successful
+Vítinha,Genoa,58,56,Ball Recovery,BallRecovery,SecondHalf,20.3,6.8,0.0,0.0,Successful
+Vítinha,Genoa,58,58,Foul,Foul,SecondHalf,21.3,5.2,0.0,0.0,Successful
+Martin Baturina,Como,58,58,Foul,Foul,SecondHalf,78.7,94.8,0.0,0.0,Unsuccessful
+Martin Baturina,Como,59,7,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Leo Østigård,Genoa,59,29,Pass,Pass,SecondHalf,21.7,7.7,31.2,18.0,Successful
+Djibril Sow,Genoa,59,31,Pass,Pass,SecondHalf,31.2,18.0,29.3,4.4,Successful
+Alessandro Marcandalli,Genoa,59,36,Chipped Pass,Pass,SecondHalf,28.9,5.3,43.2,8.2,Unsuccessful
+Álex Valle,Como,59,37,BallTouch,BallTouch,SecondHalf,54.0,94.4,0.0,0.0,Successful
+Martin Baturina,Como,59,38,Pass,Pass,SecondHalf,60.0,93.8,60.8,86.1,Successful
+Lucas da Cunha,Como,59,38,Ball Recovery,BallRecovery,SecondHalf,62.2,81.5,0.0,0.0,Successful
+Lucas da Cunha,Como,59,39,Chipped Pass,Pass,SecondHalf,60.5,82.6,67.1,76.3,Successful
+Tasos Douvikas,Como,59,41,Pass,Pass,SecondHalf,72.3,72.6,74.9,66.0,Unsuccessful
+Leo Østigård,Genoa,59,41,Interception,Interception,SecondHalf,25.1,34.0,0.0,0.0,Successful
+Morten Frendrup,Genoa,59,43,Pass,Pass,SecondHalf,27.9,28.6,28.2,15.2,Successful
+Vítinha,Genoa,59,46,Long Pass,Pass,SecondHalf,33.4,24.3,58.7,93.5,Successful
+Mikael Ellertsson,Genoa,59,56,Pass,Pass,SecondHalf,74.8,68.2,80.6,55.1,Unsuccessful
+Jacobo Ramón,Como,59,58,Clearance,Clearance,SecondHalf,18.6,36.3,41.8,61.8,Successful
+Tasos Douvikas,Como,60,0,Pass,Pass,SecondHalf,43.1,61.3,37.9,75.6,Successful
+Martin Baturina,Como,60,2,Ball Recovery,BallRecovery,SecondHalf,38.0,75.9,0.0,0.0,Successful
+Martin Baturina,Como,60,2,Long Pass,Pass,SecondHalf,38.3,76.2,73.1,69.9,Unsuccessful
+Justin Bijlow,Genoa,60,6,KeeperSweeper,KeeperSweeper,SecondHalf,23.3,33.0,0.0,0.0,Successful
+Justin Bijlow,Genoa,60,7,Pass,Pass,SecondHalf,23.3,33.0,33.0,27.3,Successful
+Morten Frendrup,Genoa,60,9,Ball Recovery,BallRecovery,SecondHalf,32.9,27.1,0.0,0.0,Successful
+Morten Frendrup,Genoa,60,9,Pass,Pass,SecondHalf,32.8,27.0,34.4,34.9,Successful
+Tommaso Baldanzi,Genoa,60,18,Pass,Pass,SecondHalf,45.9,40.1,44.3,29.5,Successful
+Morten Frendrup,Genoa,60,21,Pass,Pass,SecondHalf,47.2,26.7,54.6,5.8,Successful
+Vítinha,Genoa,60,24,Chipped Pass,Pass,SecondHalf,54.9,5.8,77.6,5.2,Successful
+Lorenzo Colombo,Genoa,60,29,Key Pass,Pass,SecondHalf,88.9,16.1,90.8,46.2,Successful
+Milutin Osmajic,Genoa,60,30,Shot off Target,MissedShots,SecondHalf,90.8,46.2,0.0,0.0,Successful
+Trevoh Chalobah,Como,61,2,Pass,Pass,SecondHalf,4.5,58.8,0.4,51.1,Successful
+Jean Butez,Como,61,3,Long Pass,Pass,SecondHalf,2.8,56.2,35.1,68.7,Unsuccessful
+Tasos Douvikas,Como,61,7,Foul,Foul,SecondHalf,44.3,66.9,0.0,0.0,Successful
+Leo Østigård,Genoa,61,7,Foul,Foul,SecondHalf,55.7,33.0,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,61,8,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Máximo Perrone,Como,63,10,Pass,Pass,SecondHalf,47.3,65.4,44.7,56.2,Successful
+Lucas da Cunha,Como,63,11,Pass,Pass,SecondHalf,44.5,51.7,45.2,71.5,Successful
+Máximo Perrone,Como,63,13,Pass,Pass,SecondHalf,46.3,66.4,37.1,31.9,Successful
+Jacobo Ramón,Como,63,15,Pass,Pass,SecondHalf,36.4,37.9,42.2,6.9,Successful
+Yan Couto,Como,63,18,Pass,Pass,SecondHalf,39.0,10.1,48.3,4.5,Successful
+Nico Paz,Como,63,20,Pass,Pass,SecondHalf,48.4,3.5,55.8,5.4,Successful
+Assane Diao,Como,63,21,Pass,Pass,SecondHalf,57.7,6.2,57.1,14.1,Unsuccessful
+Morten Frendrup,Genoa,63,23,Interception,Interception,SecondHalf,42.9,85.9,0.0,0.0,Successful
+Tasos Douvikas,Como,63,25,Pass,Pass,SecondHalf,61.0,35.4,55.4,52.6,Successful
+Lucas da Cunha,Como,63,27,Pass,Pass,SecondHalf,54.1,62.8,64.8,85.3,Successful
+Álex Valle,Como,63,29,Pass,Pass,SecondHalf,63.7,83.2,63.9,64.9,Successful
+Martin Baturina,Como,63,31,Pass,Pass,SecondHalf,63.1,65.1,59.3,82.6,Successful
+Álex Valle,Como,63,36,Pass,Pass,SecondHalf,61.2,82.8,50.8,60.9,Successful
+Trevoh Chalobah,Como,63,37,Long Pass,Pass,SecondHalf,50.8,60.9,61.6,11.1,Successful
+Yan Couto,Como,63,40,Pass,Pass,SecondHalf,61.4,11.1,63.1,40.2,Successful
+Máximo Perrone,Como,63,43,Pass,Pass,SecondHalf,63.1,40.2,64.2,55.6,Successful
+Álex Valle,Como,63,46,Pass,Pass,SecondHalf,64.1,58.3,65.7,39.3,Successful
+Nico Paz,Como,63,48,Pass,Pass,SecondHalf,67.2,39.7,76.3,42.6,Successful
+Martin Baturina,Como,63,50,Pass,Pass,SecondHalf,76.5,42.4,69.7,28.9,Successful
+Nico Paz,Como,63,51,Pass,Pass,SecondHalf,69.7,28.9,77.0,17.7,Successful
+Yan Couto,Como,63,52,Pass,Pass,SecondHalf,77.0,17.7,72.5,28.3,Successful
+Nico Paz,Como,63,54,Pass,Pass,SecondHalf,72.5,28.3,76.1,18.1,Successful
+Yan Couto,Como,63,55,Pass,Pass,SecondHalf,76.1,18.7,82.6,33.0,Successful
+Martin Baturina,Como,63,55,Pass,Pass,SecondHalf,83.5,29.7,73.1,30.3,Successful
+Nico Paz,Como,63,57,Pass,Pass,SecondHalf,72.0,31.3,88.4,8.4,Successful
+Assane Diao,Como,64,0,Pass,Pass,SecondHalf,87.0,9.3,73.2,12.3,Successful
+Yan Couto,Como,64,1,Pass,Pass,SecondHalf,75.1,11.4,86.4,23.5,Successful
+Martin Baturina,Como,64,3,Cross,Pass,SecondHalf,92.9,21.3,89.2,45.8,Successful
+Tasos Douvikas,Como,64,5,Unsuccessful Dribble,TakeOn,SecondHalf,89.2,43.8,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,64,5,Successful Tackle,Tackle,SecondHalf,10.8,56.2,0.0,0.0,Successful
+Leo Østigård,Genoa,64,6,Clearance,Clearance,SecondHalf,8.4,56.0,37.0,61.5,Successful
+Jacobo Ramón,Como,64,9,Pass,Pass,SecondHalf,57.1,30.6,68.5,35.7,Successful
+Máximo Perrone,Como,64,10,Pass,Pass,SecondHalf,68.5,35.7,52.7,70.5,Successful
+Trevoh Chalobah,Como,64,14,Pass,Pass,SecondHalf,47.1,81.0,56.7,81.6,Successful
+Lucas da Cunha,Como,64,16,Pass,Pass,SecondHalf,56.7,81.6,60.9,62.7,Successful
+Máximo Perrone,Como,64,19,Pass,Pass,SecondHalf,64.8,58.7,64.7,44.6,Successful
+Nico Paz,Como,64,22,Chipped Pass,Pass,SecondHalf,65.6,44.1,80.9,7.2,Successful
+Assane Diao,Como,64,24,Pass,Pass,SecondHalf,80.9,7.2,90.8,16.3,Successful
+Yan Couto,Como,64,27,Key Pass,Pass,SecondHalf,96.4,17.1,93.9,45.7,Successful
+Tasos Douvikas,Como,64,28,Shot off Target,MissedShots,SecondHalf,93.9,45.7,0.0,0.0,Successful
+Tasos Douvikas,Como,65,6,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Moise Kean,Como,65,6,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Martin Baturina,Como,65,13,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Maxence Caqueret,Como,65,13,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Tommaso Baldanzi,Genoa,65,24,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,65,24,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lorenzo Colombo,Genoa,65,45,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Junior Messias,Genoa,65,45,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,65,46,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Johan Vásquez,Genoa,65,48,Pass,Pass,SecondHalf,3.2,58.4,2.8,49.0,Successful
+Justin Bijlow,Genoa,65,49,Pass,Pass,SecondHalf,2.7,48.7,15.7,56.3,Successful
+Morten Frendrup,Genoa,65,52,Pass,Pass,SecondHalf,15.7,56.1,6.8,49.9,Successful
+Justin Bijlow,Genoa,65,53,Pass,Pass,SecondHalf,6.8,49.9,19.7,15.8,Successful
+Leo Østigård,Genoa,65,57,Long Pass,Pass,SecondHalf,31.1,9.4,74.4,36.6,Unsuccessful
+Jean Butez,Como,65,59,KeeperSweeper,KeeperSweeper,SecondHalf,23.7,57.9,0.0,0.0,Successful
+Jean Butez,Como,66,0,Clearance,Clearance,SecondHalf,23.7,57.9,42.6,88.8,Successful
+Maxence Caqueret,Como,66,3,Pass,Pass,SecondHalf,45.0,87.7,51.7,76.1,Unsuccessful
+Djibril Sow,Genoa,66,4,BallTouch,BallTouch,SecondHalf,47.6,24.8,0.0,0.0,Successful
+Moise Kean,Como,66,5,Ball Recovery,BallRecovery,SecondHalf,51.9,66.9,0.0,0.0,Successful
+Moise Kean,Como,66,6,Pass,Pass,SecondHalf,51.9,66.9,43.2,51.3,Successful
+Máximo Perrone,Como,66,7,Pass,Pass,SecondHalf,43.5,51.4,40.3,27.0,Successful
+Yan Couto,Como,66,9,Pass,Pass,SecondHalf,40.3,27.0,46.0,36.3,Successful
+Máximo Perrone,Como,66,12,Pass,Pass,SecondHalf,51.8,33.4,54.8,15.3,Successful
+Nico Paz,Como,66,13,Pass,Pass,SecondHalf,55.0,15.0,47.5,11.4,Successful
+Yan Couto,Como,66,14,Pass,Pass,SecondHalf,52.4,11.4,61.9,5.7,Successful
+Nico Paz,Como,66,19,BallTouch,BallTouch,SecondHalf,73.6,7.2,0.0,0.0,Unsuccessful
+Johan Vásquez,Genoa,66,21,Ball Recovery,BallRecovery,SecondHalf,25.0,85.4,0.0,0.0,Successful
+Johan Vásquez,Genoa,66,22,Pass,Pass,SecondHalf,24.9,85.6,31.4,75.6,Successful
+Morten Frendrup,Genoa,66,22,Unsuccessful Dribble,TakeOn,SecondHalf,27.9,86.9,0.0,0.0,Unsuccessful
+Assane Diao,Como,66,22,Was Dribbled,Tackle,SecondHalf,72.1,13.1,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,66,23,BallTouch,BallTouch,SecondHalf,32.4,85.4,0.0,0.0,Successful
+Máximo Perrone,Como,66,24,Ball Recovery,BallRecovery,SecondHalf,75.1,25.3,0.0,0.0,Successful
+Máximo Perrone,Como,66,24,Pass,Pass,SecondHalf,76.3,25.9,70.9,45.3,Successful
+Assane Diao,Como,66,28,Pass,Pass,SecondHalf,72.2,56.5,64.1,73.3,Successful
+Álex Valle,Como,66,31,Pass,Pass,SecondHalf,64.1,73.3,71.5,83.4,Successful
+Maxence Caqueret,Como,66,33,Pass,Pass,SecondHalf,71.8,83.4,68.4,72.7,Successful
+Assane Diao,Como,66,34,Pass,Pass,SecondHalf,68.5,72.9,59.9,61.3,Successful
+Trevoh Chalobah,Como,66,37,Pass,Pass,SecondHalf,56.8,56.2,65.8,17.5,Successful
+Yan Couto,Como,66,40,Pass,Pass,SecondHalf,65.2,20.1,68.7,35.1,Successful
+Nico Paz,Como,66,41,Pass,Pass,SecondHalf,68.7,35.1,74.1,50.1,Successful
+Máximo Perrone,Como,66,44,Pass,Pass,SecondHalf,72.9,48.1,61.6,43.6,Successful
+Lucas da Cunha,Como,66,45,Pass,Pass,SecondHalf,61.6,43.6,64.8,32.2,Successful
+Nico Paz,Como,66,47,Pass,Pass,SecondHalf,64.9,32.2,65.2,73.0,Successful
+Maxence Caqueret,Como,66,52,Pass,Pass,SecondHalf,70.5,60.0,76.1,37.2,Successful
+Assane Diao,Como,66,54,Pass,Pass,SecondHalf,76.1,36.6,73.1,46.9,Successful
+Nico Paz,Como,66,56,Pass,Pass,SecondHalf,72.6,51.4,79.1,84.3,Successful
+Álex Valle,Como,66,57,Pass,Pass,SecondHalf,81.1,75.6,80.8,52.6,Successful
+Nico Paz,Como,66,58,Pass,Pass,SecondHalf,80.6,54.0,83.9,52.1,Unsuccessful
+Morten Frendrup,Genoa,66,59,Clearance,Clearance,SecondHalf,15.7,49.5,19.1,46.6,Successful
+Nico Paz,Como,67,0,ShotOnPost,ShotOnPost,SecondHalf,85.2,54.0,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,67,4,Ball Recovery,BallRecovery,SecondHalf,11.6,14.7,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,67,4,Pass,Pass,SecondHalf,11.7,14.0,19.0,13.2,Unsuccessful
+Álex Valle,Como,67,4,BallTouch,BallTouch,SecondHalf,84.6,82.2,0.0,0.0,Successful
+Junior Messias,Genoa,67,5,Loss of Possession,Dispossessed,SecondHalf,30.3,17.4,0.0,0.0,Successful
+Lucas da Cunha,Como,67,5,Was Dribbled,Tackle,SecondHalf,69.7,82.6,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,67,10,Ball Recovery,BallRecovery,SecondHalf,75.7,70.3,0.0,0.0,Successful
+Lucas da Cunha,Como,67,12,Pass,Pass,SecondHalf,77.9,72.0,90.7,73.2,Successful
+Moise Kean,Como,67,13,Pass,Pass,SecondHalf,90.4,72.7,89.4,92.8,Successful
+Maxence Caqueret,Como,67,18,Pass,Pass,SecondHalf,92.2,75.8,92.2,73.4,Unsuccessful
+Junior Messias,Genoa,67,18,BlockedPass,BlockedPass,SecondHalf,7.8,26.6,0.0,0.0,Successful
+Leo Østigård,Genoa,67,19,BallTouch,BallTouch,SecondHalf,6.7,24.4,0.0,0.0,Successful
+Moise Kean,Como,67,20,Cross,Pass,SecondHalf,95.2,77.1,95.6,74.8,Unsuccessful
+Leo Østigård,Genoa,67,20,Clearance,Clearance,SecondHalf,4.4,25.2,0.0,0.0,Successful
+Leo Østigård,Genoa,67,20,CornerAwarded,CornerAwarded,SecondHalf,3.9,24.4,0.0,0.0,Unsuccessful
+Moise Kean,Como,67,20,CornerAwarded,CornerAwarded,SecondHalf,96.1,75.6,0.0,0.0,Successful
+Lucas da Cunha,Como,68,1,Key Pass,Pass,SecondHalf,99.5,99.5,87.8,47.2,Successful
+Jacobo Ramón,Como,68,2,Aerial Won,Aerial,SecondHalf,87.8,47.2,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,68,2,Aerial Lost,Aerial,SecondHalf,12.2,52.8,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,68,3,Shot on Target,SavedShot,SecondHalf,87.8,47.2,0.0,0.0,Successful
+Justin Bijlow,Genoa,68,3,Save,Save,SecondHalf,3.1,52.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,68,5,KeeperPickup,KeeperPickup,SecondHalf,3.1,52.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,68,8,Long Pass,Pass,SecondHalf,14.2,53.9,78.0,64.9,Unsuccessful
+Jean Butez,Como,68,12,Ball Recovery,BallRecovery,SecondHalf,25.4,35.4,0.0,0.0,Successful
+Jean Butez,Como,68,13,Pass,Pass,SecondHalf,20.7,35.4,33.5,22.9,Successful
+Máximo Perrone,Como,68,19,Pass,Pass,SecondHalf,48.7,25.5,35.7,35.2,Successful
+Jacobo Ramón,Como,68,20,Pass,Pass,SecondHalf,35.7,35.2,40.0,52.2,Successful
+Maxence Caqueret,Como,68,24,Pass,Pass,SecondHalf,41.7,53.1,42.5,11.8,Successful
+Yan Couto,Como,68,28,Pass,Pass,SecondHalf,47.4,20.1,36.2,63.3,Successful
+Trevoh Chalobah,Como,68,30,Pass,Pass,SecondHalf,30.7,58.3,37.9,77.2,Successful
+Álex Valle,Como,68,34,Pass,Pass,SecondHalf,39.9,77.1,31.3,58.0,Successful
+Trevoh Chalobah,Como,68,36,Pass,Pass,SecondHalf,31.3,58.0,28.6,24.0,Successful
+Jacobo Ramón,Como,68,39,Pass,Pass,SecondHalf,28.6,24.0,36.5,3.7,Successful
+Yan Couto,Como,68,43,Pass,Pass,SecondHalf,33.9,22.0,26.0,57.3,Successful
+Trevoh Chalobah,Como,68,44,Pass,Pass,SecondHalf,26.0,57.3,11.4,49.5,Successful
+Jean Butez,Como,68,48,Pass,Pass,SecondHalf,10.9,49.2,15.4,72.9,Successful
+Trevoh Chalobah,Como,68,52,Pass,Pass,SecondHalf,22.3,71.5,37.4,72.1,Successful
+Lucas da Cunha,Como,68,56,Pass,Pass,SecondHalf,41.8,67.3,54.1,57.1,Successful
+Moise Kean,Como,69,1,Pass,Pass,SecondHalf,58.2,51.9,48.9,55.3,Successful
+Lucas da Cunha,Como,69,2,Chipped Pass,Pass,SecondHalf,48.9,55.3,61.7,12.9,Successful
+Assane Diao,Como,69,6,Unsuccessful Dribble,TakeOn,SecondHalf,66.3,12.6,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,69,6,Successful Tackle,Tackle,SecondHalf,33.8,87.4,0.0,0.0,Successful
+Assane Diao,Como,69,13,Throw In,Pass,SecondHalf,76.1,0.0,65.5,5.2,Successful
+Yan Couto,Como,69,16,Pass,Pass,SecondHalf,60.4,8.4,55.8,20.7,Successful
+Jacobo Ramón,Como,69,20,Pass,Pass,SecondHalf,56.2,21.1,64.2,28.2,Successful
+Nico Paz,Como,69,22,Pass,Pass,SecondHalf,64.2,28.2,55.2,33.0,Successful
+Máximo Perrone,Como,69,23,Pass,Pass,SecondHalf,56.0,33.1,65.2,25.3,Successful
+Nico Paz,Como,69,25,Pass,Pass,SecondHalf,65.0,25.8,66.3,5.7,Successful
+Yan Couto,Como,69,27,Pass,Pass,SecondHalf,66.1,5.6,63.4,18.6,Successful
+Máximo Perrone,Como,69,30,Pass,Pass,SecondHalf,60.9,27.3,51.4,50.8,Successful
+Trevoh Chalobah,Como,69,36,Pass,Pass,SecondHalf,59.2,55.8,69.6,58.3,Successful
+Máximo Perrone,Como,69,37,Pass,Pass,SecondHalf,69.6,58.3,68.6,70.9,Unsuccessful
+Junior Messias,Genoa,69,38,Interception,Interception,SecondHalf,31.4,29.1,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,69,42,Ball Recovery,BallRecovery,SecondHalf,5.9,4.3,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,69,47,Foul,Foul,SecondHalf,13.2,9.6,0.0,0.0,Successful
+Álex Valle,Como,69,47,Foul,Foul,SecondHalf,86.8,90.4,0.0,0.0,Unsuccessful
+Alessandro Marcandalli,Genoa,70,2,Pass,Pass,SecondHalf,12.4,7.1,8.1,20.7,Successful
+Leo Østigård,Genoa,70,3,Pass,Pass,SecondHalf,7.7,25.3,7.2,45.7,Successful
+Justin Bijlow,Genoa,70,5,Pass,Pass,SecondHalf,12.6,52.2,24.9,82.7,Successful
+Johan Vásquez,Genoa,70,9,Pass,Pass,SecondHalf,28.4,75.7,28.1,62.6,Successful
+Morten Frendrup,Genoa,70,13,Pass,Pass,SecondHalf,30.4,51.0,31.7,28.6,Successful
+Leo Østigård,Genoa,70,21,Pass,Pass,SecondHalf,60.7,10.4,69.0,2.5,Successful
+Alessandro Marcandalli,Genoa,70,23,Pass,Pass,SecondHalf,69.0,2.5,70.4,2.9,Unsuccessful
+Álex Valle,Como,70,23,BlockedPass,BlockedPass,SecondHalf,29.6,97.1,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,70,25,Long Pass,Pass,SecondHalf,68.7,0.0,91.8,14.9,Successful
+Kingsley Ehizibue,Genoa,70,29,Pass,Pass,SecondHalf,91.8,15.0,86.1,30.6,Successful
+Junior Messias,Genoa,70,31,Loss of Possession,Dispossessed,SecondHalf,87.3,33.2,0.0,0.0,Successful
+Máximo Perrone,Como,70,31,Successful Tackle,Tackle,SecondHalf,12.7,66.8,0.0,0.0,Successful
+Lucas da Cunha,Como,70,32,Ball Recovery,BallRecovery,SecondHalf,18.9,74.4,0.0,0.0,Successful
+Lucas da Cunha,Como,70,33,Pass,Pass,SecondHalf,19.6,76.2,29.3,62.4,Successful
+Nico Paz,Como,70,36,Pass,Pass,SecondHalf,33.8,48.7,57.9,30.3,Successful
+Assane Diao,Como,70,45,Pass,Pass,SecondHalf,68.5,5.1,60.9,26.7,Successful
+Máximo Perrone,Como,70,47,Pass,Pass,SecondHalf,60.9,26.7,67.4,34.6,Successful
+Nico Paz,Como,70,49,Pass,Pass,SecondHalf,67.4,34.6,95.0,43.5,Unsuccessful
+Justin Bijlow,Genoa,70,51,KeeperPickup,KeeperPickup,SecondHalf,4.2,63.1,0.0,0.0,Successful
+Justin Bijlow,Genoa,70,54,Pass,Pass,SecondHalf,9.2,61.8,13.1,34.0,Successful
+Alessandro Marcandalli,Genoa,70,58,Pass,Pass,SecondHalf,14.8,34.2,11.1,53.0,Successful
+Leo Østigård,Genoa,71,0,Pass,Pass,SecondHalf,11.2,53.4,19.6,79.1,Successful
+Johan Vásquez,Genoa,71,6,Pass,Pass,SecondHalf,25.3,75.1,12.6,60.6,Successful
+Justin Bijlow,Genoa,71,12,Pass,Pass,SecondHalf,18.8,54.2,26.6,58.2,Successful
+Djibril Sow,Genoa,71,16,Pass,Pass,SecondHalf,29.8,58.8,40.9,83.5,Successful
+Johan Vásquez,Genoa,71,21,Unsuccessful Dribble,TakeOn,SecondHalf,54.4,82.2,0.0,0.0,Unsuccessful
+Assane Diao,Como,71,21,Was Dribbled,Tackle,SecondHalf,45.6,17.8,0.0,0.0,Unsuccessful
+Djibril Sow,Genoa,71,23,Pass,Pass,SecondHalf,56.0,67.0,61.4,93.5,Successful
+Vítinha,Genoa,71,27,Pass,Pass,SecondHalf,57.0,90.2,44.1,81.4,Successful
+Johan Vásquez,Genoa,71,30,Pass,Pass,SecondHalf,42.9,76.0,41.9,63.0,Successful
+Morten Frendrup,Genoa,71,32,Pass,Pass,SecondHalf,42.6,62.1,43.5,33.6,Successful
+Leo Østigård,Genoa,71,34,Pass,Pass,SecondHalf,45.4,29.5,58.1,29.5,Successful
+Junior Messias,Genoa,71,40,Pass,Pass,SecondHalf,66.1,26.4,65.5,39.8,Successful
+Djibril Sow,Genoa,71,42,Pass,Pass,SecondHalf,65.4,41.9,58.0,66.9,Successful
+Johan Vásquez,Genoa,71,45,Pass,Pass,SecondHalf,60.6,73.2,62.7,64.5,Successful
+Djibril Sow,Genoa,71,46,Pass,Pass,SecondHalf,62.7,64.5,56.6,49.9,Successful
+Morten Frendrup,Genoa,71,49,Pass,Pass,SecondHalf,57.5,47.5,58.1,25.3,Successful
+Leo Østigård,Genoa,71,51,Pass,Pass,SecondHalf,58.8,25.0,56.6,36.3,Successful
+Morten Frendrup,Genoa,71,56,Pass,Pass,SecondHalf,54.1,30.3,57.4,8.6,Successful
+Leo Østigård,Genoa,71,58,Pass,Pass,SecondHalf,57.4,8.6,52.8,27.7,Successful
+Morten Frendrup,Genoa,72,1,Pass,Pass,SecondHalf,53.3,41.6,54.4,49.9,Successful
+Djibril Sow,Genoa,72,6,Pass,Pass,SecondHalf,67.3,54.5,70.1,70.9,Successful
+Vítinha,Genoa,72,7,Pass,Pass,SecondHalf,70.1,70.8,70.1,87.8,Successful
+Johan Vásquez,Genoa,72,10,Cross,Pass,SecondHalf,77.5,83.4,90.9,0.0,Unsuccessful
+Álex Valle,Como,72,30,Throw In,Pass,SecondHalf,17.8,100.0,29.2,90.9,Successful
+Maxence Caqueret,Como,72,34,Loss of Possession,Dispossessed,SecondHalf,22.9,90.6,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,72,34,Successful Tackle,Tackle,SecondHalf,77.1,9.4,0.0,0.0,Successful
+Trevoh Chalobah,Como,72,37,ShieldBallOpp,ShieldBallOpp,SecondHalf,3.7,86.7,0.0,0.0,Successful
+Jean Butez,Como,72,57,Long Pass,Pass,SecondHalf,2.9,55.2,31.4,23.5,Unsuccessful
+Djibril Sow,Genoa,73,4,Ball Recovery,BallRecovery,SecondHalf,61.6,70.9,0.0,0.0,Successful
+Djibril Sow,Genoa,73,4,Pass,Pass,SecondHalf,61.6,70.9,63.9,79.0,Successful
+Vítinha,Genoa,73,5,Pass,Pass,SecondHalf,64.0,79.7,68.2,58.5,Unsuccessful
+Maxence Caqueret,Como,73,5,Ball Recovery,BallRecovery,SecondHalf,27.8,61.3,0.0,0.0,Successful
+Maxence Caqueret,Como,73,6,Pass,Pass,SecondHalf,27.1,58.1,42.2,59.1,Unsuccessful
+Djibril Sow,Genoa,73,7,Pass,Pass,SecondHalf,57.7,34.8,58.0,33.6,Unsuccessful
+Lucas da Cunha,Como,73,7,BlockedPass,BlockedPass,SecondHalf,42.0,66.4,0.0,0.0,Successful
+Kingsley Ehizibue,Genoa,73,15,Key Pass,Pass,SecondHalf,58.2,0.0,86.0,11.1,Successful
+Junior Messias,Genoa,73,23,Shot on Target,SavedShot,SecondHalf,87.7,39.9,0.0,0.0,Successful
+Álex Valle,Como,73,24,Save,Save,SecondHalf,9.2,59.9,0.0,0.0,Successful
+Junior Messias,Genoa,73,24,CornerAwarded,CornerAwarded,SecondHalf,96.0,39.4,0.0,0.0,Successful
+Álex Valle,Como,73,24,CornerAwarded,CornerAwarded,SecondHalf,4.0,60.6,0.0,0.0,Unsuccessful
+Mikael Ellertsson,Genoa,74,5,Cross,Pass,SecondHalf,99.5,0.5,100.0,68.5,Unsuccessful
+Djibril Sow,Genoa,74,36,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Alex Amorim,Genoa,74,36,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jean Butez,Como,74,51,Long Pass,Pass,SecondHalf,3.0,47.1,61.5,61.5,Unsuccessful
+Leo Østigård,Genoa,74,54,Aerial Won,Aerial,SecondHalf,38.5,38.5,0.0,0.0,Successful
+Moise Kean,Como,74,54,Aerial Lost,Aerial,SecondHalf,61.5,61.5,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,74,55,Clearance,Clearance,SecondHalf,38.5,38.5,42.9,17.9,Successful
+Maxence Caqueret,Como,74,56,Chipped Pass,Pass,SecondHalf,57.6,78.6,41.6,88.9,Successful
+Álex Valle,Como,74,57,Pass,Pass,SecondHalf,41.6,88.9,39.2,69.9,Successful
+Lucas da Cunha,Como,74,59,Pass,Pass,SecondHalf,39.2,69.9,45.2,56.4,Successful
+Máximo Perrone,Como,75,1,Pass,Pass,SecondHalf,52.8,57.1,60.2,39.3,Successful
+Nico Paz,Como,75,3,Pass,Pass,SecondHalf,67.4,38.2,80.2,11.4,Successful
+Assane Diao,Como,75,9,Pass,Pass,SecondHalf,85.5,16.8,75.3,36.6,Successful
+Máximo Perrone,Como,75,12,Chipped Pass,Pass,SecondHalf,75.1,36.7,96.3,57.0,Unsuccessful
+Justin Bijlow,Genoa,75,15,KeeperPickup,KeeperPickup,SecondHalf,5.3,43.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,75,17,Pass,Pass,SecondHalf,13.9,34.0,24.0,16.5,Successful
+Kingsley Ehizibue,Genoa,75,22,Pass,Pass,SecondHalf,22.7,23.9,13.2,41.8,Successful
+Leo Østigård,Genoa,75,26,Pass,Pass,SecondHalf,22.7,56.0,40.9,41.9,Successful
+Álex Valle,Como,75,32,Challenge,Challenge,SecondHalf,42.5,57.7,0.0,0.0,Unsuccessful
+Junior Messias,Genoa,75,32,Successful Dribble,TakeOn,SecondHalf,57.5,42.3,0.0,0.0,Successful
+Junior Messias,Genoa,75,37,Unsuccessful Dribble,TakeOn,SecondHalf,86.6,36.2,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,75,37,Successful Tackle,Tackle,SecondHalf,13.4,63.8,0.0,0.0,Successful
+Jacobo Ramón,Como,75,38,Ball Recovery,BallRecovery,SecondHalf,19.1,69.0,0.0,0.0,Successful
+Jacobo Ramón,Como,75,42,Pass,Pass,SecondHalf,20.3,71.5,23.2,64.9,Successful
+Álex Valle,Como,75,43,Pass,Pass,SecondHalf,23.2,64.9,29.4,77.2,Successful
+Maxence Caqueret,Como,75,44,Pass,Pass,SecondHalf,29.4,77.2,33.6,50.8,Successful
+Lucas da Cunha,Como,75,49,Pass,Pass,SecondHalf,54.1,55.2,60.0,18.8,Successful
+Assane Diao,Como,75,55,Pass,Pass,SecondHalf,63.6,18.7,59.0,7.2,Successful
+Nico Paz,Como,75,57,Pass,Pass,SecondHalf,67.4,11.7,65.5,27.4,Successful
+Lucas da Cunha,Como,75,58,Pass,Pass,SecondHalf,66.3,27.6,58.4,23.8,Successful
+Nico Paz,Como,75,59,Pass,Pass,SecondHalf,58.4,23.8,64.7,41.1,Successful
+Maxence Caqueret,Como,76,1,Pass,Pass,SecondHalf,64.7,41.1,58.1,28.2,Successful
+Nico Paz,Como,76,1,Pass,Pass,SecondHalf,58.1,28.2,65.8,37.5,Successful
+Maxence Caqueret,Como,76,2,Pass,Pass,SecondHalf,65.8,37.5,61.7,20.2,Successful
+Lucas da Cunha,Como,76,5,Pass,Pass,SecondHalf,61.7,20.2,60.0,29.8,Successful
+Nico Paz,Como,76,6,Pass,Pass,SecondHalf,60.0,29.8,61.0,17.2,Successful
+Lucas da Cunha,Como,76,10,Pass,Pass,SecondHalf,58.1,21.1,47.0,34.5,Successful
+Jacobo Ramón,Como,76,14,Pass,Pass,SecondHalf,47.0,32.7,57.5,9.3,Successful
+Yan Couto,Como,76,16,Pass,Pass,SecondHalf,57.1,9.3,50.1,50.8,Successful
+Máximo Perrone,Como,76,20,Pass,Pass,SecondHalf,52.7,41.5,40.4,13.3,Successful
+Yan Couto,Como,76,23,Pass,Pass,SecondHalf,44.4,22.6,37.7,32.2,Successful
+Jacobo Ramón,Como,76,25,Pass,Pass,SecondHalf,37.5,32.2,38.6,61.8,Successful
+Trevoh Chalobah,Como,76,28,Pass,Pass,SecondHalf,35.3,62.8,39.0,84.1,Successful
+Álex Valle,Como,76,33,Pass,Pass,SecondHalf,36.1,81.1,28.1,66.0,Successful
+Trevoh Chalobah,Como,76,36,Pass,Pass,SecondHalf,25.8,58.0,23.7,32.4,Successful
+Jacobo Ramón,Como,76,39,Chipped Pass,Pass,SecondHalf,23.0,31.9,46.2,19.6,Successful
+Assane Diao,Como,76,42,Pass,Pass,SecondHalf,47.6,22.1,51.0,32.1,Successful
+Nico Paz,Como,76,49,Pass,Pass,SecondHalf,78.0,9.7,67.2,29.2,Successful
+Máximo Perrone,Como,76,55,Pass,Pass,SecondHalf,65.0,36.6,67.7,45.6,Successful
+Lucas da Cunha,Como,76,58,Pass,Pass,SecondHalf,65.9,49.5,56.2,68.1,Successful
+Trevoh Chalobah,Como,77,0,Pass,Pass,SecondHalf,56.2,68.1,62.9,79.2,Successful
+Maxence Caqueret,Como,77,4,Pass,Pass,SecondHalf,62.9,79.2,65.4,66.6,Successful
+Lucas da Cunha,Como,77,5,Unsuccessful Dribble,TakeOn,SecondHalf,68.0,68.3,0.0,0.0,Unsuccessful
+Alex Amorim,Genoa,77,5,Was Dribbled,Tackle,SecondHalf,32.0,31.7,0.0,0.0,Unsuccessful
+Junior Messias,Genoa,77,8,Ball Recovery,BallRecovery,SecondHalf,28.8,28.2,0.0,0.0,Successful
+Junior Messias,Genoa,77,8,Pass,Pass,SecondHalf,28.8,28.2,33.5,26.8,Successful
+Kingsley Ehizibue,Genoa,77,8,Pass,Pass,SecondHalf,33.7,26.8,23.7,15.9,Successful
+Alessandro Marcandalli,Genoa,77,12,Pass,Pass,SecondHalf,27.5,24.0,28.8,38.3,Successful
+Morten Frendrup,Genoa,77,14,Pass,Pass,SecondHalf,27.2,41.3,26.3,70.2,Successful
+Johan Vásquez,Genoa,77,20,Pass,Pass,SecondHalf,33.9,72.9,31.5,56.3,Successful
+Morten Frendrup,Genoa,77,23,Pass,Pass,SecondHalf,35.4,66.7,41.0,92.9,Successful
+Johan Vásquez,Genoa,77,27,Pass,Pass,SecondHalf,47.9,91.4,41.7,70.6,Successful
+Morten Frendrup,Genoa,77,30,Pass,Pass,SecondHalf,42.3,64.9,41.1,34.2,Successful
+Leo Østigård,Genoa,77,33,Pass,Pass,SecondHalf,42.6,30.6,49.1,30.1,Successful
+Alex Amorim,Genoa,77,36,Pass,Pass,SecondHalf,51.8,46.0,48.0,58.1,Successful
+Morten Frendrup,Genoa,77,39,Pass,Pass,SecondHalf,53.3,64.6,58.3,92.0,Successful
+Mikael Ellertsson,Genoa,77,43,Pass,Pass,SecondHalf,64.0,88.4,70.7,69.0,Successful
+Vítinha,Genoa,77,44,BallTouch,BallTouch,SecondHalf,70.7,69.0,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,77,46,Ball Recovery,BallRecovery,SecondHalf,28.2,46.4,0.0,0.0,Successful
+Lucas da Cunha,Como,77,47,Pass,Pass,SecondHalf,28.5,46.4,40.7,54.8,Successful
+Moise Kean,Como,77,48,Pass,Pass,SecondHalf,41.2,55.6,38.5,60.1,Successful
+Maxence Caqueret,Como,77,52,Pass,Pass,SecondHalf,42.0,56.6,67.7,43.2,Successful
+Moise Kean,Como,77,54,Assist,Pass,SecondHalf,81.5,46.4,90.5,36.0,Successful
+Assane Diao,Como,77,56,Goal,Goal,SecondHalf,90.5,36.0,0.0,0.0,Successful
+Lucas da Cunha,Como,79,2,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Samuele Ricci,Como,79,2,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Nico Paz,Como,79,8,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Luis Milla,Como,79,8,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,79,23,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Milutin Osmajic,Genoa,79,34,Pass,Pass,SecondHalf,50.5,49.7,36.8,44.5,Successful
+Morten Frendrup,Genoa,79,34,Pass,Pass,SecondHalf,36.8,44.5,35.2,13.7,Successful
+Alessandro Marcandalli,Genoa,79,39,Pass,Pass,SecondHalf,46.3,26.1,34.0,34.5,Successful
+Leo Østigård,Genoa,79,45,Pass,Pass,SecondHalf,29.6,36.3,29.9,56.9,Successful
+Johan Vásquez,Genoa,79,46,Pass,Pass,SecondHalf,30.0,57.5,36.0,66.1,Successful
+Alex Amorim,Genoa,79,50,Pass,Pass,SecondHalf,57.0,81.1,65.1,92.9,Successful
+Mikael Ellertsson,Genoa,79,52,Pass,Pass,SecondHalf,65.1,92.9,47.8,82.3,Successful
+Johan Vásquez,Genoa,79,56,Pass,Pass,SecondHalf,54.9,79.3,58.3,87.7,Successful
+Alex Amorim,Genoa,79,59,Long Pass,Pass,SecondHalf,58.0,84.8,39.6,44.3,Successful
+Kingsley Ehizibue,Genoa,80,0,Offside,OffsideGiven,SecondHalf,81.6,36.4,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,80,6,Pass,Pass,SecondHalf,42.2,36.0,43.2,63.9,Successful
+Johan Vásquez,Genoa,80,8,Pass,Pass,SecondHalf,42.9,67.3,53.0,83.8,Successful
+Alex Amorim,Genoa,80,14,Pass,Pass,SecondHalf,48.3,66.4,55.1,86.2,Successful
+Johan Vásquez,Genoa,80,19,Pass,Pass,SecondHalf,64.9,92.1,56.2,78.4,Successful
+Alex Amorim,Genoa,80,23,Long Pass,OffsidePass,SecondHalf,59.4,71.1,81.6,36.4,Successful
+Yan Couto,Como,80,23,OffsideProvoked,OffsideProvoked,SecondHalf,20.7,36.2,0.0,0.0,Successful
+Alessandro Marcandalli,Genoa,80,50,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ethan Meichtry,Genoa,80,50,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,80,57,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jean Butez,Como,81,7,Pass,Pass,SecondHalf,13.4,51.9,18.5,77.8,Successful
+Trevoh Chalobah,Como,81,9,Pass,Pass,SecondHalf,19.1,78.0,31.6,86.5,Successful
+Álex Valle,Como,81,10,Pass,Pass,SecondHalf,29.2,84.6,36.0,82.8,Successful
+Maxence Caqueret,Como,81,12,Pass,Pass,SecondHalf,27.1,73.2,24.6,62.6,Successful
+Máximo Perrone,Como,81,13,Pass,Pass,SecondHalf,26.6,49.9,32.2,46.8,Successful
+Maxence Caqueret,Como,81,14,Pass,Pass,SecondHalf,32.2,47.1,22.4,47.1,Successful
+Máximo Perrone,Como,81,16,Pass,Pass,SecondHalf,23.0,47.5,24.0,25.5,Successful
+Jacobo Ramón,Como,81,18,Pass,Pass,SecondHalf,24.0,25.5,32.4,25.8,Successful
+Samuele Ricci,Como,81,23,Pass,Pass,SecondHalf,31.8,25.4,23.8,10.9,Successful
+Yan Couto,Como,81,26,Pass,Pass,SecondHalf,21.6,10.1,4.6,45.7,Successful
+Jean Butez,Como,81,27,Pass,Pass,SecondHalf,1.8,46.9,7.8,73.2,Successful
+Trevoh Chalobah,Como,81,30,Pass,Pass,SecondHalf,12.6,74.2,20.1,89.8,Successful
+Álex Valle,Como,81,34,Long Pass,Pass,SecondHalf,20.2,87.7,3.8,47.2,Successful
+Jean Butez,Como,81,37,Pass,Pass,SecondHalf,3.9,47.1,13.9,7.9,Successful
+Yan Couto,Como,81,42,Long Pass,Pass,SecondHalf,14.0,8.5,72.5,19.2,Unsuccessful
+Mikael Ellertsson,Genoa,81,46,Pass,Pass,SecondHalf,27.4,80.9,5.0,66.6,Successful
+Justin Bijlow,Genoa,81,49,Ball Recovery,BallRecovery,SecondHalf,5.0,65.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,81,51,Pass,Pass,SecondHalf,7.2,53.9,19.3,24.3,Successful
+Kingsley Ehizibue,Genoa,81,58,Pass,Pass,SecondHalf,29.4,30.9,25.7,61.4,Successful
+Johan Vásquez,Genoa,82,3,Pass,Pass,SecondHalf,35.3,76.3,40.4,93.3,Successful
+Mikael Ellertsson,Genoa,82,6,Pass,Pass,SecondHalf,41.2,92.4,34.6,72.0,Successful
+Johan Vásquez,Genoa,82,9,Pass,Pass,SecondHalf,33.6,66.9,32.3,28.6,Successful
+Kingsley Ehizibue,Genoa,82,15,Pass,Pass,SecondHalf,38.7,24.1,43.6,5.5,Successful
+Vítinha,Genoa,82,19,Chipped Pass,Pass,SecondHalf,43.8,5.2,61.2,7.0,Successful
+Alex Amorim,Genoa,82,23,Pass,Pass,SecondHalf,63.8,21.3,62.5,29.5,Successful
+Junior Messias,Genoa,82,24,Pass,Pass,SecondHalf,62.8,28.8,64.3,14.4,Successful
+Vítinha,Genoa,82,26,Cross,Pass,SecondHalf,76.1,6.6,87.8,38.5,Successful
+Milutin Osmajic,Genoa,82,30,Loss of Possession,Dispossessed,SecondHalf,91.7,41.0,0.0,0.0,Successful
+Jacobo Ramón,Como,82,31,Was Dribbled,Tackle,SecondHalf,8.4,59.0,0.0,0.0,Unsuccessful
+Ethan Meichtry,Genoa,82,31,Loss of Possession,Dispossessed,SecondHalf,88.1,40.8,0.0,0.0,Successful
+Trevoh Chalobah,Como,82,32,Was Dribbled,Tackle,SecondHalf,11.9,59.2,0.0,0.0,Unsuccessful
+Ethan Meichtry,Genoa,82,32,Loss of Possession,Dispossessed,SecondHalf,88.1,40.6,0.0,0.0,Successful
+Trevoh Chalobah,Como,82,32,Successful Tackle,Tackle,SecondHalf,11.9,59.4,0.0,0.0,Successful
+Trevoh Chalobah,Como,82,34,Clearance,Clearance,SecondHalf,7.4,58.9,10.5,80.8,Successful
+Vítinha,Genoa,82,34,Cross,Pass,SecondHalf,87.5,18.8,89.0,29.1,Unsuccessful
+Álex Valle,Como,82,34,Clearance,Clearance,SecondHalf,11.0,70.9,0.0,0.0,Successful
+Maxence Caqueret,Como,82,36,Ball Recovery,BallRecovery,SecondHalf,21.9,81.4,0.0,0.0,Successful
+Maxence Caqueret,Como,82,36,Key Pass,Pass,SecondHalf,23.8,75.3,30.0,68.8,Successful
+Samuele Ricci,Como,82,46,Shot on Target,SavedShot,SecondHalf,75.0,40.3,0.0,0.0,Successful
+Justin Bijlow,Genoa,82,47,Save,Save,SecondHalf,3.0,50.1,0.0,0.0,Successful
+Justin Bijlow,Genoa,82,50,KeeperPickup,KeeperPickup,SecondHalf,1.4,48.5,0.0,0.0,Successful
+Justin Bijlow,Genoa,82,57,Long Pass,Pass,SecondHalf,10.8,55.1,38.8,87.4,Successful
+Moise Kean,Como,83,0,Offside,OffsideGiven,SecondHalf,62.0,68.1,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,83,1,Challenge,Challenge,SecondHalf,33.4,10.6,0.0,0.0,Unsuccessful
+Ethan Meichtry,Genoa,83,1,Successful Dribble,TakeOn,SecondHalf,66.6,89.4,0.0,0.0,Successful
+Ethan Meichtry,Genoa,83,9,Key Pass,Pass,SecondHalf,81.0,84.4,75.5,21.2,Successful
+Vítinha,Genoa,83,15,Shot on Target,SavedShot,SecondHalf,76.2,38.3,0.0,0.0,Successful
+Jean Butez,Como,83,15,Save,Save,SecondHalf,3.6,49.1,0.0,0.0,Successful
+Jean Butez,Como,83,37,KeeperPickup,KeeperPickup,SecondHalf,3.1,46.9,0.0,0.0,Successful
+Jean Butez,Como,83,38,Long Pass,OffsidePass,SecondHalf,8.1,45.6,62.0,68.1,Successful
+Leo Østigård,Genoa,83,38,OffsideProvoked,OffsideProvoked,SecondHalf,39.8,35.5,0.0,0.0,Successful
+Assane Diao,Como,83,59,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Mattia Liberali,Como,83,59,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,84,0,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Johan Vásquez,Genoa,84,11,Pass,Pass,SecondHalf,42.9,50.3,44.8,68.4,Successful
+Alex Amorim,Genoa,84,13,Pass,Pass,SecondHalf,44.8,68.4,36.3,53.0,Successful
+Johan Vásquez,Genoa,84,19,Pass,Pass,SecondHalf,48.2,65.4,53.7,81.1,Successful
+Alex Amorim,Genoa,84,23,Pass,Pass,SecondHalf,73.1,89.3,82.9,93.6,Successful
+Mikael Ellertsson,Genoa,84,28,BallTouch,BallTouch,SecondHalf,89.7,91.7,0.0,0.0,Successful
+Ethan Meichtry,Genoa,84,29,BallTouch,BallTouch,SecondHalf,86.7,93.3,0.0,0.0,Unsuccessful
+Yan Couto,Como,84,40,Throw In,Pass,SecondHalf,12.1,0.0,14.5,9.6,Successful
+Máximo Perrone,Como,84,42,Pass,Pass,SecondHalf,14.7,10.7,11.3,7.8,Successful
+Yan Couto,Como,84,43,Pass,Pass,SecondHalf,11.3,7.8,26.4,6.4,Successful
+Mattia Liberali,Como,84,44,BallTouch,BallTouch,SecondHalf,26.4,6.6,0.0,0.0,Unsuccessful
+Alex Amorim,Genoa,84,48,Throw In,Pass,SecondHalf,80.3,100.0,67.8,95.0,Successful
+Johan Vásquez,Genoa,84,51,Pass,Pass,SecondHalf,67.9,95.0,74.6,97.2,Successful
+Alex Amorim,Genoa,84,53,Pass,Pass,SecondHalf,67.9,93.3,49.0,58.5,Successful
+Leo Østigård,Genoa,84,58,Pass,Pass,SecondHalf,47.0,55.2,49.6,72.6,Successful
+Mikael Ellertsson,Genoa,85,0,Offside,OffsideGiven,SecondHalf,71.4,87.7,0.0,0.0,Unsuccessful
+Morten Frendrup,Genoa,85,0,Pass,Pass,SecondHalf,53.2,76.3,57.1,85.6,Successful
+Alex Amorim,Genoa,85,6,Pass,Pass,SecondHalf,54.2,70.5,56.5,88.1,Successful
+Morten Frendrup,Genoa,85,9,Pass,Pass,SecondHalf,59.6,89.4,68.2,95.0,Successful
+Mikael Ellertsson,Genoa,85,11,Pass,Pass,SecondHalf,66.1,95.0,55.5,76.6,Successful
+Alex Amorim,Genoa,85,16,Pass,Pass,SecondHalf,61.4,85.1,73.8,93.3,Successful
+Morten Frendrup,Genoa,85,19,Pass,Pass,SecondHalf,79.4,94.8,91.9,91.7,Successful
+Ethan Meichtry,Genoa,85,22,Pass,Pass,SecondHalf,91.3,91.5,83.4,85.7,Successful
+Morten Frendrup,Genoa,85,25,Pass,Pass,SecondHalf,78.8,87.8,76.2,91.7,Successful
+Alex Amorim,Genoa,85,27,Cross,Pass,SecondHalf,72.6,87.4,83.6,55.7,Unsuccessful
+Luis Milla,Como,85,30,Clearance,Clearance,SecondHalf,15.7,46.8,9.5,20.7,Successful
+Yan Couto,Como,85,32,Clearance,Clearance,SecondHalf,7.0,18.9,22.6,0.0,Successful
+Alex Amorim,Genoa,85,38,Throw In,Pass,SecondHalf,80.2,100.0,67.8,93.6,Successful
+Johan Vásquez,Genoa,85,41,Long Pass,Pass,SecondHalf,65.4,92.9,31.6,65.1,Successful
+Leo Østigård,Genoa,85,45,Pass,Pass,SecondHalf,28.7,63.9,27.1,36.9,Successful
+Justin Bijlow,Genoa,85,49,Pass,Pass,SecondHalf,27.5,37.0,31.9,22.8,Successful
+Kingsley Ehizibue,Genoa,85,55,Pass,Pass,SecondHalf,41.5,39.7,40.1,62.7,Successful
+Alex Amorim,Genoa,85,58,Offside,OffsidePass,SecondHalf,46.0,63.8,71.4,87.7,Successful
+Mattia Liberali,Como,85,58,OffsideProvoked,OffsideProvoked,SecondHalf,32.3,17.3,0.0,0.0,Successful
+Jean Butez,Como,86,32,Long Pass,Pass,SecondHalf,22.6,23.7,81.3,8.5,Unsuccessful
+Leo Østigård,Genoa,86,32,Aerial Won,Aerial,SecondHalf,18.7,91.5,0.0,0.0,Successful
+Moise Kean,Como,86,32,Aerial Lost,Aerial,SecondHalf,81.3,8.5,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,86,33,Clearance,Clearance,SecondHalf,18.7,91.5,16.7,100.0,Successful
+Yan Couto,Como,86,56,Throw In,Pass,SecondHalf,82.0,0.0,64.0,12.4,Successful
+Jacobo Ramón,Como,86,57,Pass,Pass,SecondHalf,66.1,12.0,57.6,29.1,Successful
+Máximo Perrone,Como,86,59,Pass,Pass,SecondHalf,51.0,27.6,61.5,36.9,Successful
+Luis Milla,Como,87,0,Pass,Pass,SecondHalf,61.0,36.0,52.8,8.5,Successful
+Jacobo Ramón,Como,87,4,Pass,Pass,SecondHalf,53.3,13.9,43.9,32.4,Successful
+Máximo Perrone,Como,87,6,Pass,Pass,SecondHalf,40.7,37.2,42.4,62.1,Successful
+Trevoh Chalobah,Como,87,9,Pass,Pass,SecondHalf,42.4,66.2,42.6,79.5,Successful
+Álex Valle,Como,87,11,Pass,Pass,SecondHalf,39.8,79.9,29.6,63.6,Successful
+Trevoh Chalobah,Como,87,13,Pass,Pass,SecondHalf,36.4,64.6,36.0,30.1,Successful
+Jacobo Ramón,Como,87,17,Pass,Pass,SecondHalf,35.8,30.3,39.0,45.7,Successful
+Máximo Perrone,Como,87,19,Pass,Pass,SecondHalf,37.1,51.1,13.5,55.9,Successful
+Jean Butez,Como,87,24,Pass,Pass,SecondHalf,10.0,55.6,11.9,75.4,Successful
+Trevoh Chalobah,Como,87,26,Pass,Pass,SecondHalf,12.2,81.9,22.2,88.3,Successful
+Álex Valle,Como,87,29,BallTouch,BallTouch,SecondHalf,20.4,90.3,0.0,0.0,Unsuccessful
+Vítinha,Genoa,87,31,ShieldBallOpp,ShieldBallOpp,SecondHalf,69.8,2.9,0.0,0.0,Successful
+Vítinha,Genoa,87,34,Throw In,Pass,SecondHalf,68.1,0.0,57.9,5.5,Successful
+Kingsley Ehizibue,Genoa,87,42,Pass,Pass,SecondHalf,59.8,24.6,58.1,15.8,Successful
+Alex Amorim,Genoa,87,49,Pass,Pass,SecondHalf,59.0,23.0,52.2,30.6,Successful
+Leo Østigård,Genoa,87,51,Pass,Pass,SecondHalf,52.2,30.7,54.4,72.3,Successful
+Johan Vásquez,Genoa,87,54,Pass,Pass,SecondHalf,57.6,81.1,67.6,95.3,Successful
+Mikael Ellertsson,Genoa,87,57,Pass,Pass,SecondHalf,69.0,95.3,73.6,75.9,Successful
+Junior Messias,Genoa,87,59,Loss of Possession,Dispossessed,SecondHalf,76.6,76.0,0.0,0.0,Successful
+Samuele Ricci,Como,87,59,Successful Tackle,Tackle,SecondHalf,23.4,24.0,0.0,0.0,Successful
+Jacobo Ramón,Como,88,0,Ball Recovery,BallRecovery,SecondHalf,20.7,24.9,0.0,0.0,Successful
+Jacobo Ramón,Como,88,0,Pass,Pass,SecondHalf,20.7,24.9,25.1,8.2,Successful
+Mattia Liberali,Como,88,4,Pass,Pass,SecondHalf,27.5,8.6,18.3,14.7,Successful
+Yan Couto,Como,88,8,Pass,Pass,SecondHalf,16.7,13.5,3.4,45.9,Successful
+Jean Butez,Como,88,11,Pass,Pass,SecondHalf,5.0,49.9,18.9,70.8,Successful
+Trevoh Chalobah,Como,88,14,Pass,Pass,SecondHalf,17.1,71.1,21.8,54.1,Successful
+Luis Milla,Como,88,16,Pass,Pass,SecondHalf,21.8,54.1,27.1,64.5,Successful
+Maxence Caqueret,Como,88,19,Pass,Pass,SecondHalf,28.9,65.1,32.2,46.6,Successful
+Máximo Perrone,Como,88,20,Pass,Pass,SecondHalf,30.4,43.8,38.7,54.4,Successful
+Mattia Liberali,Como,88,23,Unsuccessful Dribble,TakeOn,SecondHalf,38.8,54.4,0.0,0.0,Unsuccessful
+Vítinha,Genoa,88,24,Pass,Pass,SecondHalf,55.3,24.0,54.3,43.7,Unsuccessful
+Maxence Caqueret,Como,88,28,Pass,Pass,SecondHalf,54.6,40.8,56.5,20.2,Successful
+Samuele Ricci,Como,88,30,Pass,Pass,SecondHalf,56.5,20.2,52.3,33.7,Successful
+Maxence Caqueret,Como,88,31,Pass,Pass,SecondHalf,53.1,33.0,54.0,43.0,Successful
+Máximo Perrone,Como,88,33,Pass,Pass,SecondHalf,54.0,43.0,55.9,32.4,Successful
+Maxence Caqueret,Como,88,36,Pass,Pass,SecondHalf,61.3,30.6,55.9,18.6,Successful
+Samuele Ricci,Como,88,38,Pass,Pass,SecondHalf,56.7,19.9,52.7,28.9,Successful
+Máximo Perrone,Como,88,42,Pass,Pass,SecondHalf,53.0,28.9,65.6,34.9,Successful
+Maxence Caqueret,Como,88,42,Pass,Pass,SecondHalf,65.3,34.8,59.5,7.2,Successful
+Yan Couto,Como,88,44,Long Pass,Pass,SecondHalf,59.2,7.3,78.6,43.8,Successful
+Moise Kean,Como,88,47,Pass,Pass,SecondHalf,78.5,44.2,90.4,33.6,Successful
+Mattia Liberali,Como,88,48,BallTouch,BallTouch,SecondHalf,94.1,33.7,0.0,0.0,Unsuccessful
+Leo Østigård,Genoa,88,49,ShieldBallOpp,ShieldBallOpp,SecondHalf,1.3,69.7,0.0,0.0,Successful
+Justin Bijlow,Genoa,89,7,Pass,Pass,SecondHalf,4.8,50.7,9.0,72.9,Successful
+Johan Vásquez,Genoa,89,8,Pass,Pass,SecondHalf,10.4,76.0,16.2,93.5,Successful
+Ethan Meichtry,Genoa,89,9,Pass,Pass,SecondHalf,16.4,93.6,10.6,82.6,Successful
+Johan Vásquez,Genoa,89,9,Pass,Pass,SecondHalf,10.6,82.6,4.1,67.8,Successful
+Justin Bijlow,Genoa,89,12,Pass,Pass,SecondHalf,3.9,67.8,4.5,83.0,Successful
+Johan Vásquez,Genoa,89,14,Pass,Pass,SecondHalf,6.0,88.6,10.1,95.0,Successful
+Ethan Meichtry,Genoa,89,16,Pass,Pass,SecondHalf,10.9,94.1,20.6,95.3,Successful
+Mikael Ellertsson,Genoa,89,18,Chipped Pass,Pass,SecondHalf,20.8,94.8,32.2,79.4,Successful
+Junior Messias,Genoa,89,21,Aerial Won,Aerial,SecondHalf,32.2,79.4,0.0,0.0,Successful
+Máximo Perrone,Como,89,21,Aerial Lost,Aerial,SecondHalf,67.8,20.6,0.0,0.0,Unsuccessful
+Junior Messias,Genoa,89,22,Pass,Pass,SecondHalf,32.2,79.4,39.9,78.5,Successful
+Milutin Osmajic,Genoa,89,25,Pass,Pass,SecondHalf,44.3,55.7,54.4,11.6,Successful
+Vítinha,Genoa,89,29,Pass,Pass,SecondHalf,69.8,27.3,89.3,7.7,Successful
+Kingsley Ehizibue,Genoa,89,38,Pass,Pass,SecondHalf,86.5,13.1,75.2,20.7,Successful
+Vítinha,Genoa,89,40,Pass,Pass,SecondHalf,81.2,15.9,81.8,4.1,Successful
+Kingsley Ehizibue,Genoa,89,43,Pass,Pass,SecondHalf,80.8,6.8,73.0,18.2,Successful
+Alex Amorim,Genoa,89,46,Cross,Pass,SecondHalf,76.0,18.8,91.8,40.3,Unsuccessful
+Trevoh Chalobah,Como,89,48,Clearance,Clearance,SecondHalf,6.7,51.0,0.0,69.0,Successful
+Trevoh Chalobah,Como,89,48,CornerAwarded,CornerAwarded,SecondHalf,3.2,65.4,0.0,0.0,Unsuccessful
+Alex Amorim,Genoa,89,48,CornerAwarded,CornerAwarded,SecondHalf,96.8,34.6,0.0,0.0,Successful
+Alex Amorim,Genoa,90,8,Key Pass,Pass,SecondHalf,99.5,0.5,89.4,45.4,Successful
+Junior Messias,Genoa,90,12,Shot off Target,MissedShots,SecondHalf,89.4,45.4,0.0,0.0,Successful
+Jean Butez,Como,90,34,Long Pass,Pass,SecondHalf,4.0,43.2,62.1,31.5,Unsuccessful
+Johan Vásquez,Genoa,90,39,Pass,Pass,SecondHalf,40.2,71.8,62.3,85.6,Unsuccessful
+Yan Couto,Como,90,42,Long Pass,Pass,SecondHalf,25.9,10.2,84.1,39.9,Unsuccessful
+Justin Bijlow,Genoa,90,48,Ball Recovery,BallRecovery,SecondHalf,20.8,56.6,0.0,0.0,Successful
+Justin Bijlow,Genoa,90,49,Pass,Pass,SecondHalf,20.8,56.6,21.7,69.9,Successful
+Johan Vásquez,Genoa,90,56,Pass,Pass,SecondHalf,30.3,75.9,35.2,91.8,Successful
+Ethan Meichtry,Genoa,90,58,Pass,Pass,SecondHalf,36.4,93.9,53.1,94.5,Successful
+Mikael Ellertsson,Genoa,91,0,Pass,Pass,SecondHalf,53.4,94.5,56.7,93.8,Unsuccessful
+Yan Couto,Como,91,0,BlockedPass,BlockedPass,SecondHalf,43.3,6.2,0.0,0.0,Successful
+Mikael Ellertsson,Genoa,91,9,Throw In,Pass,SecondHalf,55.8,100.0,41.1,91.2,Successful
+Johan Vásquez,Genoa,91,13,Pass,Pass,SecondHalf,40.7,90.3,26.1,64.2,Successful
+Justin Bijlow,Genoa,91,17,Pass,Pass,SecondHalf,29.7,60.5,32.9,29.1,Successful
+Leo Østigård,Genoa,91,22,Pass,Pass,SecondHalf,41.5,13.8,56.6,4.1,Successful
+Junior Messias,Genoa,91,28,Chipped Pass,Pass,SecondHalf,59.8,21.3,67.2,37.9,Unsuccessful
+Jacobo Ramón,Como,91,30,Pass,Pass,SecondHalf,22.8,49.3,32.9,63.4,Successful
+Máximo Perrone,Como,91,32,Ball Recovery,BallRecovery,SecondHalf,32.2,63.4,0.0,0.0,Successful
+Máximo Perrone,Como,91,32,Pass,Pass,SecondHalf,30.2,62.7,11.9,53.5,Successful
+Jean Butez,Como,91,34,Pass,Pass,SecondHalf,11.0,51.1,21.7,63.7,Successful
+Máximo Perrone,Como,91,37,Pass,Pass,SecondHalf,21.5,69.7,23.6,91.6,Successful
+Álex Valle,Como,91,40,Pass,Pass,SecondHalf,25.3,91.3,15.1,81.3,Successful
+Trevoh Chalobah,Como,91,42,Pass,Pass,SecondHalf,13.5,80.5,8.1,52.2,Successful
+Jean Butez,Como,91,45,Pass,Pass,SecondHalf,0.8,50.5,6.1,31.9,Successful
+Jacobo Ramón,Como,91,49,Chipped Pass,Pass,SecondHalf,12.0,24.6,32.7,53.8,Successful
+Máximo Perrone,Como,91,51,Pass,Pass,SecondHalf,32.8,54.0,50.9,34.5,Unsuccessful
+Johan Vásquez,Genoa,91,52,Long Pass,Pass,SecondHalf,45.4,67.5,67.0,50.7,Unsuccessful
+Luis Milla,Como,91,53,Pass,Pass,SecondHalf,29.3,42.1,37.5,46.0,Successful
+Máximo Perrone,Como,91,54,Pass,Pass,SecondHalf,37.5,46.0,24.1,43.6,Successful
+Luis Milla,Como,91,57,Loss of Possession,Dispossessed,SecondHalf,27.4,42.2,0.0,0.0,Successful
+Junior Messias,Genoa,91,57,Successful Tackle,Tackle,SecondHalf,72.6,57.8,0.0,0.0,Successful
+Milutin Osmajic,Genoa,91,58,Ball Recovery,BallRecovery,SecondHalf,73.4,58.2,0.0,0.0,Successful
+Milutin Osmajic,Genoa,92,2,BallTouch,BallTouch,SecondHalf,81.0,48.1,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,92,3,Ball Recovery,BallRecovery,SecondHalf,26.3,55.8,0.0,0.0,Successful
+Trevoh Chalobah,Como,92,5,Pass,Pass,SecondHalf,24.2,54.0,20.8,30.5,Successful
+Yan Couto,Como,92,10,Pass,Pass,SecondHalf,23.1,13.5,3.8,42.7,Successful
+Jean Butez,Como,92,16,Pass,Pass,SecondHalf,3.8,42.7,11.3,81.9,Successful
+Álex Valle,Como,92,18,Pass,Pass,SecondHalf,11.3,81.9,23.3,90.7,Successful
+Maxence Caqueret,Como,92,19,Pass,Pass,SecondHalf,23.5,90.4,23.4,70.1,Successful
+Máximo Perrone,Como,92,21,Pass,Pass,SecondHalf,23.6,76.9,21.2,87.3,Successful
+Álex Valle,Como,92,22,Pass,Pass,SecondHalf,21.6,81.6,23.9,67.1,Successful
+Luis Milla,Como,92,25,Pass,Pass,SecondHalf,23.4,72.2,22.2,84.0,Successful
+Álex Valle,Como,92,27,Pass,Pass,SecondHalf,19.9,82.4,10.8,73.4,Successful
+Trevoh Chalobah,Como,92,29,Pass,Pass,SecondHalf,9.0,69.3,4.7,50.2,Successful
+Jean Butez,Como,92,32,Pass,Pass,SecondHalf,5.5,36.4,14.5,24.3,Successful
+Jacobo Ramón,Como,92,41,Pass,Pass,SecondHalf,21.4,19.0,24.5,32.8,Successful
+Samuele Ricci,Como,92,44,Pass,Pass,SecondHalf,21.1,31.2,10.4,40.5,Successful
+Luis Milla,Como,92,47,Pass,Pass,SecondHalf,11.1,40.6,18.4,48.6,Successful
+Máximo Perrone,Como,92,48,Pass,Pass,SecondHalf,18.4,48.6,2.1,58.3,Successful
+Jean Butez,Como,92,50,Pass,Pass,SecondHalf,2.0,57.9,16.6,91.6,Successful
+Álex Valle,Como,92,53,Pass,Pass,SecondHalf,19.1,91.8,36.0,94.5,Successful
+Samuele Ricci,Como,92,56,Unsuccessful Dribble,TakeOn,SecondHalf,40.2,94.8,0.0,0.0,Unsuccessful
+Kingsley Ehizibue,Genoa,92,56,Successful Tackle,Tackle,SecondHalf,59.8,5.2,0.0,0.0,Successful
+,Genoa,93,2,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,93,2,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Genoa,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful

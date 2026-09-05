@@ -1,0 +1,1482 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,Espanyol,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Roberto Fernández,Espanyol,0,0,Pass,Pass,FirstHalf,50.2,49.7,37.6,56.5,Successful
+Edu Expósito,Espanyol,0,2,Pass,Pass,FirstHalf,37.8,56.5,44.3,19.2,Successful
+Omar El Hilali,Espanyol,0,5,Pass,Pass,FirstHalf,45.0,15.4,27.7,33.3,Successful
+Clemens Riedel,Espanyol,0,8,Pass,Pass,FirstHalf,28.7,35.3,27.3,56.2,Successful
+Unai Núñez,Espanyol,0,10,Pass,Pass,FirstHalf,26.0,59.6,28.3,76.4,Successful
+Roger Hinojo,Espanyol,0,13,Unsuccessful Dribble,TakeOn,FirstHalf,25.4,81.2,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,0,13,Successful Tackle,Tackle,FirstHalf,74.6,18.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,0,14,Ball Recovery,BallRecovery,FirstHalf,86.1,17.5,0.0,0.0,Successful
+Arda Güler,Real Madrid,0,17,Pass,Pass,FirstHalf,84.0,10.3,96.7,17.2,Successful
+Kylian Mbappé,Real Madrid,0,19,Pass,Pass,FirstHalf,96.6,15.4,85.1,5.4,Successful
+Arda Güler,Real Madrid,0,21,Pass,Pass,FirstHalf,85.2,4.5,80.6,4.5,Unsuccessful
+Tyrhys Dolan,Espanyol,0,23,Interception,Interception,FirstHalf,19.4,95.5,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,0,34,Throw In,Pass,FirstHalf,80.1,0.0,71.7,7.8,Successful
+Arda Güler,Real Madrid,0,35,Pass,Pass,FirstHalf,71.7,7.8,68.3,22.6,Successful
+Bernardo Silva,Real Madrid,0,36,Pass,Pass,FirstHalf,68.3,22.6,62.6,39.0,Successful
+Jude Bellingham,Real Madrid,0,38,Pass,Pass,FirstHalf,63.7,39.6,52.1,61.6,Successful
+Dean Huijsen,Real Madrid,0,41,Pass,Pass,FirstHalf,52.0,62.1,64.1,56.7,Successful
+Federico Valverde,Real Madrid,0,42,Pass,Pass,FirstHalf,64.1,56.7,52.6,29.4,Successful
+Ibrahima Konaté,Real Madrid,0,47,Pass,Pass,FirstHalf,55.0,25.0,69.5,21.7,Successful
+Arda Güler,Real Madrid,0,49,Pass,Pass,FirstHalf,66.5,16.2,45.5,17.8,Successful
+Ibrahima Konaté,Real Madrid,0,57,Pass,Pass,FirstHalf,45.0,26.4,39.8,58.0,Successful
+Dean Huijsen,Real Madrid,1,1,Pass,Pass,FirstHalf,43.6,55.8,43.1,95.1,Successful
+Álvaro Carreras,Real Madrid,1,4,Pass,Pass,FirstHalf,42.5,93.7,34.4,67.9,Successful
+Dean Huijsen,Real Madrid,1,7,Pass,Pass,FirstHalf,34.4,67.9,12.1,47.8,Successful
+Thibaut Courtois,Real Madrid,1,9,Long Pass,Pass,FirstHalf,12.1,47.8,45.3,32.4,Successful
+Arda Güler,Real Madrid,1,13,Aerial Won,Aerial,FirstHalf,45.3,32.4,0.0,0.0,Successful
+Edu Expósito,Espanyol,1,13,Aerial Lost,Aerial,FirstHalf,54.7,67.6,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,1,14,Pass,Pass,FirstHalf,45.3,32.4,63.1,38.7,Unsuccessful
+Unai Núñez,Espanyol,1,15,Ball Recovery,BallRecovery,FirstHalf,43.2,59.2,0.0,0.0,Successful
+Unai Núñez,Espanyol,1,16,Pass,Pass,FirstHalf,43.4,55.9,32.0,40.4,Successful
+Clemens Riedel,Espanyol,1,18,Pass,Pass,FirstHalf,32.6,40.9,12.2,46.2,Successful
+Marko Dmitrovic,Espanyol,1,27,Pass,Pass,FirstHalf,11.5,43.6,24.6,26.7,Successful
+Clemens Riedel,Espanyol,1,30,Pass,Pass,FirstHalf,27.6,36.7,35.1,76.7,Successful
+Roger Hinojo,Espanyol,1,35,Pass,Pass,FirstHalf,36.5,88.5,44.7,85.6,Successful
+Javi Hernández,Espanyol,1,37,Pass,Pass,FirstHalf,46.8,87.7,39.6,96.1,Successful
+Roger Hinojo,Espanyol,1,43,Pass,Pass,FirstHalf,28.8,77.0,21.3,44.8,Successful
+Clemens Riedel,Espanyol,1,44,Pass,Pass,FirstHalf,18.3,46.1,6.5,52.0,Successful
+Marko Dmitrovic,Espanyol,1,46,Long Pass,Pass,FirstHalf,7.4,53.2,47.0,72.6,Unsuccessful
+Denzel Dumfries,Real Madrid,1,51,Pass,Pass,FirstHalf,52.5,11.8,59.9,41.2,Unsuccessful
+Cala,Espanyol,1,53,Pass,Pass,FirstHalf,39.2,56.2,60.1,61.8,Successful
+Javi Hernández,Espanyol,1,55,Loss of Possession,Dispossessed,FirstHalf,60.3,62.8,0.0,0.0,Successful
+Federico Valverde,Real Madrid,1,55,Successful Tackle,Tackle,FirstHalf,39.7,37.2,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,1,57,Ball Recovery,BallRecovery,FirstHalf,33.9,38.7,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,1,57,Pass,Pass,FirstHalf,33.9,38.7,4.8,50.2,Successful
+Thibaut Courtois,Real Madrid,2,0,Long Pass,Pass,FirstHalf,4.8,50.2,54.5,52.3,Unsuccessful
+Urko González de Zárate,Espanyol,2,5,BallTouch,BallTouch,FirstHalf,38.1,55.8,0.0,0.0,Unsuccessful
+Urko González de Zárate,Espanyol,2,5,Challenge,Challenge,FirstHalf,40.6,48.3,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,2,5,Successful Dribble,TakeOn,FirstHalf,59.4,51.7,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,2,8,Pass,Pass,FirstHalf,64.0,80.1,60.9,94.6,Successful
+Vinícius Júnior,Real Madrid,2,10,Pass,Pass,FirstHalf,60.9,94.6,45.0,91.8,Successful
+Álvaro Carreras,Real Madrid,2,14,Pass,Pass,FirstHalf,45.1,88.5,59.0,78.7,Successful
+Kylian Mbappé,Real Madrid,2,15,Pass,Pass,FirstHalf,59.0,78.7,63.9,85.0,Successful
+Jude Bellingham,Real Madrid,2,17,Loss of Possession,Dispossessed,FirstHalf,64.7,84.4,0.0,0.0,Successful
+Clemens Riedel,Espanyol,2,17,Successful Tackle,Tackle,FirstHalf,35.2,15.7,0.0,0.0,Successful
+Álvaro Carreras,Real Madrid,2,36,Throw In,Pass,FirstHalf,62.1,100.0,64.4,90.4,Successful
+Bernardo Silva,Real Madrid,2,36,Pass,Pass,FirstHalf,64.4,90.4,67.9,97.2,Successful
+Vinícius Júnior,Real Madrid,2,41,Foul,Foul,FirstHalf,46.0,88.8,0.0,0.0,Successful
+Cala,Espanyol,2,41,Foul,Foul,FirstHalf,54.0,11.1,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,3,17,Pass,Pass,FirstHalf,48.2,95.4,46.8,84.6,Successful
+Bernardo Silva,Real Madrid,3,18,Pass,Pass,FirstHalf,46.8,84.6,45.3,94.6,Successful
+Federico Valverde,Real Madrid,3,19,Pass,Pass,FirstHalf,45.3,94.6,63.0,95.2,Successful
+Álvaro Carreras,Real Madrid,3,21,Pass,Pass,FirstHalf,65.8,90.4,64.8,64.2,Successful
+Kylian Mbappé,Real Madrid,3,24,Pass,Pass,FirstHalf,64.8,64.2,62.6,39.9,Successful
+Arda Güler,Real Madrid,3,26,Pass,Pass,FirstHalf,63.7,39.4,66.0,7.3,Successful
+Denzel Dumfries,Real Madrid,3,28,Pass,Pass,FirstHalf,66.0,7.3,63.0,25.6,Successful
+Arda Güler,Real Madrid,3,31,Pass,Pass,FirstHalf,61.3,26.4,41.9,35.1,Successful
+Ibrahima Konaté,Real Madrid,3,34,Pass,Pass,FirstHalf,46.5,30.7,47.5,40.9,Successful
+Bernardo Silva,Real Madrid,3,40,Pass,Pass,FirstHalf,46.7,45.1,43.8,18.4,Successful
+Ibrahima Konaté,Real Madrid,3,42,Pass,Pass,FirstHalf,43.7,22.3,66.8,21.1,Successful
+Denzel Dumfries,Real Madrid,3,46,BallTouch,BallTouch,FirstHalf,66.8,21.1,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,3,46,Unsuccessful Dribble,TakeOn,FirstHalf,38.2,73.9,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,3,46,Was Dribbled,Tackle,FirstHalf,61.8,26.1,0.0,0.0,Unsuccessful
+Javi Hernández,Espanyol,3,49,Ball Recovery,BallRecovery,FirstHalf,46.9,73.8,0.0,0.0,Successful
+Javi Hernández,Espanyol,3,51,Pass,Pass,FirstHalf,61.1,78.7,68.0,89.6,Successful
+Tyrhys Dolan,Espanyol,3,58,Unsuccessful Dribble,TakeOn,FirstHalf,74.9,92.8,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,3,58,Successful Tackle,Tackle,FirstHalf,25.1,7.2,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,3,59,Foul,Foul,FirstHalf,25.2,7.2,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,3,59,Foul,Foul,FirstHalf,74.8,92.8,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,4,24,Long Pass,Pass,FirstHalf,22.1,8.4,31.8,91.0,Successful
+Jude Bellingham,Real Madrid,4,27,Pass,Pass,FirstHalf,31.8,91.0,21.8,90.9,Successful
+Álvaro Carreras,Real Madrid,4,29,Pass,Pass,FirstHalf,21.8,90.9,29.3,95.8,Successful
+Jude Bellingham,Real Madrid,4,33,Long Pass,Pass,FirstHalf,30.4,81.9,47.1,3.9,Successful
+Denzel Dumfries,Real Madrid,4,36,Pass,Pass,FirstHalf,47.1,3.9,40.2,15.0,Successful
+Bernardo Silva,Real Madrid,4,41,Pass,Pass,FirstHalf,38.3,21.9,45.7,18.0,Successful
+Arda Güler,Real Madrid,4,42,Pass,Pass,FirstHalf,45.7,18.0,36.2,17.7,Successful
+Bernardo Silva,Real Madrid,4,44,Pass,Pass,FirstHalf,35.7,23.2,29.2,66.3,Successful
+Dean Huijsen,Real Madrid,4,50,Pass,Pass,FirstHalf,34.0,63.6,32.5,36.3,Successful
+Ibrahima Konaté,Real Madrid,4,54,Pass,Pass,FirstHalf,36.4,42.3,37.4,60.1,Successful
+Dean Huijsen,Real Madrid,4,57,Pass,Pass,FirstHalf,37.3,61.3,38.4,82.2,Successful
+Álvaro Carreras,Real Madrid,4,59,Pass,Pass,FirstHalf,39.0,83.1,43.7,95.7,Successful
+Jude Bellingham,Real Madrid,5,1,Pass,Pass,FirstHalf,43.6,95.7,39.0,85.3,Successful
+Álvaro Carreras,Real Madrid,5,4,Pass,Pass,FirstHalf,39.2,84.3,34.4,55.8,Successful
+Dean Huijsen,Real Madrid,5,8,Pass,Pass,FirstHalf,34.4,55.8,35.8,30.7,Successful
+Ibrahima Konaté,Real Madrid,5,11,Pass,Pass,FirstHalf,40.9,28.3,59.8,27.3,Successful
+Arda Güler,Real Madrid,5,14,Unsuccessful Dribble,TakeOn,FirstHalf,43.2,41.6,0.0,0.0,Unsuccessful
+Roberto Fernández,Espanyol,5,14,Successful Tackle,Tackle,FirstHalf,56.8,58.4,0.0,0.0,Successful
+Roger Hinojo,Espanyol,5,19,Ball Recovery,BallRecovery,FirstHalf,30.0,84.6,0.0,0.0,Successful
+Roger Hinojo,Espanyol,5,21,Pass,Pass,FirstHalf,19.6,83.4,15.9,71.2,Successful
+Unai Núñez,Espanyol,5,25,Pass,Pass,FirstHalf,25.7,74.4,44.0,87.3,Successful
+Tyrhys Dolan,Espanyol,5,31,Pass,Pass,FirstHalf,57.2,90.2,71.3,88.1,Successful
+Javi Hernández,Espanyol,5,34,Unsuccessful Dribble,TakeOn,FirstHalf,68.0,93.1,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,5,34,Successful Tackle,Tackle,FirstHalf,32.0,6.9,0.0,0.0,Successful
+Roger Hinojo,Espanyol,5,48,Throw In,Pass,FirstHalf,70.9,100.0,62.0,89.0,Successful
+Edu Expósito,Espanyol,5,52,Long Pass,Pass,FirstHalf,62.2,83.8,77.9,11.3,Successful
+Omar El Hilali,Espanyol,5,55,Chipped Pass,Pass,FirstHalf,75.9,10.4,77.9,16.2,Successful
+Cala,Espanyol,5,58,Pass,Pass,FirstHalf,78.1,16.8,78.6,14.5,Unsuccessful
+Álvaro Carreras,Real Madrid,5,58,BlockedPass,BlockedPass,FirstHalf,21.4,85.5,0.0,0.0,Successful
+Omar El Hilali,Espanyol,6,0,Offside,OffsideGiven,FirstHalf,93.1,13.9,0.0,0.0,Unsuccessful
+Omar El Hilali,Espanyol,6,12,Throw In,Pass,FirstHalf,84.6,0.0,83.6,11.2,Successful
+Urko González de Zárate,Espanyol,6,16,Offside,OffsidePass,FirstHalf,83.3,12.4,93.1,13.9,Successful
+Dean Huijsen,Real Madrid,6,16,OffsideProvoked,OffsideProvoked,FirstHalf,13.1,87.6,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,6,38,Pass,Pass,FirstHalf,14.8,81.3,21.5,40.2,Successful
+Ibrahima Konaté,Real Madrid,6,41,Pass,Pass,FirstHalf,21.5,40.2,20.7,68.1,Successful
+Dean Huijsen,Real Madrid,6,41,Pass,Pass,FirstHalf,20.7,68.1,25.6,94.3,Successful
+Álvaro Carreras,Real Madrid,6,43,Successful Dribble,TakeOn,FirstHalf,25.8,92.8,0.0,0.0,Successful
+Cala,Espanyol,6,43,Challenge,Challenge,FirstHalf,74.2,7.3,0.0,0.0,Unsuccessful
+Álvaro Carreras,Real Madrid,6,45,Pass,Pass,FirstHalf,28.1,84.9,17.8,66.3,Successful
+Dean Huijsen,Real Madrid,6,51,Pass,Pass,FirstHalf,31.4,60.1,32.6,27.7,Successful
+Ibrahima Konaté,Real Madrid,6,54,Pass,Pass,FirstHalf,36.2,25.0,34.0,44.4,Successful
+Dean Huijsen,Real Madrid,6,59,Pass,Pass,FirstHalf,32.5,45.4,31.4,28.5,Successful
+Ibrahima Konaté,Real Madrid,7,1,Pass,Pass,FirstHalf,31.4,28.5,27.5,50.2,Successful
+Dean Huijsen,Real Madrid,7,3,Pass,Pass,FirstHalf,27.5,51.4,25.5,75.6,Successful
+Álvaro Carreras,Real Madrid,7,7,Pass,Pass,FirstHalf,34.9,70.5,44.6,95.5,Successful
+Jude Bellingham,Real Madrid,7,14,Unsuccessful Dribble,TakeOn,FirstHalf,72.2,75.6,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,7,14,Was Dribbled,Tackle,FirstHalf,27.8,24.4,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,7,17,Pass,Pass,FirstHalf,70.3,55.9,74.8,11.2,Successful
+Denzel Dumfries,Real Madrid,7,20,Pass,Pass,FirstHalf,75.3,12.0,67.8,24.4,Successful
+Bernardo Silva,Real Madrid,7,22,Pass,Pass,FirstHalf,67.9,24.3,81.7,8.5,Successful
+Denzel Dumfries,Real Madrid,7,26,Pass,Pass,FirstHalf,80.5,10.5,79.5,24.7,Successful
+Kylian Mbappé,Real Madrid,7,30,Unsuccessful Dribble,TakeOn,FirstHalf,78.6,45.4,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,7,30,Was Dribbled,Tackle,FirstHalf,21.4,54.6,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,7,32,Pass,Pass,FirstHalf,79.0,37.0,91.5,40.6,Unsuccessful
+Clemens Riedel,Espanyol,7,35,Clearance,Clearance,FirstHalf,11.9,56.5,16.4,60.6,Successful
+Edu Expósito,Espanyol,7,36,BallTouch,BallTouch,FirstHalf,16.4,60.6,0.0,0.0,Successful
+Federico Valverde,Real Madrid,7,39,Pass,Pass,FirstHalf,71.6,18.1,65.7,21.4,Successful
+Bernardo Silva,Real Madrid,7,41,Pass,Pass,FirstHalf,64.9,23.8,55.7,39.4,Successful
+Dean Huijsen,Real Madrid,7,44,Pass,Pass,FirstHalf,55.5,41.4,62.3,78.3,Successful
+Álvaro Carreras,Real Madrid,7,46,Pass,Pass,FirstHalf,60.4,81.3,74.5,96.3,Successful
+Vinícius Júnior,Real Madrid,7,57,Pass,Pass,FirstHalf,82.6,89.4,68.9,82.0,Successful
+Álvaro Carreras,Real Madrid,7,59,Pass,Pass,FirstHalf,68.9,81.9,75.6,76.3,Successful
+Jude Bellingham,Real Madrid,8,1,Pass,Pass,FirstHalf,75.6,76.3,81.9,93.4,Successful
+Vinícius Júnior,Real Madrid,8,4,Foul,Foul,FirstHalf,76.4,88.5,0.0,0.0,Successful
+Omar El Hilali,Espanyol,8,4,Foul,Foul,FirstHalf,23.7,11.6,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,8,54,Assist,Pass,FirstHalf,75.6,92.5,90.0,50.8,Successful
+Jude Bellingham,Real Madrid,8,55,Aerial Won,Aerial,FirstHalf,90.0,50.8,0.0,0.0,Successful
+Roger Hinojo,Espanyol,8,55,Aerial Lost,Aerial,FirstHalf,10.0,49.2,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,8,56,Goal,Goal,FirstHalf,90.0,50.8,0.0,0.0,Successful
+Roberto Fernández,Espanyol,10,1,Pass,Pass,FirstHalf,49.9,49.7,36.9,58.0,Successful
+Edu Expósito,Espanyol,10,2,Pass,Pass,FirstHalf,36.7,57.9,37.3,76.2,Successful
+Roger Hinojo,Espanyol,10,4,Pass,Pass,FirstHalf,37.3,75.5,42.9,65.8,Successful
+Edu Expósito,Espanyol,10,7,Long Pass,Pass,FirstHalf,46.2,68.7,100.0,81.4,Unsuccessful
+Ibrahima Konaté,Real Madrid,10,14,ShieldBallOpp,ShieldBallOpp,FirstHalf,2.1,14.8,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,10,46,Pass,Pass,FirstHalf,5.0,38.8,6.0,53.5,Successful
+Thibaut Courtois,Real Madrid,10,57,Pass,Pass,FirstHalf,20.5,56.7,22.7,78.3,Successful
+Dean Huijsen,Real Madrid,11,1,Pass,Pass,FirstHalf,34.4,75.7,25.1,40.5,Successful
+Ibrahima Konaté,Real Madrid,11,6,Pass,Pass,FirstHalf,30.5,37.9,24.2,57.3,Successful
+Dean Huijsen,Real Madrid,11,10,Pass,Pass,FirstHalf,24.2,57.3,34.0,58.5,Successful
+Federico Valverde,Real Madrid,11,12,Pass,Pass,FirstHalf,34.0,58.5,30.5,95.1,Successful
+Álvaro Carreras,Real Madrid,11,14,Pass,Pass,FirstHalf,30.5,95.1,43.3,78.6,Successful
+Vinícius Júnior,Real Madrid,11,17,Foul,Foul,FirstHalf,43.2,76.4,0.0,0.0,Successful
+Omar El Hilali,Espanyol,11,17,Foul,Foul,FirstHalf,56.8,23.6,0.0,0.0,Unsuccessful
+Álvaro Carreras,Real Madrid,12,5,Pass,Pass,FirstHalf,46.0,95.2,46.2,84.6,Successful
+Federico Valverde,Real Madrid,12,7,Pass,Pass,FirstHalf,45.7,81.1,33.1,82.3,Successful
+Dean Huijsen,Real Madrid,12,7,Pass,Pass,FirstHalf,33.1,82.3,41.5,77.7,Successful
+Federico Valverde,Real Madrid,12,9,Pass,Pass,FirstHalf,40.4,75.6,13.9,55.0,Successful
+Thibaut Courtois,Real Madrid,12,14,Pass,Pass,FirstHalf,14.9,52.3,26.0,24.9,Successful
+Ibrahima Konaté,Real Madrid,12,24,Pass,Pass,FirstHalf,29.2,30.1,19.5,60.3,Successful
+Dean Huijsen,Real Madrid,12,24,Pass,Pass,FirstHalf,19.5,60.3,19.7,89.8,Successful
+Álvaro Carreras,Real Madrid,12,27,Pass,Pass,FirstHalf,20.1,88.0,23.6,74.1,Successful
+Federico Valverde,Real Madrid,12,29,Pass,Pass,FirstHalf,23.6,74.1,36.1,95.2,Successful
+Jude Bellingham,Real Madrid,12,39,Loss of Possession,Dispossessed,FirstHalf,80.8,92.2,0.0,0.0,Successful
+Omar El Hilali,Espanyol,12,39,Was Dribbled,Tackle,FirstHalf,19.1,7.8,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,12,42,Unsuccessful Dribble,TakeOn,FirstHalf,75.2,90.9,0.0,0.0,Unsuccessful
+Cala,Espanyol,12,42,Successful Tackle,Tackle,FirstHalf,24.8,9.1,0.0,0.0,Successful
+Omar El Hilali,Espanyol,12,44,Ball Recovery,BallRecovery,FirstHalf,30.4,12.9,0.0,0.0,Successful
+Omar El Hilali,Espanyol,12,45,Pass,Pass,FirstHalf,25.6,8.6,23.1,17.4,Successful
+Urko González de Zárate,Espanyol,12,48,Pass,Pass,FirstHalf,21.4,15.6,6.3,45.3,Successful
+Marko Dmitrovic,Espanyol,12,51,Long Pass,Pass,FirstHalf,4.9,46.2,44.8,38.6,Successful
+Roberto Fernández,Espanyol,12,52,Pass,Pass,FirstHalf,44.8,38.6,40.4,43.2,Successful
+Javi Hernández,Espanyol,12,55,Pass,Pass,FirstHalf,40.3,43.2,42.8,16.2,Successful
+Omar El Hilali,Espanyol,13,1,Pass,Pass,FirstHalf,58.5,14.4,48.4,42.4,Successful
+Edu Expósito,Espanyol,13,5,Pass,Pass,FirstHalf,49.2,43.3,41.2,53.8,Successful
+Unai Núñez,Espanyol,13,7,Pass,Pass,FirstHalf,40.0,53.8,48.1,42.0,Successful
+Edu Expósito,Espanyol,13,10,Pass,Pass,FirstHalf,47.9,38.9,64.0,27.3,Successful
+Cala,Espanyol,13,12,Pass,Pass,FirstHalf,63.9,29.8,65.1,37.9,Successful
+Urko González de Zárate,Espanyol,13,15,BallTouch,BallTouch,FirstHalf,64.8,34.7,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,13,17,Ball Recovery,BallRecovery,FirstHalf,30.0,63.4,0.0,0.0,Successful
+Federico Valverde,Real Madrid,13,17,Pass,Pass,FirstHalf,30.0,63.4,41.9,51.7,Successful
+Arda Güler,Real Madrid,13,19,Pass,Pass,FirstHalf,41.9,51.7,42.7,67.5,Successful
+Jude Bellingham,Real Madrid,13,23,Pass,Pass,FirstHalf,43.7,71.7,56.4,77.8,Successful
+Vinícius Júnior,Real Madrid,13,23,Pass,Pass,FirstHalf,56.4,77.8,68.1,77.2,Successful
+Arda Güler,Real Madrid,13,25,Pass,Pass,FirstHalf,68.1,77.2,88.5,81.9,Successful
+Álvaro Carreras,Real Madrid,13,27,Cross,Pass,FirstHalf,89.2,81.9,87.2,47.2,Unsuccessful
+Edu Expósito,Espanyol,13,28,Clearance,Clearance,FirstHalf,15.4,52.6,34.1,59.7,Successful
+Javi Hernández,Espanyol,13,31,Ball Recovery,BallRecovery,FirstHalf,33.7,54.4,0.0,0.0,Successful
+Javi Hernández,Espanyol,13,33,Pass,Pass,FirstHalf,32.0,46.4,23.4,49.2,Successful
+Clemens Riedel,Espanyol,13,37,Pass,Pass,FirstHalf,23.4,49.2,41.6,84.7,Successful
+Tyrhys Dolan,Espanyol,13,41,Pass,Pass,FirstHalf,39.7,70.6,33.5,64.9,Successful
+Edu Expósito,Espanyol,13,43,Pass,Pass,FirstHalf,36.8,64.1,38.0,51.4,Successful
+Urko González de Zárate,Espanyol,13,46,Pass,Pass,FirstHalf,39.0,57.3,41.9,65.3,Successful
+Edu Expósito,Espanyol,13,53,Pass,Pass,FirstHalf,59.5,68.2,61.2,83.0,Successful
+Roger Hinojo,Espanyol,13,56,Pass,Pass,FirstHalf,61.9,84.7,68.5,92.0,Successful
+Tyrhys Dolan,Espanyol,13,58,Pass,Pass,FirstHalf,68.3,92.0,73.6,72.0,Successful
+Edu Expósito,Espanyol,14,0,Pass,Pass,FirstHalf,74.0,72.0,71.5,76.8,Successful
+Javi Hernández,Espanyol,14,2,Pass,Pass,FirstHalf,68.8,72.0,64.1,61.2,Successful
+Urko González de Zárate,Espanyol,14,3,Pass,Pass,FirstHalf,65.6,61.1,57.7,76.7,Successful
+Roger Hinojo,Espanyol,14,7,Pass,Pass,FirstHalf,58.4,71.8,56.3,41.7,Successful
+Clemens Riedel,Espanyol,14,9,Pass,Pass,FirstHalf,60.6,38.9,67.3,9.8,Successful
+Omar El Hilali,Espanyol,14,12,Pass,Pass,FirstHalf,67.3,9.8,68.4,26.8,Successful
+Urko González de Zárate,Espanyol,14,15,Pass,Pass,FirstHalf,66.3,28.2,71.1,23.0,Successful
+Cala,Espanyol,14,17,Pass,Pass,FirstHalf,71.1,23.0,71.1,28.9,Successful
+Urko González de Zárate,Espanyol,14,18,BallTouch,BallTouch,FirstHalf,71.1,28.9,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,14,18,Ball Recovery,BallRecovery,FirstHalf,35.0,60.1,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,14,21,Pass,Pass,FirstHalf,40.0,65.2,55.3,64.3,Successful
+Kylian Mbappé,Real Madrid,14,24,Pass,Pass,FirstHalf,47.0,58.3,55.6,43.0,Successful
+Arda Güler,Real Madrid,14,26,BallTouch,BallTouch,FirstHalf,55.6,43.0,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,14,29,Ball Recovery,BallRecovery,FirstHalf,40.4,65.8,0.0,0.0,Successful
+Roger Hinojo,Espanyol,14,29,Unsuccessful Dribble,TakeOn,FirstHalf,41.3,73.6,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,14,29,Successful Tackle,Tackle,FirstHalf,58.7,26.4,0.0,0.0,Successful
+Arda Güler,Real Madrid,14,31,Ball Recovery,BallRecovery,FirstHalf,66.9,10.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,14,36,Cross,Pass,FirstHalf,90.1,24.7,96.7,50.8,Unsuccessful
+Clemens Riedel,Espanyol,14,37,Clearance,Clearance,FirstHalf,4.8,48.2,21.3,61.1,Successful
+Bernardo Silva,Real Madrid,14,42,Pass,Pass,FirstHalf,72.9,46.3,76.3,52.9,Successful
+Jude Bellingham,Real Madrid,14,46,Pass,Pass,FirstHalf,76.9,56.5,73.5,78.9,Successful
+Álvaro Carreras,Real Madrid,14,48,Key Pass,Pass,FirstHalf,73.5,78.9,79.2,78.3,Successful
+Kylian Mbappé,Real Madrid,14,50,Shot on Target,SavedShot,FirstHalf,78.8,71.6,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,14,50,Save,Save,FirstHalf,1.9,48.0,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,14,52,KeeperPickup,KeeperPickup,FirstHalf,1.9,48.0,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,14,57,Pass,Pass,FirstHalf,14.4,46.1,26.9,59.2,Successful
+Edu Expósito,Espanyol,14,58,BallTouch,BallTouch,FirstHalf,25.7,58.2,0.0,0.0,Successful
+Roger Hinojo,Espanyol,15,5,Pass,Pass,FirstHalf,31.0,84.6,33.7,71.5,Successful
+Edu Expósito,Espanyol,15,6,Pass,Pass,FirstHalf,33.2,71.1,24.8,44.4,Successful
+Clemens Riedel,Espanyol,15,13,Pass,Pass,FirstHalf,32.7,35.1,42.2,8.5,Successful
+Omar El Hilali,Espanyol,15,17,Pass,Pass,FirstHalf,56.1,7.7,58.5,16.2,Successful
+Cala,Espanyol,15,19,Pass,Pass,FirstHalf,58.5,15.0,58.9,14.5,Unsuccessful
+Federico Valverde,Real Madrid,15,19,BlockedPass,BlockedPass,FirstHalf,41.1,85.5,0.0,0.0,Successful
+Omar El Hilali,Espanyol,15,34,Long Pass,Pass,FirstHalf,63.5,0.0,36.0,15.9,Successful
+Clemens Riedel,Espanyol,15,35,Pass,Pass,FirstHalf,34.3,18.6,39.4,64.9,Successful
+Roger Hinojo,Espanyol,15,40,Pass,Pass,FirstHalf,40.4,69.4,57.6,92.9,Successful
+Tyrhys Dolan,Espanyol,15,49,Pass,Pass,FirstHalf,69.8,89.6,62.4,90.5,Successful
+Roger Hinojo,Espanyol,15,51,Pass,Pass,FirstHalf,69.0,88.7,64.9,80.0,Successful
+Edu Expósito,Espanyol,15,53,Pass,Pass,FirstHalf,63.4,79.1,72.9,100.0,Unsuccessful
+Denzel Dumfries,Real Madrid,16,11,Long Pass,Pass,FirstHalf,35.3,0.0,48.2,30.0,Unsuccessful
+Unai Núñez,Espanyol,16,14,Ball Recovery,BallRecovery,FirstHalf,54.9,67.6,0.0,0.0,Successful
+Unai Núñez,Espanyol,16,15,Pass,Pass,FirstHalf,55.6,67.6,68.5,46.2,Unsuccessful
+Federico Valverde,Real Madrid,16,18,Ball Recovery,BallRecovery,FirstHalf,36.2,54.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,16,18,Pass,Pass,FirstHalf,36.2,54.0,47.4,57.7,Successful
+Kylian Mbappé,Real Madrid,16,22,Pass,Pass,FirstHalf,68.9,54.3,83.1,73.5,Successful
+Vinícius Júnior,Real Madrid,16,29,BallTouch,BallTouch,FirstHalf,96.2,78.6,0.0,0.0,Unsuccessful
+Clemens Riedel,Espanyol,16,31,Clearance,Clearance,FirstHalf,3.0,3.1,6.3,0.0,Successful
+Álvaro Carreras,Real Madrid,16,49,Throw In,Pass,FirstHalf,77.4,100.0,70.7,77.5,Unsuccessful
+Roberto Fernández,Espanyol,16,51,Foul,Foul,FirstHalf,31.4,34.2,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,16,51,Foul,Foul,FirstHalf,68.6,65.8,0.0,0.0,Unsuccessful
+Clemens Riedel,Espanyol,17,1,Pass,Pass,FirstHalf,27.7,32.6,34.8,37.6,Successful
+Urko González de Zárate,Espanyol,17,2,Pass,Pass,FirstHalf,34.8,37.6,27.8,34.4,Successful
+Clemens Riedel,Espanyol,17,3,Pass,Pass,FirstHalf,27.8,34.4,37.5,10.6,Successful
+Omar El Hilali,Espanyol,17,5,Pass,Pass,FirstHalf,36.3,12.1,35.0,33.6,Successful
+Edu Expósito,Espanyol,17,8,Pass,Pass,FirstHalf,36.3,35.1,33.4,77.1,Successful
+Roger Hinojo,Espanyol,17,13,Pass,Pass,FirstHalf,37.5,76.2,29.8,54.2,Successful
+Unai Núñez,Espanyol,17,15,Pass,Pass,FirstHalf,31.9,49.8,28.4,30.6,Successful
+Clemens Riedel,Espanyol,17,19,Pass,Pass,FirstHalf,32.8,33.2,33.8,54.4,Successful
+Unai Núñez,Espanyol,17,24,Pass,Pass,FirstHalf,34.6,54.1,43.3,84.4,Successful
+Javi Hernández,Espanyol,17,27,Pass,Pass,FirstHalf,43.9,81.8,34.6,73.8,Successful
+Roger Hinojo,Espanyol,17,29,Pass,Pass,FirstHalf,33.9,72.9,26.6,52.4,Successful
+Unai Núñez,Espanyol,17,31,Pass,Pass,FirstHalf,24.6,50.0,20.7,28.2,Successful
+Clemens Riedel,Espanyol,17,37,Long Pass,Pass,FirstHalf,22.1,30.1,65.4,23.6,Unsuccessful
+Dean Huijsen,Real Madrid,17,37,Clearance,Clearance,FirstHalf,42.8,74.5,58.6,93.3,Successful
+Omar El Hilali,Espanyol,17,41,BallTouch,BallTouch,FirstHalf,48.6,10.9,0.0,0.0,Unsuccessful
+Álvaro Carreras,Real Madrid,17,41,Ball Recovery,BallRecovery,FirstHalf,57.5,94.2,0.0,0.0,Successful
+Álvaro Carreras,Real Madrid,17,43,Pass,Pass,FirstHalf,45.5,92.1,33.4,91.2,Successful
+Federico Valverde,Real Madrid,17,47,Pass,Pass,FirstHalf,33.1,70.2,32.4,38.5,Successful
+Ibrahima Konaté,Real Madrid,17,50,Pass,Pass,FirstHalf,35.1,40.9,42.3,35.7,Successful
+Arda Güler,Real Madrid,18,1,Pass,Pass,FirstHalf,37.8,59.1,35.0,36.0,Successful
+Ibrahima Konaté,Real Madrid,18,4,Pass,Pass,FirstHalf,35.3,37.5,32.8,59.7,Successful
+Dean Huijsen,Real Madrid,18,7,Pass,Pass,FirstHalf,31.5,61.3,52.7,70.8,Successful
+Jude Bellingham,Real Madrid,18,14,Pass,Pass,FirstHalf,67.5,51.0,60.7,32.1,Successful
+Arda Güler,Real Madrid,18,17,Pass,Pass,FirstHalf,65.0,36.3,79.1,33.0,Successful
+Bernardo Silva,Real Madrid,18,19,Pass,Pass,FirstHalf,79.1,33.0,94.9,23.4,Successful
+Denzel Dumfries,Real Madrid,18,21,Pass,Pass,FirstHalf,96.2,23.4,95.1,33.4,Unsuccessful
+Roger Hinojo,Espanyol,18,23,BallTouch,BallTouch,FirstHalf,10.7,75.2,0.0,0.0,Successful
+Unai Núñez,Espanyol,18,24,Ball Recovery,BallRecovery,FirstHalf,8.3,65.3,0.0,0.0,Successful
+Unai Núñez,Espanyol,18,25,Pass,Pass,FirstHalf,8.3,65.3,11.0,83.7,Successful
+Tyrhys Dolan,Espanyol,18,26,Pass,Pass,FirstHalf,11.0,83.7,40.4,90.8,Successful
+Federico Valverde,Real Madrid,18,31,Challenge,Challenge,FirstHalf,38.8,9.4,0.0,0.0,Unsuccessful
+Javi Hernández,Espanyol,18,31,Successful Dribble,TakeOn,FirstHalf,61.2,90.6,0.0,0.0,Successful
+Javi Hernández,Espanyol,18,33,BallTouch,BallTouch,FirstHalf,67.2,85.6,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,18,34,Ball Recovery,BallRecovery,FirstHalf,31.1,23.1,0.0,0.0,Successful
+Federico Valverde,Real Madrid,18,35,Pass,Pass,FirstHalf,31.1,23.1,29.1,56.5,Successful
+Álvaro Carreras,Real Madrid,18,43,Pass,Pass,FirstHalf,35.4,77.1,32.1,51.1,Successful
+Federico Valverde,Real Madrid,18,46,Pass,Pass,FirstHalf,29.5,52.6,39.0,51.6,Successful
+Jude Bellingham,Real Madrid,18,48,Pass,Pass,FirstHalf,36.3,46.8,41.2,10.2,Successful
+Arda Güler,Real Madrid,18,52,Pass,Pass,FirstHalf,42.5,10.2,64.5,4.8,Successful
+Kylian Mbappé,Real Madrid,18,53,Pass,Pass,FirstHalf,64.5,4.8,46.7,4.2,Successful
+Denzel Dumfries,Real Madrid,18,55,Pass,Pass,FirstHalf,45.8,4.5,40.3,9.9,Successful
+Arda Güler,Real Madrid,19,0,Pass,Pass,FirstHalf,37.3,12.4,28.6,31.0,Successful
+Ibrahima Konaté,Real Madrid,19,6,Pass,Pass,FirstHalf,33.3,39.0,34.7,12.0,Successful
+Arda Güler,Real Madrid,19,9,Pass,Pass,FirstHalf,37.2,13.8,45.8,3.9,Successful
+Kylian Mbappé,Real Madrid,19,12,Pass,Pass,FirstHalf,45.8,3.9,30.2,12.0,Successful
+Arda Güler,Real Madrid,19,19,Pass,Pass,FirstHalf,31.1,16.8,41.3,4.3,Successful
+Denzel Dumfries,Real Madrid,19,21,Pass,Pass,FirstHalf,41.3,4.3,26.2,6.3,Successful
+Arda Güler,Real Madrid,19,23,Long Pass,Pass,FirstHalf,26.1,7.3,9.0,52.0,Successful
+Thibaut Courtois,Real Madrid,19,27,Pass,Pass,FirstHalf,9.0,52.0,13.3,95.2,Successful
+Álvaro Carreras,Real Madrid,19,30,Pass,Pass,FirstHalf,13.0,93.9,29.1,96.4,Successful
+Vinícius Júnior,Real Madrid,19,32,Pass,Pass,FirstHalf,29.1,96.4,24.4,82.9,Successful
+Álvaro Carreras,Real Madrid,19,35,Pass,Pass,FirstHalf,26.4,80.2,30.2,87.0,Successful
+Jude Bellingham,Real Madrid,19,39,Long Pass,Pass,FirstHalf,37.2,79.5,70.5,7.3,Successful
+Denzel Dumfries,Real Madrid,19,48,Pass,Pass,FirstHalf,76.4,15.0,66.0,16.3,Successful
+Federico Valverde,Real Madrid,19,51,Pass,Pass,FirstHalf,66.0,16.2,72.0,23.8,Successful
+Arda Güler,Real Madrid,19,52,Key Pass,Pass,FirstHalf,72.0,23.8,97.2,33.7,Successful
+Denzel Dumfries,Real Madrid,19,55,Shot on Target,SavedShot,FirstHalf,97.2,33.7,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,19,55,Save,Save,FirstHalf,0.8,54.1,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,20,21,Throw In,Pass,FirstHalf,72.8,0.0,57.1,11.9,Successful
+Ibrahima Konaté,Real Madrid,20,22,Pass,Pass,FirstHalf,58.5,29.7,60.1,56.4,Successful
+Dean Huijsen,Real Madrid,20,23,Pass,Pass,FirstHalf,57.8,66.2,62.7,86.1,Successful
+Álvaro Carreras,Real Madrid,20,25,Pass,Pass,FirstHalf,63.6,82.2,57.8,68.8,Successful
+Dean Huijsen,Real Madrid,20,27,Pass,Pass,FirstHalf,57.8,68.8,59.0,35.7,Successful
+Ibrahima Konaté,Real Madrid,20,28,Pass,Pass,FirstHalf,59.0,35.7,70.3,3.4,Successful
+Denzel Dumfries,Real Madrid,20,30,Pass,Pass,FirstHalf,70.3,3.4,62.9,12.4,Successful
+Bernardo Silva,Real Madrid,20,33,Pass,Pass,FirstHalf,63.9,16.6,71.1,18.7,Successful
+Arda Güler,Real Madrid,20,35,Pass,Pass,FirstHalf,67.1,29.7,47.7,62.7,Successful
+Dean Huijsen,Real Madrid,20,41,Pass,Pass,FirstHalf,45.3,73.9,54.7,63.9,Successful
+Federico Valverde,Real Madrid,20,42,Pass,Pass,FirstHalf,54.7,63.9,35.0,44.8,Successful
+Ibrahima Konaté,Real Madrid,20,44,Pass,Pass,FirstHalf,34.1,43.2,41.8,13.3,Successful
+Bernardo Silva,Real Madrid,20,46,Pass,Pass,FirstHalf,40.6,17.4,45.9,30.4,Successful
+Federico Valverde,Real Madrid,20,48,Pass,Pass,FirstHalf,47.6,27.1,60.8,9.7,Successful
+Arda Güler,Real Madrid,20,55,Pass,Pass,FirstHalf,72.5,9.7,79.7,17.8,Successful
+Kylian Mbappé,Real Madrid,20,58,BallTouch,BallTouch,FirstHalf,79.7,17.8,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,21,0,Ball Recovery,BallRecovery,FirstHalf,32.4,74.1,0.0,0.0,Successful
+Edu Expósito,Espanyol,21,0,Pass,Pass,FirstHalf,32.4,74.1,42.6,52.1,Successful
+Cala,Espanyol,21,2,Pass,Pass,FirstHalf,44.1,53.9,57.8,67.7,Successful
+Roberto Fernández,Espanyol,21,6,Pass,Pass,FirstHalf,66.2,70.6,77.8,89.1,Successful
+Tyrhys Dolan,Espanyol,21,14,Chipped Pass,Pass,FirstHalf,96.3,72.4,95.6,52.8,Unsuccessful
+Ibrahima Konaté,Real Madrid,21,15,Clearance,Clearance,FirstHalf,4.1,46.9,7.9,28.2,Successful
+Cala,Espanyol,21,18,Pass,Pass,FirstHalf,93.3,75.2,100.0,56.2,Unsuccessful
+Ibrahima Konaté,Real Madrid,21,38,Pass,Pass,FirstHalf,3.7,38.8,13.6,35.1,Successful
+Bernardo Silva,Real Madrid,21,46,Pass,Pass,FirstHalf,13.3,49.6,29.9,52.3,Successful
+Federico Valverde,Real Madrid,21,46,Pass,Pass,FirstHalf,29.9,52.3,14.9,54.4,Successful
+Bernardo Silva,Real Madrid,21,52,Pass,Pass,FirstHalf,23.2,54.1,33.1,61.8,Successful
+Jude Bellingham,Real Madrid,21,52,Pass,Pass,FirstHalf,33.1,61.8,23.2,75.7,Successful
+Dean Huijsen,Real Madrid,21,56,Pass,Pass,FirstHalf,29.3,76.5,38.3,59.7,Successful
+Jude Bellingham,Real Madrid,21,56,Pass,Pass,FirstHalf,38.3,59.7,27.2,52.9,Successful
+Bernardo Silva,Real Madrid,22,7,Pass,Pass,FirstHalf,34.8,48.6,39.9,48.1,Successful
+Federico Valverde,Real Madrid,22,9,Pass,Pass,FirstHalf,41.3,39.3,61.7,15.4,Successful
+Arda Güler,Real Madrid,22,15,Pass,Pass,FirstHalf,46.1,30.1,44.3,11.2,Successful
+Denzel Dumfries,Real Madrid,22,17,Pass,Pass,FirstHalf,44.3,11.2,37.4,34.3,Successful
+Bernardo Silva,Real Madrid,22,22,Pass,Pass,FirstHalf,38.1,49.6,34.7,67.3,Successful
+Dean Huijsen,Real Madrid,22,24,Pass,Pass,FirstHalf,34.7,67.3,44.8,96.7,Successful
+Jude Bellingham,Real Madrid,22,26,Pass,Pass,FirstHalf,44.7,96.7,37.5,71.5,Successful
+Dean Huijsen,Real Madrid,22,29,Pass,Pass,FirstHalf,36.4,67.0,36.2,35.1,Successful
+Ibrahima Konaté,Real Madrid,22,35,Pass,Pass,FirstHalf,36.8,24.9,20.9,44.2,Successful
+Thibaut Courtois,Real Madrid,22,36,Pass,Pass,FirstHalf,20.9,44.2,27.1,62.8,Successful
+Dean Huijsen,Real Madrid,22,41,Pass,Pass,FirstHalf,27.1,62.8,22.1,42.0,Successful
+Thibaut Courtois,Real Madrid,22,49,Pass,Pass,FirstHalf,20.6,40.8,34.1,23.4,Successful
+Ibrahima Konaté,Real Madrid,24,21,Pass,Pass,FirstHalf,27.8,44.7,6.4,57.4,Successful
+Thibaut Courtois,Real Madrid,24,23,Long Pass,Pass,FirstHalf,6.4,57.4,57.4,87.3,Unsuccessful
+Omar El Hilali,Espanyol,24,28,Pass,Pass,FirstHalf,39.8,25.1,59.3,40.3,Successful
+Edu Expósito,Espanyol,24,30,Pass,Pass,FirstHalf,59.3,40.3,69.9,41.2,Unsuccessful
+Álvaro Carreras,Real Madrid,24,31,Pass,Pass,FirstHalf,38.0,58.8,46.5,63.7,Successful
+Jude Bellingham,Real Madrid,24,34,BallTouch,BallTouch,FirstHalf,40.9,72.7,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,24,37,Long Pass,Pass,FirstHalf,35.0,91.0,55.1,64.5,Unsuccessful
+Edu Expósito,Espanyol,24,40,Pass,Pass,FirstHalf,50.1,39.7,69.4,38.2,Unsuccessful
+Bernardo Silva,Real Madrid,24,46,Pass,Pass,FirstHalf,33.8,73.9,48.4,69.1,Unsuccessful
+Urko González de Zárate,Espanyol,24,47,Chipped Pass,Pass,FirstHalf,55.7,32.3,33.2,44.7,Successful
+Unai Núñez,Espanyol,24,49,Ball Recovery,BallRecovery,FirstHalf,33.2,46.2,0.0,0.0,Successful
+Unai Núñez,Espanyol,24,50,Pass,Pass,FirstHalf,35.7,51.5,45.9,77.6,Successful
+Roger Hinojo,Espanyol,24,55,Pass,Pass,FirstHalf,53.3,84.7,54.8,69.1,Successful
+Edu Expósito,Espanyol,24,57,Pass,Pass,FirstHalf,56.6,65.8,55.6,50.8,Successful
+Urko González de Zárate,Espanyol,25,0,Pass,Pass,FirstHalf,64.1,45.8,72.6,35.3,Successful
+Cala,Espanyol,25,2,Pass,Pass,FirstHalf,72.5,30.1,81.6,8.2,Successful
+Omar El Hilali,Espanyol,25,4,Pass,Pass,FirstHalf,81.6,8.2,71.8,13.9,Successful
+Clemens Riedel,Espanyol,25,8,Pass,Pass,FirstHalf,73.6,16.0,68.4,42.1,Successful
+Edu Expósito,Espanyol,25,11,Pass,Pass,FirstHalf,68.5,51.4,69.2,63.0,Successful
+Roger Hinojo,Espanyol,25,14,Pass,Pass,FirstHalf,69.3,64.4,73.9,36.2,Successful
+Jude Bellingham,Real Madrid,25,17,Challenge,Challenge,FirstHalf,29.6,60.6,0.0,0.0,Unsuccessful
+Cala,Espanyol,25,17,Successful Dribble,TakeOn,FirstHalf,70.4,39.4,0.0,0.0,Successful
+Cala,Espanyol,25,19,Key Pass,Pass,FirstHalf,73.2,44.5,71.2,58.2,Successful
+Edu Expósito,Espanyol,25,21,Shot on Target,SavedShot,FirstHalf,73.9,49.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,25,21,Save,Save,FirstHalf,23.0,50.9,0.0,0.0,Successful
+Clemens Riedel,Espanyol,25,24,Shot on Target,SavedShot,FirstHalf,77.3,33.9,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,25,25,Save,Save,FirstHalf,1.7,52.7,0.0,0.0,Successful
+Omar El Hilali,Espanyol,25,30,Cross,Pass,FirstHalf,95.9,11.9,94.4,44.7,Unsuccessful
+Jude Bellingham,Real Madrid,25,32,Clearance,Clearance,FirstHalf,6.2,62.4,20.5,62.1,Successful
+Edu Expósito,Espanyol,25,35,Shot off Target,MissedShots,FirstHalf,74.8,41.8,0.0,0.0,Successful
+Javi Hernández,Espanyol,25,36,Key Pass,BallTouch,FirstHalf,86.4,49.4,0.0,0.0,Successful
+Roberto Fernández,Espanyol,25,37,Shot off Target,MissedShots,FirstHalf,88.2,45.9,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,26,7,Pass,Pass,FirstHalf,5.6,41.1,4.6,45.3,Successful
+Thibaut Courtois,Real Madrid,26,9,Pass,Pass,FirstHalf,14.1,43.9,23.0,22.8,Successful
+Ibrahima Konaté,Real Madrid,26,10,Chipped Pass,Pass,FirstHalf,23.2,23.4,47.6,6.4,Successful
+Kylian Mbappé,Real Madrid,26,12,Pass,Pass,FirstHalf,47.6,6.4,59.6,12.0,Unsuccessful
+Unai Núñez,Espanyol,26,14,Ball Recovery,BallRecovery,FirstHalf,43.1,65.9,0.0,0.0,Successful
+Unai Núñez,Espanyol,26,14,Pass,Pass,FirstHalf,43.1,65.9,54.1,53.3,Successful
+Urko González de Zárate,Espanyol,26,16,Pass,Pass,FirstHalf,54.1,53.3,36.1,39.8,Successful
+Clemens Riedel,Espanyol,26,17,Pass,Pass,FirstHalf,36.8,39.8,35.1,57.7,Successful
+Unai Núñez,Espanyol,26,19,Pass,Pass,FirstHalf,35.8,59.9,43.3,64.3,Successful
+Edu Expósito,Espanyol,26,21,Pass,Pass,FirstHalf,41.2,60.6,37.9,36.7,Successful
+Clemens Riedel,Espanyol,26,22,Pass,Pass,FirstHalf,37.9,36.7,32.2,50.3,Successful
+Unai Núñez,Espanyol,26,24,Pass,Pass,FirstHalf,31.3,50.2,42.5,13.0,Successful
+Omar El Hilali,Espanyol,26,27,Pass,Pass,FirstHalf,42.4,13.2,36.0,50.0,Successful
+Unai Núñez,Espanyol,26,30,Pass,Pass,FirstHalf,34.3,52.7,39.8,58.0,Successful
+Edu Expósito,Espanyol,26,31,Pass,Pass,FirstHalf,38.5,57.1,44.2,35.0,Successful
+Urko González de Zárate,Espanyol,26,36,Pass,Pass,FirstHalf,56.1,46.4,60.1,67.1,Successful
+Javi Hernández,Espanyol,26,40,Pass,Pass,FirstHalf,67.9,79.7,79.5,92.4,Successful
+Tyrhys Dolan,Espanyol,26,46,Cross,Pass,FirstHalf,89.3,82.3,97.1,50.6,Unsuccessful
+Dean Huijsen,Real Madrid,26,48,Clearance,Clearance,FirstHalf,3.7,51.4,13.7,60.4,Successful
+Federico Valverde,Real Madrid,26,50,Clearance,Clearance,FirstHalf,13.7,60.4,11.3,96.7,Successful
+Clemens Riedel,Espanyol,26,55,Loss of Possession,Dispossessed,FirstHalf,91.8,10.5,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,26,55,Successful Tackle,Tackle,FirstHalf,8.2,89.5,0.0,0.0,Successful
+Omar El Hilali,Espanyol,27,15,Throw In,Pass,FirstHalf,94.5,0.0,87.3,7.9,Successful
+Urko González de Zárate,Espanyol,27,16,BallTouch,BallTouch,FirstHalf,73.9,8.0,0.0,0.0,Successful
+Omar El Hilali,Espanyol,27,16,Pass,Pass,FirstHalf,78.7,3.8,75.9,7.6,Successful
+Urko González de Zárate,Espanyol,27,18,Loss of Possession,Dispossessed,FirstHalf,87.2,7.5,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,27,18,Successful Tackle,Tackle,FirstHalf,12.8,92.4,0.0,0.0,Successful
+Omar El Hilali,Espanyol,27,26,Throw In,Pass,FirstHalf,89.4,0.0,80.9,22.4,Successful
+Cala,Espanyol,27,28,Pass,Pass,FirstHalf,81.3,25.6,71.8,49.3,Successful
+Roger Hinojo,Espanyol,27,31,Long Pass,Pass,FirstHalf,64.0,42.6,100.0,26.5,Unsuccessful
+Ibrahima Konaté,Real Madrid,27,46,Pass,Pass,FirstHalf,4.8,39.3,12.8,34.5,Successful
+Bernardo Silva,Real Madrid,27,50,Pass,Pass,FirstHalf,33.4,32.4,28.3,6.9,Successful
+Denzel Dumfries,Real Madrid,27,53,Pass,Pass,FirstHalf,28.3,6.9,8.8,28.5,Successful
+Ibrahima Konaté,Real Madrid,27,55,Pass,Pass,FirstHalf,10.1,31.8,6.3,53.8,Successful
+Thibaut Courtois,Real Madrid,27,59,Pass,Pass,FirstHalf,6.7,54.3,8.3,72.6,Successful
+Dean Huijsen,Real Madrid,28,9,Pass,Pass,FirstHalf,30.9,73.6,40.7,67.3,Successful
+Vinícius Júnior,Real Madrid,28,11,Pass,Pass,FirstHalf,40.7,67.3,35.9,55.0,Successful
+Federico Valverde,Real Madrid,28,13,Long Pass,Pass,FirstHalf,36.2,53.2,60.1,6.0,Successful
+Kylian Mbappé,Real Madrid,28,23,Pass,Pass,FirstHalf,89.7,18.4,77.7,23.5,Successful
+Arda Güler,Real Madrid,28,26,Pass,Pass,FirstHalf,78.6,23.5,78.9,7.5,Successful
+Denzel Dumfries,Real Madrid,28,28,Pass,Pass,FirstHalf,76.2,10.6,64.8,30.3,Successful
+Federico Valverde,Real Madrid,28,30,Pass,Pass,FirstHalf,64.2,31.3,66.0,12.6,Successful
+Arda Güler,Real Madrid,28,36,Pass,Pass,FirstHalf,66.2,14.2,60.3,28.0,Successful
+Federico Valverde,Real Madrid,28,38,Pass,Pass,FirstHalf,61.7,27.9,67.8,38.2,Successful
+Jude Bellingham,Real Madrid,28,40,Pass,Pass,FirstHalf,68.1,38.7,81.1,33.6,Successful
+Kylian Mbappé,Real Madrid,28,42,BallTouch,BallTouch,FirstHalf,81.1,33.6,0.0,0.0,Successful
+Edu Expósito,Espanyol,28,44,Challenge,Challenge,FirstHalf,18.3,67.2,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,28,44,Successful Dribble,TakeOn,FirstHalf,81.6,32.8,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,28,44,Unsuccessful Dribble,TakeOn,FirstHalf,82.3,34.8,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,28,44,Successful Tackle,Tackle,FirstHalf,17.7,65.2,0.0,0.0,Successful
+Edu Expósito,Espanyol,28,48,Ball Recovery,BallRecovery,FirstHalf,22.2,67.0,0.0,0.0,Successful
+Edu Expósito,Espanyol,28,48,BallTouch,BallTouch,FirstHalf,23.8,70.5,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,28,50,Pass,Pass,FirstHalf,27.6,83.7,23.1,76.8,Successful
+Jude Bellingham,Real Madrid,28,52,Challenge,Challenge,FirstHalf,78.2,16.4,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,28,52,Successful Dribble,TakeOn,FirstHalf,21.8,83.6,0.0,0.0,Successful
+Edu Expósito,Espanyol,28,53,Pass,Pass,FirstHalf,23.6,77.1,23.9,75.8,Unsuccessful
+Jude Bellingham,Real Madrid,28,53,BlockedPass,BlockedPass,FirstHalf,76.1,24.2,0.0,0.0,Successful
+Clemens Riedel,Espanyol,29,1,Pass,Pass,FirstHalf,48.9,29.5,69.9,7.6,Successful
+Omar El Hilali,Espanyol,29,3,Pass,Pass,FirstHalf,69.4,9.4,70.8,30.3,Successful
+Urko González de Zárate,Espanyol,29,6,Pass,Pass,FirstHalf,71.6,31.8,84.5,12.9,Successful
+Cala,Espanyol,29,8,Pass,Pass,FirstHalf,81.7,14.8,75.0,45.3,Successful
+Javi Hernández,Espanyol,29,14,Pass,Pass,FirstHalf,76.7,60.9,74.0,62.3,Successful
+Tyrhys Dolan,Espanyol,29,16,Pass,Pass,FirstHalf,74.0,62.3,81.2,72.4,Successful
+Javi Hernández,Espanyol,29,19,Assist,Pass,FirstHalf,92.1,75.8,91.7,52.6,Successful
+Cala,Espanyol,29,23,Goal,Goal,FirstHalf,91.7,52.6,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,30,39,Pass,Pass,FirstHalf,50.2,49.8,45.0,48.4,Successful
+Bernardo Silva,Real Madrid,30,43,Pass,Pass,FirstHalf,45.0,48.4,34.9,45.7,Successful
+Federico Valverde,Real Madrid,30,44,Pass,Pass,FirstHalf,34.9,45.7,37.2,10.8,Successful
+Denzel Dumfries,Real Madrid,30,47,Pass,Pass,FirstHalf,37.2,10.8,26.8,31.8,Successful
+Ibrahima Konaté,Real Madrid,30,50,Pass,Pass,FirstHalf,26.8,31.8,38.2,29.8,Successful
+Federico Valverde,Real Madrid,30,51,Pass,Pass,FirstHalf,33.4,27.6,41.2,17.8,Successful
+Arda Güler,Real Madrid,30,56,Long Pass,Pass,FirstHalf,37.0,38.8,44.0,85.5,Successful
+Álvaro Carreras,Real Madrid,31,0,Pass,Pass,FirstHalf,39.3,90.7,60.1,79.6,Successful
+Kylian Mbappé,Real Madrid,31,1,Pass,Pass,FirstHalf,60.1,79.6,42.8,72.9,Successful
+Bernardo Silva,Real Madrid,31,2,Pass,Pass,FirstHalf,42.8,72.9,45.1,90.9,Successful
+Álvaro Carreras,Real Madrid,31,4,Pass,Pass,FirstHalf,56.0,85.5,62.6,69.7,Successful
+Jude Bellingham,Real Madrid,31,7,Pass,Pass,FirstHalf,62.4,69.7,66.5,75.7,Successful
+Kylian Mbappé,Real Madrid,31,8,Foul,Foul,FirstHalf,67.3,75.4,0.0,0.0,Successful
+Clemens Riedel,Espanyol,31,8,Foul,Foul,FirstHalf,32.8,24.7,0.0,0.0,Unsuccessful
+Cala,Espanyol,31,22,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,31,23,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,32,11,Cross,Pass,FirstHalf,64.2,87.0,86.9,50.7,Unsuccessful
+Roberto Fernández,Espanyol,32,13,Clearance,Clearance,FirstHalf,12.5,49.2,34.2,82.7,Successful
+Federico Valverde,Real Madrid,32,21,Pass,Pass,FirstHalf,58.7,7.5,42.8,33.1,Successful
+Álvaro Carreras,Real Madrid,32,23,Pass,Pass,FirstHalf,42.7,34.2,42.0,64.6,Successful
+Arda Güler,Real Madrid,32,24,Pass,Pass,FirstHalf,42.0,64.6,18.9,53.5,Successful
+Thibaut Courtois,Real Madrid,32,28,Pass,Pass,FirstHalf,20.1,53.7,26.5,30.3,Successful
+Ibrahima Konaté,Real Madrid,32,31,Pass,Pass,FirstHalf,26.4,28.2,35.9,9.1,Successful
+Federico Valverde,Real Madrid,32,34,Long Pass,Pass,FirstHalf,35.2,18.0,28.8,65.8,Successful
+Álvaro Carreras,Real Madrid,32,39,Key Pass,Pass,FirstHalf,35.3,83.2,64.0,86.4,Successful
+Kylian Mbappé,Real Madrid,32,46,Shot on Target,SavedShot,FirstHalf,93.1,69.3,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,32,46,Save,Save,FirstHalf,0.9,47.4,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,32,49,Key Pass,BallTouch,FirstHalf,87.8,52.3,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,32,50,Shot off Target,MissedShots,FirstHalf,86.2,41.2,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,33,23,Long Pass,Pass,FirstHalf,5.0,45.3,66.9,69.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,33,24,Pass,Pass,FirstHalf,36.0,31.2,32.9,42.9,Successful
+Dean Huijsen,Real Madrid,33,26,Long Pass,Pass,FirstHalf,32.9,42.9,75.3,31.2,Unsuccessful
+Unai Núñez,Espanyol,33,31,Pass,Pass,FirstHalf,29.7,76.8,35.2,72.7,Successful
+Edu Expósito,Espanyol,33,34,Loss of Possession,Dispossessed,FirstHalf,36.0,78.1,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,33,34,Was Dribbled,Tackle,FirstHalf,64.0,21.9,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,33,39,Long Pass,Pass,FirstHalf,16.6,94.6,58.0,76.7,Unsuccessful
+Ibrahima Konaté,Real Madrid,33,43,Clearance,Clearance,FirstHalf,43.9,8.4,46.1,13.8,Successful
+Bernardo Silva,Real Madrid,33,47,Pass,Pass,FirstHalf,48.1,17.2,46.6,9.2,Successful
+Ibrahima Konaté,Real Madrid,33,47,Ball Recovery,BallRecovery,FirstHalf,46.8,4.3,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,33,49,Pass,Pass,FirstHalf,40.6,6.4,50.4,3.7,Successful
+Arda Güler,Real Madrid,33,50,Pass,Pass,FirstHalf,50.4,3.7,53.0,3.6,Unsuccessful
+Roger Hinojo,Espanyol,33,50,BlockedPass,BlockedPass,FirstHalf,47.0,96.4,0.0,0.0,Successful
+Arda Güler,Real Madrid,33,50,BallTouch,BallTouch,FirstHalf,53.0,3.6,0.0,0.0,Successful
+Roger Hinojo,Espanyol,34,1,Long Pass,Pass,FirstHalf,47.7,100.0,29.1,79.6,Successful
+Unai Núñez,Espanyol,34,9,Long Pass,Pass,FirstHalf,26.4,67.0,28.8,11.6,Successful
+Omar El Hilali,Espanyol,34,17,Unsuccessful Dribble,TakeOn,FirstHalf,28.2,11.8,0.0,0.0,Unsuccessful
+Álvaro Carreras,Real Madrid,34,17,Successful Tackle,Tackle,FirstHalf,71.8,88.2,0.0,0.0,Successful
+Omar El Hilali,Espanyol,34,33,Long Pass,Pass,FirstHalf,24.9,0.0,46.8,11.2,Unsuccessful
+Federico Valverde,Real Madrid,34,36,Pass,Pass,FirstHalf,52.8,94.2,42.1,85.0,Successful
+Dean Huijsen,Real Madrid,34,37,Ball Recovery,BallRecovery,FirstHalf,42.1,85.0,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,34,41,Pass,Pass,FirstHalf,37.2,70.0,44.0,65.2,Successful
+Bernardo Silva,Real Madrid,34,44,Pass,Pass,FirstHalf,37.1,45.6,29.8,43.8,Successful
+Ibrahima Konaté,Real Madrid,34,47,Pass,Pass,FirstHalf,31.5,44.8,29.7,61.2,Successful
+Dean Huijsen,Real Madrid,34,47,Pass,Pass,FirstHalf,29.7,61.2,40.4,60.1,Successful
+Arda Güler,Real Madrid,34,49,Pass,Pass,FirstHalf,40.4,60.1,42.4,94.2,Successful
+Federico Valverde,Real Madrid,34,50,Pass,Pass,FirstHalf,46.2,92.1,65.1,75.9,Successful
+Jude Bellingham,Real Madrid,34,52,Pass,Pass,FirstHalf,65.1,75.9,68.2,93.7,Successful
+Álvaro Carreras,Real Madrid,34,54,Pass,Pass,FirstHalf,69.6,93.1,76.0,94.0,Successful
+Vinícius Júnior,Real Madrid,34,58,Unsuccessful Dribble,TakeOn,FirstHalf,69.7,87.7,0.0,0.0,Unsuccessful
+Cala,Espanyol,34,58,Successful Tackle,Tackle,FirstHalf,30.3,12.3,0.0,0.0,Successful
+Cala,Espanyol,35,0,Ball Recovery,BallRecovery,FirstHalf,35.8,21.2,0.0,0.0,Successful
+Cala,Espanyol,35,1,Pass,Pass,FirstHalf,35.8,20.9,36.6,28.2,Successful
+Urko González de Zárate,Espanyol,35,3,Pass,Pass,FirstHalf,38.0,28.0,41.8,9.7,Successful
+Cala,Espanyol,35,4,Pass,Pass,FirstHalf,41.8,9.7,66.7,18.8,Unsuccessful
+Dean Huijsen,Real Madrid,35,7,Chipped Pass,Pass,FirstHalf,42.1,89.5,64.9,95.4,Successful
+Vinícius Júnior,Real Madrid,35,10,Ball Recovery,BallRecovery,FirstHalf,64.9,95.4,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,35,10,Foul,Foul,FirstHalf,64.4,91.0,0.0,0.0,Successful
+Omar El Hilali,Espanyol,35,10,Foul,Foul,FirstHalf,35.6,9.0,0.0,0.0,Unsuccessful
+Álvaro Carreras,Real Madrid,35,27,Pass,Pass,FirstHalf,63.7,98.1,57.4,94.6,Successful
+Jude Bellingham,Real Madrid,35,30,Long Pass,Pass,FirstHalf,56.4,92.1,43.6,46.3,Successful
+Ibrahima Konaté,Real Madrid,35,34,Pass,Pass,FirstHalf,43.9,46.9,42.7,34.8,Successful
+Denzel Dumfries,Real Madrid,35,34,Pass,Pass,FirstHalf,42.7,34.8,41.4,43.2,Successful
+Ibrahima Konaté,Real Madrid,35,38,Pass,Pass,FirstHalf,43.3,39.3,54.7,6.3,Successful
+Arda Güler,Real Madrid,35,41,Pass,Pass,FirstHalf,54.9,7.5,42.1,10.9,Successful
+Denzel Dumfries,Real Madrid,35,44,Pass,Pass,FirstHalf,39.2,15.0,31.1,40.5,Successful
+Ibrahima Konaté,Real Madrid,35,46,Pass,Pass,FirstHalf,31.1,40.5,30.9,67.9,Successful
+Dean Huijsen,Real Madrid,35,52,Pass,Pass,FirstHalf,47.5,67.9,63.5,75.0,Successful
+Vinícius Júnior,Real Madrid,35,56,Foul,Foul,FirstHalf,63.2,70.8,0.0,0.0,Successful
+Clemens Riedel,Espanyol,35,56,Foul,Foul,FirstHalf,36.8,29.2,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,36,8,Pass,Pass,FirstHalf,65.3,72.6,59.0,76.6,Successful
+Dean Huijsen,Real Madrid,36,11,Pass,Pass,FirstHalf,55.6,74.2,50.4,65.7,Successful
+Federico Valverde,Real Madrid,36,13,Pass,Pass,FirstHalf,50.4,65.7,45.9,46.5,Successful
+Ibrahima Konaté,Real Madrid,36,13,Pass,Pass,FirstHalf,45.9,46.5,46.3,15.7,Successful
+Denzel Dumfries,Real Madrid,36,15,Pass,Pass,FirstHalf,46.3,15.7,60.2,1.9,Successful
+Arda Güler,Real Madrid,36,21,Pass,Pass,FirstHalf,34.9,25.2,27.0,64.8,Successful
+Dean Huijsen,Real Madrid,36,23,Pass,Pass,FirstHalf,27.0,64.8,36.6,94.5,Successful
+Álvaro Carreras,Real Madrid,36,27,Long Pass,Pass,FirstHalf,37.9,92.8,81.3,53.7,Unsuccessful
+Unai Núñez,Espanyol,36,31,Clearance,Clearance,FirstHalf,20.2,44.8,11.4,0.0,Successful
+Kylian Mbappé,Real Madrid,36,39,Throw In,Pass,FirstHalf,80.4,100.0,87.3,86.5,Successful
+Álvaro Carreras,Real Madrid,36,42,BallTouch,BallTouch,FirstHalf,87.3,86.5,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,36,46,Cross,Pass,FirstHalf,78.5,80.2,100.0,23.1,Unsuccessful
+Marko Dmitrovic,Espanyol,37,9,Long Pass,Pass,FirstHalf,4.3,52.9,65.1,55.9,Unsuccessful
+Ibrahima Konaté,Real Madrid,37,10,Aerial Won,Aerial,FirstHalf,34.9,44.1,0.0,0.0,Successful
+Roberto Fernández,Espanyol,37,10,Aerial Lost,Aerial,FirstHalf,65.1,55.9,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,37,10,Pass,Pass,FirstHalf,34.9,44.1,56.8,43.2,Successful
+Jude Bellingham,Real Madrid,37,13,Pass,Pass,FirstHalf,54.7,43.2,39.6,38.9,Successful
+Bernardo Silva,Real Madrid,37,16,Ball Recovery,BallRecovery,FirstHalf,46.2,34.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,37,17,Key Pass,Pass,FirstHalf,46.2,34.0,78.6,19.3,Successful
+Kylian Mbappé,Real Madrid,37,22,Shot on Target,SavedShot,FirstHalf,87.4,30.7,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,37,22,Save,Save,FirstHalf,2.0,52.3,0.0,0.0,Successful
+Omar El Hilali,Espanyol,37,25,Clearance,Clearance,FirstHalf,7.5,50.2,11.6,67.6,Successful
+Roger Hinojo,Espanyol,37,26,Ball Recovery,BallRecovery,FirstHalf,12.9,67.7,0.0,0.0,Successful
+Roger Hinojo,Espanyol,37,27,Pass,Pass,FirstHalf,12.9,67.7,38.8,81.4,Successful
+Javi Hernández,Espanyol,37,32,Pass,Pass,FirstHalf,59.8,79.7,70.3,90.5,Successful
+Tyrhys Dolan,Espanyol,37,38,Pass,Pass,FirstHalf,72.5,84.1,76.9,91.4,Successful
+Cala,Espanyol,37,41,Pass,Pass,FirstHalf,76.9,91.4,64.1,87.7,Successful
+Roger Hinojo,Espanyol,37,42,Pass,Pass,FirstHalf,63.2,87.3,65.7,74.7,Successful
+Edu Expósito,Espanyol,37,44,Pass,Pass,FirstHalf,65.7,73.8,71.6,88.2,Successful
+Cala,Espanyol,37,47,Pass,Pass,FirstHalf,71.4,83.0,68.8,80.9,Successful
+Edu Expósito,Espanyol,37,49,Pass,Pass,FirstHalf,71.8,82.9,78.7,91.4,Successful
+Tyrhys Dolan,Espanyol,37,52,Pass,Pass,FirstHalf,76.0,88.8,69.6,84.0,Successful
+Edu Expósito,Espanyol,37,54,Pass,Pass,FirstHalf,69.1,82.6,67.0,69.9,Successful
+Urko González de Zárate,Espanyol,37,56,Pass,Pass,FirstHalf,67.2,69.4,67.7,77.3,Successful
+Edu Expósito,Espanyol,37,57,Pass,Pass,FirstHalf,67.7,77.3,73.5,85.3,Successful
+Tyrhys Dolan,Espanyol,38,2,Pass,Pass,FirstHalf,74.1,90.3,63.7,86.7,Successful
+Edu Expósito,Espanyol,38,6,Pass,Pass,FirstHalf,62.4,86.2,48.6,79.3,Successful
+Roger Hinojo,Espanyol,38,9,Pass,Pass,FirstHalf,47.2,72.4,45.6,49.4,Successful
+Unai Núñez,Espanyol,38,14,Pass,Pass,FirstHalf,46.1,47.9,46.8,64.7,Successful
+Roger Hinojo,Espanyol,38,19,Pass,Pass,FirstHalf,56.0,67.0,44.3,50.6,Successful
+Unai Núñez,Espanyol,38,25,Pass,Pass,FirstHalf,44.0,49.4,54.9,56.1,Successful
+Edu Expósito,Espanyol,38,26,Pass,Pass,FirstHalf,54.9,56.1,46.9,64.9,Successful
+Roger Hinojo,Espanyol,38,27,Pass,Pass,FirstHalf,45.6,67.7,58.6,90.6,Successful
+Tyrhys Dolan,Espanyol,38,32,Pass,Pass,FirstHalf,59.3,78.5,65.5,63.6,Successful
+Urko González de Zárate,Espanyol,38,35,Pass,Pass,FirstHalf,67.3,63.3,71.8,70.5,Successful
+Javi Hernández,Espanyol,38,36,Loss of Possession,Dispossessed,FirstHalf,72.3,72.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,38,36,Successful Tackle,Tackle,FirstHalf,27.7,27.8,0.0,0.0,Successful
+Federico Valverde,Real Madrid,38,38,Pass,Pass,FirstHalf,27.5,17.4,36.6,5.8,Successful
+Arda Güler,Real Madrid,38,40,Ball Recovery,BallRecovery,FirstHalf,36.6,5.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,38,42,Foul,Foul,FirstHalf,36.3,12.2,0.0,0.0,Successful
+Roger Hinojo,Espanyol,38,42,Foul,Foul,FirstHalf,63.7,87.8,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,39,6,Pass,Pass,FirstHalf,38.1,10.5,24.3,40.6,Successful
+Ibrahima Konaté,Real Madrid,39,8,Pass,Pass,FirstHalf,26.6,42.7,23.3,66.9,Successful
+Dean Huijsen,Real Madrid,39,9,Pass,Pass,FirstHalf,23.3,66.9,31.8,93.7,Successful
+Álvaro Carreras,Real Madrid,39,11,Long Pass,Pass,FirstHalf,31.8,93.7,79.7,100.0,Unsuccessful
+Omar El Hilali,Espanyol,39,36,Throw In,Pass,FirstHalf,25.2,0.0,40.6,14.1,Successful
+Cala,Espanyol,39,39,Pass,Pass,FirstHalf,40.6,14.1,47.9,17.3,Unsuccessful
+Dean Huijsen,Real Madrid,39,39,Long Pass,Pass,FirstHalf,53.8,88.5,81.9,100.0,Unsuccessful
+Omar El Hilali,Espanyol,39,47,Throw In,Pass,FirstHalf,31.2,0.0,30.6,15.7,Successful
+Urko González de Zárate,Espanyol,39,49,Pass,Pass,FirstHalf,30.6,15.7,33.9,8.3,Successful
+Omar El Hilali,Espanyol,39,51,Chipped Pass,Pass,FirstHalf,33.9,8.3,36.8,21.3,Successful
+Urko González de Zárate,Espanyol,39,53,Long Pass,Pass,FirstHalf,37.4,26.7,52.7,74.3,Successful
+Javi Hernández,Espanyol,39,58,Foul,Foul,FirstHalf,47.8,60.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,39,58,Foul,Foul,FirstHalf,52.2,40.0,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,40,13,Pass,Pass,FirstHalf,45.8,54.2,38.9,30.9,Successful
+Clemens Riedel,Espanyol,40,15,Pass,Pass,FirstHalf,38.9,30.9,35.7,56.7,Successful
+Unai Núñez,Espanyol,40,18,Pass,Pass,FirstHalf,36.0,58.8,56.6,31.0,Successful
+Cala,Espanyol,40,20,Pass,Pass,FirstHalf,56.6,31.0,47.4,22.9,Successful
+Urko González de Zárate,Espanyol,40,24,Foul,Foul,FirstHalf,45.0,24.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,40,24,Foul,Foul,FirstHalf,55.0,75.8,0.0,0.0,Unsuccessful
+Urko González de Zárate,Espanyol,40,44,Pass,Pass,FirstHalf,46.6,33.3,40.8,65.2,Successful
+Roger Hinojo,Espanyol,40,46,Pass,Pass,FirstHalf,39.2,67.4,31.2,49.1,Successful
+Unai Núñez,Espanyol,40,47,Pass,Pass,FirstHalf,30.4,48.3,30.7,25.4,Successful
+Clemens Riedel,Espanyol,40,49,Long Pass,Pass,FirstHalf,29.7,24.2,86.0,36.1,Unsuccessful
+Thibaut Courtois,Real Madrid,40,55,KeeperPickup,KeeperPickup,FirstHalf,14.5,53.4,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,40,55,Pass,Pass,FirstHalf,14.5,53.4,29.9,65.5,Successful
+Federico Valverde,Real Madrid,40,58,Pass,Pass,FirstHalf,31.4,59.4,35.1,28.5,Successful
+Ibrahima Konaté,Real Madrid,41,6,Pass,Pass,FirstHalf,39.9,40.6,36.3,60.4,Successful
+Dean Huijsen,Real Madrid,41,11,Pass,Pass,FirstHalf,39.7,63.7,37.1,93.6,Successful
+Álvaro Carreras,Real Madrid,41,13,Pass,Pass,FirstHalf,36.9,93.1,32.5,61.0,Successful
+Dean Huijsen,Real Madrid,41,16,Pass,Pass,FirstHalf,32.4,58.2,47.6,35.8,Successful
+Bernardo Silva,Real Madrid,41,19,Pass,Pass,FirstHalf,47.7,35.8,66.0,19.2,Successful
+Arda Güler,Real Madrid,41,21,Pass,Pass,FirstHalf,66.3,19.0,68.8,3.6,Successful
+Denzel Dumfries,Real Madrid,41,26,Pass,Pass,FirstHalf,59.1,8.5,35.7,19.0,Successful
+Ibrahima Konaté,Real Madrid,41,27,Pass,Pass,FirstHalf,35.7,19.0,54.7,5.8,Successful
+Bernardo Silva,Real Madrid,41,29,Pass,Pass,FirstHalf,54.7,5.8,38.0,17.5,Successful
+Ibrahima Konaté,Real Madrid,41,32,Pass,Pass,FirstHalf,55.3,25.0,62.4,1.2,Successful
+Arda Güler,Real Madrid,41,35,Pass,Pass,FirstHalf,62.1,10.8,67.8,24.1,Successful
+Kylian Mbappé,Real Madrid,41,36,Pass,Pass,FirstHalf,67.8,24.1,74.4,15.1,Successful
+Bernardo Silva,Real Madrid,41,43,Pass,Pass,FirstHalf,77.6,3.4,57.6,6.0,Successful
+Ibrahima Konaté,Real Madrid,41,45,Pass,Pass,FirstHalf,61.7,14.7,71.7,20.5,Successful
+Kylian Mbappé,Real Madrid,41,48,Pass,Pass,FirstHalf,70.8,24.3,72.9,34.3,Successful
+Arda Güler,Real Madrid,41,49,Successful Dribble,TakeOn,FirstHalf,68.8,45.8,0.0,0.0,Successful
+Urko González de Zárate,Espanyol,41,49,Challenge,Challenge,FirstHalf,31.1,54.2,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,41,49,GoodSkill,GoodSkill,FirstHalf,76.8,37.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,41,50,Key Pass,Pass,FirstHalf,76.2,43.8,93.3,45.5,Successful
+Kylian Mbappé,Real Madrid,41,54,Shot off Target,MissedShots,FirstHalf,93.3,45.5,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,42,0,Long Pass,Pass,FirstHalf,4.7,57.9,43.6,74.4,Unsuccessful
+Marko Dmitrovic,Espanyol,42,1,CornerAwarded,CornerAwarded,FirstHalf,50.0,50.0,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,42,1,CornerAwarded,CornerAwarded,FirstHalf,50.0,50.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,42,51,Cross,Pass,FirstHalf,99.5,99.5,91.3,37.5,Successful
+Federico Valverde,Real Madrid,42,54,Cross,Pass,FirstHalf,77.4,16.0,79.9,19.0,Unsuccessful
+Tyrhys Dolan,Espanyol,42,56,BallTouch,BallTouch,FirstHalf,19.6,72.9,0.0,0.0,Successful
+Federico Valverde,Real Madrid,42,57,CornerAwarded,CornerAwarded,FirstHalf,80.2,23.8,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,42,57,CornerAwarded,CornerAwarded,FirstHalf,19.8,76.2,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,43,38,Pass,Pass,FirstHalf,99.5,0.5,95.1,19.9,Successful
+Bernardo Silva,Real Madrid,43,41,Pass,Pass,FirstHalf,88.2,13.2,69.8,15.3,Successful
+Arda Güler,Real Madrid,43,44,Pass,Pass,FirstHalf,69.8,15.3,70.0,32.1,Successful
+Federico Valverde,Real Madrid,43,45,Pass,Pass,FirstHalf,70.5,37.0,68.5,13.8,Successful
+Arda Güler,Real Madrid,43,47,Pass,Pass,FirstHalf,68.4,15.4,68.8,36.0,Successful
+Federico Valverde,Real Madrid,43,49,Key Pass,Pass,FirstHalf,69.4,37.8,72.2,58.9,Successful
+Kylian Mbappé,Real Madrid,43,52,Shot on Target,SavedShot,FirstHalf,75.1,53.5,0.0,0.0,Successful
+Roberto Fernández,Espanyol,43,53,Save,Save,FirstHalf,17.0,47.8,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,43,54,CornerAwarded,CornerAwarded,FirstHalf,79.4,48.6,0.0,0.0,Successful
+Roberto Fernández,Espanyol,43,54,CornerAwarded,CornerAwarded,FirstHalf,20.6,51.4,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,44,23,Cross,Pass,FirstHalf,99.5,0.5,95.3,48.4,Unsuccessful
+Unai Núñez,Espanyol,44,27,Aerial Won,Aerial,FirstHalf,4.7,51.6,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,44,27,Aerial Lost,Aerial,FirstHalf,95.3,48.4,0.0,0.0,Unsuccessful
+Unai Núñez,Espanyol,44,27,Clearance,Clearance,FirstHalf,4.7,51.6,13.1,38.9,Successful
+Cala,Espanyol,44,30,Clearance,Clearance,FirstHalf,13.3,39.1,26.9,45.9,Successful
+Javi Hernández,Espanyol,44,32,Ball Recovery,BallRecovery,FirstHalf,24.1,40.0,0.0,0.0,Successful
+Javi Hernández,Espanyol,44,33,Pass,Pass,FirstHalf,27.3,42.9,37.8,33.0,Unsuccessful
+Bernardo Silva,Real Madrid,44,33,Chipped Pass,Pass,FirstHalf,56.4,73.8,74.4,93.4,Successful
+Vinícius Júnior,Real Madrid,44,36,BallTouch,BallTouch,FirstHalf,74.5,93.6,0.0,0.0,Unsuccessful
+,Espanyol,44,40,Foul,Foul,FirstHalf,23.6,10.0,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,44,40,Foul,Foul,FirstHalf,76.4,89.8,0.0,0.0,Unsuccessful
+Marko Dmitrovic,Espanyol,45,8,Long Pass,Pass,FirstHalf,21.9,11.3,73.9,15.0,Successful
+Roberto Fernández,Espanyol,45,13,Aerial Won,Aerial,FirstHalf,73.9,15.0,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,45,13,Aerial Lost,Aerial,FirstHalf,26.1,85.0,0.0,0.0,Unsuccessful
+Roberto Fernández,Espanyol,45,14,Pass,Pass,FirstHalf,73.9,15.0,71.8,41.4,Unsuccessful
+Bernardo Silva,Real Madrid,45,15,BallTouch,BallTouch,FirstHalf,26.9,62.4,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,45,17,Loss of Possession,Dispossessed,FirstHalf,80.2,35.2,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,45,17,Was Dribbled,Tackle,FirstHalf,19.8,64.8,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,45,20,Pass,Pass,FirstHalf,71.8,47.1,77.0,48.3,Successful
+Tyrhys Dolan,Espanyol,45,21,Pass,Pass,FirstHalf,77.5,51.3,73.9,62.2,Successful
+Javi Hernández,Espanyol,45,25,Pass,Pass,FirstHalf,75.2,59.5,71.7,49.7,Successful
+Edu Expósito,Espanyol,45,26,Pass,Pass,FirstHalf,71.2,49.2,69.0,38.0,Successful
+Urko González de Zárate,Espanyol,45,26,Pass,Pass,FirstHalf,68.7,39.8,76.2,17.1,Successful
+Omar El Hilali,Espanyol,45,28,Pass,Pass,FirstHalf,75.8,10.4,85.6,14.8,Successful
+Cala,Espanyol,45,31,Pass,Pass,FirstHalf,84.9,13.9,85.9,14.7,Unsuccessful
+Federico Valverde,Real Madrid,45,31,BlockedPass,BlockedPass,FirstHalf,14.1,85.3,0.0,0.0,Successful
+Omar El Hilali,Espanyol,45,41,Throw In,Pass,FirstHalf,87.6,0.0,83.2,16.2,Successful
+Cala,Espanyol,45,42,Cross,Pass,FirstHalf,83.2,11.8,90.0,46.4,Unsuccessful
+Dean Huijsen,Real Madrid,45,42,Clearance,Clearance,FirstHalf,10.9,54.6,38.8,66.6,Successful
+Edu Expósito,Espanyol,45,46,Pass,Pass,FirstHalf,68.0,44.2,55.7,39.5,Successful
+Unai Núñez,Espanyol,45,48,Pass,Pass,FirstHalf,55.7,39.5,64.8,30.4,Successful
+Urko González de Zárate,Espanyol,45,50,Pass,Pass,FirstHalf,65.6,34.1,66.1,41.8,Successful
+Edu Expósito,Espanyol,45,51,Pass,Pass,FirstHalf,66.3,43.0,77.2,38.3,Successful
+Javi Hernández,Espanyol,45,55,Pass,Pass,FirstHalf,80.4,36.7,94.0,11.3,Successful
+Omar El Hilali,Espanyol,45,57,Cross,Pass,FirstHalf,94.1,11.3,96.7,38.3,Unsuccessful
+Dean Huijsen,Real Madrid,46,1,Clearance,Clearance,FirstHalf,5.9,58.8,6.8,39.7,Successful
+Roberto Fernández,Espanyol,46,3,Shot off Target,MissedShots,FirstHalf,95.4,52.6,0.0,0.0,Successful
+Roberto Fernández,Espanyol,46,4,Key Pass,Pass,FirstHalf,92.2,79.3,83.9,72.4,Successful
+Edu Expósito,Espanyol,46,6,Shot on Target,SavedShot,FirstHalf,83.9,72.4,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,46,6,Save,Save,FirstHalf,2.0,46.3,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,46,8,KeeperPickup,KeeperPickup,FirstHalf,2.0,46.3,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,46,22,Pass,Pass,FirstHalf,11.9,47.7,28.6,73.8,Successful
+Federico Valverde,Real Madrid,46,24,Pass,Pass,FirstHalf,28.6,73.8,29.8,95.4,Successful
+Álvaro Carreras,Real Madrid,46,25,Pass,Pass,FirstHalf,29.8,95.4,30.3,59.8,Successful
+Bernardo Silva,Real Madrid,46,27,Pass,Pass,FirstHalf,30.7,57.9,33.2,20.7,Successful
+Denzel Dumfries,Real Madrid,46,31,Pass,Pass,FirstHalf,33.2,18.7,49.9,3.1,Successful
+Arda Güler,Real Madrid,46,40,Long Pass,Pass,FirstHalf,69.1,21.3,73.6,93.6,Successful
+Álvaro Carreras,Real Madrid,46,48,Pass,Pass,FirstHalf,72.5,92.7,59.8,84.6,Successful
+Dean Huijsen,Real Madrid,46,51,Pass,Pass,FirstHalf,59.0,77.5,53.9,47.8,Successful
+Ibrahima Konaté,Real Madrid,46,53,Pass,Pass,FirstHalf,53.9,47.8,61.8,18.6,Successful
+Denzel Dumfries,Real Madrid,46,58,Pass,Pass,FirstHalf,62.2,17.4,65.7,5.4,Successful
+Kylian Mbappé,Real Madrid,47,3,Pass,Pass,FirstHalf,69.6,11.2,77.2,2.7,Successful
+Denzel Dumfries,Real Madrid,47,5,Pass,Pass,FirstHalf,77.3,2.7,69.8,14.1,Successful
+Kylian Mbappé,Real Madrid,47,9,Pass,Pass,FirstHalf,68.0,19.3,69.6,36.9,Successful
+Federico Valverde,Real Madrid,47,13,Pass,Pass,FirstHalf,73.1,42.7,100.0,32.2,Unsuccessful
+Marko Dmitrovic,Espanyol,47,44,Long Pass,Pass,FirstHalf,4.1,55.5,67.0,100.0,Unsuccessful
+Denzel Dumfries,Real Madrid,47,56,Long Pass,Pass,FirstHalf,39.5,0.0,60.2,7.8,Successful
+Jude Bellingham,Real Madrid,47,57,Pass,Pass,FirstHalf,55.6,16.2,54.6,12.9,Successful
+Arda Güler,Real Madrid,47,58,BallTouch,BallTouch,FirstHalf,55.1,12.0,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,48,1,Ball Recovery,BallRecovery,FirstHalf,50.6,85.8,0.0,0.0,Successful
+Roger Hinojo,Espanyol,48,2,Long Pass,Pass,FirstHalf,42.9,93.4,47.6,93.4,Unsuccessful
+Denzel Dumfries,Real Madrid,48,3,BallTouch,BallTouch,FirstHalf,54.9,5.5,0.0,0.0,Successful
+Javi Hernández,Espanyol,48,4,Loss of Possession,Dispossessed,FirstHalf,69.5,91.9,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,48,5,Was Dribbled,Tackle,FirstHalf,30.4,8.0,0.0,0.0,Unsuccessful
+,Real Madrid,48,11,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,48,11,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,45,0,Pass,Pass,SecondHalf,49.8,50.2,47.2,49.6,Successful
+Bernardo Silva,Real Madrid,45,3,Pass,Pass,SecondHalf,53.3,43.2,53.6,29.5,Successful
+Arda Güler,Real Madrid,45,4,Pass,Pass,SecondHalf,52.8,33.4,33.4,31.5,Successful
+Ibrahima Konaté,Real Madrid,45,5,Pass,Pass,SecondHalf,26.0,39.9,27.3,66.7,Successful
+Dean Huijsen,Real Madrid,45,6,Pass,Pass,SecondHalf,28.1,66.3,27.6,40.2,Successful
+Ibrahima Konaté,Real Madrid,45,10,Pass,Pass,SecondHalf,33.1,39.9,31.5,62.4,Successful
+Dean Huijsen,Real Madrid,45,15,Pass,Pass,SecondHalf,31.3,64.5,32.4,79.2,Successful
+Álvaro Carreras,Real Madrid,45,17,Foul,Foul,SecondHalf,38.0,74.4,0.0,0.0,Successful
+Cala,Espanyol,45,17,Foul,Foul,SecondHalf,62.0,25.6,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,45,48,Pass,Pass,SecondHalf,39.7,72.1,27.0,40.5,Successful
+Ibrahima Konaté,Real Madrid,45,55,Pass,Pass,SecondHalf,45.1,37.0,40.2,58.9,Successful
+Dean Huijsen,Real Madrid,45,58,Pass,Pass,SecondHalf,42.8,59.8,61.8,80.1,Successful
+Jude Bellingham,Real Madrid,46,1,BallTouch,BallTouch,SecondHalf,70.5,84.0,0.0,0.0,Unsuccessful
+Omar El Hilali,Espanyol,46,3,Clearance,Clearance,SecondHalf,22.1,18.9,5.1,35.0,Successful
+Marko Dmitrovic,Espanyol,46,5,KeeperPickup,KeeperPickup,SecondHalf,3.9,35.0,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,46,11,Long Pass,Pass,SecondHalf,4.8,33.5,25.9,90.3,Successful
+Roger Hinojo,Espanyol,46,16,Long Pass,Pass,SecondHalf,28.5,89.0,59.6,81.7,Successful
+Javi Hernández,Espanyol,46,22,BallTouch,BallTouch,SecondHalf,56.8,92.8,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,46,42,Long Pass,Pass,SecondHalf,42.2,0.0,60.2,36.6,Unsuccessful
+Edu Expósito,Espanyol,46,46,BallTouch,BallTouch,SecondHalf,34.2,55.2,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,46,46,Pass,Pass,SecondHalf,57.1,44.4,62.3,67.3,Successful
+Kylian Mbappé,Real Madrid,46,49,Pass,Pass,SecondHalf,63.1,71.7,67.1,93.7,Successful
+Vinícius Júnior,Real Madrid,46,56,BallTouch,BallTouch,SecondHalf,91.9,73.9,0.0,0.0,Unsuccessful
+Omar El Hilali,Espanyol,46,58,Clearance,Clearance,SecondHalf,1.4,32.6,0.0,21.0,Successful
+Vinícius Júnior,Real Madrid,46,58,CornerAwarded,CornerAwarded,SecondHalf,97.5,76.9,0.0,0.0,Successful
+Omar El Hilali,Espanyol,46,58,CornerAwarded,CornerAwarded,SecondHalf,2.5,23.1,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,47,21,Pass,Pass,SecondHalf,99.6,99.1,90.7,75.4,Successful
+Kylian Mbappé,Real Madrid,47,24,Successful Dribble,TakeOn,SecondHalf,89.0,85.5,0.0,0.0,Successful
+Javi Hernández,Espanyol,47,24,Challenge,Challenge,SecondHalf,11.0,14.5,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,47,25,Cross,Pass,SecondHalf,96.9,74.7,94.6,51.6,Unsuccessful
+Roberto Fernández,Espanyol,47,26,Clearance,Clearance,SecondHalf,3.5,38.8,18.4,20.4,Successful
+Tyrhys Dolan,Espanyol,47,30,Ball Recovery,BallRecovery,SecondHalf,13.9,15.6,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,47,31,Long Pass,Pass,SecondHalf,13.4,13.6,39.8,21.5,Unsuccessful
+Federico Valverde,Real Madrid,47,33,Pass,Pass,SecondHalf,63.2,74.8,78.7,56.5,Successful
+Jude Bellingham,Real Madrid,47,36,Pass,Pass,SecondHalf,78.7,56.5,92.6,44.1,Unsuccessful
+Marko Dmitrovic,Espanyol,47,38,KeeperPickup,KeeperPickup,SecondHalf,7.8,46.8,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,47,44,Pass,Pass,SecondHalf,8.1,48.3,22.3,66.2,Successful
+Unai Núñez,Espanyol,47,48,Pass,Pass,SecondHalf,27.8,71.1,32.1,90.3,Successful
+Roger Hinojo,Espanyol,47,54,Pass,Pass,SecondHalf,29.5,70.8,18.8,49.1,Successful
+Clemens Riedel,Espanyol,47,57,Pass,Pass,SecondHalf,20.5,49.4,17.9,65.3,Successful
+Unai Núñez,Espanyol,48,0,Pass,Pass,SecondHalf,17.1,65.2,13.3,49.8,Successful
+Clemens Riedel,Espanyol,48,1,Pass,Pass,SecondHalf,13.3,49.8,2.5,58.3,Successful
+Marko Dmitrovic,Espanyol,48,4,Long Pass,Pass,SecondHalf,2.4,59.4,44.3,73.3,Unsuccessful
+Denzel Dumfries,Real Madrid,48,9,Pass,Pass,SecondHalf,53.5,9.1,66.2,15.9,Unsuccessful
+Roger Hinojo,Espanyol,48,12,Pass,Pass,SecondHalf,34.9,71.5,36.7,63.2,Successful
+Urko González de Zárate,Espanyol,48,15,Pass,Pass,SecondHalf,39.9,59.1,41.0,50.8,Successful
+Bernardo Silva,Real Madrid,48,18,Challenge,Challenge,SecondHalf,50.0,37.2,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,48,18,Successful Dribble,TakeOn,SecondHalf,50.0,62.8,0.0,0.0,Successful
+Edu Expósito,Espanyol,48,21,Pass,Pass,SecondHalf,73.1,68.0,84.2,86.5,Successful
+Tyrhys Dolan,Espanyol,48,24,Cross,Pass,SecondHalf,81.7,87.4,89.9,45.9,Successful
+Roberto Fernández,Espanyol,48,24,Aerial Won,Aerial,SecondHalf,89.9,45.9,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,48,24,Aerial Lost,Aerial,SecondHalf,10.1,54.1,0.0,0.0,Unsuccessful
+Roberto Fernández,Espanyol,48,25,BallTouch,BallTouch,SecondHalf,87.5,50.5,0.0,0.0,Successful
+Cala,Espanyol,48,28,Shot off Target,MissedShots,SecondHalf,87.2,39.9,0.0,0.0,Successful
+Álvaro Carreras,Real Madrid,48,30,Clearance,Clearance,SecondHalf,13.0,72.0,31.2,100.0,Successful
+Omar El Hilali,Espanyol,48,58,Long Pass,Pass,SecondHalf,67.5,0.0,43.4,25.6,Successful
+Clemens Riedel,Espanyol,49,0,Pass,Pass,SecondHalf,43.4,25.6,46.3,56.8,Successful
+Unai Núñez,Espanyol,49,1,Pass,Pass,SecondHalf,46.6,61.1,44.0,75.0,Successful
+Roger Hinojo,Espanyol,49,3,Pass,Pass,SecondHalf,44.1,74.9,56.5,88.1,Successful
+Tyrhys Dolan,Espanyol,49,11,Foul,Foul,SecondHalf,80.2,85.4,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,49,11,Foul,Foul,SecondHalf,19.8,14.7,0.0,0.0,Unsuccessful
+Javi Hernández,Espanyol,49,53,Cross,Pass,SecondHalf,76.4,86.7,84.9,67.1,Unsuccessful
+Vinícius Júnior,Real Madrid,49,54,Unsuccessful Dribble,TakeOn,SecondHalf,24.4,47.3,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,49,54,Successful Tackle,Tackle,SecondHalf,75.6,52.7,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,49,54,Clearance,Clearance,SecondHalf,13.6,41.2,24.5,45.3,Successful
+Roger Hinojo,Espanyol,49,56,Chipped Pass,Pass,SecondHalf,81.2,58.3,100.0,35.0,Unsuccessful
+Dean Huijsen,Real Madrid,50,12,Pass,Pass,SecondHalf,4.3,60.7,3.7,55.0,Successful
+Thibaut Courtois,Real Madrid,50,14,Pass,Pass,SecondHalf,13.0,52.2,12.8,39.7,Successful
+Ibrahima Konaté,Real Madrid,50,17,Pass,Pass,SecondHalf,12.8,39.7,20.0,15.6,Successful
+Denzel Dumfries,Real Madrid,50,19,Pass,Pass,SecondHalf,20.5,15.3,13.5,40.6,Successful
+Ibrahima Konaté,Real Madrid,50,20,Pass,Pass,SecondHalf,13.5,40.6,13.9,69.1,Successful
+Dean Huijsen,Real Madrid,50,25,Pass,Pass,SecondHalf,23.7,70.2,18.9,36.4,Successful
+Ibrahima Konaté,Real Madrid,50,30,Pass,Pass,SecondHalf,19.9,34.9,35.4,3.0,Successful
+Kylian Mbappé,Real Madrid,50,33,Pass,Pass,SecondHalf,34.7,4.0,22.5,19.5,Successful
+Denzel Dumfries,Real Madrid,50,35,Pass,Pass,SecondHalf,22.5,19.5,21.4,37.8,Successful
+Ibrahima Konaté,Real Madrid,50,41,Long Pass,Pass,SecondHalf,27.1,40.2,70.1,73.9,Unsuccessful
+Clemens Riedel,Espanyol,50,44,Aerial Won,Aerial,SecondHalf,29.9,26.1,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,50,44,Aerial Lost,Aerial,SecondHalf,70.1,73.9,0.0,0.0,Unsuccessful
+Clemens Riedel,Espanyol,50,45,Clearance,Clearance,SecondHalf,29.9,26.1,34.7,14.4,Successful
+Vinícius Júnior,Real Madrid,50,47,Pass,Pass,SecondHalf,61.7,87.6,72.2,88.0,Successful
+Jude Bellingham,Real Madrid,50,51,BallTouch,BallTouch,SecondHalf,88.7,80.8,0.0,0.0,Unsuccessful
+Omar El Hilali,Espanyol,50,52,Clearance,Clearance,SecondHalf,9.5,21.7,11.1,0.0,Successful
+Álvaro Carreras,Real Madrid,51,5,Throw In,Pass,SecondHalf,93.3,100.0,96.7,85.3,Successful
+Bernardo Silva,Real Madrid,51,5,Chipped Pass,Pass,SecondHalf,96.7,85.3,95.5,97.0,Successful
+Álvaro Carreras,Real Madrid,51,7,BallTouch,BallTouch,SecondHalf,95.5,97.0,0.0,0.0,Unsuccessful
+Cala,Espanyol,51,8,Loss of Possession,Dispossessed,SecondHalf,6.8,7.8,0.0,0.0,Successful
+Álvaro Carreras,Real Madrid,51,8,Successful Tackle,Tackle,SecondHalf,93.2,92.2,0.0,0.0,Successful
+Omar El Hilali,Espanyol,51,26,Long Pass,Pass,SecondHalf,9.4,0.0,28.9,11.3,Unsuccessful
+Álvaro Carreras,Real Madrid,51,27,Pass,Pass,SecondHalf,73.2,94.0,89.9,89.1,Successful
+Jude Bellingham,Real Madrid,51,28,Pass,Pass,SecondHalf,77.0,85.2,84.3,81.9,Unsuccessful
+Clemens Riedel,Espanyol,51,30,Pass,Pass,SecondHalf,22.9,23.0,31.7,29.7,Successful
+Javi Hernández,Espanyol,51,31,Pass,Pass,SecondHalf,32.3,30.0,30.0,28.3,Successful
+Cala,Espanyol,51,33,Chipped Pass,Pass,SecondHalf,30.0,28.3,41.3,25.1,Unsuccessful
+Dean Huijsen,Real Madrid,51,34,Pass,Pass,SecondHalf,61.9,89.2,65.3,94.0,Successful
+Federico Valverde,Real Madrid,51,35,Pass,Pass,SecondHalf,65.3,94.0,60.4,75.3,Successful
+Bernardo Silva,Real Madrid,51,36,Ball Recovery,BallRecovery,SecondHalf,60.4,75.3,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,51,37,Pass,Pass,SecondHalf,60.4,75.3,55.9,85.6,Successful
+Dean Huijsen,Real Madrid,51,37,Pass,Pass,SecondHalf,55.9,85.6,64.0,94.2,Successful
+Álvaro Carreras,Real Madrid,51,42,Pass,Pass,SecondHalf,63.0,94.6,53.7,94.3,Successful
+Dean Huijsen,Real Madrid,51,44,Foul,Foul,SecondHalf,56.6,82.0,0.0,0.0,Successful
+Roberto Fernández,Espanyol,51,44,Foul,Foul,SecondHalf,43.4,17.9,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,51,57,Long Pass,Pass,SecondHalf,55.7,92.5,52.3,45.0,Successful
+Ibrahima Konaté,Real Madrid,51,59,Pass,Pass,SecondHalf,52.3,45.0,58.6,10.3,Successful
+Denzel Dumfries,Real Madrid,52,0,Pass,Pass,SecondHalf,59.2,10.2,70.4,4.6,Successful
+Kylian Mbappé,Real Madrid,52,2,Pass,Pass,SecondHalf,70.3,4.6,74.4,14.7,Successful
+Arda Güler,Real Madrid,52,3,Key Pass,Pass,SecondHalf,74.4,14.7,75.0,24.7,Successful
+Denzel Dumfries,Real Madrid,52,6,Shot on Target,SavedShot,SecondHalf,82.7,37.0,0.0,0.0,Successful
+Unai Núñez,Espanyol,52,6,Save,Save,SecondHalf,12.2,59.8,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,52,7,CornerAwarded,CornerAwarded,SecondHalf,84.4,38.8,0.0,0.0,Successful
+Unai Núñez,Espanyol,52,7,CornerAwarded,CornerAwarded,SecondHalf,15.6,61.2,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,52,34,Key Pass,Pass,SecondHalf,99.5,99.5,92.4,54.2,Successful
+Jude Bellingham,Real Madrid,52,34,Aerial Won,Aerial,SecondHalf,92.4,54.2,0.0,0.0,Successful
+Roger Hinojo,Espanyol,52,35,Aerial Lost,Aerial,SecondHalf,7.6,45.8,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,52,35,Shot on Target,SavedShot,SecondHalf,92.4,54.2,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,52,35,Save,Save,SecondHalf,1.2,50.0,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,52,38,Shot off Target,MissedShots,SecondHalf,97.8,49.3,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,53,3,Long Pass,Pass,SecondHalf,3.4,48.5,55.7,43.5,Unsuccessful
+Dean Huijsen,Real Madrid,53,4,Aerial Won,Aerial,SecondHalf,44.3,56.5,0.0,0.0,Successful
+Roberto Fernández,Espanyol,53,4,Aerial Lost,Aerial,SecondHalf,55.7,43.5,0.0,0.0,Unsuccessful
+Dean Huijsen,Real Madrid,53,5,Pass,Pass,SecondHalf,44.3,56.5,58.3,61.5,Successful
+Jude Bellingham,Real Madrid,53,6,Pass,Pass,SecondHalf,58.3,61.5,62.9,70.5,Successful
+Álvaro Carreras,Real Madrid,53,7,Pass,Pass,SecondHalf,62.9,70.5,59.2,79.0,Successful
+Federico Valverde,Real Madrid,53,9,Ball Recovery,BallRecovery,SecondHalf,59.2,79.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,53,9,Pass,Pass,SecondHalf,59.2,79.0,67.4,88.8,Successful
+Vinícius Júnior,Real Madrid,53,12,Cross,Pass,SecondHalf,77.4,90.4,97.3,49.8,Unsuccessful
+Marko Dmitrovic,Espanyol,53,14,KeeperPickup,KeeperPickup,SecondHalf,3.8,45.6,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,53,18,Pass,Pass,SecondHalf,9.4,46.7,13.4,86.1,Successful
+Roger Hinojo,Espanyol,53,22,Pass,Pass,SecondHalf,16.2,86.5,7.6,74.3,Successful
+Unai Núñez,Espanyol,53,28,Long Pass,Pass,SecondHalf,9.1,82.6,52.6,82.6,Successful
+Roberto Fernández,Espanyol,53,32,BallTouch,BallTouch,SecondHalf,53.2,82.6,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,53,32,Pass,Pass,SecondHalf,31.9,11.4,11.6,45.9,Successful
+Thibaut Courtois,Real Madrid,53,34,Ball Recovery,BallRecovery,SecondHalf,11.6,45.9,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,53,39,Long Pass,Pass,SecondHalf,11.2,56.2,74.1,68.7,Unsuccessful
+Marko Dmitrovic,Espanyol,53,44,Ball Recovery,BallRecovery,SecondHalf,22.5,23.9,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,53,49,Pass,Pass,SecondHalf,14.3,31.7,27.4,29.2,Successful
+Clemens Riedel,Espanyol,53,50,Pass,Pass,SecondHalf,27.9,29.5,10.1,35.7,Successful
+Marko Dmitrovic,Espanyol,53,54,Pass,Pass,SecondHalf,11.5,37.0,24.9,40.3,Successful
+Edu Expósito,Espanyol,53,55,Pass,Pass,SecondHalf,24.9,40.3,21.0,60.2,Successful
+Roger Hinojo,Espanyol,53,58,Long Pass,Pass,SecondHalf,21.1,60.0,29.3,11.8,Successful
+Omar El Hilali,Espanyol,54,1,Pass,Pass,SecondHalf,29.3,11.8,31.0,18.3,Unsuccessful
+Federico Valverde,Real Madrid,54,2,Interception,Interception,SecondHalf,69.0,81.7,0.0,0.0,Successful
+Omar El Hilali,Espanyol,54,30,Throw In,Pass,SecondHalf,19.2,0.0,16.8,11.3,Successful
+Clemens Riedel,Espanyol,54,31,BallTouch,BallTouch,SecondHalf,16.8,11.3,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,54,36,BallTouch,BallTouch,SecondHalf,74.0,95.5,0.0,0.0,Successful
+Omar El Hilali,Espanyol,54,41,Throw In,Pass,SecondHalf,22.0,0.0,15.9,6.3,Successful
+Clemens Riedel,Espanyol,54,43,Long Pass,Pass,SecondHalf,15.9,6.3,52.3,38.8,Unsuccessful
+Ibrahima Konaté,Real Madrid,54,47,Pass,Pass,SecondHalf,47.0,55.3,58.0,62.1,Successful
+Arda Güler,Real Madrid,54,48,BallTouch,BallTouch,SecondHalf,58.0,62.1,0.0,0.0,Unsuccessful
+Urko González de Zárate,Espanyol,54,49,Pass,Pass,SecondHalf,36.5,35.3,41.1,52.6,Successful
+Edu Expósito,Espanyol,54,52,Pass,Pass,SecondHalf,49.4,62.1,64.0,90.5,Successful
+Tyrhys Dolan,Espanyol,55,0,Cross,Pass,SecondHalf,87.9,83.8,89.3,75.3,Unsuccessful
+Denzel Dumfries,Real Madrid,55,0,Clearance,Clearance,SecondHalf,10.7,24.7,0.0,0.0,Successful
+Roger Hinojo,Espanyol,55,3,Pass,Pass,SecondHalf,84.5,85.9,71.7,79.7,Successful
+Edu Expósito,Espanyol,55,5,Pass,Pass,SecondHalf,73.5,78.5,86.1,87.7,Successful
+Tyrhys Dolan,Espanyol,55,10,Unsuccessful Dribble,TakeOn,SecondHalf,90.0,83.5,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,55,10,Successful Tackle,Tackle,SecondHalf,10.0,16.5,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,55,12,Ball Recovery,BallRecovery,SecondHalf,8.2,20.8,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,55,12,Pass,Pass,SecondHalf,8.2,20.8,11.1,9.1,Successful
+Arda Güler,Real Madrid,55,16,Foul,Foul,SecondHalf,11.3,11.4,0.0,0.0,Successful
+Cala,Espanyol,55,16,Foul,Foul,SecondHalf,88.6,88.5,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,55,38,Long Pass,Pass,SecondHalf,28.9,25.8,61.9,82.3,Successful
+Kylian Mbappé,Real Madrid,55,43,Long Pass,Pass,SecondHalf,64.1,62.7,80.0,12.1,Successful
+Arda Güler,Real Madrid,55,49,Loss of Possession,Dispossessed,SecondHalf,82.0,27.3,0.0,0.0,Successful
+Roger Hinojo,Espanyol,55,49,Was Dribbled,Tackle,SecondHalf,18.0,72.6,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,55,53,Pass,Pass,SecondHalf,61.0,22.6,65.1,35.8,Successful
+Jude Bellingham,Real Madrid,55,54,Pass,Pass,SecondHalf,65.1,35.8,56.3,35.1,Successful
+Ibrahima Konaté,Real Madrid,55,56,Pass,Pass,SecondHalf,56.3,35.1,69.6,7.3,Successful
+Bernardo Silva,Real Madrid,56,0,Pass,Pass,SecondHalf,66.1,8.7,59.0,24.3,Successful
+Jude Bellingham,Real Madrid,56,3,Pass,Pass,SecondHalf,56.3,35.2,53.0,59.1,Successful
+Dean Huijsen,Real Madrid,56,8,Pass,Pass,SecondHalf,62.7,67.6,69.0,59.2,Successful
+Jude Bellingham,Real Madrid,56,10,Pass,Pass,SecondHalf,66.8,67.5,66.9,96.6,Successful
+Vinícius Júnior,Real Madrid,56,18,Foul,Foul,SecondHalf,67.3,74.8,0.0,0.0,Successful
+Omar El Hilali,Espanyol,56,18,Foul,Foul,SecondHalf,32.8,25.2,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,57,34,Key Pass,Pass,SecondHalf,67.6,75.0,91.5,51.9,Successful
+Dean Huijsen,Real Madrid,57,36,Aerial Won,Aerial,SecondHalf,91.5,51.9,0.0,0.0,Successful
+Unai Núñez,Espanyol,57,36,Aerial Lost,Aerial,SecondHalf,8.5,48.1,0.0,0.0,Unsuccessful
+Dean Huijsen,Real Madrid,57,36,Shot on Target,SavedShot,SecondHalf,91.5,51.9,0.0,0.0,Successful
+Unai Núñez,Espanyol,57,36,Save,Save,SecondHalf,9.8,48.4,0.0,0.0,Successful
+Unai Núñez,Espanyol,57,39,CornerAwarded,CornerAwarded,SecondHalf,10.2,49.0,0.0,0.0,Unsuccessful
+Dean Huijsen,Real Madrid,57,39,CornerAwarded,CornerAwarded,SecondHalf,89.8,51.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,57,53,Pass,Pass,SecondHalf,99.5,0.5,90.8,26.2,Successful
+Jude Bellingham,Real Madrid,57,56,Pass,Pass,SecondHalf,90.8,26.2,86.6,11.2,Successful
+Arda Güler,Real Madrid,58,1,Key Pass,Pass,SecondHalf,80.9,15.1,89.0,52.6,Successful
+Ibrahima Konaté,Real Madrid,58,3,Aerial Won,Aerial,SecondHalf,89.0,52.6,0.0,0.0,Successful
+Clemens Riedel,Espanyol,58,3,Aerial Lost,Aerial,SecondHalf,11.0,47.4,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,58,3,Shot on Target,SavedShot,SecondHalf,89.0,52.6,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,58,3,Save,Save,SecondHalf,1.6,49.4,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,58,6,KeeperPickup,KeeperPickup,SecondHalf,1.6,49.4,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,58,10,Pass,Pass,SecondHalf,6.7,51.7,22.7,66.7,Successful
+Unai Núñez,Espanyol,58,11,BallTouch,BallTouch,SecondHalf,22.7,66.7,0.0,0.0,Successful
+Omar El Hilali,Espanyol,58,19,Pass,Pass,SecondHalf,26.2,10.0,20.3,18.8,Successful
+Clemens Riedel,Espanyol,58,20,Long Pass,Pass,SecondHalf,20.3,18.8,52.7,20.9,Unsuccessful
+Federico Valverde,Real Madrid,58,22,Ball Recovery,BallRecovery,SecondHalf,42.1,81.3,0.0,0.0,Successful
+Federico Valverde,Real Madrid,58,23,Chipped Pass,Pass,SecondHalf,42.1,81.3,51.6,43.2,Successful
+Arda Güler,Real Madrid,58,25,Pass,Pass,SecondHalf,51.6,43.2,51.0,46.6,Successful
+Bernardo Silva,Real Madrid,58,29,Pass,Pass,SecondHalf,52.8,33.1,53.2,7.6,Successful
+Denzel Dumfries,Real Madrid,58,30,Pass,Pass,SecondHalf,54.0,7.9,54.7,22.3,Successful
+Arda Güler,Real Madrid,58,34,Long Pass,Pass,SecondHalf,54.0,26.4,59.1,91.0,Successful
+Federico Valverde,Real Madrid,58,37,Pass,Pass,SecondHalf,59.3,91.0,68.5,85.5,Successful
+Kylian Mbappé,Real Madrid,58,41,Loss of Possession,Dispossessed,SecondHalf,70.4,79.9,0.0,0.0,Successful
+Cala,Espanyol,58,41,Was Dribbled,Tackle,SecondHalf,29.6,20.1,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,58,42,Foul,Foul,SecondHalf,83.6,81.2,0.0,0.0,Successful
+Clemens Riedel,Espanyol,58,42,Foul,Foul,SecondHalf,16.5,18.8,0.0,0.0,Unsuccessful
+Clemens Riedel,Espanyol,58,43,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,59,42,Shot off Target,MissedShots,SecondHalf,80.2,80.1,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,60,13,Long Pass,Pass,SecondHalf,5.0,51.2,69.5,53.8,Successful
+Roberto Fernández,Espanyol,60,16,Aerial Won,Aerial,SecondHalf,69.5,53.8,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,60,17,Aerial Lost,Aerial,SecondHalf,30.5,46.2,0.0,0.0,Unsuccessful
+Roberto Fernández,Espanyol,60,17,BallTouch,BallTouch,SecondHalf,68.8,51.4,0.0,0.0,Successful
+Javi Hernández,Espanyol,60,20,Loss of Possession,Dispossessed,SecondHalf,73.6,49.7,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,60,20,Successful Tackle,Tackle,SecondHalf,26.4,50.3,0.0,0.0,Successful
+Federico Valverde,Real Madrid,60,21,Pass,Pass,SecondHalf,24.5,57.0,4.9,58.5,Successful
+Thibaut Courtois,Real Madrid,60,23,Ball Recovery,BallRecovery,SecondHalf,4.9,58.5,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,60,24,Long Pass,Pass,SecondHalf,4.9,58.5,35.2,92.5,Successful
+Álvaro Carreras,Real Madrid,60,26,BallTouch,BallTouch,SecondHalf,34.7,92.2,0.0,0.0,Unsuccessful
+Cala,Espanyol,60,27,Ball Recovery,BallRecovery,SecondHalf,59.3,22.9,0.0,0.0,Successful
+Cala,Espanyol,60,29,Pass,Pass,SecondHalf,66.7,36.1,62.9,48.8,Successful
+Edu Expósito,Espanyol,60,32,Pass,Pass,SecondHalf,63.4,48.5,61.6,66.4,Successful
+Roger Hinojo,Espanyol,60,36,Pass,Pass,SecondHalf,62.9,66.5,63.6,54.4,Successful
+Edu Expósito,Espanyol,60,41,Long Pass,Pass,SecondHalf,66.2,43.5,100.0,23.8,Unsuccessful
+Thibaut Courtois,Real Madrid,60,51,Pass,Pass,SecondHalf,4.8,55.8,25.3,80.8,Successful
+Bernardo Silva,Real Madrid,60,52,Pass,Pass,SecondHalf,25.3,81.1,51.3,93.6,Successful
+Urko González de Zárate,Espanyol,60,58,Challenge,Challenge,SecondHalf,40.8,7.9,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,60,58,Successful Dribble,TakeOn,SecondHalf,59.2,92.1,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,61,4,BallTouch,BallTouch,SecondHalf,92.6,74.4,0.0,0.0,Unsuccessful
+Marko Dmitrovic,Espanyol,61,35,Long Pass,Pass,SecondHalf,4.9,55.2,68.1,65.9,Successful
+Roberto Fernández,Espanyol,61,36,BallTouch,BallTouch,SecondHalf,68.7,66.5,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,61,38,KeeperPickup,KeeperPickup,SecondHalf,7.9,45.6,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,61,40,Pass,Pass,SecondHalf,9.6,45.0,15.3,61.9,Successful
+Bernardo Silva,Real Madrid,61,44,Pass,Pass,SecondHalf,24.6,71.8,40.6,95.7,Successful
+Álvaro Carreras,Real Madrid,61,47,Pass,Pass,SecondHalf,40.6,95.7,55.9,94.8,Successful
+Kylian Mbappé,Real Madrid,61,48,Pass,Pass,SecondHalf,55.9,94.8,60.9,85.8,Successful
+Vinícius Júnior,Real Madrid,61,49,Pass,Pass,SecondHalf,60.9,85.8,76.8,81.0,Unsuccessful
+Omar El Hilali,Espanyol,61,55,Interception,Interception,SecondHalf,23.2,19.0,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,61,57,Ball Recovery,BallRecovery,SecondHalf,5.6,52.0,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,62,0,Pass,Pass,SecondHalf,7.0,61.4,14.6,61.7,Successful
+Unai Núñez,Espanyol,62,2,Pass,Pass,SecondHalf,23.9,61.8,37.0,70.9,Successful
+Tyrhys Dolan,Espanyol,62,6,Pass,Pass,SecondHalf,31.1,89.3,22.7,85.2,Successful
+Roger Hinojo,Espanyol,62,8,Pass,Pass,SecondHalf,22.7,85.2,18.4,70.5,Successful
+Unai Núñez,Espanyol,62,10,Pass,Pass,SecondHalf,18.8,70.0,28.8,50.6,Successful
+Urko González de Zárate,Espanyol,62,13,Pass,Pass,SecondHalf,28.8,49.8,33.1,57.1,Successful
+Javi Hernández,Espanyol,62,15,Foul,Foul,SecondHalf,39.6,66.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,62,15,Foul,Foul,SecondHalf,60.4,34.0,0.0,0.0,Unsuccessful
+Roger Hinojo,Espanyol,62,32,Pass,Pass,SecondHalf,32.9,54.2,43.8,57.6,Successful
+Edu Expósito,Espanyol,62,32,Pass,Pass,SecondHalf,44.1,57.7,39.3,53.5,Successful
+Urko González de Zárate,Espanyol,62,33,Pass,Pass,SecondHalf,39.3,53.5,51.6,54.9,Successful
+Edu Expósito,Espanyol,62,35,Pass,Pass,SecondHalf,53.5,52.7,57.4,35.0,Successful
+Cala,Espanyol,62,38,Pass,Pass,SecondHalf,57.2,35.4,54.3,49.5,Successful
+Urko González de Zárate,Espanyol,62,40,Pass,Pass,SecondHalf,58.2,50.9,65.4,49.2,Successful
+Cala,Espanyol,62,43,Pass,Pass,SecondHalf,65.4,49.2,68.0,50.5,Unsuccessful
+Ibrahima Konaté,Real Madrid,62,43,BlockedPass,BlockedPass,SecondHalf,32.0,49.5,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,62,45,Clearance,Clearance,SecondHalf,22.8,43.0,29.7,21.9,Successful
+Bernardo Silva,Real Madrid,62,47,Clearance,Clearance,SecondHalf,28.1,26.8,43.8,49.3,Successful
+Edu Expósito,Espanyol,62,49,Pass,Pass,SecondHalf,54.4,43.9,60.0,42.1,Successful
+Urko González de Zárate,Espanyol,62,54,Pass,Pass,SecondHalf,68.4,65.6,65.6,70.6,Successful
+Roger Hinojo,Espanyol,62,56,Pass,Pass,SecondHalf,60.2,62.0,55.8,56.1,Successful
+Unai Núñez,Espanyol,62,59,Pass,Pass,SecondHalf,63.1,57.6,60.5,46.2,Successful
+Edu Expósito,Espanyol,63,2,Pass,Pass,SecondHalf,57.0,38.8,60.1,8.5,Successful
+Omar El Hilali,Espanyol,63,6,Pass,Pass,SecondHalf,58.0,11.0,45.7,24.1,Successful
+Clemens Riedel,Espanyol,63,8,Pass,Pass,SecondHalf,45.7,25.6,42.1,46.1,Successful
+Unai Núñez,Espanyol,63,11,Pass,Pass,SecondHalf,40.5,49.7,34.2,64.6,Successful
+Roger Hinojo,Espanyol,63,14,Pass,Pass,SecondHalf,31.5,64.4,36.8,61.2,Successful
+Unai Núñez,Espanyol,63,17,Pass,Pass,SecondHalf,34.1,62.0,11.3,53.9,Successful
+Marko Dmitrovic,Espanyol,63,21,Long Pass,Pass,SecondHalf,15.4,54.7,72.1,100.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,63,26,ShieldBallOpp,ShieldBallOpp,SecondHalf,26.8,1.6,0.0,0.0,Successful
+Álvaro Carreras,Real Madrid,63,47,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,63,47,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,63,57,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Yan Diomande,Real Madrid,63,57,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,63,59,Throw In,Pass,SecondHalf,25.5,0.0,42.4,9.4,Unsuccessful
+Roberto Fernández,Espanyol,64,6,Pass,Pass,SecondHalf,71.2,89.9,60.8,91.4,Successful
+Tyrhys Dolan,Espanyol,64,7,BallTouch,BallTouch,SecondHalf,57.5,95.5,0.0,0.0,Unsuccessful
+Denzel Dumfries,Real Madrid,64,11,Throw In,Pass,SecondHalf,41.0,0.0,42.0,11.7,Unsuccessful
+Cala,Espanyol,64,17,Ball Recovery,BallRecovery,SecondHalf,61.7,70.8,0.0,0.0,Successful
+Cala,Espanyol,64,19,Pass,Pass,SecondHalf,68.0,80.3,63.4,67.0,Successful
+Urko González de Zárate,Espanyol,64,22,Pass,Pass,SecondHalf,63.2,61.5,61.8,68.2,Successful
+Edu Expósito,Espanyol,64,23,Pass,Pass,SecondHalf,61.7,68.2,61.9,80.0,Successful
+Roger Hinojo,Espanyol,64,25,Pass,Pass,SecondHalf,63.4,80.5,71.8,89.3,Successful
+Cala,Espanyol,64,26,Pass,Pass,SecondHalf,71.8,88.8,72.5,76.4,Successful
+Tyrhys Dolan,Espanyol,64,32,Pass,Pass,SecondHalf,77.7,85.9,70.2,80.3,Successful
+Edu Expósito,Espanyol,64,33,Pass,Pass,SecondHalf,70.2,80.3,78.9,90.2,Successful
+Tyrhys Dolan,Espanyol,64,41,Cross,Pass,SecondHalf,86.0,82.6,91.6,51.1,Unsuccessful
+Ibrahima Konaté,Real Madrid,64,43,Clearance,Clearance,SecondHalf,8.9,43.2,4.3,0.0,Successful
+Tyrhys Dolan,Espanyol,65,0,Offside,OffsideGiven,SecondHalf,85.4,79.7,0.0,0.0,Unsuccessful
+Clemens Riedel,Espanyol,65,4,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Vanja Drkusic,Espanyol,65,4,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Cala,Espanyol,65,15,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,65,15,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,65,16,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Roger Hinojo,Espanyol,65,32,Throw In,Pass,SecondHalf,93.6,100.0,92.3,85.3,Successful
+Rafel Bauzà,Espanyol,65,34,BallTouch,BallTouch,SecondHalf,92.4,86.8,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,65,35,Unsuccessful Dribble,TakeOn,SecondHalf,7.4,14.0,0.0,0.0,Unsuccessful
+Rafel Bauzà,Espanyol,65,35,Successful Tackle,Tackle,SecondHalf,92.6,86.0,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,65,36,Offside,OffsidePass,SecondHalf,80.1,87.7,85.4,79.7,Successful
+Denzel Dumfries,Real Madrid,65,36,OffsideProvoked,OffsideProvoked,SecondHalf,15.2,10.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,66,5,Pass,Pass,SecondHalf,12.5,12.1,19.7,24.3,Successful
+Federico Valverde,Real Madrid,66,5,Pass,Pass,SecondHalf,19.7,24.3,15.0,10.9,Successful
+Bernardo Silva,Real Madrid,66,6,Pass,Pass,SecondHalf,15.0,10.9,30.2,5.7,Successful
+Denzel Dumfries,Real Madrid,66,10,Pass,Pass,SecondHalf,43.0,4.5,56.2,5.1,Successful
+Yan Diomande,Real Madrid,66,12,Unsuccessful Dribble,TakeOn,SecondHalf,52.6,5.0,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,66,12,Successful Tackle,Tackle,SecondHalf,47.4,95.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,66,27,Long Pass,Pass,SecondHalf,50.5,0.0,75.5,3.6,Successful
+Yan Diomande,Real Madrid,66,29,BallTouch,BallTouch,SecondHalf,77.0,3.6,0.0,0.0,Unsuccessful
+Unai Núñez,Espanyol,66,30,Clearance,Clearance,SecondHalf,14.9,91.1,13.0,100.0,Successful
+Denzel Dumfries,Real Madrid,66,42,Throw In,Pass,SecondHalf,87.4,0.0,76.9,10.3,Successful
+Bernardo Silva,Real Madrid,66,45,Pass,Pass,SecondHalf,70.4,16.6,62.9,58.6,Successful
+Federico Valverde,Real Madrid,66,48,Pass,Pass,SecondHalf,62.9,58.6,64.0,87.0,Successful
+Marc Cucurella,Real Madrid,66,50,Pass,Pass,SecondHalf,64.0,87.0,78.2,89.5,Successful
+Vinícius Júnior,Real Madrid,66,53,Pass,Pass,SecondHalf,85.9,86.1,80.3,70.2,Unsuccessful
+Urko González de Zárate,Espanyol,66,55,BallTouch,BallTouch,SecondHalf,15.2,32.1,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,66,56,Pass,Pass,SecondHalf,66.2,58.8,57.2,61.8,Successful
+Dean Huijsen,Real Madrid,66,57,Pass,Pass,SecondHalf,57.2,61.8,61.5,69.3,Successful
+Federico Valverde,Real Madrid,67,0,Pass,Pass,SecondHalf,65.2,68.2,74.6,69.1,Successful
+Kylian Mbappé,Real Madrid,67,2,BallTouch,BallTouch,SecondHalf,74.6,69.1,0.0,0.0,Unsuccessful
+Vanja Drkusic,Espanyol,67,3,Clearance,Clearance,SecondHalf,18.3,32.7,21.2,38.2,Successful
+Jude Bellingham,Real Madrid,67,4,Loss of Possession,Dispossessed,SecondHalf,77.8,61.8,0.0,0.0,Successful
+Edu Expósito,Espanyol,67,4,Was Dribbled,Tackle,SecondHalf,22.2,38.2,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,67,6,Successful Dribble,TakeOn,SecondHalf,72.8,57.6,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,67,6,Challenge,Challenge,SecondHalf,27.2,42.4,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,67,7,Pass,Pass,SecondHalf,69.7,47.4,81.9,5.5,Successful
+Yan Diomande,Real Madrid,67,12,Pass,Pass,SecondHalf,84.1,9.9,84.5,38.2,Successful
+Kylian Mbappé,Real Madrid,67,16,Pass,Pass,SecondHalf,82.0,33.9,86.0,9.9,Successful
+Yan Diomande,Real Madrid,67,23,BallTouch,BallTouch,SecondHalf,91.0,12.0,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,67,26,Ball Recovery,BallRecovery,SecondHalf,19.3,83.0,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,67,28,Pass,Pass,SecondHalf,16.7,96.2,21.9,100.0,Unsuccessful
+Denzel Dumfries,Real Madrid,67,34,Throw In,Pass,SecondHalf,73.6,0.0,62.7,10.3,Successful
+Bernardo Silva,Real Madrid,67,40,Pass,Pass,SecondHalf,60.8,9.2,46.4,45.6,Successful
+Dean Huijsen,Real Madrid,67,40,Pass,Pass,SecondHalf,45.0,54.2,58.1,76.7,Successful
+Marc Cucurella,Real Madrid,67,42,Pass,Pass,SecondHalf,53.8,70.5,60.4,90.4,Successful
+Jude Bellingham,Real Madrid,67,47,Long Pass,Pass,SecondHalf,64.0,75.1,85.5,8.1,Successful
+Roger Hinojo,Espanyol,67,54,Challenge,Challenge,SecondHalf,13.8,86.0,0.0,0.0,Unsuccessful
+Yan Diomande,Real Madrid,67,54,Successful Dribble,TakeOn,SecondHalf,86.2,14.0,0.0,0.0,Successful
+Yan Diomande,Real Madrid,67,56,Cross,Pass,SecondHalf,91.3,14.4,87.1,90.6,Successful
+Vinícius Júnior,Real Madrid,68,4,Pass,Pass,SecondHalf,80.2,64.2,85.5,74.4,Successful
+Marc Cucurella,Real Madrid,68,8,Pass,Pass,SecondHalf,86.7,72.0,86.8,60.9,Successful
+Kylian Mbappé,Real Madrid,68,10,Pass,Pass,SecondHalf,86.8,60.9,87.3,68.2,Unsuccessful
+Javi Hernández,Espanyol,68,11,Pass,Pass,SecondHalf,10.3,27.9,19.7,33.9,Successful
+Urko González de Zárate,Espanyol,68,13,Ball Recovery,BallRecovery,SecondHalf,21.3,34.7,0.0,0.0,Successful
+Urko González de Zárate,Espanyol,68,14,Pass,Pass,SecondHalf,22.3,37.6,11.1,67.4,Successful
+Roger Hinojo,Espanyol,68,17,Pass,Pass,SecondHalf,9.2,76.4,28.0,87.6,Successful
+Tyrhys Dolan,Espanyol,68,18,Pass,Pass,SecondHalf,29.1,87.3,25.5,74.4,Successful
+Urko González de Zárate,Espanyol,68,24,Pass,Pass,SecondHalf,26.8,73.3,21.2,64.4,Successful
+Unai Núñez,Espanyol,68,26,Pass,Pass,SecondHalf,21.2,63.6,37.6,50.6,Successful
+Edu Expósito,Espanyol,68,27,Pass,Pass,SecondHalf,41.8,46.4,55.0,25.7,Successful
+Javi Hernández,Espanyol,68,31,Pass,Pass,SecondHalf,58.2,25.6,77.8,11.2,Successful
+Omar El Hilali,Espanyol,68,33,Cross,Pass,SecondHalf,80.9,10.6,92.8,52.6,Unsuccessful
+Denzel Dumfries,Real Madrid,68,36,Clearance,Clearance,SecondHalf,10.1,37.5,26.3,74.5,Successful
+Vinícius Júnior,Real Madrid,68,39,Foul,Foul,SecondHalf,20.6,70.4,0.0,0.0,Successful
+Javi Hernández,Espanyol,68,39,Foul,Foul,SecondHalf,79.4,29.6,0.0,0.0,Unsuccessful
+Thibaut Courtois,Real Madrid,69,0,Long Pass,Pass,SecondHalf,22.5,63.8,52.6,81.8,Successful
+Bernardo Silva,Real Madrid,69,2,Pass,Pass,SecondHalf,45.2,82.0,55.1,91.2,Successful
+Marc Cucurella,Real Madrid,69,3,Pass,Pass,SecondHalf,58.3,94.6,45.9,86.7,Successful
+Bernardo Silva,Real Madrid,69,6,Pass,Pass,SecondHalf,56.2,90.4,64.5,69.6,Successful
+Kylian Mbappé,Real Madrid,69,7,Pass,Pass,SecondHalf,61.8,73.3,45.3,72.0,Successful
+Federico Valverde,Real Madrid,69,10,Pass,Pass,SecondHalf,53.7,68.7,62.5,68.4,Successful
+Kylian Mbappé,Real Madrid,69,11,Pass,Pass,SecondHalf,64.1,73.8,60.6,88.9,Successful
+Bernardo Silva,Real Madrid,69,17,Pass,Pass,SecondHalf,59.8,89.7,70.6,96.6,Successful
+Marc Cucurella,Real Madrid,69,21,Key Pass,Pass,SecondHalf,64.1,85.5,65.7,68.2,Successful
+Urko González de Zárate,Espanyol,69,25,Challenge,Challenge,SecondHalf,25.6,39.0,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,69,25,Successful Dribble,TakeOn,SecondHalf,74.4,61.0,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,69,28,Shot on Target,SavedShot,SecondHalf,84.0,59.3,0.0,0.0,Successful
+Edu Expósito,Espanyol,69,28,Save,Save,SecondHalf,12.4,44.9,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,69,31,Aerial Won,Aerial,SecondHalf,71.4,59.8,0.0,0.0,Successful
+Javi Hernández,Espanyol,69,31,Aerial Lost,Aerial,SecondHalf,28.6,40.2,0.0,0.0,Unsuccessful
+Marc Cucurella,Real Madrid,69,32,Pass,Pass,SecondHalf,73.5,65.2,77.9,34.5,Unsuccessful
+Roger Hinojo,Espanyol,69,33,Ball Recovery,BallRecovery,SecondHalf,32.0,59.7,0.0,0.0,Successful
+Roger Hinojo,Espanyol,69,36,Pass,Pass,SecondHalf,35.2,82.4,48.0,91.4,Successful
+Tyrhys Dolan,Espanyol,69,41,Pass,Pass,SecondHalf,54.9,88.1,55.6,83.2,Successful
+Rafel Bauzà,Espanyol,69,42,Unsuccessful Dribble,TakeOn,SecondHalf,56.5,84.6,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,69,42,Successful Tackle,Tackle,SecondHalf,43.5,15.4,0.0,0.0,Successful
+Yan Diomande,Real Madrid,69,45,Ball Recovery,BallRecovery,SecondHalf,39.4,9.3,0.0,0.0,Successful
+Yan Diomande,Real Madrid,69,45,Pass,Pass,SecondHalf,39.4,9.3,54.9,13.0,Successful
+Jude Bellingham,Real Madrid,69,46,Pass,Pass,SecondHalf,54.9,13.0,54.8,31.0,Successful
+Bernardo Silva,Real Madrid,69,49,Pass,Pass,SecondHalf,54.8,31.0,61.7,75.6,Successful
+Kylian Mbappé,Real Madrid,69,53,Key Pass,Pass,SecondHalf,71.9,78.0,80.2,90.7,Successful
+Vinícius Júnior,Real Madrid,69,58,Shot off Target,MissedShots,SecondHalf,94.3,67.9,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,70,22,Long Pass,Pass,SecondHalf,4.2,44.5,77.9,38.8,Unsuccessful
+Ibrahima Konaté,Real Madrid,70,29,Ball Recovery,BallRecovery,SecondHalf,24.9,58.5,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,70,29,Pass,Pass,SecondHalf,24.9,58.5,10.6,58.9,Successful
+Thibaut Courtois,Real Madrid,70,30,Long Pass,Pass,SecondHalf,10.6,58.9,27.6,100.0,Unsuccessful
+Omar El Hilali,Espanyol,70,50,Long Pass,Pass,SecondHalf,64.0,0.0,44.8,22.9,Successful
+Vanja Drkusic,Espanyol,70,52,Pass,Pass,SecondHalf,44.8,22.9,40.6,45.0,Successful
+Unai Núñez,Espanyol,70,56,Pass,Pass,SecondHalf,41.4,47.0,44.3,29.7,Successful
+Urko González de Zárate,Espanyol,70,59,Pass,Pass,SecondHalf,44.3,29.7,35.7,23.9,Successful
+Vanja Drkusic,Espanyol,71,1,Long Pass,Pass,SecondHalf,36.3,21.7,69.9,0.0,Unsuccessful
+Marc Cucurella,Real Madrid,71,7,Throw In,Pass,SecondHalf,28.4,100.0,23.0,88.0,Successful
+Dean Huijsen,Real Madrid,71,12,Pass,Pass,SecondHalf,25.2,81.4,26.4,68.2,Successful
+Bernardo Silva,Real Madrid,71,16,Pass,Pass,SecondHalf,25.9,64.8,32.7,89.7,Successful
+Dean Huijsen,Real Madrid,71,19,Pass,Pass,SecondHalf,34.4,84.4,32.7,68.2,Successful
+Bernardo Silva,Real Madrid,71,24,Pass,Pass,SecondHalf,44.5,50.2,42.7,11.4,Successful
+Denzel Dumfries,Real Madrid,71,28,Pass,Pass,SecondHalf,40.9,13.2,31.8,30.9,Successful
+Ibrahima Konaté,Real Madrid,71,31,Pass,Pass,SecondHalf,32.7,34.2,32.2,76.5,Successful
+Dean Huijsen,Real Madrid,71,36,Pass,Pass,SecondHalf,45.4,71.2,64.5,59.8,Successful
+Kylian Mbappé,Real Madrid,71,38,Pass,Pass,SecondHalf,64.5,59.8,72.2,67.5,Successful
+Jude Bellingham,Real Madrid,71,40,Pass,Pass,SecondHalf,72.0,70.8,79.4,91.5,Successful
+Omar El Hilali,Espanyol,71,42,Challenge,Challenge,SecondHalf,14.8,10.8,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,71,42,Successful Dribble,TakeOn,SecondHalf,85.2,89.2,0.0,0.0,Successful
+Omar El Hilali,Espanyol,71,46,Challenge,Challenge,SecondHalf,8.2,25.4,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,71,46,Successful Dribble,TakeOn,SecondHalf,91.8,74.6,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,71,48,Pass,Pass,SecondHalf,91.7,70.2,91.5,66.7,Unsuccessful
+Vanja Drkusic,Espanyol,71,48,BlockedPass,BlockedPass,SecondHalf,8.5,33.3,0.0,0.0,Successful
+Vanja Drkusic,Espanyol,71,51,Clearance,Clearance,SecondHalf,1.8,20.3,11.9,0.0,Successful
+Marc Cucurella,Real Madrid,71,58,Throw In,Pass,SecondHalf,85.3,100.0,67.1,93.0,Successful
+Jude Bellingham,Real Madrid,72,1,Long Pass,Pass,SecondHalf,66.6,89.5,59.9,25.8,Successful
+Ibrahima Konaté,Real Madrid,72,5,Pass,Pass,SecondHalf,53.0,43.6,22.8,43.6,Successful
+Thibaut Courtois,Real Madrid,72,10,Pass,Pass,SecondHalf,25.5,45.6,25.9,66.4,Successful
+Dean Huijsen,Real Madrid,72,12,Pass,Pass,SecondHalf,26.8,68.7,34.8,91.3,Successful
+Marc Cucurella,Real Madrid,72,17,Pass,Pass,SecondHalf,33.2,88.0,42.2,75.1,Successful
+Federico Valverde,Real Madrid,72,19,Pass,Pass,SecondHalf,42.2,75.1,35.3,87.0,Successful
+Marc Cucurella,Real Madrid,72,23,Pass,Pass,SecondHalf,51.7,93.4,59.4,97.3,Successful
+Jude Bellingham,Real Madrid,72,24,Pass,Pass,SecondHalf,59.4,97.3,54.6,95.5,Successful
+Marc Cucurella,Real Madrid,72,25,Pass,Pass,SecondHalf,54.6,95.5,61.6,67.9,Successful
+Kylian Mbappé,Real Madrid,72,28,Long Pass,Pass,SecondHalf,64.8,63.0,81.3,8.1,Successful
+Yan Diomande,Real Madrid,72,36,Pass,Pass,SecondHalf,92.3,22.9,75.9,24.7,Successful
+Denzel Dumfries,Real Madrid,72,41,Pass,Pass,SecondHalf,70.1,18.3,81.2,4.8,Successful
+Yan Diomande,Real Madrid,72,46,Pass,Pass,SecondHalf,74.4,12.3,67.6,29.1,Successful
+Federico Valverde,Real Madrid,72,47,Pass,Pass,SecondHalf,67.8,30.6,67.4,42.6,Successful
+Rafel Bauzà,Espanyol,72,49,Challenge,Challenge,SecondHalf,29.0,61.5,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,72,49,Successful Dribble,TakeOn,SecondHalf,71.0,38.5,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,72,51,Pass,Pass,SecondHalf,74.7,29.1,80.0,8.1,Successful
+Yan Diomande,Real Madrid,72,57,Key Pass,Pass,SecondHalf,76.2,24.3,91.6,28.9,Successful
+Denzel Dumfries,Real Madrid,72,59,Shot on Target,SavedShot,SecondHalf,91.6,28.9,0.0,0.0,Successful
+Unai Núñez,Espanyol,73,0,Save,Save,SecondHalf,6.3,66.6,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,73,0,CornerAwarded,CornerAwarded,SecondHalf,92.6,32.7,0.0,0.0,Successful
+Unai Núñez,Espanyol,73,0,CornerAwarded,CornerAwarded,SecondHalf,7.4,67.3,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,73,19,Cross,Pass,SecondHalf,99.5,0.5,94.5,51.7,Unsuccessful
+Marko Dmitrovic,Espanyol,73,23,Punch,Punch,SecondHalf,5.5,48.3,11.4,7.6,Unsuccessful
+Kylian Mbappé,Real Madrid,73,31,Pass,Pass,SecondHalf,91.8,94.6,73.9,85.3,Successful
+Vinícius Júnior,Real Madrid,73,35,Cross,Pass,SecondHalf,72.6,78.1,72.0,73.9,Unsuccessful
+Rafel Bauzà,Espanyol,73,35,Clearance,Clearance,SecondHalf,28.0,26.1,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,73,41,Pass,Pass,SecondHalf,41.0,66.4,45.9,45.0,Successful
+Marc Cucurella,Real Madrid,73,43,Pass,Pass,SecondHalf,48.3,42.4,43.0,69.4,Successful
+Federico Valverde,Real Madrid,73,47,Pass,Pass,SecondHalf,43.8,66.0,47.1,35.1,Successful
+Ibrahima Konaté,Real Madrid,73,56,Pass,Pass,SecondHalf,40.9,30.0,26.8,47.4,Successful
+Thibaut Courtois,Real Madrid,73,57,Pass,Pass,SecondHalf,26.8,47.4,32.7,76.0,Successful
+Federico Valverde,Real Madrid,74,0,Pass,Pass,SecondHalf,34.6,75.6,32.2,56.2,Successful
+Dean Huijsen,Real Madrid,74,6,Long Pass,Pass,SecondHalf,43.9,53.4,62.8,97.6,Successful
+Kylian Mbappé,Real Madrid,74,9,Pass,Pass,SecondHalf,62.8,97.6,55.4,94.6,Successful
+Federico Valverde,Real Madrid,74,12,Pass,Pass,SecondHalf,57.1,94.5,63.4,97.3,Successful
+Kylian Mbappé,Real Madrid,74,14,Pass,Pass,SecondHalf,63.5,97.0,61.4,92.2,Unsuccessful
+Javi Hernández,Espanyol,74,14,BlockedPass,BlockedPass,SecondHalf,38.6,7.8,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,74,14,BallTouch,BallTouch,SecondHalf,61.7,95.4,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,74,15,BallTouch,BallTouch,SecondHalf,60.1,96.1,0.0,0.0,Successful
+Javi Hernández,Espanyol,74,15,BallTouch,BallTouch,SecondHalf,35.7,7.7,0.0,0.0,Successful
+,Real Madrid,74,16,Foul,Foul,SecondHalf,60.6,92.4,0.0,0.0,Successful
+Javi Hernández,Espanyol,74,16,Foul,Foul,SecondHalf,39.4,7.6,0.0,0.0,Unsuccessful
+Urko González de Zárate,Espanyol,74,54,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Pol Lozano,Espanyol,74,54,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Javi Hernández,Espanyol,74,54,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Pere Milla,Espanyol,74,54,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,75,10,Pass,Pass,SecondHalf,62.9,97.0,44.2,85.0,Successful
+Dean Huijsen,Real Madrid,75,12,Pass,Pass,SecondHalf,43.2,79.2,44.1,40.8,Successful
+Ibrahima Konaté,Real Madrid,75,15,Pass,Pass,SecondHalf,44.9,33.7,44.2,65.2,Successful
+Dean Huijsen,Real Madrid,75,18,Pass,Pass,SecondHalf,44.2,65.2,53.1,89.1,Successful
+Bernardo Silva,Real Madrid,75,21,Pass,Pass,SecondHalf,44.1,77.4,41.3,35.7,Successful
+Ibrahima Konaté,Real Madrid,75,25,Pass,Pass,SecondHalf,42.9,30.7,67.5,4.2,Successful
+Yan Diomande,Real Madrid,75,29,Pass,Pass,SecondHalf,66.5,3.6,63.2,18.6,Unsuccessful
+Tyrhys Dolan,Espanyol,75,30,Interception,Interception,SecondHalf,36.8,81.4,0.0,0.0,Successful
+Edu Expósito,Espanyol,75,31,Ball Recovery,BallRecovery,SecondHalf,27.8,75.3,0.0,0.0,Successful
+Edu Expósito,Espanyol,75,32,Pass,Pass,SecondHalf,27.8,75.3,23.0,74.7,Successful
+Unai Núñez,Espanyol,75,33,Pass,Pass,SecondHalf,22.9,74.7,24.3,90.5,Successful
+Roger Hinojo,Espanyol,75,35,Pass,Pass,SecondHalf,24.3,91.2,35.2,82.3,Unsuccessful
+Bernardo Silva,Real Madrid,75,37,Interception,Interception,SecondHalf,64.8,17.7,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,75,38,Ball Recovery,BallRecovery,SecondHalf,62.9,16.5,0.0,0.0,Successful
+Bernardo Silva,Real Madrid,75,42,Pass,Pass,SecondHalf,77.7,28.9,84.3,57.6,Unsuccessful
+Omar El Hilali,Espanyol,75,44,Clearance,Clearance,SecondHalf,14.5,44.5,42.6,33.0,Successful
+Dean Huijsen,Real Madrid,75,49,Pass,Pass,SecondHalf,56.3,75.7,55.8,65.2,Successful
+Federico Valverde,Real Madrid,75,51,Pass,Pass,SecondHalf,53.4,67.5,53.3,85.3,Successful
+Dean Huijsen,Real Madrid,75,52,Pass,Pass,SecondHalf,53.3,85.3,29.1,60.4,Successful
+Thibaut Courtois,Real Madrid,75,56,Pass,Pass,SecondHalf,26.4,60.1,40.1,35.8,Successful
+Ibrahima Konaté,Real Madrid,76,0,Pass,Pass,SecondHalf,40.9,34.6,39.3,72.3,Successful
+Dean Huijsen,Real Madrid,76,3,Pass,Pass,SecondHalf,39.3,72.3,55.5,67.8,Successful
+Jude Bellingham,Real Madrid,76,6,Pass,Pass,SecondHalf,55.5,67.8,49.8,89.5,Successful
+Marc Cucurella,Real Madrid,76,7,Pass,Pass,SecondHalf,49.8,89.5,59.1,93.6,Successful
+Kylian Mbappé,Real Madrid,76,8,Pass,Pass,SecondHalf,59.1,93.6,65.1,79.8,Successful
+Federico Valverde,Real Madrid,76,9,Pass,Pass,SecondHalf,65.4,79.9,74.6,93.4,Successful
+Vinícius Júnior,Real Madrid,76,14,Unsuccessful Dribble,TakeOn,SecondHalf,91.4,77.8,0.0,0.0,Unsuccessful
+Vanja Drkusic,Espanyol,76,14,Successful Tackle,Tackle,SecondHalf,8.5,22.3,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,76,15,CornerAwarded,CornerAwarded,SecondHalf,91.2,78.0,0.0,0.0,Successful
+Vanja Drkusic,Espanyol,76,15,CornerAwarded,CornerAwarded,SecondHalf,8.7,22.1,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,76,43,Cross,Pass,SecondHalf,99.5,99.5,87.1,53.8,Unsuccessful
+Roberto Fernández,Espanyol,76,43,Clearance,Clearance,SecondHalf,6.0,41.5,25.0,0.0,Successful
+Bernardo Silva,Real Madrid,76,48,Throw In,Pass,SecondHalf,72.2,100.0,62.7,90.1,Successful
+Federico Valverde,Real Madrid,76,52,Pass,Pass,SecondHalf,62.7,90.1,67.9,96.3,Successful
+Bernardo Silva,Real Madrid,76,53,Chipped Pass,Pass,SecondHalf,67.9,96.3,54.3,81.7,Successful
+Federico Valverde,Real Madrid,76,55,Pass,Pass,SecondHalf,54.0,81.1,52.5,59.2,Successful
+Marc Cucurella,Real Madrid,76,57,Pass,Pass,SecondHalf,52.5,59.2,58.5,27.6,Successful
+Ibrahima Konaté,Real Madrid,76,59,Pass,Pass,SecondHalf,58.5,27.6,78.9,8.7,Successful
+Yan Diomande,Real Madrid,77,7,Cross,Pass,SecondHalf,89.2,23.5,90.1,28.8,Unsuccessful
+Edu Expósito,Espanyol,77,8,Clearance,Clearance,SecondHalf,9.9,71.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,77,11,ShotOnPost,ShotOnPost,SecondHalf,80.8,51.6,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,77,34,Long Pass,Pass,SecondHalf,4.3,53.5,57.8,66.2,Unsuccessful
+Denzel Dumfries,Real Madrid,77,38,Pass,Pass,SecondHalf,30.7,32.4,46.1,33.3,Unsuccessful
+Edu Expósito,Espanyol,77,39,Interception,Interception,SecondHalf,53.9,66.7,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,77,40,Ball Recovery,BallRecovery,SecondHalf,46.1,33.3,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,77,42,Key Pass,Pass,SecondHalf,55.9,34.3,76.1,66.1,Successful
+Kylian Mbappé,Real Madrid,77,47,Shot on Target,SavedShot,SecondHalf,85.3,58.6,0.0,0.0,Successful
+Omar El Hilali,Espanyol,77,47,Save,Save,SecondHalf,11.8,43.0,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,77,51,Ball Recovery,BallRecovery,SecondHalf,33.7,51.2,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,77,52,Pass,Pass,SecondHalf,33.7,51.2,29.2,46.5,Successful
+Bernardo Silva,Real Madrid,77,53,Challenge,Challenge,SecondHalf,65.2,47.0,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,77,53,Successful Dribble,TakeOn,SecondHalf,34.8,53.0,0.0,0.0,Successful
+Edu Expósito,Espanyol,77,55,BallTouch,BallTouch,SecondHalf,27.4,48.8,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,77,56,Successful Dribble,TakeOn,SecondHalf,65.9,47.0,0.0,0.0,Successful
+Edu Expósito,Espanyol,77,56,Challenge,Challenge,SecondHalf,34.0,53.0,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,77,57,Ball Recovery,BallRecovery,SecondHalf,62.5,42.0,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,77,57,Long Pass,Pass,SecondHalf,62.5,42.0,93.8,30.3,Successful
+Kylian Mbappé,Real Madrid,78,1,Pass,Pass,SecondHalf,96.6,27.3,87.7,16.8,Successful
+Yan Diomande,Real Madrid,78,5,Unsuccessful Dribble,TakeOn,SecondHalf,86.4,22.9,0.0,0.0,Unsuccessful
+Vanja Drkusic,Espanyol,78,5,Was Dribbled,Tackle,SecondHalf,13.6,77.2,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,78,10,Pass,Pass,SecondHalf,70.8,24.6,74.8,14.2,Successful
+Yan Diomande,Real Madrid,78,13,Pass,Pass,SecondHalf,63.2,22.3,54.1,56.8,Successful
+Dean Huijsen,Real Madrid,78,17,Pass,Pass,SecondHalf,54.1,56.8,55.1,37.0,Successful
+Ibrahima Konaté,Real Madrid,78,19,Pass,Pass,SecondHalf,55.1,37.0,63.5,36.7,Successful
+Federico Valverde,Real Madrid,78,21,Pass,Pass,SecondHalf,66.3,30.0,78.1,22.6,Successful
+Kylian Mbappé,Real Madrid,78,25,Pass,Pass,SecondHalf,79.1,26.2,86.5,51.0,Unsuccessful
+Pol Lozano,Espanyol,78,28,Clearance,Clearance,SecondHalf,16.2,53.8,20.5,61.8,Successful
+Roberto Fernández,Espanyol,78,29,Ball Recovery,BallRecovery,SecondHalf,25.6,63.0,0.0,0.0,Successful
+Roberto Fernández,Espanyol,78,30,Pass,Pass,SecondHalf,33.9,61.7,37.3,62.1,Unsuccessful
+Ibrahima Konaté,Real Madrid,78,31,BlockedPass,BlockedPass,SecondHalf,62.7,37.9,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,78,37,Ball Recovery,BallRecovery,SecondHalf,53.6,31.8,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,78,37,Foul,Foul,SecondHalf,58.7,34.6,0.0,0.0,Successful
+Roberto Fernández,Espanyol,78,37,Foul,Foul,SecondHalf,41.3,65.4,0.0,0.0,Unsuccessful
+Bernardo Silva,Real Madrid,79,2,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,79,2,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Denzel Dumfries,Real Madrid,79,14,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Trent Alexander-Arnold,Real Madrid,79,14,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,79,15,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Carlos Espí,Real Madrid,79,15,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,79,27,Pass,Pass,SecondHalf,54.9,37.6,54.7,24.7,Successful
+Eduardo Camavinga,Real Madrid,79,28,Pass,Pass,SecondHalf,54.7,24.7,72.7,4.8,Successful
+Yan Diomande,Real Madrid,79,31,Long Pass,Pass,SecondHalf,72.7,4.8,45.3,33.4,Successful
+Ibrahima Konaté,Real Madrid,79,36,Pass,Pass,SecondHalf,50.0,39.9,52.1,62.6,Successful
+Dean Huijsen,Real Madrid,79,37,Pass,Pass,SecondHalf,57.6,66.9,57.5,87.6,Successful
+Marc Cucurella,Real Madrid,79,39,Pass,Pass,SecondHalf,57.5,87.6,44.2,66.4,Successful
+Dean Huijsen,Real Madrid,79,41,Pass,Pass,SecondHalf,43.2,66.7,41.7,30.3,Successful
+Eduardo Camavinga,Real Madrid,79,47,Pass,Pass,SecondHalf,57.4,26.8,52.9,63.3,Successful
+Dean Huijsen,Real Madrid,79,54,Pass,Pass,SecondHalf,53.0,56.8,51.6,42.0,Successful
+Ibrahima Konaté,Real Madrid,79,57,Pass,Pass,SecondHalf,56.7,35.7,57.1,17.8,Successful
+Eduardo Camavinga,Real Madrid,79,59,Pass,Pass,SecondHalf,57.1,17.8,70.2,18.3,Successful
+Trent Alexander-Arnold,Real Madrid,80,1,Pass,Pass,SecondHalf,70.2,18.4,57.3,18.3,Successful
+Eduardo Camavinga,Real Madrid,80,4,Pass,Pass,SecondHalf,57.9,31.5,46.3,61.2,Successful
+Dean Huijsen,Real Madrid,80,8,Pass,Pass,SecondHalf,58.0,63.6,58.1,89.7,Successful
+Marc Cucurella,Real Madrid,80,11,Pass,Pass,SecondHalf,58.0,91.3,70.0,100.0,Unsuccessful
+Omar El Hilali,Espanyol,80,24,Long Pass,Pass,SecondHalf,37.5,0.0,59.5,22.1,Successful
+Rafel Bauzà,Espanyol,80,28,Pass,Pass,SecondHalf,62.2,22.6,66.7,8.6,Successful
+Pere Milla,Espanyol,80,31,BallTouch,BallTouch,SecondHalf,65.4,5.3,0.0,0.0,Unsuccessful
+Marc Cucurella,Real Madrid,80,35,Throw In,Pass,SecondHalf,27.3,100.0,19.7,88.6,Successful
+Eduardo Camavinga,Real Madrid,80,45,Pass,Pass,SecondHalf,29.6,76.9,25.5,54.1,Successful
+Ibrahima Konaté,Real Madrid,80,47,Pass,Pass,SecondHalf,25.5,54.1,35.8,34.0,Successful
+Federico Valverde,Real Madrid,80,50,Long Pass,Pass,SecondHalf,35.8,34.0,65.9,3.7,Successful
+Yan Diomande,Real Madrid,80,55,Pass,Pass,SecondHalf,66.3,6.0,63.7,16.5,Successful
+Trent Alexander-Arnold,Real Madrid,80,57,Cross,Pass,SecondHalf,66.0,17.2,84.8,51.0,Successful
+Carlos Espí,Real Madrid,81,1,Key Pass,Pass,SecondHalf,84.8,51.0,82.0,51.7,Successful
+Kylian Mbappé,Real Madrid,81,1,Shot off Target,MissedShots,SecondHalf,82.0,51.7,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,81,26,Long Pass,Pass,SecondHalf,4.5,42.0,59.8,48.9,Unsuccessful
+Ibrahima Konaté,Real Madrid,81,30,Aerial Won,Aerial,SecondHalf,40.2,51.1,0.0,0.0,Successful
+Roberto Fernández,Espanyol,81,30,Aerial Lost,Aerial,SecondHalf,59.8,48.9,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,81,30,Interception,Interception,SecondHalf,30.0,49.5,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,81,32,BallTouch,BallTouch,SecondHalf,31.5,64.6,0.0,0.0,Unsuccessful
+Rafel Bauzà,Espanyol,81,34,Foul,Foul,SecondHalf,67.2,31.6,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,81,34,Foul,Foul,SecondHalf,32.8,68.4,0.0,0.0,Unsuccessful
+Pere Milla,Espanyol,82,0,Offside,OffsideGiven,SecondHalf,88.5,50.9,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,82,18,Offside,OffsidePass,SecondHalf,65.7,23.9,88.5,50.9,Successful
+Dean Huijsen,Real Madrid,82,18,OffsideProvoked,OffsideProvoked,SecondHalf,18.7,49.7,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,82,42,Long Pass,Pass,SecondHalf,13.7,55.5,34.4,95.4,Successful
+Marc Cucurella,Real Madrid,82,45,Pass,Pass,SecondHalf,35.0,96.3,38.6,66.1,Successful
+Pol Lozano,Espanyol,82,46,Challenge,Challenge,SecondHalf,46.0,32.5,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,82,46,Successful Dribble,TakeOn,SecondHalf,54.0,67.4,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,82,48,Loss of Possession,Dispossessed,SecondHalf,55.6,62.6,0.0,0.0,Successful
+Edu Expósito,Espanyol,82,48,Successful Tackle,Tackle,SecondHalf,44.4,37.4,0.0,0.0,Successful
+Edu Expósito,Espanyol,82,49,Ball Recovery,BallRecovery,SecondHalf,42.3,40.4,0.0,0.0,Successful
+Edu Expósito,Espanyol,82,51,Pass,Pass,SecondHalf,44.6,34.7,58.5,17.3,Successful
+Pere Milla,Espanyol,82,52,Pass,Pass,SecondHalf,58.5,17.3,50.7,15.9,Successful
+Edu Expósito,Espanyol,82,55,Long Pass,Pass,SecondHalf,52.0,16.6,85.2,28.3,Unsuccessful
+Dean Huijsen,Real Madrid,82,58,Pass,Pass,SecondHalf,9.6,70.2,21.1,81.1,Successful
+Federico Valverde,Real Madrid,83,0,Pass,Pass,SecondHalf,21.1,81.1,11.6,52.0,Successful
+Ibrahima Konaté,Real Madrid,83,2,Ball Recovery,BallRecovery,SecondHalf,11.6,52.0,0.0,0.0,Successful
+Ibrahima Konaté,Real Madrid,83,7,Unsuccessful Dribble,TakeOn,SecondHalf,38.8,49.9,0.0,0.0,Unsuccessful
+Rafel Bauzà,Espanyol,83,7,Successful Tackle,Tackle,SecondHalf,61.2,50.1,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,83,10,BallTouch,BallTouch,SecondHalf,59.6,53.8,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,83,10,Unsuccessful Dribble,TakeOn,SecondHalf,39.2,51.7,0.0,0.0,Unsuccessful
+Rafel Bauzà,Espanyol,83,11,Successful Tackle,Tackle,SecondHalf,60.8,48.3,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,83,11,Pass,Pass,SecondHalf,56.6,58.9,66.3,54.5,Successful
+Roberto Fernández,Espanyol,83,13,Ball Recovery,BallRecovery,SecondHalf,66.3,54.5,0.0,0.0,Successful
+Roberto Fernández,Espanyol,83,13,Pass,Pass,SecondHalf,66.6,53.9,65.6,47.6,Successful
+Pere Milla,Espanyol,83,15,Pass,Pass,SecondHalf,65.9,45.9,72.2,27.1,Successful
+Rafel Bauzà,Espanyol,83,18,Pass,Pass,SecondHalf,80.6,24.8,90.0,13.0,Successful
+Omar El Hilali,Espanyol,83,20,Pass,Pass,SecondHalf,88.7,18.9,85.8,32.3,Unsuccessful
+Federico Valverde,Real Madrid,83,21,Clearance,Clearance,SecondHalf,9.6,67.8,15.9,94.9,Successful
+Marc Cucurella,Real Madrid,83,24,Ball Recovery,BallRecovery,SecondHalf,15.9,94.9,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,83,25,Pass,Pass,SecondHalf,15.9,94.9,27.8,93.1,Successful
+Vinícius Júnior,Real Madrid,83,28,Foul,Foul,SecondHalf,31.2,80.2,0.0,0.0,Successful
+Edu Expósito,Espanyol,83,28,Foul,Foul,SecondHalf,68.8,19.8,0.0,0.0,Unsuccessful
+Edu Expósito,Espanyol,83,33,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,83,53,Pass,Pass,SecondHalf,27.5,68.5,42.2,61.0,Successful
+Eduardo Camavinga,Real Madrid,83,54,Pass,Pass,SecondHalf,43.2,61.0,37.7,26.1,Successful
+Ibrahima Konaté,Real Madrid,83,56,Pass,Pass,SecondHalf,37.7,26.1,46.4,10.8,Successful
+Trent Alexander-Arnold,Real Madrid,83,58,Pass,Pass,SecondHalf,44.9,23.5,40.0,59.7,Successful
+Dean Huijsen,Real Madrid,84,2,Pass,Pass,SecondHalf,40.7,62.8,40.9,34.3,Successful
+Ibrahima Konaté,Real Madrid,84,6,Pass,Pass,SecondHalf,43.0,28.0,63.0,27.6,Successful
+Trent Alexander-Arnold,Real Madrid,84,10,Pass,Pass,SecondHalf,58.1,35.1,44.4,42.0,Successful
+Eduardo Camavinga,Real Madrid,84,13,Pass,Pass,SecondHalf,42.6,43.5,51.5,66.9,Successful
+Dean Huijsen,Real Madrid,84,16,Pass,Pass,SecondHalf,52.6,67.3,70.5,70.3,Successful
+Vinícius Júnior,Real Madrid,84,18,Pass,Pass,SecondHalf,70.5,70.3,86.4,68.7,Successful
+Kylian Mbappé,Real Madrid,84,21,Pass,Pass,SecondHalf,86.4,68.7,97.1,49.8,Unsuccessful
+Marko Dmitrovic,Espanyol,84,23,KeeperPickup,KeeperPickup,SecondHalf,5.7,48.2,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,84,36,Long Pass,Pass,SecondHalf,12.2,49.1,65.0,67.0,Unsuccessful
+Trent Alexander-Arnold,Real Madrid,84,42,Chipped Pass,Pass,SecondHalf,34.8,23.2,48.2,56.7,Unsuccessful
+Pere Milla,Espanyol,84,43,Chipped Pass,Pass,SecondHalf,47.4,43.3,50.2,50.8,Successful
+Pol Lozano,Espanyol,84,45,Pass,Pass,SecondHalf,52.1,53.0,61.2,63.8,Successful
+Rafel Bauzà,Espanyol,84,48,Pass,Pass,SecondHalf,61.6,70.0,76.8,88.4,Successful
+Tyrhys Dolan,Espanyol,84,56,Loss of Possession,Dispossessed,SecondHalf,90.1,83.6,0.0,0.0,Successful
+Trent Alexander-Arnold,Real Madrid,84,56,Successful Tackle,Tackle,SecondHalf,9.8,16.3,0.0,0.0,Successful
+Trent Alexander-Arnold,Real Madrid,84,58,Foul,Foul,SecondHalf,11.9,13.3,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,84,58,Foul,Foul,SecondHalf,88.1,86.7,0.0,0.0,Unsuccessful
+Eduardo Camavinga,Real Madrid,85,9,Pass,Pass,SecondHalf,17.6,10.9,12.5,35.5,Successful
+Ibrahima Konaté,Real Madrid,85,12,Pass,Pass,SecondHalf,13.1,36.9,18.2,70.8,Successful
+Dean Huijsen,Real Madrid,85,16,Pass,Pass,SecondHalf,28.4,69.3,43.3,67.5,Successful
+Kylian Mbappé,Real Madrid,85,18,Pass,Pass,SecondHalf,42.9,67.6,40.1,93.4,Successful
+Marc Cucurella,Real Madrid,85,21,Pass,Pass,SecondHalf,40.1,93.4,32.5,67.3,Successful
+Dean Huijsen,Real Madrid,85,24,Pass,Pass,SecondHalf,32.5,67.3,32.5,38.5,Successful
+Ibrahima Konaté,Real Madrid,85,26,Pass,Pass,SecondHalf,32.5,38.5,34.9,12.6,Successful
+Trent Alexander-Arnold,Real Madrid,85,29,Long Pass,Pass,SecondHalf,34.9,12.6,90.6,18.6,Successful
+Carlos Espí,Real Madrid,85,34,Pass,Pass,SecondHalf,90.6,15.1,79.3,4.3,Successful
+Yan Diomande,Real Madrid,85,44,Cross,Pass,SecondHalf,90.1,23.4,93.0,49.9,Unsuccessful
+Unai Núñez,Espanyol,85,45,Clearance,Clearance,SecondHalf,5.0,55.0,16.0,100.0,Successful
+Trent Alexander-Arnold,Real Madrid,85,52,Throw In,Pass,SecondHalf,89.7,0.0,73.0,7.2,Successful
+Eduardo Camavinga,Real Madrid,85,52,Pass,Pass,SecondHalf,73.0,7.2,84.3,3.1,Successful
+Trent Alexander-Arnold,Real Madrid,85,53,Pass,Pass,SecondHalf,84.3,3.1,66.7,4.2,Successful
+Eduardo Camavinga,Real Madrid,85,56,Pass,Pass,SecondHalf,68.4,9.3,55.3,34.8,Successful
+Ibrahima Konaté,Real Madrid,85,58,Pass,Pass,SecondHalf,55.3,34.8,53.3,64.5,Successful
+Dean Huijsen,Real Madrid,86,5,Pass,Pass,SecondHalf,65.2,67.6,69.8,74.5,Successful
+Marc Cucurella,Real Madrid,86,7,Pass,Pass,SecondHalf,69.8,74.5,55.9,79.3,Successful
+Federico Valverde,Real Madrid,86,9,Pass,Pass,SecondHalf,55.9,79.3,70.7,91.0,Successful
+Kylian Mbappé,Real Madrid,86,15,Long Pass,Pass,SecondHalf,68.2,76.0,71.3,24.1,Unsuccessful
+Tyrhys Dolan,Espanyol,86,18,Clearance,Clearance,SecondHalf,25.3,67.7,33.1,91.8,Successful
+Trent Alexander-Arnold,Real Madrid,86,23,Long Pass,Pass,SecondHalf,63.0,8.1,65.4,100.0,Unsuccessful
+Edu Expósito,Espanyol,87,7,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jofre Carreras,Espanyol,87,7,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Omar El Hilali,Espanyol,87,21,Long Pass,Pass,SecondHalf,29.3,0.0,52.7,13.9,Unsuccessful
+Marc Cucurella,Real Madrid,87,25,Interception,Interception,SecondHalf,47.3,86.1,0.0,0.0,Successful
+Jofre Carreras,Espanyol,87,26,Loss of Possession,Dispossessed,SecondHalf,58.0,10.2,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,87,26,Was Dribbled,Tackle,SecondHalf,42.0,89.7,0.0,0.0,Unsuccessful
+Jofre Carreras,Espanyol,87,27,BallTouch,BallTouch,SecondHalf,54.6,13.9,0.0,0.0,Successful
+Federico Valverde,Real Madrid,87,27,Pass,Pass,SecondHalf,39.5,92.1,35.5,79.5,Successful
+Eduardo Camavinga,Real Madrid,87,29,Ball Recovery,BallRecovery,SecondHalf,35.5,79.5,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,87,29,Pass,Pass,SecondHalf,35.5,79.5,12.1,57.3,Successful
+Thibaut Courtois,Real Madrid,87,33,Pass,Pass,SecondHalf,20.3,60.1,22.8,45.0,Successful
+Ibrahima Konaté,Real Madrid,87,37,Pass,Pass,SecondHalf,26.4,46.9,32.9,80.7,Successful
+Dean Huijsen,Real Madrid,87,43,Pass,Pass,SecondHalf,38.0,67.9,34.7,39.9,Successful
+Ibrahima Konaté,Real Madrid,87,50,Pass,Pass,SecondHalf,45.4,52.0,48.8,77.4,Successful
+Dean Huijsen,Real Madrid,87,52,Pass,Pass,SecondHalf,54.7,73.9,58.0,91.9,Successful
+Marc Cucurella,Real Madrid,87,54,Pass,Pass,SecondHalf,57.5,90.9,39.3,79.8,Successful
+Dean Huijsen,Real Madrid,87,58,Chipped Pass,Pass,SecondHalf,40.3,69.7,65.8,55.0,Successful
+Carlos Espí,Real Madrid,88,1,BallTouch,BallTouch,SecondHalf,65.8,55.5,0.0,0.0,Unsuccessful
+Pol Lozano,Espanyol,88,1,Ball Recovery,BallRecovery,SecondHalf,33.3,39.2,0.0,0.0,Successful
+Pol Lozano,Espanyol,88,2,Pass,Pass,SecondHalf,33.9,39.1,45.6,53.2,Successful
+Pere Milla,Espanyol,88,6,Pass,Pass,SecondHalf,69.5,67.4,79.5,91.4,Successful
+Tyrhys Dolan,Espanyol,88,11,Cross,Pass,SecondHalf,81.4,90.5,89.2,55.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,88,13,Clearance,Clearance,SecondHalf,10.6,47.8,30.7,53.4,Successful
+Pol Lozano,Espanyol,88,15,Pass,Pass,SecondHalf,69.8,40.3,66.6,56.2,Successful
+Rafel Bauzà,Espanyol,88,17,Pass,Pass,SecondHalf,65.7,56.8,54.8,50.3,Successful
+Unai Núñez,Espanyol,88,19,Pass,Pass,SecondHalf,54.8,50.3,43.0,32.9,Successful
+Vanja Drkusic,Espanyol,88,21,Pass,Pass,SecondHalf,41.1,31.2,12.5,42.7,Successful
+Marko Dmitrovic,Espanyol,88,24,Long Pass,Pass,SecondHalf,12.8,42.7,61.8,34.7,Unsuccessful
+Dean Huijsen,Real Madrid,88,28,Aerial Won,Aerial,SecondHalf,38.2,65.3,0.0,0.0,Successful
+Pere Milla,Espanyol,88,28,Aerial Lost,Aerial,SecondHalf,61.8,34.7,0.0,0.0,Unsuccessful
+Dean Huijsen,Real Madrid,88,29,BallTouch,BallTouch,SecondHalf,33.8,56.2,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,88,31,Ball Recovery,BallRecovery,SecondHalf,29.5,72.9,0.0,0.0,Successful
+Marc Cucurella,Real Madrid,88,31,Pass,Pass,SecondHalf,29.5,72.9,34.1,60.0,Successful
+Dean Huijsen,Real Madrid,88,34,Pass,Pass,SecondHalf,33.7,59.4,32.6,32.1,Successful
+Trent Alexander-Arnold,Real Madrid,88,38,Long Pass,Pass,SecondHalf,36.8,32.2,75.5,63.3,Unsuccessful
+Vanja Drkusic,Espanyol,88,41,Clearance,Clearance,SecondHalf,19.6,41.8,29.6,44.7,Successful
+Pol Lozano,Espanyol,88,44,Ball Recovery,BallRecovery,SecondHalf,29.7,41.8,0.0,0.0,Successful
+Pol Lozano,Espanyol,88,45,Pass,Pass,SecondHalf,34.1,36.8,37.5,14.2,Successful
+Jofre Carreras,Espanyol,88,48,Pass,Pass,SecondHalf,37.5,14.2,35.1,22.6,Successful
+Pol Lozano,Espanyol,88,51,Pass,Pass,SecondHalf,36.7,24.8,36.5,16.5,Successful
+Jofre Carreras,Espanyol,88,55,Pass,Pass,SecondHalf,45.4,16.8,57.2,26.5,Unsuccessful
+Dean Huijsen,Real Madrid,88,57,Interception,Interception,SecondHalf,42.8,73.5,0.0,0.0,Successful
+Federico Valverde,Real Madrid,88,58,Pass,Pass,SecondHalf,36.1,79.8,33.5,66.9,Successful
+Eduardo Camavinga,Real Madrid,89,0,Ball Recovery,BallRecovery,SecondHalf,38.0,63.4,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,89,4,Pass,Pass,SecondHalf,60.1,72.9,53.1,43.9,Successful
+Trent Alexander-Arnold,Real Madrid,89,6,Pass,Pass,SecondHalf,53.9,45.0,55.6,56.4,Successful
+Federico Valverde,Real Madrid,89,11,Pass,Pass,SecondHalf,66.6,56.8,75.7,44.8,Successful
+Carlos Espí,Real Madrid,89,12,Pass,Pass,SecondHalf,75.7,44.8,79.0,48.6,Unsuccessful
+Vanja Drkusic,Espanyol,89,12,Clearance,Clearance,SecondHalf,17.8,50.5,20.5,55.3,Successful
+Vinícius Júnior,Real Madrid,89,14,BallTouch,BallTouch,SecondHalf,78.4,41.2,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,89,17,Ball Recovery,BallRecovery,SecondHalf,29.3,64.4,0.0,0.0,Successful
+Tyrhys Dolan,Espanyol,89,19,Pass,Pass,SecondHalf,38.1,67.7,48.6,67.0,Successful
+Pere Milla,Espanyol,89,22,Loss of Possession,Dispossessed,SecondHalf,52.6,66.0,0.0,0.0,Successful
+Eduardo Camavinga,Real Madrid,89,22,Successful Tackle,Tackle,SecondHalf,47.4,34.0,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,89,23,Pass,Pass,SecondHalf,39.2,40.8,48.9,39.0,Successful
+Federico Valverde,Real Madrid,89,26,Ball Recovery,BallRecovery,SecondHalf,48.6,35.5,0.0,0.0,Successful
+Federico Valverde,Real Madrid,89,28,Pass,Pass,SecondHalf,56.8,30.9,77.8,25.3,Successful
+Vinícius Júnior,Real Madrid,89,32,Pass,Pass,SecondHalf,74.9,34.9,77.1,35.5,Unsuccessful
+Unai Núñez,Espanyol,89,32,BlockedPass,BlockedPass,SecondHalf,22.9,64.5,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,89,33,Unsuccessful Dribble,TakeOn,SecondHalf,76.6,43.0,0.0,0.0,Unsuccessful
+Pol Lozano,Espanyol,89,34,Successful Tackle,Tackle,SecondHalf,23.4,57.0,0.0,0.0,Successful
+Unai Núñez,Espanyol,89,36,Clearance,Clearance,SecondHalf,18.1,52.0,39.8,49.1,Successful
+Roberto Fernández,Espanyol,89,37,Aerial Won,Aerial,SecondHalf,39.8,49.1,0.0,0.0,Successful
+Dean Huijsen,Real Madrid,89,37,Aerial Lost,Aerial,SecondHalf,60.2,50.9,0.0,0.0,Unsuccessful
+Roberto Fernández,Espanyol,89,37,BallTouch,BallTouch,SecondHalf,38.8,48.6,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,89,42,Pass,Pass,SecondHalf,48.0,53.2,52.6,34.5,Successful
+Trent Alexander-Arnold,Real Madrid,89,44,Pass,Pass,SecondHalf,53.6,32.5,65.9,30.0,Successful
+Eduardo Camavinga,Real Madrid,89,45,Pass,Pass,SecondHalf,62.4,30.0,74.7,6.3,Successful
+Yan Diomande,Real Madrid,89,49,Pass,Pass,SecondHalf,76.8,8.7,79.8,36.3,Successful
+Kylian Mbappé,Real Madrid,89,50,BallTouch,BallTouch,SecondHalf,86.6,35.4,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,89,51,BallTouch,BallTouch,SecondHalf,9.3,61.7,0.0,0.0,Unsuccessful
+Tyrhys Dolan,Espanyol,89,52,Error,Error,SecondHalf,7.4,63.8,0.0,0.0,Successful
+Marko Dmitrovic,Espanyol,89,52,Challenge,Challenge,SecondHalf,6.8,50.8,0.0,0.0,Unsuccessful
+Carlos Espí,Real Madrid,89,52,Successful Dribble,TakeOn,SecondHalf,93.2,49.2,0.0,0.0,Successful
+Carlos Espí,Real Madrid,89,54,Goal,Goal,SecondHalf,95.2,46.6,0.0,0.0,Successful
+Pere Milla,Espanyol,90,42,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Pere Milla,Espanyol,91,24,Pass,Pass,SecondHalf,50.2,50.0,28.3,54.1,Successful
+Unai Núñez,Espanyol,91,32,Pass,Pass,SecondHalf,39.4,50.9,38.3,32.4,Successful
+Vanja Drkusic,Espanyol,91,34,Pass,Pass,SecondHalf,38.6,32.0,33.5,48.3,Successful
+Unai Núñez,Espanyol,91,37,Long Pass,Pass,SecondHalf,38.6,51.1,92.2,70.8,Unsuccessful
+Ibrahima Konaté,Real Madrid,91,43,Clearance,Clearance,SecondHalf,7.1,21.3,40.1,13.8,Successful
+Yan Diomande,Real Madrid,91,48,Pass,Pass,SecondHalf,40.1,13.8,41.9,23.5,Successful
+Carlos Espí,Real Madrid,91,49,BallTouch,BallTouch,SecondHalf,41.9,23.5,0.0,0.0,Unsuccessful
+Jofre Carreras,Espanyol,91,50,Pass,Pass,SecondHalf,68.7,57.0,66.5,63.9,Successful
+Rafel Bauzà,Espanyol,91,50,BallTouch,BallTouch,SecondHalf,66.5,63.9,0.0,0.0,Successful
+Vanja Drkusic,Espanyol,91,53,Pass,Pass,SecondHalf,50.1,53.8,62.9,67.0,Unsuccessful
+Trent Alexander-Arnold,Real Madrid,91,55,Pass,Pass,SecondHalf,31.8,22.3,55.5,33.7,Unsuccessful
+Vanja Drkusic,Espanyol,91,57,Pass,Pass,SecondHalf,42.4,59.7,54.4,70.2,Successful
+Pol Lozano,Espanyol,91,58,Ball Recovery,BallRecovery,SecondHalf,54.4,70.2,0.0,0.0,Successful
+Pol Lozano,Espanyol,91,59,Pass,Pass,SecondHalf,54.4,70.2,66.8,53.0,Unsuccessful
+Marc Cucurella,Real Madrid,92,0,Long Pass,Pass,SecondHalf,32.6,55.3,34.3,53.2,Successful
+Federico Valverde,Real Madrid,92,1,BallTouch,BallTouch,SecondHalf,34.3,53.2,0.0,0.0,Successful
+Omar El Hilali,Espanyol,92,11,Long Pass,Pass,SecondHalf,62.3,0.0,42.3,12.6,Successful
+Vanja Drkusic,Espanyol,92,14,Pass,Pass,SecondHalf,40.3,14.1,49.7,14.1,Successful
+Rafel Bauzà,Espanyol,92,18,Pass,Pass,SecondHalf,64.2,19.2,65.7,10.1,Successful
+Omar El Hilali,Espanyol,92,21,Pass,Pass,SecondHalf,65.6,9.8,58.7,17.3,Successful
+Rafel Bauzà,Espanyol,92,22,Pass,Pass,SecondHalf,57.9,17.9,43.9,24.1,Successful
+Vanja Drkusic,Espanyol,92,24,Pass,Pass,SecondHalf,43.4,25.3,44.7,50.5,Successful
+Unai Núñez,Espanyol,92,28,Pass,Pass,SecondHalf,48.1,63.3,51.1,74.6,Successful
+Roger Hinojo,Espanyol,92,30,Pass,Pass,SecondHalf,52.0,78.0,58.7,69.6,Successful
+Pol Lozano,Espanyol,92,33,Pass,Pass,SecondHalf,58.9,70.0,62.5,86.4,Successful
+Tyrhys Dolan,Espanyol,92,37,Pass,Pass,SecondHalf,59.2,76.8,45.9,64.1,Successful
+Unai Núñez,Espanyol,92,40,Pass,Pass,SecondHalf,46.5,62.9,54.4,30.9,Successful
+Vanja Drkusic,Espanyol,92,44,Long Pass,Pass,SecondHalf,56.6,27.7,90.3,19.2,Successful
+Omar El Hilali,Espanyol,92,47,Cross,Pass,SecondHalf,88.7,17.4,94.7,45.6,Unsuccessful
+Dean Huijsen,Real Madrid,92,47,Clearance,Clearance,SecondHalf,8.8,63.9,1.9,100.0,Successful
+Omar El Hilali,Espanyol,92,55,Throw In,Pass,SecondHalf,89.8,0.0,91.8,12.9,Successful
+Jofre Carreras,Espanyol,92,55,Pass,Pass,SecondHalf,91.8,13.0,83.1,0.0,Unsuccessful
+Marc Cucurella,Real Madrid,93,17,Long Pass,Pass,SecondHalf,20.5,100.0,44.2,81.3,Successful
+Carlos Espí,Real Madrid,93,19,Foul,Foul,SecondHalf,39.3,73.6,0.0,0.0,Successful
+Vanja Drkusic,Espanyol,93,19,Foul,Foul,SecondHalf,60.7,26.4,0.0,0.0,Unsuccessful
+Pol Lozano,Espanyol,93,36,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,93,52,Long Pass,Pass,SecondHalf,31.5,66.6,78.7,27.9,Unsuccessful
+Roger Hinojo,Espanyol,93,56,Pass,Pass,SecondHalf,19.5,72.0,33.3,67.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,93,57,Aerial Won,Aerial,SecondHalf,66.7,33.0,0.0,0.0,Successful
+Pere Milla,Espanyol,93,57,Aerial Lost,Aerial,SecondHalf,33.3,67.0,0.0,0.0,Unsuccessful
+Ibrahima Konaté,Real Madrid,93,57,Pass,Pass,SecondHalf,66.7,33.0,77.1,38.8,Unsuccessful
+Unai Núñez,Espanyol,93,58,Ball Recovery,BallRecovery,SecondHalf,31.0,62.3,0.0,0.0,Successful
+Unai Núñez,Espanyol,93,59,Pass,Pass,SecondHalf,23.1,62.9,25.7,79.7,Successful
+Roger Hinojo,Espanyol,94,5,Chipped Pass,Pass,SecondHalf,26.5,73.7,27.7,72.0,Unsuccessful
+Carlos Espí,Real Madrid,94,5,BlockedPass,BlockedPass,SecondHalf,72.3,28.0,0.0,0.0,Successful
+Yan Diomande,Real Madrid,94,7,BallTouch,BallTouch,SecondHalf,61.4,25.9,0.0,0.0,Successful
+Rafel Bauzà,Espanyol,94,12,Long Pass,Pass,SecondHalf,43.2,56.2,61.3,0.0,Unsuccessful
+,Real Madrid,94,20,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,94,20,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Espanyol,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful

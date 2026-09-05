@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Player Clip Maker Pro Studio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css?v=6.5.0">
+</head>
+<body>
+
+    <div class="app-wrapper">
+        
+        <header class="app-header">
+            <div class="header-content">
+                <div class="brand">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>
+                    <h1>ClipMaker <span class="badge-pro">PRO STUDIO</span></h1>
+                </div>
+                
+                <!-- Main Synchronized Navigation Tabs -->
+                <div class="nav-tabs-wrapper">
+                    <button class="nav-tab-btn nav-tab-btn--active" id="tab-nav-generator">
+                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                        Match Clip Maker
+                    </button>
+                    <button class="nav-tab-btn" id="tab-nav-studio">
+                        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                        Timeline Studio
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- MAIN VIEW 1: MATCH CLIP GENERATOR PIPELINE -->
+        <main id="generator-view" class="view-panel">
+
+            <!-- Step 1: Upload Data & Footage -->
+            <section class="card" id="upload-section">
+                <div class="card-header-flex">
+                    <h3 class="card-title">Match Data Source</h3>
+                    <span class="pill-badge">4-Slot Video Ingestion</span>
+                </div>
+
+                <!-- 4 Video Upload Slots -->
+                <div class="slots-grid">
+                    <!-- Slot 1: 1st Half -->
+                    <div class="drop-zone-slot" id="slot-1h-zone">
+                        <div class="slot-header">
+                            <span class="slot-badge">⚽ 1st Half</span>
+                            <span class="slot-status" id="slot-1h-status">Empty</span>
+                        </div>
+                        <div class="slot-icon">🎬</div>
+                        <p class="slot-label" id="slot-1h-label">Upload 1st Half</p>
+                        <small class="slot-sub">MP4 / MKV Video</small>
+                        <div id="video-1h-filename" class="slot-filename"></div>
+                    </div>
+
+                    <!-- Slot 2: 2nd Half -->
+                    <div class="drop-zone-slot" id="slot-2h-zone">
+                        <div class="slot-header">
+                            <span class="slot-badge">⚽ 2nd Half</span>
+                            <span class="slot-status" id="slot-2h-status">Empty</span>
+                        </div>
+                        <div class="slot-icon">🎬</div>
+                        <p class="slot-label" id="slot-2h-label">Upload 2nd Half</p>
+                        <small class="slot-sub">MP4 / MKV Video</small>
+                        <div id="video-2h-filename" class="slot-filename"></div>
+                    </div>
+
+                    <!-- Slot 3: Extra Time (Optional) -->
+                    <div class="drop-zone-slot" id="slot-et-zone">
+                        <div class="slot-header">
+                            <span class="slot-badge">⏱️ Extra Time</span>
+                            <span class="slot-status" id="slot-et-status">Optional</span>
+                        </div>
+                        <div class="slot-icon">🎬</div>
+                        <p class="slot-label" id="slot-et-label">ET 1 / 2 Video</p>
+                        <small class="slot-sub">MP4 / MKV Video</small>
+                        <div id="video-et-filename" class="slot-filename"></div>
+                    </div>
+
+                    <!-- Slot 4: Full Match (Single File) -->
+                    <div class="drop-zone-slot" id="slot-full-zone">
+                        <div class="slot-header">
+                            <span class="slot-badge">🎥 Full Match</span>
+                            <span class="slot-status" id="slot-full-status">Optional</span>
+                        </div>
+                        <div class="slot-icon">🎬</div>
+                        <p class="slot-label" id="slot-full-label">Full Replay</p>
+                        <small class="slot-sub">Single 90m+ File</small>
+                        <div id="video-full-filename" class="slot-filename"></div>
+                    </div>
+                </div>
+
+                <!-- Hidden file inputs -->
+                <input type="file" id="video-1h-input" accept="video/*,.mp4,.mkv,.avi,.mov,.webm" hidden>
+                <input type="file" id="video-2h-input" accept="video/*,.mp4,.mkv,.avi,.mov,.webm" hidden>
+                <input type="file" id="video-et-input" accept="video/*,.mp4,.mkv,.avi,.mov,.webm" hidden>
+                <input type="file" id="video-full-input" accept="video/*,.mp4,.mkv,.avi,.mov,.webm" hidden>
+
+                <!-- CSV Upload Zone -->
+                <div class="form-group" style="margin-bottom: 1.25rem;">
+                    <div class="drop-zone" id="csv-drop-zone">
+                        <div class="drop-icon">📄</div>
+                        <p class="drop-title">Upload Match Event CSV</p>
+                        <p class="drop-desc">Opta / Wyscout / WhoScored timeline CSV (events for all halves)</p>
+                        <input type="file" id="csv-input" accept=".csv,text/csv" hidden>
+                        <div id="csv-file-name" class="selected-filename"></div>
+                    </div>
+                </div>
+
+                <!-- Alternative Sources Divider -->
+                <div class="divider-text">
+                    <span>OR AUTO-SCRAPE FROM WHOSCORED</span>
+                </div>
+
+                <!-- WhoScored Live Match Scraper Field -->
+                <div class="form-group" style="margin-bottom: 1.25rem;">
+                    <label class="label-flex">
+                        <span>WhoScored Match URL or Match ID</span>
+                        <span class="neon-text">Direct Live Event Extraction</span>
+                    </label>
+                    <div class="form-row">
+                        <input type="text" id="whoscored-url-input" class="input dark-input" placeholder="e.g. https://www.whoscored.com/Matches/1983561/Live or 1983561" style="flex-grow:1;">
+                        <button type="button" class="btn-secondary" id="whoscored-scrape-btn">⚡ Scrape Events</button>
+                    </div>
+                    <small class="form-hint">Paste any WhoScored match center URL or Match ID to automatically scrape all event coordinates &amp; players.</small>
+                </div>
+
+                <!-- Alternative Sources Divider -->
+                <div class="divider-text">
+                    <span>OR AUTO-SCRAPE FROM SCORESWAY</span>
+                </div>
+
+                <!-- Scoresway Live Match Scraper Field -->
+                <div class="form-group" style="margin-bottom: 1.25rem;">
+                    <label class="label-flex">
+                        <span>Scoresway Match URL or Match ID</span>
+                        <span class="neon-text">Direct Live Event Extraction</span>
+                    </label>
+                    <div class="form-row">
+                        <input type="text" id="scoresway-url-input" class="input dark-input" placeholder="e.g. https://www.scoresway.com/?pf=1&sport=soccer&page=match&id=ABC123 or ABC123" style="flex-grow:1;">
+                        <button type="button" class="btn-secondary" id="scoresway-scrape-btn">⚡ Scrape Events</button>
+                    </div>
+                    <small class="form-hint">Paste any Scoresway match URL or Match ID to automatically scrape all event coordinates &amp; players.</small>
+                </div>
+
+                <button class="btn-green-glow" id="upload-btn" disabled>
+                    Upload &amp; Sync Match Files
+                </button>
+            </section>
+
+            <!-- Step 2: Configure Highlight Settings -->
+            <section class="card" id="config-section">
+                
+                <!-- Match Title Header -->
+                <div class="kairo-panel" id="kairo-toggle-upload-btn">
+                    <div>
+                        <div class="kairo-title">Match Footage &amp; Events</div>
+                        <div class="kairo-sub" id="kairo-match-title">Match Video &amp; Data Synchronized</div>
+                    </div>
+                    <svg id="kairo-upload-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                </div>
+
+                <div class="kairo-card">
+                    <h3 class="card-title">Create Highlight</h3>
+
+                    <!-- Team Selector Radio Box -->
+                    <div class="kairo-radio-box">
+                        <label class="kairo-radio-label">
+                            <input type="radio" name="kairo_team_choice" value="both" checked class="kairo-radio">
+                            <span>Both teams</span>
+                        </label>
+                        <label class="kairo-radio-label" id="kairo-team-a-wrap">
+                            <input type="radio" name="kairo_team_choice" value="team_a" class="kairo-radio" id="kairo-radio-team-a">
+                            <span id="kairo-team-a-name">Chelsea</span>
+                        </label>
+                        <label class="kairo-radio-label" id="kairo-team-b-wrap">
+                            <input type="radio" name="kairo_team_choice" value="team_b" class="kairo-radio" id="kairo-radio-team-b">
+                            <span id="kairo-team-b-name">Brighton</span>
+                        </label>
+                    </div>
+
+                    <!-- Player (optional) Dropdown -->
+                    <div class="form-group" style="margin-bottom: 1.5rem;">
+                        <label class="form-label-small">Player (optional)</label>
+                        <div class="select-wrapper">
+                            <select id="kairo-player-select" class="kairo-select">
+                                <option value="">All players on team</option>
+                            </select>
+                            <svg class="select-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                        </div>
+                    </div>
+
+                    <!-- Events Section Header & Select All -->
+                    <div style="margin-bottom: 0.75rem;">
+                        <div style="font-size: 0.95rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem;">Events</div>
+                        <div class="label-flex">
+                            <label class="checkbox-label font-bold">
+                                <input type="checkbox" id="kairo-select-all-events">
+                                <span>Select all events</span>
+                            </label>
+                            <span id="kairo-events-status-text" class="form-hint">No events selected</span>
+                        </div>
+                    </div>
+
+                    <!-- Grouped Event Categories List -->
+                    <div class="kairo-events-container">
+                        
+                        <!-- 1. Passing -->
+                        <div class="kairo-category-item" data-category="passing">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Passing</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="passing">
+                                    <span class="kairo-badge">7</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Assist" class="action-cb"> Assist</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Key Pass" class="action-cb"> Key Pass</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Through Ball" class="action-cb"> Through Ball</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Cross" class="action-cb"> Cross</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Long Pass" class="action-cb"> Long Pass</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Chipped Pass" class="action-cb"> Chipped Pass</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Pass" class="action-cb"> Pass</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 2. Possession -->
+                        <div class="kairo-category-item" data-category="possession">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Possession</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="possession">
+                                    <span class="kairo-badge">5</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Take-on / Dribble" class="action-cb"> Take-on / Dribble</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Unsuccessful Dribble" class="action-cb"> Unsuccessful Dribble</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Carry" class="action-cb"> Carry</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Ball Touch" class="action-cb"> Ball Touch</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Progressive Actions" class="action-cb"> Progressive Actions</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 3. Attacking -->
+                        <div class="kairo-category-item" data-category="attacking">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Attacking</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="attacking">
+                                    <span class="kairo-badge">6</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Goal" class="action-cb"> Goal</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Shot on Target" class="action-cb"> Shot on Target</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Shot off Target" class="action-cb"> Shot off Target</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Woodwork (Shot on Post)" class="action-cb"> Woodwork (Hit Post)</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Blocked Shot" class="action-cb"> Blocked Shot</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Shot" class="action-cb"> Any Shot</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 4. Defending -->
+                        <div class="kairo-category-item" data-category="defending">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Defending</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="defending">
+                                    <span class="kairo-badge">7</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Successful Tackle" class="action-cb"> Successful Tackle</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Was Dribbled" class="action-cb"> Was Dribbled</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Interception" class="action-cb"> Interception</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Clearance" class="action-cb"> Clearance</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Block" class="action-cb"> Block</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Aerial Won" class="action-cb"> Aerial Duel Won</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Ball Recovery" class="action-cb"> Ball Recovery</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 5. Goalkeeping -->
+                        <div class="kairo-category-item" data-category="goalkeeping">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Goalkeeping</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="goalkeeping">
+                                    <span class="kairo-badge">6</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Save" class="action-cb"> Save</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Claim" class="action-cb"> Claim / Catch</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Punch" class="action-cb"> Punch</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Smother" class="action-cb"> Smother</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Keeper Sweeper" class="action-cb"> Sweeper Keeper</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Keeper Pickup" class="action-cb"> Keeper Pickup</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 6. Others -->
+                        <div class="kairo-category-item" data-category="others">
+                            <div class="kairo-cat-header">
+                                <div class="cat-title-flex">
+                                    <svg class="kairo-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8b95a5" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+                                    <span>Others</span>
+                                </div>
+                                <div class="cat-action-flex" onclick="event.stopPropagation();">
+                                    <input type="checkbox" class="kairo-cat-master-cb" data-cat-target="others">
+                                    <span class="kairo-badge">7</span>
+                                </div>
+                            </div>
+                            <div class="kairo-cat-body">
+                                <div class="cat-grid-2">
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Free Kick" class="action-cb"> Free Kick</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Corner" class="action-cb"> Corner</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Throw In" class="action-cb"> Throw In</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Foul Won" class="action-cb"> Foul Won</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Foul" class="action-cb"> Foul Committed</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Substitution On" class="action-cb"> Substitution On</label>
+                                    <label class="kairo-sub-label"><input type="checkbox" value="Substitution Off" class="action-cb"> Substitution Off</label>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Kickoff & Buffer Fine-Tuning -->
+                    <div class="fine-tuning-card">
+                        <div class="fine-tuning-header">KICK-OFF &amp; BUFFER FINE-TUNING</div>
+                        
+                        <div class="form-grid-3">
+                            <div class="form-group">
+                                <label for="fh-kickoff-input" class="form-label-small">1st Half Kick-off</label>
+                                <input type="text" id="fh-kickoff-input" class="input dark-input" value="03:33">
+                            </div>
+                            <div class="form-group">
+                                <label for="sh-kickoff-input" class="form-label-small">2nd Half Kick-off</label>
+                                <input type="text" id="sh-kickoff-input" class="input dark-input" value="1:00:20">
+                            </div>
+                            <div class="form-group">
+                                <label for="halves-include" class="form-label-small">Halves</label>
+                                <select id="halves-include" class="input dark-input">
+                                    <option value="both" selected>Both halves</option>
+                                    <option value="first">1st half only</option>
+                                    <option value="second">2nd half only</option>
+                                    <option value="full">Full match</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-grid-3">
+                            <div class="form-group">
+                                <label for="pre-buffer-input" class="form-label-small">Before (s)</label>
+                                <input type="number" id="pre-buffer-input" value="3" class="input dark-input">
+                            </div>
+                            <div class="form-group">
+                                <label for="post-buffer-input" class="form-label-small">After (s)</label>
+                                <input type="number" id="post-buffer-input" value="8" class="input dark-input">
+                            </div>
+                            <div class="form-group">
+                                <label for="merge-gap-input" class="form-label-small">Merge Gap (s)</label>
+                                <input type="number" id="merge-gap-input" value="6" class="input dark-input">
+                            </div>
+                        </div>
+
+                        <div class="form-grid-3" style="margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(255,255,255,0.06);">
+                            <div class="form-group">
+                                <label for="top-x-input" class="form-label-small label-flex">
+                                    <span>Top X Actions</span>
+                                    <span class="neon-text">(0 = all)</span>
+                                </label>
+                                <input type="number" id="top-x-input" class="input dark-input" value="0" min="0" placeholder="e.g. 15">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label-small label-flex">
+                                    <span>Min Score</span> 
+                                    <span id="min-score-value" class="highlight-val">1</span>
+                                </label>
+                                <input type="range" id="min-score-input" min="1" max="5" value="1" class="range-slider">
+                            </div>
+                            <div class="form-group">
+                                <label for="min-xt-input" class="form-label-small">Min xT Value</label>
+                                <input type="number" id="min-xt-input" class="input dark-input" step="0.001" value="0.000">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Hidden compatibility inputs -->
+                    <input type="hidden" id="player-name-input" value="">
+                    <input type="hidden" id="team-name-input" value="">
+                    <datalist id="player-datalist"></datalist>
+                    <datalist id="team-datalist"></datalist>
+                    <input type="hidden" id="et1-kickoff-input" value="">
+                    <input type="hidden" id="et2-kickoff-input" value="">
+                </div>
+            </section>
+
+            <!-- Step 3: Audio Settings -->
+            <section class="card" id="audio-section">
+                <h3 class="card-title">Audio &amp; Music</h3>
+                <div class="form-grid-2">
+                    <div class="form-group">
+                        <label for="music-select">Background Music</label>
+                        <select id="music-select" class="input dark-input">
+                            <option value="">No Music</option>
+                        </select>
+                        <small class="form-hint">Songs found in your data/music folder.</small>
+                    </div>
+                    <div class="form-group align-end">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="mute-original-input">
+                            Mute Match Audio
+                        </label>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Step 4: Output & Generate -->
+            <section class="card" id="output-section">
+                <h3 class="card-title">Output</h3>
+                
+                <div class="form-group" style="margin-bottom: 1.25rem;">
+                    <label>Output Folder</label>
+                    <div class="form-row">
+                        <input type="text" id="output-folder-input" class="input dark-input" placeholder="Click Browse to choose folder" readonly style="flex-grow: 1;">
+                        <button class="btn-secondary" id="browse-dir-btn" type="button">Browse</button>
+                    </div>
+                </div>
+
+                <div class="form-grid-2">
+                    <div class="form-group">
+                        <label for="output-filename-input">Output Filename</label>
+                        <input type="text" id="output-filename-input" class="input dark-input" value="Highlights.mp4">
+                    </div>
+                    <div class="form-group align-end">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="save-individual-input">
+                            Save individual clips
+                        </label>
+                    </div>
+                </div>
+
+                <button class="btn-green-glow" id="generate-btn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                    GENERATE HIGHLIGHTS
+                </button>
+            </section>
+
+            <!-- Processing Status -->
+            <section class="card" id="status-container" style="display: none;">
+                <h3 class="card-title" id="processing-title">Processing Highlights</h3>
+                <p id="status-text" class="status-msg">Initializing...</p>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </section>
+
+            <!-- Final Result Video -->
+            <section class="card" id="result-section" style="display: none;">
+                <h3 class="card-title">Final Output</h3>
+                <div class="video-container">
+                    <video id="result-video" controls class="preview-video"></video>
+                </div>
+                <div class="result-actions">
+                    <p class="saved-label">Video saved to: <strong id="saved-path-label">output/</strong></p>
+                    <div style="display:flex; gap:1rem;">
+                        <a href="#" id="download-link" class="btn-secondary" style="text-decoration: none;">Download Video</a>
+                        <button id="send-to-studio-btn" class="btn-green-glow" style="width:auto; padding: 0.6rem 1.5rem;">Open In Timeline Studio ✂️</button>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- MAIN VIEW 2: KAIRO CLIP STUDIO (EXACT UI) -->
+        <div id="studio-view" class="view-panel" style="display: none;">
+            <div class="kairo-studio-app">
+                
+                <!-- 1. Top Bar -->
+                <div class="ks-topbar">
+                    <div class="ks-topbar-left">
+                        <button id="kairo-studio-back-btn" class="ks-btn-back">← Back</button>
+                        <div class="ks-title-group">
+                            <h2 class="ks-title">Clip Studio</h2>
+                            <span class="ks-subtitle" id="ks-match-subtitle">Espanyol Real Madrid 2026-2027</span>
+                        </div>
+                    </div>
+                    <div class="ks-topbar-right">
+                        <button id="ks-reset-all-btn" class="ks-btn-outline">Reset all</button>
+                        <button id="ks-save-changes-btn" class="ks-btn-green">Save changes</button>
+                    </div>
+                </div>
+
+                <!-- 2. Video Player -->
+                <div class="ks-video-wrapper">
+                    <video id="kairo-studio-video" controls class="ks-video"></video>
+                </div>
+
+                <!-- 3. Navigation, Action Tags & Buttons Bar -->
+                <div class="ks-controls-bar">
+                    <div class="ks-nav-left">
+                        <div class="ks-clip-nav">
+                            <button id="ks-prev-clip-btn" class="ks-nav-btn">‹ Previous</button>
+                            <span id="ks-clip-badge" class="ks-clip-badge">Clip 01 <span id="ks-clip-timecode" class="ks-clip-time">4:42 – 4:54</span></span>
+                            <button id="ks-next-clip-btn" class="ks-nav-btn">Next ›</button>
+                        </div>
+                    </div>
+
+                    <!-- Jump / Seek Controls (-8s, -1s, +1s, +8s) -->
+                    <div class="ks-seek-controls">
+                        <button id="ks-seek-back-8" class="ks-btn-seek" title="Seek 8 seconds backward">
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="11 19 2 12 11 5"/><polyline points="22 19 13 12 22 5"/></svg>
+                            -8s
+                        </button>
+                        <button id="ks-seek-back-1" class="ks-btn-seek" title="Seek 1 second backward">
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+                            -1s
+                        </button>
+                        <button id="ks-seek-fwd-1" class="ks-btn-seek" title="Seek 1 second forward">
+                            +1s
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+                        </button>
+                        <button id="ks-seek-fwd-8" class="ks-btn-seek" title="Seek 8 seconds forward">
+                            +8s
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="13 19 22 12 13 5"/><polyline points="2 19 11 12 2 5"/></svg>
+                        </button>
+                    </div>
+
+                    <div class="ks-nav-right">
+                        <button id="ks-export-zip-btn" class="ks-btn-outline">Export ZIP</button>
+                        <button id="ks-export-reel-btn" class="ks-btn-outline">Export reel</button>
+                    </div>
+                </div>
+
+                <!-- 4. Action Tags & Clip Modification Buttons -->
+                <div class="ks-actions-bar">
+                    <div class="ks-tags-group" id="ks-action-tags-container">
+                        <span class="ks-tag">Tackle</span>
+                        <span class="ks-tag">Ball recovery</span>
+                        <span class="ks-tag">Pass</span>
+                    </div>
+
+                    <div class="ks-clip-btns">
+                        <button id="ks-reset-clip-btn" class="ks-btn-dark">Reset clip</button>
+                        <button id="ks-delete-clip-btn" class="ks-btn-dark">Delete clip</button>
+                        <button id="ks-download-clip-btn" class="ks-btn-dark">Download clip</button>
+                    </div>
+                </div>
+
+                <!-- 5. Dual-Track Timeline Trimmer Card -->
+                <div class="ks-timeline-card">
+                    <div class="ks-timeline-header">
+                        <div class="ks-timeline-label">
+                            <strong>Timeline</strong> <span class="ks-hint">Drag edge handles to trim</span>
+                        </div>
+                        <div class="ks-timeline-count" id="ks-timeline-summary">
+                            45 clips · match 99:04
+                        </div>
+                    </div>
+
+                    <!-- Timecode Numbers Ruler -->
+                    <div class="ks-ruler">
+                        <span>0:00</span>
+                        <span>15:00</span>
+                        <span>30:00</span>
+                        <span>45:00</span>
+                        <span>60:00</span>
+                        <span>75:00</span>
+                        <span>90:00</span>
+                        <span>99:04</span>
+                    </div>
+
+                    <!-- Track 1: Match Overview Track with Clip Blocks -->
+                    <div class="ks-overview-track" id="ks-overview-track">
+                        <!-- Clip marker blocks will be generated here -->
+                        <div class="ks-playhead" id="ks-overview-playhead"></div>
+                    </div>
+
+                    <!-- Track 2: Active Clip Trimmer Track with Drag Handles -->
+                    <div class="ks-trimmer-track" id="ks-trimmer-track">
+                        <div class="ks-trim-selection" id="ks-trim-selection">
+                            <div class="ks-trim-handle ks-trim-handle-left" id="ks-handle-left"></div>
+                            <div class="ks-trim-handle ks-trim-handle-right" id="ks-handle-right"></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <footer class="app-footer">
+            Player Clip Maker Pro Studio — Real-Time Video Analysis &amp; Highlight Generation
+        </footer>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="toast-container"></div>
+    <script src="app.js?v=6.5.0"></script>
+</body>
+</html>

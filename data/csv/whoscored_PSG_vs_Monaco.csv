@@ -1,0 +1,1737 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,PSG,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Vitinha,PSG,0,0,Long Pass,Pass,FirstHalf,50.1,49.8,80.1,100.0,Unsuccessful
+Vanderson,Monaco,0,13,Throw In,Pass,FirstHalf,21.3,0.0,12.2,8.3,Successful
+Sadibou Sané,Monaco,0,14,Long Pass,Pass,FirstHalf,12.0,8.0,14.5,7.7,Unsuccessful
+,Monaco,0,15,Foul,Foul,FirstHalf,16.0,8.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,0,15,Foul,Foul,FirstHalf,84.0,92.0,0.0,0.0,Unsuccessful
+Sadibou Sané,Monaco,0,36,Pass,Pass,FirstHalf,22.2,9.1,10.0,27.9,Successful
+Lukás Hrádecky,Monaco,0,38,Pass,Pass,FirstHalf,8.2,28.0,10.7,74.3,Successful
+Flávio Nazinho,Monaco,0,43,Pass,Pass,FirstHalf,21.2,90.9,49.0,83.8,Unsuccessful
+João Neves,PSG,0,45,Ball Recovery,BallRecovery,FirstHalf,51.0,28.5,0.0,0.0,Successful
+João Neves,PSG,0,46,Pass,Pass,FirstHalf,52.0,26.6,35.5,23.5,Successful
+Marquinhos,PSG,0,49,Pass,Pass,FirstHalf,35.7,28.2,33.1,72.9,Successful
+Warren Zaïre-Emery,PSG,0,54,Pass,Pass,FirstHalf,24.7,68.0,26.2,22.1,Successful
+Marquinhos,PSG,0,58,Pass,Pass,FirstHalf,31.2,18.1,30.2,3.0,Successful
+Achraf Hakimi,PSG,1,3,Pass,Pass,FirstHalf,24.7,4.5,3.9,32.0,Successful
+Matvey Safonov,PSG,1,9,Pass,Pass,FirstHalf,7.3,24.9,9.8,3.3,Successful
+Achraf Hakimi,PSG,1,12,Pass,Pass,FirstHalf,9.9,3.3,12.5,3.3,Unsuccessful
+Stanis Idumbo,Monaco,1,12,BlockedPass,BlockedPass,FirstHalf,87.5,96.7,0.0,0.0,Successful
+Matvey Safonov,PSG,1,41,Long Pass,Pass,FirstHalf,3.1,56.6,58.3,100.0,Unsuccessful
+Vanderson,Monaco,1,56,Throw In,Pass,FirstHalf,36.7,0.0,22.4,5.4,Successful
+Sadibou Sané,Monaco,1,59,Pass,Pass,FirstHalf,22.1,5.0,6.5,36.5,Successful
+Lukás Hrádecky,Monaco,2,2,Pass,Pass,FirstHalf,6.5,36.5,14.0,34.1,Successful
+Eric Dier,Monaco,2,6,Pass,Pass,FirstHalf,15.5,31.7,11.7,13.1,Successful
+Sadibou Sané,Monaco,2,7,Pass,Pass,FirstHalf,13.9,14.1,37.6,22.7,Successful
+Mamadou Coulibaly,Monaco,2,9,Chipped Pass,Pass,FirstHalf,41.5,22.4,55.2,5.9,Successful
+Vanderson,Monaco,2,10,Pass,Pass,FirstHalf,56.1,5.0,58.1,11.2,Unsuccessful
+Warren Zaïre-Emery,PSG,2,13,BallTouch,BallTouch,FirstHalf,41.2,82.0,0.0,0.0,Successful
+Fabián Ruiz,PSG,2,14,Pass,Pass,FirstHalf,36.3,76.8,31.9,51.5,Successful
+Marquinhos,PSG,2,15,Ball Recovery,BallRecovery,FirstHalf,31.6,50.3,0.0,0.0,Successful
+Marquinhos,PSG,2,16,Pass,Pass,FirstHalf,31.2,47.7,41.6,3.6,Successful
+Achraf Hakimi,PSG,2,22,Pass,Pass,FirstHalf,38.0,5.1,17.5,14.9,Successful
+Marquinhos,PSG,2,25,Pass,Pass,FirstHalf,14.0,19.0,8.3,52.0,Successful
+Matvey Safonov,PSG,2,28,Pass,Pass,FirstHalf,8.3,52.0,14.5,95.0,Successful
+Warren Zaïre-Emery,PSG,2,30,Pass,Pass,FirstHalf,14.1,97.0,32.3,94.9,Successful
+Désiré Doué,PSG,2,33,Pass,Pass,FirstHalf,31.3,92.2,21.2,100.0,Unsuccessful
+Mamadou Coulibaly,Monaco,2,40,Throw In,Pass,FirstHalf,70.2,0.0,55.3,11.2,Successful
+Sadibou Sané,Monaco,2,44,Pass,Pass,FirstHalf,53.5,9.5,41.6,27.3,Successful
+Eric Dier,Monaco,2,45,Pass,Pass,FirstHalf,41.5,27.0,58.0,22.0,Successful
+Aleksandr Golovin,Monaco,2,47,Pass,Pass,FirstHalf,58.1,19.7,59.8,18.9,Unsuccessful
+João Neves,PSG,2,47,BlockedPass,BlockedPass,FirstHalf,40.2,81.1,0.0,0.0,Successful
+Paris Brunner,Monaco,3,0,Offside,OffsideGiven,FirstHalf,57.1,48.1,0.0,0.0,Unsuccessful
+Vanderson,Monaco,3,2,Long Pass,Pass,FirstHalf,61.9,0.0,38.6,8.0,Successful
+Sadibou Sané,Monaco,3,8,Pass,Pass,FirstHalf,31.5,10.0,6.4,33.3,Successful
+Lukás Hrádecky,Monaco,3,15,Long Pass,OffsidePass,FirstHalf,11.5,44.8,57.1,48.1,Successful
+Willian Pacho,PSG,3,15,OffsideProvoked,OffsideProvoked,FirstHalf,43.2,56.2,0.0,0.0,Successful
+Vitinha,PSG,3,33,Pass,Pass,FirstHalf,46.1,49.8,48.5,34.2,Successful
+João Neves,PSG,3,34,Pass,Pass,FirstHalf,48.5,34.2,38.0,28.8,Successful
+Marquinhos,PSG,3,36,Pass,Pass,FirstHalf,39.4,26.0,48.1,24.9,Successful
+Désiré Doué,PSG,3,39,Pass,Pass,FirstHalf,41.1,23.5,32.6,23.7,Successful
+Marquinhos,PSG,3,42,Pass,Pass,FirstHalf,33.2,22.6,35.6,16.9,Successful
+Désiré Doué,PSG,3,43,Pass,Pass,FirstHalf,34.8,8.8,15.2,34.1,Successful
+Matvey Safonov,PSG,3,46,Pass,Pass,FirstHalf,18.8,39.5,18.5,62.5,Successful
+Willian Pacho,PSG,3,50,Pass,Pass,FirstHalf,22.3,66.6,28.0,95.0,Successful
+Warren Zaïre-Emery,PSG,3,54,Pass,Pass,FirstHalf,28.6,94.4,29.5,92.6,Unsuccessful
+Mamadou Coulibaly,Monaco,3,54,BlockedPass,BlockedPass,FirstHalf,70.5,7.4,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,4,5,Throw In,Pass,FirstHalf,29.3,100.0,14.5,89.8,Successful
+Willian Pacho,PSG,4,10,Pass,Pass,FirstHalf,15.5,81.0,18.2,37.2,Successful
+Marquinhos,PSG,4,14,Pass,Pass,FirstHalf,18.7,36.7,14.6,65.0,Successful
+Willian Pacho,PSG,4,17,Pass,Pass,FirstHalf,18.0,68.6,22.5,91.8,Successful
+Warren Zaïre-Emery,PSG,4,20,Chipped Pass,Pass,FirstHalf,22.7,91.8,41.2,84.8,Unsuccessful
+Sadibou Sané,Monaco,4,22,Ball Recovery,BallRecovery,FirstHalf,56.9,18.5,0.0,0.0,Successful
+Sadibou Sané,Monaco,4,23,Pass,Pass,FirstHalf,56.9,18.5,57.4,31.7,Successful
+Denis Zakaria,Monaco,4,24,Pass,Pass,FirstHalf,56.3,32.1,40.3,41.5,Successful
+Eric Dier,Monaco,4,26,Pass,Pass,FirstHalf,39.2,41.1,40.3,15.1,Successful
+Sadibou Sané,Monaco,4,28,Pass,Pass,FirstHalf,39.6,12.4,47.5,14.4,Successful
+Lamine Camara,Monaco,4,36,Pass,Pass,FirstHalf,38.9,38.5,32.2,61.8,Successful
+Eric Dier,Monaco,4,38,Pass,Pass,FirstHalf,30.4,59.7,10.5,41.7,Successful
+Lukás Hrádecky,Monaco,4,42,Long Pass,Pass,FirstHalf,12.9,35.9,44.1,22.9,Successful
+Mamadou Coulibaly,Monaco,4,44,Pass,Pass,FirstHalf,44.6,22.7,40.2,22.6,Successful
+Lamine Camara,Monaco,4,48,Foul,Foul,FirstHalf,42.7,21.2,0.0,0.0,Successful
+Maghnes Akliouche,PSG,4,48,Foul,Foul,FirstHalf,57.3,78.8,0.0,0.0,Unsuccessful
+Sadibou Sané,Monaco,4,55,Pass,Pass,FirstHalf,29.2,22.7,32.3,6.4,Successful
+Vanderson,Monaco,4,55,BallTouch,BallTouch,FirstHalf,41.9,8.8,0.0,0.0,Successful
+Matvey Safonov,PSG,4,59,KeeperSweeper,KeeperSweeper,FirstHalf,13.8,82.7,0.0,0.0,Successful
+Matvey Safonov,PSG,5,0,Clearance,Clearance,FirstHalf,15.1,82.7,24.7,95.7,Successful
+Fabián Ruiz,PSG,5,2,Pass,Pass,FirstHalf,25.8,95.0,20.0,88.4,Unsuccessful
+Mamadou Coulibaly,Monaco,5,3,Loss of Possession,Dispossessed,FirstHalf,74.4,15.4,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,5,3,Was Dribbled,Tackle,FirstHalf,25.6,84.6,0.0,0.0,Unsuccessful
+Aleksandr Golovin,Monaco,5,9,Cross,Pass,FirstHalf,94.7,10.1,91.8,41.8,Unsuccessful
+Willian Pacho,PSG,5,11,Clearance,Clearance,FirstHalf,8.9,60.2,14.2,83.7,Successful
+Fabián Ruiz,PSG,5,14,Foul,Foul,FirstHalf,15.1,85.1,0.0,0.0,Successful
+Vanderson,Monaco,5,14,Foul,Foul,FirstHalf,84.9,14.9,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,5,28,Pass,Pass,FirstHalf,21.1,89.9,14.4,67.6,Successful
+Willian Pacho,PSG,5,30,Pass,Pass,FirstHalf,12.5,64.4,11.6,28.8,Successful
+Marquinhos,PSG,5,31,Pass,Pass,FirstHalf,11.6,28.8,12.1,62.7,Successful
+Willian Pacho,PSG,5,35,Pass,Pass,FirstHalf,12.9,66.7,13.7,91.8,Successful
+Warren Zaïre-Emery,PSG,5,38,Long Pass,Pass,FirstHalf,11.1,89.3,12.5,85.6,Unsuccessful
+Mamadou Coulibaly,Monaco,5,38,BlockedPass,BlockedPass,FirstHalf,87.5,14.4,0.0,0.0,Successful
+Matvey Safonov,PSG,5,41,KeeperPickup,KeeperPickup,FirstHalf,3.3,55.4,0.0,0.0,Successful
+Matvey Safonov,PSG,5,48,Pass,Pass,FirstHalf,12.8,50.9,15.9,91.9,Successful
+Warren Zaïre-Emery,PSG,5,51,Pass,Pass,FirstHalf,16.5,92.2,6.6,72.0,Successful
+Willian Pacho,PSG,5,54,Long Pass,Pass,FirstHalf,3.3,74.3,35.7,85.4,Successful
+Khvicha Kvaratskhelia,PSG,5,58,Pass,Pass,FirstHalf,35.4,69.8,38.3,62.2,Successful
+Désiré Doué,PSG,5,59,Pass,Pass,FirstHalf,38.8,61.1,30.5,49.1,Successful
+João Neves,PSG,6,1,Pass,Pass,FirstHalf,29.0,45.7,34.1,13.2,Successful
+Achraf Hakimi,PSG,6,3,Pass,Pass,FirstHalf,33.7,13.0,38.8,6.4,Successful
+Maghnes Akliouche,PSG,6,5,Pass,Pass,FirstHalf,36.0,9.1,44.3,32.8,Successful
+João Neves,PSG,6,7,Pass,Pass,FirstHalf,44.3,32.2,57.6,41.3,Successful
+Khvicha Kvaratskhelia,PSG,6,8,Pass,Pass,FirstHalf,58.3,41.5,49.9,51.7,Successful
+João Neves,PSG,6,11,Pass,Pass,FirstHalf,52.6,55.9,52.3,77.1,Successful
+Warren Zaïre-Emery,PSG,6,13,Pass,Pass,FirstHalf,56.1,82.5,60.9,95.0,Successful
+Désiré Doué,PSG,6,15,Pass,Pass,FirstHalf,60.9,95.2,60.9,94.7,Unsuccessful
+Vanderson,Monaco,6,15,BlockedPass,BlockedPass,FirstHalf,39.1,5.3,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,6,18,Challenge,Challenge,FirstHalf,61.0,88.1,0.0,0.0,Unsuccessful
+Vanderson,Monaco,6,18,Successful Dribble,TakeOn,FirstHalf,39.0,11.9,0.0,0.0,Successful
+Vanderson,Monaco,6,18,Ball Recovery,BallRecovery,FirstHalf,38.2,9.8,0.0,0.0,Successful
+Vanderson,Monaco,6,19,Pass,Pass,FirstHalf,39.3,8.5,32.4,8.2,Successful
+Sadibou Sané,Monaco,6,20,Pass,Pass,FirstHalf,31.5,7.4,45.8,6.2,Successful
+João Neves,PSG,6,21,Challenge,Challenge,FirstHalf,44.6,75.4,0.0,0.0,Unsuccessful
+Mamadou Coulibaly,Monaco,6,21,Successful Dribble,TakeOn,FirstHalf,55.4,24.6,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,6,24,Unsuccessful Dribble,TakeOn,FirstHalf,52.8,44.0,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,6,24,Was Dribbled,Tackle,FirstHalf,47.2,56.0,0.0,0.0,Unsuccessful
+Mamadou Coulibaly,Monaco,6,25,BallTouch,BallTouch,FirstHalf,60.0,23.2,0.0,0.0,Successful
+Vitinha,PSG,6,29,Ball Recovery,BallRecovery,FirstHalf,43.5,53.7,0.0,0.0,Successful
+Vitinha,PSG,6,29,Pass,Pass,FirstHalf,43.8,52.6,37.7,41.6,Successful
+Maghnes Akliouche,PSG,6,33,Pass,Pass,FirstHalf,38.2,31.6,37.6,7.1,Successful
+Achraf Hakimi,PSG,6,34,Pass,Pass,FirstHalf,36.9,11.8,38.5,38.2,Successful
+Vitinha,PSG,6,35,Pass,Pass,FirstHalf,38.8,37.0,25.3,26.6,Successful
+Marquinhos,PSG,6,43,Long Pass,Pass,FirstHalf,31.8,25.7,66.5,75.8,Unsuccessful
+Vanderson,Monaco,6,48,Pass,Pass,FirstHalf,23.9,18.9,3.6,27.4,Successful
+Lukás Hrádecky,Monaco,6,50,KeeperPickup,KeeperPickup,FirstHalf,3.6,27.4,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,7,0,Offside,OffsideGiven,FirstHalf,66.8,97.1,0.0,0.0,Unsuccessful
+Lukás Hrádecky,Monaco,7,1,Pass,Pass,FirstHalf,8.1,44.5,16.1,18.5,Successful
+Sadibou Sané,Monaco,7,5,Pass,Pass,FirstHalf,22.0,11.3,6.3,35.6,Successful
+Lukás Hrádecky,Monaco,7,8,Pass,Pass,FirstHalf,7.3,32.4,14.4,5.0,Successful
+Sadibou Sané,Monaco,7,11,Chipped Pass,Pass,FirstHalf,14.6,1.9,39.2,15.0,Unsuccessful
+Warren Zaïre-Emery,PSG,7,13,Aerial Won,Aerial,FirstHalf,60.8,85.0,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,7,13,Aerial Lost,Aerial,FirstHalf,39.2,15.0,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,7,14,Pass,Pass,FirstHalf,60.8,85.0,64.5,84.2,Successful
+Fabián Ruiz,PSG,7,15,Ball Recovery,BallRecovery,FirstHalf,64.6,84.2,0.0,0.0,Successful
+Fabián Ruiz,PSG,7,15,Pass,Pass,FirstHalf,64.6,81.9,68.5,70.4,Successful
+Maghnes Akliouche,PSG,7,16,Key Pass,Pass,FirstHalf,69.1,69.8,73.1,50.2,Successful
+Désiré Doué,PSG,7,19,Shot on Target,SavedShot,FirstHalf,76.3,46.9,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,7,19,Save,Save,FirstHalf,1.1,52.6,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,7,21,KeeperPickup,KeeperPickup,FirstHalf,2.7,49.1,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,7,33,Long Pass,Pass,FirstHalf,10.8,46.5,61.7,51.4,Successful
+Paris Brunner,Monaco,7,38,BallTouch,BallTouch,FirstHalf,61.7,50.6,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,7,39,Pass,Pass,FirstHalf,51.8,66.4,31.2,67.3,Successful
+Willian Pacho,PSG,7,44,Ball Recovery,BallRecovery,FirstHalf,30.8,68.9,0.0,0.0,Successful
+Willian Pacho,PSG,7,44,Long Pass,OffsidePass,FirstHalf,32.2,68.3,66.8,97.1,Successful
+Vanderson,Monaco,7,44,OffsideProvoked,OffsideProvoked,FirstHalf,39.6,26.6,0.0,0.0,Successful
+Sadibou Sané,Monaco,8,12,Pass,Pass,FirstHalf,33.8,12.6,34.5,23.9,Successful
+Lamine Camara,Monaco,8,15,Pass,Pass,FirstHalf,33.9,24.2,10.7,36.5,Successful
+Lukás Hrádecky,Monaco,8,16,Chipped Pass,Pass,FirstHalf,10.6,36.5,13.6,73.8,Successful
+Flávio Nazinho,Monaco,8,18,Pass,Pass,FirstHalf,12.8,75.0,27.2,95.2,Successful
+Stanis Idumbo,Monaco,8,21,Pass,Pass,FirstHalf,28.5,95.6,18.2,93.8,Successful
+Flávio Nazinho,Monaco,8,24,Chipped Pass,Pass,FirstHalf,19.5,98.1,44.2,82.9,Unsuccessful
+Paris Brunner,Monaco,8,28,BallTouch,BallTouch,FirstHalf,44.3,82.7,0.0,0.0,Successful
+Vitinha,PSG,8,28,Interception,Interception,FirstHalf,61.7,18.7,0.0,0.0,Successful
+João Neves,PSG,8,29,Ball Recovery,BallRecovery,FirstHalf,55.8,31.3,0.0,0.0,Successful
+João Neves,PSG,8,30,Pass,Pass,FirstHalf,53.8,33.6,27.8,28.2,Successful
+Willian Pacho,PSG,8,33,Pass,Pass,FirstHalf,27.5,33.8,18.4,49.5,Successful
+Matvey Safonov,PSG,8,35,Pass,Pass,FirstHalf,18.4,50.2,21.4,78.9,Successful
+Warren Zaïre-Emery,PSG,8,37,Pass,Pass,FirstHalf,21.5,80.8,31.7,94.7,Successful
+Khvicha Kvaratskhelia,PSG,8,38,Pass,Pass,FirstHalf,31.6,94.9,19.5,88.5,Successful
+Warren Zaïre-Emery,PSG,8,42,Pass,Pass,FirstHalf,19.5,88.5,28.3,90.9,Successful
+Fabián Ruiz,PSG,8,43,Pass,Pass,FirstHalf,28.6,90.7,16.8,92.9,Successful
+Warren Zaïre-Emery,PSG,8,44,Pass,Pass,FirstHalf,15.8,92.9,29.6,94.3,Successful
+Khvicha Kvaratskhelia,PSG,8,48,Chipped Pass,Pass,FirstHalf,30.2,95.3,42.9,100.0,Unsuccessful
+Vanderson,Monaco,9,6,Throw In,Pass,FirstHalf,55.9,0.0,66.9,16.5,Successful
+Paris Brunner,Monaco,9,7,Aerial Won,Aerial,FirstHalf,66.9,16.5,0.0,0.0,Successful
+Willian Pacho,PSG,9,7,Aerial Lost,Aerial,FirstHalf,33.1,83.5,0.0,0.0,Unsuccessful
+Paris Brunner,Monaco,9,7,Pass,Pass,FirstHalf,66.9,16.5,71.4,2.9,Successful
+Aleksandr Golovin,Monaco,9,14,Pass,Pass,FirstHalf,79.6,4.7,81.5,13.5,Unsuccessful
+Marquinhos,PSG,9,15,Pass,Pass,FirstHalf,22.1,89.2,25.8,94.6,Successful
+Fabián Ruiz,PSG,9,16,Ball Recovery,BallRecovery,FirstHalf,25.8,94.7,0.0,0.0,Successful
+Fabián Ruiz,PSG,9,17,Pass,Pass,FirstHalf,25.6,93.6,35.9,83.0,Successful
+Maghnes Akliouche,PSG,9,18,Pass,Pass,FirstHalf,35.9,83.0,27.3,83.0,Successful
+Khvicha Kvaratskhelia,PSG,9,19,Pass,Pass,FirstHalf,25.3,81.3,28.6,89.0,Successful
+Maghnes Akliouche,PSG,9,22,Long Pass,Pass,FirstHalf,28.9,75.8,30.2,5.3,Successful
+Achraf Hakimi,PSG,9,26,Pass,Pass,FirstHalf,29.2,8.2,24.6,20.9,Successful
+Vitinha,PSG,9,29,Pass,Pass,FirstHalf,25.8,18.1,32.9,22.1,Successful
+Désiré Doué,PSG,9,30,Pass,Pass,FirstHalf,32.9,22.9,11.8,33.1,Successful
+Willian Pacho,PSG,9,35,Pass,Pass,FirstHalf,18.7,47.7,23.5,72.8,Successful
+Marquinhos,PSG,9,39,Pass,Pass,FirstHalf,27.5,76.5,22.9,86.8,Successful
+Warren Zaïre-Emery,PSG,9,42,Long Pass,Pass,FirstHalf,24.0,80.8,26.9,24.9,Successful
+Vitinha,PSG,9,48,Pass,Pass,FirstHalf,33.4,22.0,28.3,41.6,Successful
+Marquinhos,PSG,9,49,Pass,Pass,FirstHalf,28.3,43.3,28.9,75.1,Successful
+Warren Zaïre-Emery,PSG,9,57,Pass,Pass,FirstHalf,31.6,76.9,29.1,59.6,Successful
+Willian Pacho,PSG,10,1,Pass,Pass,FirstHalf,28.2,52.8,29.8,74.8,Successful
+Warren Zaïre-Emery,PSG,10,4,Pass,Pass,FirstHalf,29.0,72.4,30.6,34.5,Successful
+Vitinha,PSG,10,7,Pass,Pass,FirstHalf,30.4,33.3,52.6,1.4,Successful
+Maghnes Akliouche,PSG,10,13,Pass,Pass,FirstHalf,54.9,1.4,63.4,7.3,Successful
+Désiré Doué,PSG,10,15,Pass,Pass,FirstHalf,71.1,6.8,87.4,20.9,Unsuccessful
+Lamine Camara,Monaco,10,18,BallTouch,BallTouch,FirstHalf,7.5,80.6,0.0,0.0,Unsuccessful
+Maghnes Akliouche,PSG,10,22,Chipped Pass,Pass,FirstHalf,93.5,27.2,100.0,60.5,Unsuccessful
+Eric Dier,Monaco,10,47,Long Pass,Pass,FirstHalf,3.8,57.1,46.9,48.6,Successful
+Paris Brunner,Monaco,10,50,Pass,Pass,FirstHalf,46.9,48.5,40.0,38.0,Successful
+Mamadou Coulibaly,Monaco,10,52,Unsuccessful Dribble,TakeOn,FirstHalf,43.3,36.2,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,10,52,Was Dribbled,Tackle,FirstHalf,56.7,63.8,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,10,53,Ball Recovery,BallRecovery,FirstHalf,44.5,65.8,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,10,54,BallTouch,BallTouch,FirstHalf,40.0,38.0,0.0,0.0,Successful
+Fabián Ruiz,PSG,10,54,Pass,Pass,FirstHalf,44.5,63.9,33.9,61.3,Successful
+Willian Pacho,PSG,10,56,Pass,Pass,FirstHalf,31.7,59.6,29.0,37.5,Successful
+Marquinhos,PSG,11,0,Long Pass,Pass,FirstHalf,26.5,31.9,62.4,9.0,Successful
+Désiré Doué,PSG,11,6,Key Pass,Pass,FirstHalf,78.9,33.0,91.7,37.6,Successful
+Achraf Hakimi,PSG,11,8,Shot on Target,SavedShot,FirstHalf,91.7,37.6,0.0,0.0,Successful
+Sadibou Sané,Monaco,11,8,Save,Save,FirstHalf,7.6,63.0,0.0,0.0,Successful
+Eric Dier,Monaco,11,9,BallTouch,BallTouch,FirstHalf,8.3,55.8,0.0,0.0,Successful
+Désiré Doué,PSG,11,10,Successful Dribble,TakeOn,FirstHalf,88.4,46.8,0.0,0.0,Successful
+Lamine Camara,Monaco,11,10,Challenge,Challenge,FirstHalf,11.6,53.2,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,11,11,Shot on Target,SavedShot,FirstHalf,90.2,49.1,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,11,11,Save,Save,FirstHalf,2.7,50.7,0.0,0.0,Successful
+João Neves,PSG,11,13,Aerial Won,Aerial,FirstHalf,95.5,47.4,0.0,0.0,Successful
+Sadibou Sané,Monaco,11,13,Aerial Lost,Aerial,FirstHalf,4.5,52.6,0.0,0.0,Unsuccessful
+João Neves,PSG,11,13,Shot off Target,MissedShots,FirstHalf,95.5,47.4,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,11,15,Shot off Target,MissedShots,FirstHalf,95.7,61.3,0.0,0.0,Successful
+Eric Dier,Monaco,11,44,Pass,Pass,FirstHalf,4.0,57.7,4.0,50.5,Successful
+Lukás Hrádecky,Monaco,11,44,Long Pass,Pass,FirstHalf,4.5,49.5,56.5,55.5,Unsuccessful
+Willian Pacho,PSG,11,49,Interception,Interception,FirstHalf,43.5,44.5,0.0,0.0,Successful
+João Neves,PSG,11,50,Pass,Pass,FirstHalf,43.7,34.4,45.4,32.2,Unsuccessful
+Aleksandr Golovin,Monaco,11,51,BallTouch,BallTouch,FirstHalf,55.6,70.3,0.0,0.0,Successful
+Stanis Idumbo,Monaco,11,53,Pass,Pass,FirstHalf,55.7,95.6,52.3,90.3,Successful
+Aleksandr Golovin,Monaco,11,56,Pass,Pass,FirstHalf,47.1,86.8,38.5,94.0,Successful
+Flávio Nazinho,Monaco,12,0,Pass,Pass,FirstHalf,38.5,94.0,32.1,85.9,Successful
+Eric Dier,Monaco,12,1,Pass,Pass,FirstHalf,31.7,84.3,13.2,56.7,Successful
+Lukás Hrádecky,Monaco,12,6,Pass,Pass,FirstHalf,13.0,46.7,33.9,24.5,Successful
+Mamadou Coulibaly,Monaco,12,9,Pass,Pass,FirstHalf,34.5,21.5,31.2,8.2,Successful
+Vanderson,Monaco,12,14,Pass,Pass,FirstHalf,32.4,4.8,52.6,16.6,Successful
+Denis Zakaria,Monaco,12,17,Long Pass,Pass,FirstHalf,53.1,17.7,66.8,90.3,Successful
+Stanis Idumbo,Monaco,12,22,Pass,Pass,FirstHalf,69.4,87.0,74.3,61.5,Successful
+Mamadou Coulibaly,Monaco,12,24,Loss of Possession,Dispossessed,FirstHalf,76.1,60.2,0.0,0.0,Successful
+Willian Pacho,PSG,12,24,Successful Tackle,Tackle,FirstHalf,23.9,39.8,0.0,0.0,Successful
+João Neves,PSG,12,27,Ball Recovery,BallRecovery,FirstHalf,24.6,33.8,0.0,0.0,Successful
+João Neves,PSG,12,28,Pass,Pass,FirstHalf,19.8,37.3,7.7,51.4,Successful
+Matvey Safonov,PSG,12,30,Pass,Pass,FirstHalf,7.9,51.4,5.1,39.8,Successful
+Marquinhos,PSG,12,31,Pass,Pass,FirstHalf,5.1,39.8,7.1,5.1,Successful
+Achraf Hakimi,PSG,12,35,Loss of Possession,Dispossessed,FirstHalf,6.1,7.0,0.0,0.0,Successful
+Stanis Idumbo,Monaco,12,35,Successful Tackle,Tackle,FirstHalf,94.0,92.9,0.0,0.0,Successful
+Willian Pacho,PSG,12,56,Pass,Pass,FirstHalf,4.6,56.8,5.2,48.0,Successful
+Matvey Safonov,PSG,12,58,Chipped Pass,Pass,FirstHalf,5.2,48.0,33.7,31.6,Successful
+Désiré Doué,PSG,13,0,BallTouch,BallTouch,FirstHalf,35.4,31.6,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,13,1,Unsuccessful Dribble,TakeOn,FirstHalf,61.0,64.8,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,13,1,Was Dribbled,Tackle,FirstHalf,39.0,35.2,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,13,3,Ball Recovery,BallRecovery,FirstHalf,56.5,54.7,0.0,0.0,Successful
+Lamine Camara,Monaco,13,4,Pass,Pass,FirstHalf,56.4,55.0,48.8,76.8,Successful
+Denis Zakaria,Monaco,13,6,Pass,Pass,FirstHalf,48.0,77.9,39.2,61.5,Successful
+Eric Dier,Monaco,13,7,Pass,Pass,FirstHalf,35.7,60.5,54.9,52.3,Successful
+Mamadou Coulibaly,Monaco,13,11,Unsuccessful Dribble,TakeOn,FirstHalf,51.2,50.0,0.0,0.0,Unsuccessful
+Maghnes Akliouche,PSG,13,11,Was Dribbled,Tackle,FirstHalf,48.8,50.0,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,13,14,Foul,Foul,FirstHalf,64.6,50.3,0.0,0.0,Successful
+João Neves,PSG,13,14,Foul,Foul,FirstHalf,35.4,49.7,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,13,33,Pass,Pass,FirstHalf,60.3,47.7,60.1,61.1,Successful
+Denis Zakaria,Monaco,13,35,Pass,Pass,FirstHalf,60.1,60.8,45.4,44.1,Successful
+Eric Dier,Monaco,13,37,Pass,Pass,FirstHalf,46.3,44.1,66.6,50.5,Successful
+Paris Brunner,Monaco,13,42,Pass,Pass,FirstHalf,66.2,62.3,70.3,95.5,Successful
+Achraf Hakimi,PSG,13,46,Challenge,Challenge,FirstHalf,25.6,12.6,0.0,0.0,Unsuccessful
+Stanis Idumbo,Monaco,13,46,Successful Dribble,TakeOn,FirstHalf,74.4,87.4,0.0,0.0,Successful
+Stanis Idumbo,Monaco,13,49,Pass,Pass,FirstHalf,76.7,77.9,84.0,42.9,Unsuccessful
+Warren Zaïre-Emery,PSG,13,51,Ball Recovery,BallRecovery,FirstHalf,12.9,63.6,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,13,51,Pass,Pass,FirstHalf,14.4,62.4,23.1,51.2,Successful
+João Neves,PSG,13,54,Pass,Pass,FirstHalf,23.2,35.9,22.3,10.5,Successful
+Achraf Hakimi,PSG,13,56,Pass,Pass,FirstHalf,22.3,10.2,34.8,3.1,Successful
+Désiré Doué,PSG,13,58,Pass,Pass,FirstHalf,33.7,4.3,34.7,13.0,Successful
+Maghnes Akliouche,PSG,13,59,Pass,Pass,FirstHalf,34.8,13.0,29.6,12.9,Successful
+Désiré Doué,PSG,14,2,Foul,Foul,FirstHalf,31.0,16.0,0.0,0.0,Successful
+Denis Zakaria,Monaco,14,2,Foul,Foul,FirstHalf,68.9,84.1,0.0,0.0,Unsuccessful
+Marquinhos,PSG,14,22,Pass,Pass,FirstHalf,27.6,27.1,21.8,51.4,Successful
+Willian Pacho,PSG,14,25,Pass,Pass,FirstHalf,21.8,53.4,21.3,25.7,Successful
+Marquinhos,PSG,14,25,Pass,Pass,FirstHalf,21.3,25.7,29.9,16.9,Successful
+João Neves,PSG,14,28,Pass,Pass,FirstHalf,30.2,13.3,16.3,29.9,Successful
+Marquinhos,PSG,14,30,Long Pass,Pass,FirstHalf,15.5,29.6,12.8,85.3,Successful
+Warren Zaïre-Emery,PSG,14,37,Pass,Pass,FirstHalf,24.5,74.6,7.4,65.8,Successful
+Willian Pacho,PSG,14,42,Pass,Pass,FirstHalf,18.7,55.9,29.0,41.6,Successful
+Vitinha,PSG,14,44,Pass,Pass,FirstHalf,28.1,39.5,12.0,24.6,Successful
+Marquinhos,PSG,14,48,Chipped Pass,Pass,FirstHalf,12.0,24.6,41.4,21.1,Successful
+Achraf Hakimi,PSG,14,51,BallTouch,BallTouch,FirstHalf,41.4,21.1,0.0,0.0,Unsuccessful
+Stanis Idumbo,Monaco,14,51,Ball Recovery,BallRecovery,FirstHalf,60.3,89.0,0.0,0.0,Successful
+Stanis Idumbo,Monaco,14,53,Pass,Pass,FirstHalf,61.9,78.0,62.9,69.7,Successful
+Denis Zakaria,Monaco,14,55,Pass,Pass,FirstHalf,63.7,68.0,58.7,60.5,Successful
+Lamine Camara,Monaco,14,59,Pass,Pass,FirstHalf,59.4,57.9,60.2,55.9,Unsuccessful
+Désiré Doué,PSG,14,59,Interception,Interception,FirstHalf,39.8,44.1,0.0,0.0,Successful
+Désiré Doué,PSG,15,1,Challenge,Challenge,FirstHalf,42.0,50.0,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,15,1,Successful Dribble,TakeOn,FirstHalf,58.0,50.0,0.0,0.0,Successful
+Lamine Camara,Monaco,15,2,Long Pass,Pass,FirstHalf,55.7,48.2,63.9,2.4,Successful
+Vanderson,Monaco,15,6,BallTouch,BallTouch,FirstHalf,68.6,3.9,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,15,8,Ball Recovery,BallRecovery,FirstHalf,22.3,89.3,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,15,9,Pass,Pass,FirstHalf,22.3,89.2,21.3,78.3,Successful
+Fabián Ruiz,PSG,15,12,Pass,Pass,FirstHalf,18.1,71.2,27.7,74.8,Successful
+Warren Zaïre-Emery,PSG,15,14,Pass,Pass,FirstHalf,28.5,72.3,22.8,61.6,Successful
+João Neves,PSG,15,15,Pass,Pass,FirstHalf,23.5,63.3,45.2,70.7,Unsuccessful
+Sadibou Sané,Monaco,15,19,Pass,Pass,FirstHalf,57.5,31.4,42.6,41.4,Successful
+Eric Dier,Monaco,15,20,Ball Recovery,BallRecovery,FirstHalf,42.5,41.4,0.0,0.0,Successful
+Eric Dier,Monaco,15,21,Pass,Pass,FirstHalf,40.1,38.9,51.2,35.3,Successful
+Lamine Camara,Monaco,15,23,Pass,Pass,FirstHalf,47.5,34.2,59.7,4.8,Successful
+Mamadou Coulibaly,Monaco,15,26,Pass,Pass,FirstHalf,61.8,2.1,65.2,32.6,Successful
+Aleksandr Golovin,Monaco,15,30,Through Ball,Pass,FirstHalf,73.0,48.2,92.8,46.1,Unsuccessful
+Matvey Safonov,PSG,15,32,KeeperPickup,KeeperPickup,FirstHalf,4.7,54.3,0.0,0.0,Successful
+Matvey Safonov,PSG,15,40,Pass,Pass,FirstHalf,14.5,52.9,14.8,63.3,Successful
+Willian Pacho,PSG,15,43,Pass,Pass,FirstHalf,14.4,66.2,4.5,55.9,Successful
+Matvey Safonov,PSG,15,45,Pass,Pass,FirstHalf,4.5,56.0,12.4,89.5,Successful
+Warren Zaïre-Emery,PSG,15,48,Pass,Pass,FirstHalf,12.0,82.2,16.7,59.8,Successful
+João Neves,PSG,15,52,Pass,Pass,FirstHalf,20.7,68.0,15.1,35.1,Successful
+Marquinhos,PSG,15,54,Pass,Pass,FirstHalf,18.7,35.1,28.0,32.4,Successful
+Vitinha,PSG,16,4,Pass,Pass,FirstHalf,32.7,19.7,40.4,5.9,Successful
+Désiré Doué,PSG,16,7,Pass,Pass,FirstHalf,37.7,9.0,26.4,24.8,Successful
+Marquinhos,PSG,16,10,Pass,Pass,FirstHalf,27.6,27.9,26.7,51.2,Successful
+Willian Pacho,PSG,16,13,Pass,Pass,FirstHalf,28.7,59.0,43.4,95.0,Successful
+Khvicha Kvaratskhelia,PSG,16,17,Pass,Pass,FirstHalf,41.1,94.1,23.7,62.7,Successful
+Willian Pacho,PSG,16,21,Pass,Pass,FirstHalf,24.8,59.4,26.8,27.2,Successful
+Marquinhos,PSG,16,23,Pass,Pass,FirstHalf,26.5,27.9,40.1,4.3,Successful
+Désiré Doué,PSG,16,26,Pass,Pass,FirstHalf,39.7,4.5,39.1,18.7,Successful
+Achraf Hakimi,PSG,16,28,Pass,Pass,FirstHalf,38.1,16.4,31.7,4.3,Successful
+Désiré Doué,PSG,16,30,Pass,Pass,FirstHalf,31.9,4.3,17.0,16.1,Successful
+Marquinhos,PSG,16,33,Pass,Pass,FirstHalf,15.6,17.8,13.7,57.0,Successful
+Willian Pacho,PSG,16,39,Pass,Pass,FirstHalf,23.7,70.3,22.7,90.5,Successful
+Warren Zaïre-Emery,PSG,16,41,Pass,Pass,FirstHalf,22.4,90.7,29.3,94.4,Successful
+Fabián Ruiz,PSG,16,41,Pass,Pass,FirstHalf,28.2,96.3,32.0,87.9,Unsuccessful
+Khvicha Kvaratskhelia,PSG,16,45,Loss of Possession,Dispossessed,FirstHalf,38.6,77.6,0.0,0.0,Successful
+Lamine Camara,Monaco,16,45,Was Dribbled,Tackle,FirstHalf,61.4,22.4,0.0,0.0,Unsuccessful
+Maghnes Akliouche,PSG,16,51,Pass,Pass,FirstHalf,59.3,37.0,69.9,29.3,Unsuccessful
+Flávio Nazinho,Monaco,16,53,Interception,Interception,FirstHalf,30.1,70.7,0.0,0.0,Successful
+Denis Zakaria,Monaco,16,54,Ball Recovery,BallRecovery,FirstHalf,32.8,63.8,0.0,0.0,Successful
+Denis Zakaria,Monaco,16,55,Pass,Pass,FirstHalf,32.8,63.8,43.7,70.0,Successful
+Paris Brunner,Monaco,17,1,Long Pass,Pass,FirstHalf,62.2,96.7,85.2,56.5,Unsuccessful
+Matvey Safonov,PSG,17,4,KeeperPickup,KeeperPickup,FirstHalf,15.3,36.7,0.0,0.0,Successful
+Matvey Safonov,PSG,17,4,Pass,Pass,FirstHalf,15.3,36.7,27.5,69.7,Successful
+Warren Zaïre-Emery,PSG,17,11,Pass,Pass,FirstHalf,30.8,65.3,35.8,45.8,Successful
+João Neves,PSG,17,15,Pass,Pass,FirstHalf,37.9,43.7,42.3,26.8,Successful
+Maghnes Akliouche,PSG,17,17,Pass,Pass,FirstHalf,42.6,26.2,45.6,7.6,Successful
+Achraf Hakimi,PSG,17,20,Pass,Pass,FirstHalf,45.4,7.6,39.4,27.7,Successful
+Marquinhos,PSG,17,23,Pass,Pass,FirstHalf,39.4,29.4,37.0,66.1,Successful
+Vitinha,PSG,17,27,Pass,Pass,FirstHalf,43.3,63.2,42.8,49.1,Successful
+Fabián Ruiz,PSG,17,32,Pass,Pass,FirstHalf,41.7,48.8,38.6,22.9,Successful
+Marquinhos,PSG,17,34,Pass,Pass,FirstHalf,38.6,22.9,32.6,51.1,Successful
+Willian Pacho,PSG,17,36,Pass,Pass,FirstHalf,30.5,55.3,37.0,72.1,Successful
+Vitinha,PSG,17,38,Pass,Pass,FirstHalf,38.5,71.0,56.9,92.9,Successful
+Désiré Doué,PSG,17,40,Pass,Pass,FirstHalf,58.3,92.7,67.9,84.7,Successful
+Warren Zaïre-Emery,PSG,17,42,Pass,Pass,FirstHalf,68.0,84.5,62.1,79.1,Successful
+Désiré Doué,PSG,17,44,BallTouch,BallTouch,FirstHalf,62.0,78.8,0.0,0.0,Unsuccessful
+Sadibou Sané,Monaco,17,44,Pass,Pass,FirstHalf,27.9,18.9,8.9,44.5,Successful
+Lukás Hrádecky,Monaco,17,47,Ball Recovery,BallRecovery,FirstHalf,8.9,44.5,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,17,48,Long Pass,Pass,FirstHalf,8.9,44.5,47.3,48.5,Successful
+Paris Brunner,Monaco,17,50,BallTouch,BallTouch,FirstHalf,47.3,46.2,0.0,0.0,Unsuccessful
+João Neves,PSG,17,53,Ball Recovery,BallRecovery,FirstHalf,62.8,57.1,0.0,0.0,Successful
+João Neves,PSG,17,53,Pass,Pass,FirstHalf,62.9,54.5,62.3,37.8,Successful
+Achraf Hakimi,PSG,17,56,Pass,Pass,FirstHalf,64.5,29.4,68.7,13.0,Successful
+Maghnes Akliouche,PSG,17,57,Pass,Pass,FirstHalf,68.6,12.7,64.1,24.0,Successful
+Achraf Hakimi,PSG,17,59,Pass,Pass,FirstHalf,64.3,20.9,63.7,9.5,Successful
+Maghnes Akliouche,PSG,18,2,Long Pass,Pass,FirstHalf,61.7,27.7,72.4,74.6,Unsuccessful
+Vanderson,Monaco,18,5,Pass,Pass,FirstHalf,24.8,22.3,35.2,19.7,Successful
+Mamadou Coulibaly,Monaco,18,7,Ball Recovery,BallRecovery,FirstHalf,35.7,19.2,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,18,9,Foul,Foul,FirstHalf,43.0,22.4,0.0,0.0,Successful
+Vitinha,PSG,18,9,Foul,Foul,FirstHalf,57.0,77.6,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,18,37,Pass,Pass,FirstHalf,44.7,19.7,33.7,37.4,Successful
+Eric Dier,Monaco,18,39,Pass,Pass,FirstHalf,33.0,40.0,34.9,66.5,Successful
+Flávio Nazinho,Monaco,18,44,Pass,Pass,FirstHalf,40.5,46.4,18.2,51.2,Successful
+Lukás Hrádecky,Monaco,18,48,Pass,Pass,FirstHalf,18.2,49.7,29.0,48.2,Successful
+Lamine Camara,Monaco,18,52,Pass,Pass,FirstHalf,29.2,42.1,37.5,20.1,Unsuccessful
+Fabián Ruiz,PSG,18,53,Ball Recovery,BallRecovery,FirstHalf,55.7,79.4,0.0,0.0,Successful
+Fabián Ruiz,PSG,18,55,Pass,Pass,FirstHalf,63.9,77.7,78.7,84.2,Successful
+Khvicha Kvaratskhelia,PSG,18,57,Pass,Pass,FirstHalf,79.5,83.3,82.0,65.8,Unsuccessful
+Mamadou Coulibaly,Monaco,18,59,Clearance,Clearance,FirstHalf,16.4,32.9,22.2,0.0,Successful
+Warren Zaïre-Emery,PSG,19,11,Long Pass,Pass,FirstHalf,58.4,100.0,45.0,76.0,Successful
+Willian Pacho,PSG,19,13,Pass,Pass,FirstHalf,45.0,76.0,44.0,34.7,Successful
+Marquinhos,PSG,19,14,Pass,Pass,FirstHalf,44.1,34.4,61.4,7.0,Successful
+Désiré Doué,PSG,19,19,Pass,Pass,FirstHalf,68.1,17.3,73.6,5.0,Successful
+João Neves,PSG,19,25,Pass,Pass,FirstHalf,65.9,6.7,54.7,26.8,Successful
+Marquinhos,PSG,19,27,Pass,Pass,FirstHalf,54.8,26.6,60.3,8.1,Successful
+João Neves,PSG,19,29,Pass,Pass,FirstHalf,60.3,8.1,72.8,2.3,Successful
+Désiré Doué,PSG,19,32,Pass,Pass,FirstHalf,71.9,3.0,67.1,16.4,Unsuccessful
+Aleksandr Golovin,Monaco,19,34,Ball Recovery,BallRecovery,FirstHalf,32.3,79.1,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,19,37,Pass,Pass,FirstHalf,39.5,80.8,45.0,62.3,Successful
+Paris Brunner,Monaco,19,40,Pass,Pass,FirstHalf,45.0,65.5,51.3,69.0,Unsuccessful
+Désiré Doué,PSG,19,42,Pass,Pass,FirstHalf,40.3,28.3,49.0,36.2,Successful
+Vitinha,PSG,19,43,Ball Recovery,BallRecovery,FirstHalf,53.5,35.8,0.0,0.0,Successful
+Vitinha,PSG,19,44,Pass,Pass,FirstHalf,54.8,35.8,58.4,62.1,Successful
+Fabián Ruiz,PSG,19,46,Pass,Pass,FirstHalf,58.0,66.9,60.0,90.5,Successful
+Khvicha Kvaratskhelia,PSG,19,50,Pass,Pass,FirstHalf,62.4,93.0,55.1,79.4,Successful
+Warren Zaïre-Emery,PSG,19,51,Pass,Pass,FirstHalf,55.1,79.4,55.0,67.6,Successful
+Vitinha,PSG,19,54,Pass,Pass,FirstHalf,55.8,64.9,57.5,35.9,Successful
+João Neves,PSG,19,57,Pass,Pass,FirstHalf,61.1,27.6,74.4,4.7,Successful
+Achraf Hakimi,PSG,20,0,Pass,Pass,FirstHalf,74.6,4.8,73.7,13.0,Successful
+Désiré Doué,PSG,20,3,Pass,Pass,FirstHalf,73.7,17.7,76.3,25.1,Successful
+Maghnes Akliouche,PSG,20,5,Loss of Possession,Dispossessed,FirstHalf,74.8,25.8,0.0,0.0,Successful
+Lamine Camara,Monaco,20,5,Successful Tackle,Tackle,FirstHalf,25.2,74.2,0.0,0.0,Successful
+Lamine Camara,Monaco,20,8,Foul,Foul,FirstHalf,24.2,74.6,0.0,0.0,Successful
+Maghnes Akliouche,PSG,20,8,Foul,Foul,FirstHalf,75.8,25.4,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,20,20,Pass,Pass,FirstHalf,25.0,70.0,10.9,52.1,Successful
+Lukás Hrádecky,Monaco,20,23,Pass,Pass,FirstHalf,12.2,50.8,12.3,24.2,Successful
+Sadibou Sané,Monaco,20,26,Pass,Pass,FirstHalf,9.3,22.6,17.7,5.3,Successful
+Vanderson,Monaco,20,28,Pass,Pass,FirstHalf,17.8,5.0,22.9,19.2,Successful
+Lamine Camara,Monaco,20,30,Unsuccessful Dribble,TakeOn,FirstHalf,22.5,17.6,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,20,30,Successful Tackle,Tackle,FirstHalf,77.5,82.4,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,20,31,Ball Recovery,BallRecovery,FirstHalf,76.5,75.1,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,20,35,Pass,Pass,FirstHalf,72.0,61.6,68.3,54.3,Successful
+Vitinha,PSG,20,37,Pass,Pass,FirstHalf,68.4,50.9,69.5,37.2,Successful
+Khvicha Kvaratskhelia,PSG,20,41,Pass,Pass,FirstHalf,70.1,30.3,64.3,36.5,Successful
+Vitinha,PSG,20,45,Pass,Pass,FirstHalf,61.6,32.4,70.6,4.3,Successful
+Achraf Hakimi,PSG,20,49,Pass,Pass,FirstHalf,69.5,9.1,71.8,19.7,Successful
+Vitinha,PSG,20,53,Pass,Pass,FirstHalf,68.0,19.7,54.6,27.6,Successful
+Marquinhos,PSG,20,56,Pass,Pass,FirstHalf,56.4,30.2,53.9,73.7,Successful
+Désiré Doué,PSG,21,0,Offside,OffsideGiven,FirstHalf,77.8,89.3,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,21,1,Pass,Pass,FirstHalf,59.8,79.9,65.2,95.8,Successful
+Fabián Ruiz,PSG,21,2,Pass,Pass,FirstHalf,65.2,95.8,57.2,85.1,Successful
+Warren Zaïre-Emery,PSG,21,5,Offside,OffsidePass,FirstHalf,64.8,83.2,77.8,89.3,Successful
+Sadibou Sané,Monaco,21,5,OffsideProvoked,OffsideProvoked,FirstHalf,27.3,26.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,21,31,Pass,Pass,FirstHalf,23.8,14.7,11.1,40.0,Successful
+Lukás Hrádecky,Monaco,21,32,Long Pass,Pass,FirstHalf,10.8,40.6,42.2,73.2,Unsuccessful
+Marquinhos,PSG,21,34,Pass,Pass,FirstHalf,60.3,19.5,71.7,18.0,Successful
+Achraf Hakimi,PSG,21,36,Ball Recovery,BallRecovery,FirstHalf,71.5,18.1,0.0,0.0,Successful
+Achraf Hakimi,PSG,21,36,Pass,Pass,FirstHalf,71.7,17.5,67.3,30.2,Successful
+Vitinha,PSG,21,37,Through Ball,Pass,FirstHalf,66.9,31.3,79.0,39.8,Unsuccessful
+Eric Dier,Monaco,21,38,Interception,Interception,FirstHalf,21.0,60.2,0.0,0.0,Successful
+Lamine Camara,Monaco,21,39,BallTouch,BallTouch,FirstHalf,27.2,58.0,0.0,0.0,Successful
+Eric Dier,Monaco,21,41,BallTouch,BallTouch,FirstHalf,25.4,54.4,0.0,0.0,Successful
+Lamine Camara,Monaco,21,43,Ball Recovery,BallRecovery,FirstHalf,27.6,43.3,0.0,0.0,Successful
+Lamine Camara,Monaco,21,43,Long Pass,Pass,FirstHalf,27.6,43.3,56.8,17.7,Successful
+Paris Brunner,Monaco,21,47,Unsuccessful Dribble,TakeOn,FirstHalf,62.3,7.5,0.0,0.0,Unsuccessful
+Willian Pacho,PSG,21,47,Successful Tackle,Tackle,FirstHalf,37.8,92.4,0.0,0.0,Successful
+Fabián Ruiz,PSG,21,49,Long Pass,Pass,FirstHalf,33.0,94.9,11.3,58.8,Successful
+Matvey Safonov,PSG,21,53,Ball Recovery,BallRecovery,FirstHalf,12.9,58.5,0.0,0.0,Successful
+Matvey Safonov,PSG,21,54,Pass,Pass,FirstHalf,12.9,58.5,30.5,67.0,Successful
+Vitinha,PSG,21,55,Pass,Pass,FirstHalf,30.8,67.2,23.2,58.2,Successful
+João Neves,PSG,21,57,Pass,Pass,FirstHalf,25.1,57.7,34.1,59.1,Successful
+Warren Zaïre-Emery,PSG,22,0,Long Pass,Pass,FirstHalf,35.5,60.5,65.6,94.3,Successful
+Khvicha Kvaratskhelia,PSG,22,13,Key Pass,Pass,FirstHalf,88.8,77.2,70.8,70.7,Successful
+João Neves,PSG,22,16,Shot off Target,MissedShots,FirstHalf,70.4,65.8,0.0,0.0,Successful
+Eric Dier,Monaco,22,42,Long Pass,Pass,FirstHalf,2.9,53.6,55.8,50.2,Unsuccessful
+João Neves,PSG,22,43,Interception,Interception,FirstHalf,44.2,49.8,0.0,0.0,Successful
+Matvey Safonov,PSG,22,46,Ball Recovery,BallRecovery,FirstHalf,19.1,56.2,0.0,0.0,Successful
+Matvey Safonov,PSG,22,47,Pass,Pass,FirstHalf,19.3,57.1,34.2,75.2,Successful
+Warren Zaïre-Emery,PSG,22,51,Pass,Pass,FirstHalf,32.3,67.2,34.7,41.8,Successful
+Vitinha,PSG,22,55,Pass,Pass,FirstHalf,37.2,30.3,61.5,13.9,Successful
+Achraf Hakimi,PSG,22,59,Pass,Pass,FirstHalf,61.5,13.9,61.6,27.7,Successful
+Désiré Doué,PSG,23,0,Pass,Pass,FirstHalf,61.5,28.2,47.0,18.7,Successful
+Maghnes Akliouche,PSG,23,3,Pass,Pass,FirstHalf,45.4,26.6,35.2,50.9,Successful
+Willian Pacho,PSG,23,5,Pass,Pass,FirstHalf,35.2,50.9,39.3,69.8,Successful
+Warren Zaïre-Emery,PSG,23,9,Pass,Pass,FirstHalf,52.8,74.9,62.0,73.4,Successful
+Khvicha Kvaratskhelia,PSG,23,11,Pass,Pass,FirstHalf,61.5,72.6,55.3,65.3,Successful
+Vitinha,PSG,23,13,Pass,Pass,FirstHalf,56.3,68.6,57.2,89.3,Successful
+Warren Zaïre-Emery,PSG,23,16,Pass,Pass,FirstHalf,62.8,87.6,66.7,96.7,Successful
+Fabián Ruiz,PSG,23,18,Pass,Pass,FirstHalf,67.3,95.2,73.5,90.5,Successful
+Warren Zaïre-Emery,PSG,23,22,Loss of Possession,Dispossessed,FirstHalf,74.0,87.1,0.0,0.0,Successful
+Lamine Camara,Monaco,23,22,Was Dribbled,Tackle,FirstHalf,26.0,12.8,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,23,24,Pass,Pass,FirstHalf,68.5,84.2,64.7,69.7,Successful
+Achraf Hakimi,PSG,23,26,Pass,Pass,FirstHalf,68.3,57.3,59.1,36.4,Successful
+Marquinhos,PSG,23,31,Long Pass,Pass,FirstHalf,58.0,27.2,100.0,24.2,Unsuccessful
+Eric Dier,Monaco,23,53,Pass,Pass,FirstHalf,3.7,57.6,8.6,46.4,Successful
+Lukás Hrádecky,Monaco,23,56,Long Pass,Pass,FirstHalf,11.4,42.6,66.0,6.9,Successful
+Vanderson,Monaco,23,59,BallTouch,BallTouch,FirstHalf,70.0,9.8,0.0,0.0,Unsuccessful
+Willian Pacho,PSG,24,0,Foul,Foul,FirstHalf,33.5,91.4,0.0,0.0,Successful
+Paris Brunner,Monaco,24,0,Foul,Foul,FirstHalf,66.4,8.5,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,24,10,Pass,Pass,FirstHalf,33.3,90.4,27.6,72.8,Successful
+Warren Zaïre-Emery,PSG,24,11,Pass,Pass,FirstHalf,27.8,73.4,37.7,61.9,Successful
+Maghnes Akliouche,PSG,24,12,Pass,Pass,FirstHalf,38.3,61.1,34.9,70.3,Successful
+João Neves,PSG,24,13,Pass,Pass,FirstHalf,37.5,71.4,32.0,48.8,Successful
+Vitinha,PSG,24,14,Pass,Pass,FirstHalf,31.0,45.0,33.7,20.4,Successful
+Marquinhos,PSG,24,18,Pass,Pass,FirstHalf,32.9,12.2,45.8,3.0,Successful
+Achraf Hakimi,PSG,24,19,Pass,Pass,FirstHalf,45.8,3.0,33.0,13.6,Successful
+Marquinhos,PSG,24,21,Pass,Pass,FirstHalf,33.6,18.4,27.3,57.3,Successful
+Willian Pacho,PSG,24,28,Pass,Pass,FirstHalf,29.3,68.3,28.1,56.5,Successful
+Vitinha,PSG,24,34,Pass,Pass,FirstHalf,32.0,40.4,39.9,53.6,Successful
+Désiré Doué,PSG,24,36,Chipped Pass,Pass,FirstHalf,39.9,53.7,30.4,14.1,Successful
+Marquinhos,PSG,24,39,Pass,Pass,FirstHalf,32.5,11.9,46.5,3.4,Successful
+Maghnes Akliouche,PSG,24,42,Pass,Pass,FirstHalf,49.6,5.1,53.7,13.6,Successful
+Vitinha,PSG,24,42,Pass,Pass,FirstHalf,53.9,13.8,58.7,5.0,Successful
+Achraf Hakimi,PSG,24,45,Pass,Pass,FirstHalf,58.4,4.3,37.6,11.3,Successful
+Marquinhos,PSG,24,48,Pass,Pass,FirstHalf,39.8,20.4,29.6,48.5,Successful
+Willian Pacho,PSG,24,50,Pass,Pass,FirstHalf,31.6,53.9,33.1,72.3,Successful
+Warren Zaïre-Emery,PSG,24,52,Pass,Pass,FirstHalf,33.3,72.4,44.7,70.3,Successful
+Désiré Doué,PSG,24,53,Pass,Pass,FirstHalf,45.0,69.7,38.6,87.6,Successful
+Fabián Ruiz,PSG,24,59,Pass,Pass,FirstHalf,39.6,75.8,29.0,80.2,Successful
+Warren Zaïre-Emery,PSG,25,2,Pass,Pass,FirstHalf,29.2,79.9,51.5,91.0,Successful
+Désiré Doué,PSG,25,9,Long Pass,Pass,FirstHalf,41.6,62.5,61.2,4.5,Successful
+Achraf Hakimi,PSG,25,14,BallTouch,BallTouch,FirstHalf,61.4,8.5,0.0,0.0,Successful
+Maghnes Akliouche,PSG,25,18,Pass,Pass,FirstHalf,62.6,7.1,53.4,11.6,Successful
+Vitinha,PSG,25,21,Pass,Pass,FirstHalf,55.6,32.8,63.6,61.0,Successful
+Fabián Ruiz,PSG,25,23,Long Pass,Pass,FirstHalf,62.7,61.3,91.7,89.9,Successful
+Khvicha Kvaratskhelia,PSG,25,33,Cross,Pass,FirstHalf,86.2,74.6,89.9,50.2,Unsuccessful
+Denis Zakaria,Monaco,25,33,Clearance,Clearance,FirstHalf,7.1,41.7,15.9,19.4,Successful
+Vitinha,PSG,25,42,Pass,Pass,FirstHalf,69.3,95.7,58.4,89.8,Successful
+Warren Zaïre-Emery,PSG,25,44,Pass,Pass,FirstHalf,58.7,89.6,62.1,84.5,Successful
+Khvicha Kvaratskhelia,PSG,25,45,Pass,Pass,FirstHalf,62.6,83.4,60.1,88.2,Successful
+Warren Zaïre-Emery,PSG,25,47,Pass,Pass,FirstHalf,60.5,88.5,55.5,73.8,Successful
+Fabián Ruiz,PSG,25,49,Pass,Pass,FirstHalf,56.0,70.0,55.0,33.6,Successful
+Marquinhos,PSG,25,56,Pass,Pass,FirstHalf,55.0,29.6,56.3,20.0,Successful
+Maghnes Akliouche,PSG,25,57,Pass,Pass,FirstHalf,56.1,19.2,39.1,57.1,Successful
+Willian Pacho,PSG,25,58,Pass,Pass,FirstHalf,38.3,59.3,43.9,73.1,Successful
+Vitinha,PSG,26,2,Pass,Pass,FirstHalf,46.7,67.5,52.2,57.1,Successful
+Fabián Ruiz,PSG,26,4,Pass,Pass,FirstHalf,53.1,63.3,56.9,70.9,Successful
+Khvicha Kvaratskhelia,PSG,26,5,Pass,Pass,FirstHalf,57.0,69.0,63.2,57.6,Successful
+Warren Zaïre-Emery,PSG,26,7,Loss of Possession,Dispossessed,FirstHalf,62.3,62.0,0.0,0.0,Successful
+Eric Dier,Monaco,26,7,Successful Tackle,Tackle,FirstHalf,37.7,38.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,26,8,BallTouch,BallTouch,FirstHalf,35.7,29.5,0.0,0.0,Successful
+Eric Dier,Monaco,26,9,Ball Recovery,BallRecovery,FirstHalf,38.8,34.5,0.0,0.0,Successful
+Eric Dier,Monaco,26,10,Pass,Pass,FirstHalf,38.8,34.5,44.7,9.5,Successful
+Mamadou Coulibaly,Monaco,26,13,Long Pass,Pass,FirstHalf,48.3,6.9,80.9,31.7,Unsuccessful
+Willian Pacho,PSG,26,15,Ball Recovery,BallRecovery,FirstHalf,21.2,68.4,0.0,0.0,Successful
+Willian Pacho,PSG,26,15,Pass,Pass,FirstHalf,19.4,67.5,4.9,54.6,Successful
+Matvey Safonov,PSG,26,18,Pass,Pass,FirstHalf,4.5,48.9,15.2,6.4,Successful
+Marquinhos,PSG,26,21,Pass,Pass,FirstHalf,14.8,6.5,22.3,3.6,Successful
+Achraf Hakimi,PSG,26,24,Pass,Pass,FirstHalf,22.1,4.0,20.4,18.9,Successful
+João Neves,PSG,26,26,Foul,Foul,FirstHalf,22.6,15.8,0.0,0.0,Successful
+Lamine Camara,Monaco,26,26,Foul,Foul,FirstHalf,77.4,84.2,0.0,0.0,Unsuccessful
+Marquinhos,PSG,26,53,Pass,Pass,FirstHalf,22.1,21.8,18.8,55.6,Successful
+Willian Pacho,PSG,26,54,Pass,Pass,FirstHalf,18.8,55.6,22.1,74.1,Successful
+Warren Zaïre-Emery,PSG,26,57,Pass,Pass,FirstHalf,21.8,73.2,35.5,68.9,Successful
+Désiré Doué,PSG,26,58,Pass,Pass,FirstHalf,36.7,68.9,27.8,75.5,Successful
+Warren Zaïre-Emery,PSG,27,0,Pass,Pass,FirstHalf,22.2,70.0,41.2,74.1,Successful
+Khvicha Kvaratskhelia,PSG,27,2,Pass,Pass,FirstHalf,41.2,74.6,40.8,87.5,Successful
+Fabián Ruiz,PSG,27,2,Pass,Pass,FirstHalf,41.0,88.7,41.4,73.1,Successful
+Désiré Doué,PSG,27,3,Long Pass,Pass,FirstHalf,41.6,72.3,80.0,83.9,Unsuccessful
+Sadibou Sané,Monaco,27,7,Ball Recovery,BallRecovery,FirstHalf,17.4,12.1,0.0,0.0,Successful
+Sadibou Sané,Monaco,27,8,Pass,Pass,FirstHalf,17.5,11.5,6.7,32.0,Successful
+Lukás Hrádecky,Monaco,27,9,Pass,Pass,FirstHalf,6.7,32.0,15.1,26.2,Successful
+Eric Dier,Monaco,27,10,Pass,Pass,FirstHalf,15.7,25.9,9.5,11.8,Successful
+Sadibou Sané,Monaco,27,16,Long Pass,Pass,FirstHalf,21.7,7.6,45.9,53.0,Successful
+Paris Brunner,Monaco,27,18,Chipped Pass,Pass,FirstHalf,45.9,52.9,63.9,23.2,Successful
+Aleksandr Golovin,Monaco,27,23,Pass,Pass,FirstHalf,66.2,26.7,84.3,24.7,Successful
+Mamadou Coulibaly,Monaco,27,28,Pass,Pass,FirstHalf,79.9,23.8,69.7,65.2,Successful
+Denis Zakaria,Monaco,27,30,Pass,Pass,FirstHalf,69.7,65.2,72.1,75.5,Successful
+Flávio Nazinho,Monaco,27,34,Pass,Pass,FirstHalf,80.6,77.3,90.9,88.2,Successful
+Stanis Idumbo,Monaco,27,40,Cross,Pass,FirstHalf,87.5,85.5,83.9,31.4,Unsuccessful
+Fabián Ruiz,PSG,27,43,Ball Recovery,BallRecovery,FirstHalf,18.2,72.8,0.0,0.0,Successful
+Fabián Ruiz,PSG,27,44,Pass,Pass,FirstHalf,16.7,70.9,10.0,78.0,Successful
+Warren Zaïre-Emery,PSG,27,46,Pass,Pass,FirstHalf,9.4,83.3,22.2,91.8,Successful
+Fabián Ruiz,PSG,27,48,Pass,Pass,FirstHalf,19.8,89.6,20.4,77.9,Unsuccessful
+Lamine Camara,Monaco,27,50,Ball Recovery,BallRecovery,FirstHalf,77.5,25.0,0.0,0.0,Successful
+Lamine Camara,Monaco,27,52,Pass,Pass,FirstHalf,74.6,30.1,67.1,51.5,Successful
+Denis Zakaria,Monaco,27,53,Pass,Pass,FirstHalf,66.9,52.7,65.6,74.0,Successful
+Flávio Nazinho,Monaco,27,57,Pass,Pass,FirstHalf,66.1,71.5,51.4,53.6,Successful
+Eric Dier,Monaco,28,0,Pass,Pass,FirstHalf,52.0,52.7,65.0,38.0,Successful
+Lamine Camara,Monaco,28,3,Pass,Pass,FirstHalf,65.7,33.9,73.6,19.2,Successful
+Mamadou Coulibaly,Monaco,28,5,Pass,Pass,FirstHalf,74.3,17.9,66.6,25.1,Successful
+Lamine Camara,Monaco,28,6,Pass,Pass,FirstHalf,66.8,24.7,66.5,5.0,Successful
+Vanderson,Monaco,28,7,Pass,Pass,FirstHalf,66.5,5.0,67.4,15.1,Successful
+Lamine Camara,Monaco,28,9,Pass,Pass,FirstHalf,66.7,15.6,52.3,27.6,Successful
+Sadibou Sané,Monaco,28,11,Pass,Pass,FirstHalf,52.3,27.6,35.9,52.3,Successful
+Eric Dier,Monaco,28,14,Pass,Pass,FirstHalf,34.7,52.3,40.6,69.4,Successful
+Denis Zakaria,Monaco,28,21,Pass,Pass,FirstHalf,65.4,33.2,94.9,24.4,Successful
+Vanderson,Monaco,28,25,Pass,Pass,FirstHalf,96.2,27.6,96.9,47.0,Unsuccessful
+Matvey Safonov,PSG,28,26,Clearance,Clearance,FirstHalf,3.2,53.4,8.9,65.0,Successful
+Fabián Ruiz,PSG,28,28,Ball Recovery,BallRecovery,FirstHalf,7.8,63.2,0.0,0.0,Successful
+Fabián Ruiz,PSG,28,29,Pass,Pass,FirstHalf,7.9,62.8,18.6,83.0,Successful
+Achraf Hakimi,PSG,28,31,Pass,Pass,FirstHalf,20.0,83.4,40.0,92.7,Successful
+Khvicha Kvaratskhelia,PSG,28,33,Pass,Pass,FirstHalf,40.0,92.7,29.3,89.3,Successful
+Vitinha,PSG,28,34,Long Pass,Pass,FirstHalf,28.1,84.7,5.1,46.4,Successful
+Matvey Safonov,PSG,28,43,Pass,Pass,FirstHalf,9.1,44.1,10.4,61.6,Successful
+Willian Pacho,PSG,28,45,Pass,Pass,FirstHalf,12.4,62.8,21.2,66.7,Successful
+Fabián Ruiz,PSG,28,52,Pass,Pass,FirstHalf,31.5,67.2,35.0,94.4,Successful
+Warren Zaïre-Emery,PSG,28,58,Pass,Pass,FirstHalf,35.7,75.2,28.2,74.9,Successful
+Fabián Ruiz,PSG,29,2,Pass,Pass,FirstHalf,29.0,75.1,42.6,89.3,Successful
+Désiré Doué,PSG,29,2,Pass,Pass,FirstHalf,43.4,88.5,34.6,84.7,Successful
+Vitinha,PSG,29,4,Pass,Pass,FirstHalf,33.7,80.6,31.5,73.1,Successful
+Fabián Ruiz,PSG,29,7,Pass,Pass,FirstHalf,31.3,69.8,26.0,48.6,Successful
+Willian Pacho,PSG,29,9,Pass,Pass,FirstHalf,25.4,47.1,28.3,29.9,Successful
+Marquinhos,PSG,29,12,Pass,Pass,FirstHalf,29.0,30.0,26.2,50.9,Successful
+Willian Pacho,PSG,29,13,Pass,Pass,FirstHalf,25.8,54.0,30.2,72.8,Successful
+Fabián Ruiz,PSG,29,17,Pass,Pass,FirstHalf,31.7,75.1,36.9,93.5,Successful
+Khvicha Kvaratskhelia,PSG,29,23,Chipped Pass,Pass,FirstHalf,29.6,82.5,23.6,50.0,Successful
+Willian Pacho,PSG,29,26,Pass,Pass,FirstHalf,23.6,49.2,29.2,29.6,Successful
+Marquinhos,PSG,29,28,Long Pass,Pass,FirstHalf,30.1,24.3,58.8,5.0,Successful
+Maghnes Akliouche,PSG,29,34,Pass,Pass,FirstHalf,65.4,13.8,57.8,23.5,Successful
+Achraf Hakimi,PSG,29,37,Pass,Pass,FirstHalf,57.7,26.0,60.7,46.8,Successful
+Vitinha,PSG,29,41,Pass,Pass,FirstHalf,68.2,46.0,63.2,49.1,Unsuccessful
+Aleksandr Golovin,Monaco,29,44,Ball Recovery,BallRecovery,FirstHalf,29.1,52.4,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,29,44,Pass,Pass,FirstHalf,29.1,52.3,43.6,53.2,Unsuccessful
+Willian Pacho,PSG,29,45,Pass,Pass,FirstHalf,52.0,49.7,58.3,44.0,Successful
+Vitinha,PSG,29,47,Ball Recovery,BallRecovery,FirstHalf,58.5,41.0,0.0,0.0,Successful
+Vitinha,PSG,29,47,Pass,Pass,FirstHalf,58.7,39.6,65.7,16.7,Successful
+João Neves,PSG,29,49,Long Pass,Pass,FirstHalf,67.2,17.8,83.0,90.5,Successful
+Khvicha Kvaratskhelia,PSG,29,57,Key Pass,Pass,FirstHalf,96.6,80.5,92.9,61.3,Successful
+Désiré Doué,PSG,30,0,Shot on Target,SavedShot,FirstHalf,92.9,61.3,0.0,0.0,Successful
+Sadibou Sané,Monaco,30,0,Save,Save,FirstHalf,7.0,40.8,0.0,0.0,Successful
+Désiré Doué,PSG,30,1,CornerAwarded,CornerAwarded,FirstHalf,91.0,60.7,0.0,0.0,Successful
+Sadibou Sané,Monaco,30,1,CornerAwarded,CornerAwarded,FirstHalf,8.9,39.2,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,30,27,Cross,Pass,FirstHalf,99.5,99.5,94.3,64.1,Unsuccessful
+Stanis Idumbo,Monaco,30,31,Clearance,Clearance,FirstHalf,9.7,28.3,24.8,2.7,Successful
+Warren Zaïre-Emery,PSG,30,34,Pass,Pass,FirstHalf,66.7,93.5,80.4,81.6,Successful
+Fabián Ruiz,PSG,30,36,Pass,Pass,FirstHalf,84.4,77.4,94.7,65.8,Successful
+Khvicha Kvaratskhelia,PSG,30,37,Assist,Pass,FirstHalf,95.3,64.7,96.4,48.1,Successful
+Marquinhos,PSG,30,38,Goal,Goal,FirstHalf,96.4,48.1,0.0,0.0,Successful
+Paris Brunner,Monaco,32,44,Pass,Pass,FirstHalf,49.9,49.8,43.2,46.1,Successful
+Lamine Camara,Monaco,32,45,Pass,Pass,FirstHalf,43.3,46.1,43.9,57.4,Successful
+Denis Zakaria,Monaco,32,47,Pass,Pass,FirstHalf,43.9,57.4,31.3,55.6,Successful
+Eric Dier,Monaco,32,49,Pass,Pass,FirstHalf,29.7,55.5,33.9,84.3,Successful
+Flávio Nazinho,Monaco,32,54,Pass,Pass,FirstHalf,40.1,91.4,30.3,70.2,Successful
+Eric Dier,Monaco,32,58,Long Pass,Pass,FirstHalf,29.4,67.7,92.7,9.8,Successful
+Vanderson,Monaco,33,6,Pass,Pass,FirstHalf,89.2,16.3,85.4,43.6,Unsuccessful
+Marquinhos,PSG,33,8,Clearance,Clearance,FirstHalf,14.2,60.1,34.0,93.3,Successful
+Khvicha Kvaratskhelia,PSG,33,11,Ball Recovery,BallRecovery,FirstHalf,28.3,91.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,33,15,Foul,Foul,FirstHalf,31.5,83.8,0.0,0.0,Successful
+Sadibou Sané,Monaco,33,15,Foul,Foul,FirstHalf,68.5,16.2,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,34,7,Pass,Pass,FirstHalf,33.0,78.0,27.2,75.5,Successful
+Warren Zaïre-Emery,PSG,34,9,Pass,Pass,FirstHalf,24.1,74.5,12.9,51.5,Successful
+Matvey Safonov,PSG,34,11,Pass,Pass,FirstHalf,12.8,49.2,23.8,24.3,Successful
+Marquinhos,PSG,34,15,Chipped Pass,Pass,FirstHalf,25.0,23.2,11.6,42.1,Successful
+Matvey Safonov,PSG,34,18,Pass,Pass,FirstHalf,11.9,45.7,22.8,59.4,Successful
+Willian Pacho,PSG,34,22,Pass,Pass,FirstHalf,22.0,61.5,24.7,84.0,Successful
+Warren Zaïre-Emery,PSG,34,26,Long Pass,Pass,FirstHalf,21.4,75.2,22.5,20.1,Successful
+Marquinhos,PSG,34,35,Pass,Pass,FirstHalf,33.2,19.9,38.2,3.3,Successful
+Désiré Doué,PSG,34,36,Long Pass,Pass,FirstHalf,53.4,7.1,91.4,25.5,Unsuccessful
+Lukás Hrádecky,Monaco,34,40,KeeperPickup,KeeperPickup,FirstHalf,5.9,73.2,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,34,50,Pass,Pass,FirstHalf,14.2,47.7,25.9,32.0,Successful
+Lamine Camara,Monaco,34,51,Pass,Pass,FirstHalf,26.4,30.9,21.9,14.1,Successful
+Sadibou Sané,Monaco,34,54,Pass,Pass,FirstHalf,21.3,12.6,28.2,15.4,Unsuccessful
+Sadibou Sané,Monaco,34,55,Error,Error,FirstHalf,26.9,23.8,0.0,0.0,Successful
+Maghnes Akliouche,PSG,34,56,Interception,Interception,FirstHalf,71.8,84.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,34,57,Ball Recovery,BallRecovery,FirstHalf,64.7,78.2,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,34,57,Pass,Pass,FirstHalf,60.7,78.2,75.5,82.2,Successful
+Maghnes Akliouche,PSG,34,58,Pass,Pass,FirstHalf,71.4,79.7,74.2,65.8,Successful
+Désiré Doué,PSG,34,59,Key Pass,Pass,FirstHalf,73.7,66.2,75.2,63.2,Successful
+Khvicha Kvaratskhelia,PSG,35,0,Shot on Target,SavedShot,FirstHalf,75.2,63.2,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,35,0,Save,Save,FirstHalf,3.1,49.5,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,35,4,KeeperPickup,KeeperPickup,FirstHalf,8.4,52.9,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,35,7,Long Pass,Pass,FirstHalf,10.1,57.6,38.4,81.4,Successful
+Marquinhos,PSG,35,10,Challenge,Challenge,FirstHalf,47.8,21.6,0.0,0.0,Unsuccessful
+Mamadou Coulibaly,Monaco,35,10,Successful Dribble,TakeOn,FirstHalf,52.2,78.4,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,35,12,Pass,Pass,FirstHalf,58.5,81.7,71.6,74.1,Successful
+Stanis Idumbo,Monaco,35,14,Pass,Pass,FirstHalf,82.7,67.1,88.4,33.5,Unsuccessful
+Fabián Ruiz,PSG,35,17,Ball Recovery,BallRecovery,FirstHalf,11.4,75.4,0.0,0.0,Successful
+Fabián Ruiz,PSG,35,23,Pass,Pass,FirstHalf,21.2,58.8,32.6,16.6,Successful
+Achraf Hakimi,PSG,35,30,Pass,Pass,FirstHalf,62.4,9.0,69.8,3.4,Successful
+Maghnes Akliouche,PSG,35,31,Pass,Pass,FirstHalf,69.8,3.4,89.3,6.8,Successful
+Stanis Idumbo,Monaco,35,35,Challenge,Challenge,FirstHalf,5.4,82.8,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,35,35,Successful Dribble,TakeOn,FirstHalf,94.6,17.2,0.0,0.0,Successful
+Achraf Hakimi,PSG,35,37,Pass,Pass,FirstHalf,93.0,27.9,91.4,31.7,Unsuccessful
+Denis Zakaria,Monaco,35,38,Interception,Interception,FirstHalf,8.6,68.3,0.0,0.0,Successful
+Denis Zakaria,Monaco,35,39,Ball Recovery,BallRecovery,FirstHalf,7.6,69.6,0.0,0.0,Successful
+Denis Zakaria,Monaco,35,39,Unsuccessful Dribble,TakeOn,FirstHalf,8.0,71.5,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,35,39,Successful Tackle,Tackle,FirstHalf,92.0,28.5,0.0,0.0,Successful
+Désiré Doué,PSG,35,41,Ball Recovery,BallRecovery,FirstHalf,91.4,10.7,0.0,0.0,Successful
+Désiré Doué,PSG,35,42,Pass,Pass,FirstHalf,91.7,10.1,82.6,6.5,Successful
+Maghnes Akliouche,PSG,35,44,Key Pass,Pass,FirstHalf,82.2,7.0,77.6,24.6,Successful
+Fabián Ruiz,PSG,35,46,Shot on Target,SavedShot,FirstHalf,78.0,28.2,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,35,46,Save,Save,FirstHalf,1.1,50.0,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,35,49,KeeperPickup,KeeperPickup,FirstHalf,3.8,48.5,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,36,5,Long Pass,Pass,FirstHalf,3.8,48.5,56.0,15.3,Unsuccessful
+Warren Zaïre-Emery,PSG,36,10,Ball Recovery,BallRecovery,FirstHalf,35.8,85.8,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,36,14,Foul,Foul,FirstHalf,41.2,88.2,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,36,14,Foul,Foul,FirstHalf,58.8,11.8,0.0,0.0,Unsuccessful
+João Neves,PSG,36,26,Pass,Pass,FirstHalf,36.1,94.9,27.4,86.4,Successful
+Warren Zaïre-Emery,PSG,36,29,Pass,Pass,FirstHalf,25.2,81.0,21.5,60.8,Successful
+Willian Pacho,PSG,36,31,Pass,Pass,FirstHalf,20.9,56.5,23.1,26.2,Successful
+Marquinhos,PSG,36,34,Pass,Pass,FirstHalf,25.5,23.7,39.3,28.8,Successful
+Maghnes Akliouche,PSG,36,38,Pass,Pass,FirstHalf,43.8,44.7,38.9,74.6,Successful
+Warren Zaïre-Emery,PSG,36,46,Pass,Pass,FirstHalf,42.5,61.6,39.6,32.5,Successful
+Marquinhos,PSG,36,47,Pass,Pass,FirstHalf,39.6,32.5,45.1,19.2,Successful
+Fabián Ruiz,PSG,36,49,Pass,Pass,FirstHalf,45.1,19.2,62.5,17.2,Successful
+Achraf Hakimi,PSG,36,52,Pass,Pass,FirstHalf,62.1,17.3,48.3,12.5,Successful
+Fabián Ruiz,PSG,36,53,Pass,Pass,FirstHalf,48.3,12.5,57.0,21.7,Successful
+Achraf Hakimi,PSG,36,54,Pass,Pass,FirstHalf,57.0,21.8,51.7,13.2,Successful
+Fabián Ruiz,PSG,36,57,Pass,Pass,FirstHalf,47.2,15.6,46.9,28.2,Successful
+Vitinha,PSG,36,58,Pass,Pass,FirstHalf,46.1,27.1,40.9,15.2,Successful
+Fabián Ruiz,PSG,36,59,Pass,Pass,FirstHalf,41.3,16.4,33.2,56.5,Successful
+Willian Pacho,PSG,37,4,Pass,Pass,FirstHalf,37.7,58.7,51.1,94.9,Successful
+Khvicha Kvaratskhelia,PSG,37,9,Pass,Pass,FirstHalf,51.3,94.1,59.6,93.6,Successful
+Maghnes Akliouche,PSG,37,12,Pass,Pass,FirstHalf,54.5,92.7,38.7,85.6,Successful
+Warren Zaïre-Emery,PSG,37,15,Pass,Pass,FirstHalf,34.6,73.7,27.3,41.5,Successful
+Willian Pacho,PSG,37,17,Pass,Pass,FirstHalf,27.9,39.0,31.4,24.6,Successful
+Marquinhos,PSG,37,22,Long Pass,Pass,FirstHalf,41.8,24.0,75.5,34.4,Successful
+Achraf Hakimi,PSG,37,25,Pass,Pass,FirstHalf,76.2,31.9,70.7,35.8,Successful
+Désiré Doué,PSG,37,28,Foul,Foul,FirstHalf,74.2,40.4,0.0,0.0,Successful
+Flávio Nazinho,Monaco,37,28,Foul,Foul,FirstHalf,25.9,59.6,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,38,28,Shot on Target,SavedShot,FirstHalf,74.8,37.2,0.0,0.0,Successful
+Denis Zakaria,Monaco,38,28,Save,Save,FirstHalf,13.7,58.7,0.0,0.0,Successful
+Désiré Doué,PSG,38,35,Cross,Pass,FirstHalf,74.6,3.7,87.5,45.5,Unsuccessful
+Eric Dier,Monaco,38,37,Clearance,Clearance,FirstHalf,11.1,53.6,26.9,6.8,Successful
+Khvicha Kvaratskhelia,PSG,38,45,Pass,Pass,FirstHalf,65.7,96.0,46.1,84.7,Successful
+Warren Zaïre-Emery,PSG,38,48,Pass,Pass,FirstHalf,42.2,74.1,40.9,47.2,Successful
+Willian Pacho,PSG,38,50,Pass,Pass,FirstHalf,38.9,46.6,47.8,28.0,Successful
+Marquinhos,PSG,38,52,Pass,Pass,FirstHalf,51.9,24.8,64.2,3.0,Successful
+Désiré Doué,PSG,38,57,Pass,Pass,FirstHalf,62.8,10.2,56.9,16.4,Successful
+Achraf Hakimi,PSG,38,58,Pass,Pass,FirstHalf,54.8,17.0,57.2,25.7,Successful
+Vitinha,PSG,39,0,Pass,Pass,FirstHalf,58.3,22.3,62.3,5.6,Successful
+Maghnes Akliouche,PSG,39,4,Pass,Pass,FirstHalf,58.8,6.7,34.5,26.5,Successful
+Marquinhos,PSG,39,6,Pass,Pass,FirstHalf,34.5,26.5,32.2,54.8,Successful
+Willian Pacho,PSG,39,9,Pass,Pass,FirstHalf,31.9,56.5,39.6,56.5,Successful
+Fabián Ruiz,PSG,39,11,Pass,Pass,FirstHalf,39.3,58.4,36.4,30.3,Successful
+Marquinhos,PSG,39,15,Pass,Pass,FirstHalf,42.1,29.6,37.2,54.5,Successful
+Willian Pacho,PSG,39,21,Pass,Pass,FirstHalf,40.3,56.3,36.8,12.2,Successful
+Marquinhos,PSG,39,25,Long Pass,Pass,FirstHalf,36.8,12.1,71.8,24.5,Successful
+João Neves,PSG,39,29,Pass,Pass,FirstHalf,71.7,39.2,66.5,53.4,Successful
+Vitinha,PSG,39,30,Pass,Pass,FirstHalf,66.5,53.4,76.5,81.3,Successful
+Khvicha Kvaratskhelia,PSG,39,35,Unsuccessful Dribble,TakeOn,FirstHalf,77.8,64.2,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,39,35,Successful Tackle,Tackle,FirstHalf,22.2,35.8,0.0,0.0,Successful
+Lamine Camara,Monaco,39,36,BallTouch,BallTouch,FirstHalf,20.0,35.7,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,39,36,BallTouch,BallTouch,FirstHalf,82.5,62.2,0.0,0.0,Successful
+Vitinha,PSG,39,36,Successful Dribble,TakeOn,FirstHalf,81.0,65.6,0.0,0.0,Successful
+Lamine Camara,Monaco,39,36,Challenge,Challenge,FirstHalf,19.0,34.4,0.0,0.0,Unsuccessful
+Vitinha,PSG,39,38,BallTouch,BallTouch,FirstHalf,79.6,66.1,0.0,0.0,Unsuccessful
+Vanderson,Monaco,39,41,Foul,Foul,FirstHalf,15.6,35.0,0.0,0.0,Successful
+João Neves,PSG,39,41,Foul,Foul,FirstHalf,84.4,65.0,0.0,0.0,Unsuccessful
+Lukás Hrádecky,Monaco,40,28,Long Pass,Pass,FirstHalf,15.4,41.1,56.9,40.8,Successful
+Paris Brunner,Monaco,40,29,Aerial Won,Aerial,FirstHalf,56.9,40.8,0.0,0.0,Successful
+Willian Pacho,PSG,40,29,Aerial Lost,Aerial,FirstHalf,43.1,59.2,0.0,0.0,Unsuccessful
+Paris Brunner,Monaco,40,30,Pass,Pass,FirstHalf,56.9,40.8,49.2,39.4,Successful
+Fabián Ruiz,PSG,40,32,Challenge,Challenge,FirstHalf,60.8,67.8,0.0,0.0,Unsuccessful
+Aleksandr Golovin,Monaco,40,32,Successful Dribble,TakeOn,FirstHalf,39.2,32.2,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,40,33,Loss of Possession,Dispossessed,FirstHalf,40.6,35.3,0.0,0.0,Successful
+Maghnes Akliouche,PSG,40,33,Successful Tackle,Tackle,FirstHalf,59.4,64.7,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,40,34,GoodSkill,GoodSkill,FirstHalf,43.1,40.1,0.0,0.0,Successful
+Maghnes Akliouche,PSG,40,34,Pass,Pass,FirstHalf,57.4,73.5,62.9,74.5,Successful
+Khvicha Kvaratskhelia,PSG,40,35,Ball Recovery,BallRecovery,FirstHalf,63.1,73.4,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,40,37,Loss of Possession,Dispossessed,FirstHalf,70.1,57.2,0.0,0.0,Successful
+Lamine Camara,Monaco,40,37,Successful Tackle,Tackle,FirstHalf,29.8,42.7,0.0,0.0,Successful
+Eric Dier,Monaco,40,38,Pass,Pass,FirstHalf,23.3,43.0,29.3,52.7,Successful
+Denis Zakaria,Monaco,40,41,Ball Recovery,BallRecovery,FirstHalf,29.3,55.8,0.0,0.0,Successful
+Denis Zakaria,Monaco,40,43,Pass,Pass,FirstHalf,30.7,55.8,46.2,55.2,Successful
+Paris Brunner,Monaco,40,44,Pass,Pass,FirstHalf,46.5,55.2,45.2,51.4,Successful
+Denis Zakaria,Monaco,40,46,Pass,Pass,FirstHalf,45.2,51.2,61.6,66.4,Unsuccessful
+Marquinhos,PSG,40,46,Ball Recovery,BallRecovery,FirstHalf,35.5,27.2,0.0,0.0,Successful
+Marquinhos,PSG,40,47,Pass,Pass,FirstHalf,31.7,35.5,13.8,53.7,Successful
+Matvey Safonov,PSG,40,50,Pass,Pass,FirstHalf,17.0,58.7,21.5,71.2,Successful
+Warren Zaïre-Emery,PSG,40,52,Pass,Pass,FirstHalf,21.5,71.2,24.1,60.5,Successful
+Vitinha,PSG,40,55,Pass,Pass,FirstHalf,24.0,57.0,24.6,24.3,Successful
+Marquinhos,PSG,40,59,Pass,Pass,FirstHalf,24.6,24.3,33.5,31.1,Successful
+Achraf Hakimi,PSG,41,1,Pass,Pass,FirstHalf,33.5,31.1,13.7,41.3,Successful
+Matvey Safonov,PSG,41,5,Pass,Pass,FirstHalf,11.7,46.1,24.7,62.4,Successful
+Willian Pacho,PSG,41,8,Pass,Pass,FirstHalf,23.5,65.8,16.3,22.6,Successful
+Marquinhos,PSG,41,11,Pass,Pass,FirstHalf,15.2,22.1,29.1,4.8,Successful
+João Neves,PSG,41,15,Pass,Pass,FirstHalf,25.3,13.9,15.3,7.9,Successful
+Marquinhos,PSG,41,17,Chipped Pass,Pass,FirstHalf,16.1,6.2,38.0,23.5,Successful
+Désiré Doué,PSG,41,20,Loss of Possession,Dispossessed,FirstHalf,37.0,26.0,0.0,0.0,Successful
+Stanis Idumbo,Monaco,41,20,Successful Tackle,Tackle,FirstHalf,63.0,74.0,0.0,0.0,Successful
+Flávio Nazinho,Monaco,41,22,Unsuccessful Dribble,TakeOn,FirstHalf,63.2,72.2,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,41,22,Was Dribbled,Tackle,FirstHalf,36.8,27.8,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,41,23,Challenge,Challenge,FirstHalf,39.0,20.2,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,41,23,Successful Dribble,TakeOn,FirstHalf,61.0,79.8,0.0,0.0,Successful
+Flávio Nazinho,Monaco,41,26,Ball Recovery,BallRecovery,FirstHalf,67.2,82.7,0.0,0.0,Successful
+Flávio Nazinho,Monaco,41,29,Cross,Pass,FirstHalf,88.0,82.4,94.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,41,40,Throw In,Pass,FirstHalf,13.1,100.0,24.0,90.1,Successful
+Warren Zaïre-Emery,PSG,41,42,BallTouch,BallTouch,FirstHalf,25.2,90.1,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,41,43,Pass,Pass,FirstHalf,25.3,93.6,16.6,87.0,Successful
+Fabián Ruiz,PSG,41,48,Pass,Pass,FirstHalf,13.0,87.5,23.4,93.6,Successful
+Khvicha Kvaratskhelia,PSG,41,49,Pass,Pass,FirstHalf,21.0,95.0,6.7,73.7,Successful
+Willian Pacho,PSG,41,52,Pass,Pass,FirstHalf,5.6,71.0,8.4,30.2,Successful
+Marquinhos,PSG,41,56,Pass,Pass,FirstHalf,11.8,24.6,36.4,30.7,Successful
+Vitinha,PSG,41,59,Chipped Pass,Pass,FirstHalf,37.5,28.6,55.5,0.0,Unsuccessful
+Flávio Nazinho,Monaco,42,8,Throw In,Pass,FirstHalf,43.8,100.0,28.2,88.1,Successful
+Eric Dier,Monaco,42,17,Pass,Pass,FirstHalf,30.3,75.3,15.7,52.0,Successful
+Lukás Hrádecky,Monaco,42,22,Long Pass,Pass,FirstHalf,18.0,50.2,62.0,63.3,Successful
+Paris Brunner,Monaco,42,24,Aerial Won,Aerial,FirstHalf,62.0,63.3,0.0,0.0,Successful
+Willian Pacho,PSG,42,24,Aerial Lost,Aerial,FirstHalf,38.0,36.7,0.0,0.0,Unsuccessful
+Paris Brunner,Monaco,42,25,Pass,Pass,FirstHalf,62.0,63.3,44.4,68.3,Unsuccessful
+Achraf Hakimi,PSG,42,29,Ball Recovery,BallRecovery,FirstHalf,40.8,14.4,0.0,0.0,Successful
+Achraf Hakimi,PSG,42,29,Pass,Pass,FirstHalf,40.8,14.4,40.9,27.6,Successful
+João Neves,PSG,42,30,Pass,Pass,FirstHalf,41.3,28.8,29.1,25.4,Successful
+Marquinhos,PSG,42,32,Pass,Pass,FirstHalf,28.7,26.9,31.9,57.6,Successful
+Vitinha,PSG,42,36,Pass,Pass,FirstHalf,35.0,68.7,53.8,88.8,Successful
+Fabián Ruiz,PSG,42,40,Pass,Pass,FirstHalf,53.1,89.5,56.6,76.3,Successful
+Khvicha Kvaratskhelia,PSG,42,42,Pass,Pass,FirstHalf,51.5,75.2,37.5,76.5,Successful
+Vitinha,PSG,42,45,Pass,Pass,FirstHalf,41.3,74.5,32.5,47.1,Successful
+Willian Pacho,PSG,42,49,Pass,Pass,FirstHalf,33.1,45.8,39.5,21.5,Successful
+Marquinhos,PSG,42,52,Pass,Pass,FirstHalf,44.3,19.5,58.5,20.4,Successful
+Désiré Doué,PSG,42,55,Pass,Pass,FirstHalf,61.0,19.4,55.3,4.2,Successful
+Achraf Hakimi,PSG,42,56,Pass,Pass,FirstHalf,55.2,3.9,60.0,14.9,Successful
+João Neves,PSG,42,57,Pass,Pass,FirstHalf,60.1,15.0,36.4,13.2,Successful
+Marquinhos,PSG,43,1,Pass,Pass,FirstHalf,38.6,12.1,34.1,45.7,Successful
+Willian Pacho,PSG,43,3,Pass,Pass,FirstHalf,34.0,46.0,33.3,65.8,Successful
+Vitinha,PSG,43,6,Pass,Pass,FirstHalf,33.6,65.6,41.6,61.8,Successful
+Maghnes Akliouche,PSG,43,7,Pass,Pass,FirstHalf,41.6,61.8,37.1,91.0,Successful
+Fabián Ruiz,PSG,43,12,Pass,Pass,FirstHalf,51.2,89.6,37.3,78.2,Successful
+Vitinha,PSG,43,16,Pass,Pass,FirstHalf,38.5,70.9,36.6,28.2,Successful
+Marquinhos,PSG,43,18,Pass,Pass,FirstHalf,37.4,26.9,50.6,18.4,Successful
+Désiré Doué,PSG,43,21,Pass,Pass,FirstHalf,52.1,17.8,59.1,2.8,Successful
+João Neves,PSG,43,24,Pass,Pass,FirstHalf,58.8,3.7,62.0,13.8,Successful
+Achraf Hakimi,PSG,43,25,Pass,Pass,FirstHalf,63.1,14.4,58.0,10.2,Unsuccessful
+Flávio Nazinho,Monaco,43,26,Interception,Interception,FirstHalf,42.0,89.8,0.0,0.0,Successful
+Flávio Nazinho,Monaco,43,27,Foul,Foul,FirstHalf,41.2,86.8,0.0,0.0,Successful
+João Neves,PSG,43,27,Foul,Foul,FirstHalf,58.8,13.2,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,43,35,Pass,Pass,FirstHalf,42.9,81.8,34.6,86.1,Successful
+Eric Dier,Monaco,43,36,Pass,Pass,FirstHalf,32.8,86.7,37.4,64.3,Successful
+Denis Zakaria,Monaco,43,39,Long Pass,Pass,FirstHalf,38.3,62.4,73.4,12.9,Successful
+Vanderson,Monaco,43,41,Pass,Pass,FirstHalf,73.5,12.6,69.3,17.6,Successful
+Mamadou Coulibaly,Monaco,43,43,Pass,Pass,FirstHalf,67.0,16.3,74.6,6.9,Successful
+Vanderson,Monaco,43,46,Pass,Pass,FirstHalf,67.1,10.1,41.8,23.6,Successful
+Sadibou Sané,Monaco,43,53,Pass,Pass,FirstHalf,43.8,35.7,33.0,61.1,Successful
+Eric Dier,Monaco,43,54,Pass,Pass,FirstHalf,32.4,61.5,37.0,87.6,Successful
+Flávio Nazinho,Monaco,43,56,Pass,Pass,FirstHalf,38.6,88.4,54.8,93.5,Successful
+Aleksandr Golovin,Monaco,43,58,Pass,Pass,FirstHalf,47.0,94.3,37.9,95.3,Successful
+Flávio Nazinho,Monaco,44,0,Long Pass,Pass,FirstHalf,37.9,95.3,74.7,79.9,Unsuccessful
+João Neves,PSG,44,5,Foul,Foul,FirstHalf,22.0,18.7,0.0,0.0,Successful
+Stanis Idumbo,Monaco,44,5,Foul,Foul,FirstHalf,78.0,81.3,0.0,0.0,Unsuccessful
+Matvey Safonov,PSG,44,27,Pass,Pass,FirstHalf,11.3,33.1,11.6,58.5,Successful
+Willian Pacho,PSG,44,31,Pass,Pass,FirstHalf,22.8,72.9,15.8,88.5,Successful
+Warren Zaïre-Emery,PSG,44,33,Pass,Pass,FirstHalf,13.9,82.0,7.3,50.9,Successful
+Matvey Safonov,PSG,44,36,Pass,Pass,FirstHalf,8.3,46.8,9.7,24.6,Successful
+Marquinhos,PSG,44,38,Pass,Pass,FirstHalf,9.7,24.6,10.1,68.6,Successful
+Willian Pacho,PSG,44,42,Pass,Pass,FirstHalf,13.0,72.4,21.7,95.3,Successful
+Fabián Ruiz,PSG,44,45,Long Pass,Pass,FirstHalf,22.1,95.5,55.9,87.1,Unsuccessful
+Eric Dier,Monaco,44,48,Clearance,Clearance,FirstHalf,43.6,16.2,48.4,13.6,Successful
+Sadibou Sané,Monaco,44,51,Ball Recovery,BallRecovery,FirstHalf,47.9,15.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,44,52,Pass,Pass,FirstHalf,47.4,15.9,44.9,41.4,Successful
+Denis Zakaria,Monaco,44,55,Pass,Pass,FirstHalf,51.7,46.4,53.1,44.5,Successful
+Lamine Camara,Monaco,44,59,Pass,Pass,FirstHalf,45.3,35.7,44.0,21.0,Successful
+Sadibou Sané,Monaco,45,1,Pass,Pass,FirstHalf,43.6,19.5,35.0,36.7,Successful
+Eric Dier,Monaco,45,4,Pass,Pass,FirstHalf,33.7,39.5,35.0,66.7,Successful
+Flávio Nazinho,Monaco,45,6,Pass,Pass,FirstHalf,35.1,68.0,44.6,85.8,Successful
+Aleksandr Golovin,Monaco,45,10,Pass,Pass,FirstHalf,52.4,88.7,52.2,78.8,Successful
+Denis Zakaria,Monaco,45,11,Pass,Pass,FirstHalf,52.2,77.4,55.8,78.8,Successful
+Stanis Idumbo,Monaco,45,13,Pass,Pass,FirstHalf,56.3,78.2,62.4,69.3,Successful
+Lamine Camara,Monaco,45,14,Pass,Pass,FirstHalf,62.6,69.3,69.3,70.5,Unsuccessful
+Marquinhos,PSG,45,15,BallTouch,BallTouch,FirstHalf,31.0,39.6,0.0,0.0,Successful
+Lamine Camara,Monaco,45,17,Key Pass,Pass,FirstHalf,63.2,66.1,65.6,52.0,Successful
+Paris Brunner,Monaco,45,22,Shot off Target,MissedShots,FirstHalf,80.9,54.4,0.0,0.0,Successful
+Matvey Safonov,PSG,45,50,Long Pass,Pass,FirstHalf,4.8,57.6,62.0,89.8,Unsuccessful
+Sadibou Sané,Monaco,45,55,Pass,Pass,FirstHalf,35.0,11.5,45.7,12.3,Unsuccessful
+Fabián Ruiz,PSG,45,56,Interception,Interception,FirstHalf,54.3,87.7,0.0,0.0,Successful
+João Neves,PSG,45,58,Aerial Won,Aerial,FirstHalf,46.6,79.0,0.0,0.0,Successful
+Lamine Camara,Monaco,45,58,Aerial Lost,Aerial,FirstHalf,53.4,21.0,0.0,0.0,Unsuccessful
+João Neves,PSG,45,59,Pass,Pass,FirstHalf,44.4,77.5,52.3,90.2,Unsuccessful
+Mamadou Coulibaly,Monaco,46,0,Ball Recovery,BallRecovery,FirstHalf,47.0,11.8,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,46,1,Pass,Pass,FirstHalf,56.1,12.6,67.6,4.7,Successful
+Vanderson,Monaco,46,6,Pass,Pass,FirstHalf,74.1,10.7,69.9,25.3,Successful
+Lamine Camara,Monaco,46,8,Long Pass,Pass,FirstHalf,69.9,25.3,75.4,89.3,Successful
+Stanis Idumbo,Monaco,46,15,Pass,Pass,FirstHalf,79.6,85.6,88.9,85.3,Successful
+Flávio Nazinho,Monaco,46,17,Cross,Pass,FirstHalf,88.9,85.2,95.3,58.2,Unsuccessful
+Marquinhos,PSG,46,18,Clearance,Clearance,FirstHalf,3.4,39.5,43.0,13.0,Successful
+Denis Zakaria,Monaco,46,23,Pass,Pass,FirstHalf,58.8,74.7,57.2,55.0,Successful
+Lamine Camara,Monaco,46,27,Pass,Pass,FirstHalf,60.8,44.7,58.7,16.3,Successful
+Sadibou Sané,Monaco,46,34,Pass,Pass,FirstHalf,59.3,15.0,58.5,36.7,Successful
+Denis Zakaria,Monaco,46,35,Pass,Pass,FirstHalf,58.5,36.5,62.2,15.6,Successful
+Vanderson,Monaco,46,36,Pass,Pass,FirstHalf,61.9,15.7,63.4,23.3,Successful
+Lamine Camara,Monaco,46,37,Pass,Pass,FirstHalf,63.8,23.9,59.7,18.3,Successful
+Vanderson,Monaco,46,38,Long Pass,Pass,FirstHalf,59.5,18.8,89.9,56.4,Unsuccessful
+Matvey Safonov,PSG,46,42,KeeperPickup,KeeperPickup,FirstHalf,6.7,34.1,0.0,0.0,Successful
+Matvey Safonov,PSG,46,50,Long Pass,Pass,FirstHalf,12.6,37.5,23.8,89.6,Successful
+Warren Zaïre-Emery,PSG,46,53,Pass,Pass,FirstHalf,24.2,88.2,23.6,72.3,Successful
+Vitinha,PSG,46,58,Pass,Pass,FirstHalf,23.7,64.9,31.5,67.6,Successful
+Maghnes Akliouche,PSG,47,1,Pass,Pass,FirstHalf,31.5,67.6,23.3,81.3,Successful
+Warren Zaïre-Emery,PSG,47,2,Pass,Pass,FirstHalf,24.4,80.0,25.6,67.8,Successful
+,Monaco,47,3,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,47,3,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,45,0,Pass,Pass,SecondHalf,49.9,49.8,44.1,45.0,Successful
+Lamine Camara,Monaco,45,2,Pass,Pass,SecondHalf,43.7,45.3,35.5,78.2,Successful
+Flávio Nazinho,Monaco,45,5,Pass,Pass,SecondHalf,38.1,84.6,52.1,94.6,Successful
+Stanis Idumbo,Monaco,45,6,Pass,Pass,SecondHalf,52.3,92.6,36.7,84.6,Successful
+Flávio Nazinho,Monaco,45,10,Pass,Pass,SecondHalf,36.7,84.6,29.8,67.6,Successful
+Eric Dier,Monaco,45,13,Pass,Pass,SecondHalf,28.9,68.0,41.4,71.2,Successful
+Denis Zakaria,Monaco,45,14,Pass,Pass,SecondHalf,41.4,71.2,25.5,65.5,Successful
+Eric Dier,Monaco,45,17,Long Pass,Pass,SecondHalf,25.5,65.5,35.8,4.7,Successful
+Vanderson,Monaco,45,21,Pass,Pass,SecondHalf,36.0,4.7,57.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,45,37,Throw In,Pass,SecondHalf,41.1,100.0,28.0,94.4,Successful
+João Neves,PSG,45,39,Pass,Pass,SecondHalf,27.4,93.5,6.2,82.8,Successful
+Willian Pacho,PSG,45,41,Pass,Pass,SecondHalf,5.6,82.5,2.9,52.0,Successful
+Matvey Safonov,PSG,45,45,Pass,Pass,SecondHalf,7.0,48.0,4.2,16.4,Successful
+Marquinhos,PSG,45,46,Pass,Pass,SecondHalf,4.3,16.1,15.8,2.6,Successful
+Achraf Hakimi,PSG,45,49,Pass,Pass,SecondHalf,15.2,6.4,17.4,4.5,Unsuccessful
+Flávio Nazinho,Monaco,45,51,BallTouch,BallTouch,SecondHalf,64.2,96.1,0.0,0.0,Successful
+Achraf Hakimi,PSG,46,4,Throw In,Pass,SecondHalf,29.6,0.0,23.5,9.1,Successful
+Désiré Doué,PSG,46,6,Pass,Pass,SecondHalf,23.4,8.4,13.2,25.2,Successful
+Marquinhos,PSG,46,8,Pass,Pass,SecondHalf,14.3,25.1,16.5,54.6,Successful
+Willian Pacho,PSG,46,12,Pass,Pass,SecondHalf,26.6,70.6,38.6,86.5,Successful
+Khvicha Kvaratskhelia,PSG,46,15,Successful Dribble,TakeOn,SecondHalf,41.6,78.2,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,46,15,Challenge,Challenge,SecondHalf,58.4,21.8,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,46,16,BallTouch,BallTouch,SecondHalf,43.8,73.5,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,46,17,Unsuccessful Dribble,TakeOn,SecondHalf,48.4,28.7,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,46,17,Was Dribbled,Tackle,SecondHalf,51.6,71.2,0.0,0.0,Unsuccessful
+Maghnes Akliouche,PSG,46,18,Successful Dribble,TakeOn,SecondHalf,51.2,61.2,0.0,0.0,Successful
+Lamine Camara,Monaco,46,18,Challenge,Challenge,SecondHalf,48.8,38.8,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,46,20,BallTouch,BallTouch,SecondHalf,45.0,29.8,0.0,0.0,Successful
+Maghnes Akliouche,PSG,46,26,Pass,Pass,SecondHalf,58.7,16.1,44.4,17.7,Successful
+Marquinhos,PSG,46,28,Pass,Pass,SecondHalf,46.0,23.4,44.2,47.2,Successful
+Vitinha,PSG,46,31,Pass,Pass,SecondHalf,44.5,51.4,40.9,72.4,Successful
+Warren Zaïre-Emery,PSG,46,33,Pass,Pass,SecondHalf,41.3,74.8,52.6,90.1,Successful
+Fabián Ruiz,PSG,46,35,Pass,Pass,SecondHalf,53.3,90.1,56.9,91.0,Unsuccessful
+Vanderson,Monaco,46,35,BlockedPass,BlockedPass,SecondHalf,43.1,9.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,46,40,Long Pass,Pass,SecondHalf,59.1,100.0,36.7,89.6,Successful
+Warren Zaïre-Emery,PSG,46,45,Pass,Pass,SecondHalf,38.0,81.4,33.1,56.8,Successful
+Willian Pacho,PSG,46,49,Pass,Pass,SecondHalf,30.6,57.6,32.5,79.9,Successful
+Warren Zaïre-Emery,PSG,46,51,Pass,Pass,SecondHalf,32.0,79.9,44.0,84.7,Successful
+Fabián Ruiz,PSG,46,57,Pass,Pass,SecondHalf,41.3,84.8,44.4,100.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,47,0,Offside,OffsideGiven,SecondHalf,81.9,72.6,0.0,0.0,Unsuccessful
+Vanderson,Monaco,47,14,Long Pass,Pass,SecondHalf,55.6,0.0,35.3,5.3,Successful
+Sadibou Sané,Monaco,47,18,Pass,Pass,SecondHalf,33.9,10.1,30.3,30.3,Successful
+Eric Dier,Monaco,47,23,Pass,Pass,SecondHalf,29.5,32.4,28.5,65.6,Successful
+Flávio Nazinho,Monaco,47,25,Pass,Pass,SecondHalf,28.3,67.1,38.9,93.4,Successful
+Marquinhos,PSG,47,27,Challenge,Challenge,SecondHalf,52.5,7.8,0.0,0.0,Unsuccessful
+Stanis Idumbo,Monaco,47,27,Successful Dribble,TakeOn,SecondHalf,47.5,92.2,0.0,0.0,Successful
+Stanis Idumbo,Monaco,47,31,BallTouch,BallTouch,SecondHalf,69.8,73.5,0.0,0.0,Unsuccessful
+João Neves,PSG,47,33,Clearance,Clearance,SecondHalf,24.5,38.5,68.7,74.8,Successful
+Sadibou Sané,Monaco,47,37,Pass,Pass,SecondHalf,33.4,20.6,38.8,5.1,Successful
+Vanderson,Monaco,47,41,Pass,Pass,SecondHalf,39.2,6.9,48.7,23.5,Successful
+Stanis Idumbo,Monaco,47,43,Pass,Pass,SecondHalf,44.9,20.7,38.1,5.9,Successful
+Vanderson,Monaco,47,45,Pass,Pass,SecondHalf,37.9,7.2,45.2,31.0,Successful
+Lamine Camara,Monaco,47,47,Loss of Possession,Dispossessed,SecondHalf,44.9,33.2,0.0,0.0,Successful
+Désiré Doué,PSG,47,47,Successful Tackle,Tackle,SecondHalf,55.1,66.8,0.0,0.0,Successful
+Maghnes Akliouche,PSG,47,48,Ball Recovery,BallRecovery,SecondHalf,59.1,58.7,0.0,0.0,Successful
+Maghnes Akliouche,PSG,47,49,Pass,Pass,SecondHalf,59.4,59.6,63.3,63.5,Successful
+Désiré Doué,PSG,47,52,Offside,OffsidePass,SecondHalf,74.2,62.0,81.9,72.6,Successful
+Sadibou Sané,Monaco,47,52,OffsideProvoked,OffsideProvoked,SecondHalf,19.8,35.4,0.0,0.0,Successful
+Vanderson,Monaco,48,25,Pass,Pass,SecondHalf,33.5,11.3,30.9,45.4,Successful
+Denis Zakaria,Monaco,48,26,Pass,Pass,SecondHalf,29.6,47.1,54.9,54.2,Successful
+Paris Brunner,Monaco,48,28,Pass,Pass,SecondHalf,72.8,37.6,81.3,17.7,Successful
+Mamadou Coulibaly,Monaco,48,33,Pass,Pass,SecondHalf,85.3,22.6,84.6,36.2,Unsuccessful
+João Neves,PSG,48,34,Interception,Interception,SecondHalf,15.4,63.8,0.0,0.0,Successful
+Fabián Ruiz,PSG,48,35,BallTouch,BallTouch,SecondHalf,22.8,72.6,0.0,0.0,Successful
+João Neves,PSG,48,36,Ball Recovery,BallRecovery,SecondHalf,18.8,70.3,0.0,0.0,Successful
+João Neves,PSG,48,36,Pass,Pass,SecondHalf,18.5,70.6,13.1,54.6,Successful
+Willian Pacho,PSG,48,37,Pass,Pass,SecondHalf,15.3,53.2,11.8,38.7,Successful
+Marquinhos,PSG,48,39,Long Pass,Pass,SecondHalf,9.9,40.7,49.3,56.2,Unsuccessful
+Sadibou Sané,Monaco,48,45,Ball Recovery,BallRecovery,SecondHalf,48.5,43.5,0.0,0.0,Successful
+Sadibou Sané,Monaco,48,46,Pass,Pass,SecondHalf,48.7,44.2,42.0,61.5,Successful
+Eric Dier,Monaco,48,52,Pass,Pass,SecondHalf,48.1,69.0,58.6,96.7,Successful
+Stanis Idumbo,Monaco,48,55,Pass,Pass,SecondHalf,58.3,96.8,66.0,87.1,Successful
+Flávio Nazinho,Monaco,48,56,Pass,Pass,SecondHalf,66.0,87.1,62.2,94.7,Successful
+Stanis Idumbo,Monaco,48,57,Pass,Pass,SecondHalf,62.2,94.7,59.5,94.9,Unsuccessful
+Désiré Doué,PSG,48,57,BlockedPass,BlockedPass,SecondHalf,40.5,5.1,0.0,0.0,Successful
+Stanis Idumbo,Monaco,49,11,Long Pass,Pass,SecondHalf,50.1,100.0,29.5,88.1,Successful
+Eric Dier,Monaco,49,13,Pass,Pass,SecondHalf,25.4,82.6,15.4,58.8,Successful
+Lukás Hrádecky,Monaco,49,15,Pass,Pass,SecondHalf,19.2,50.2,47.7,51.1,Successful
+Paris Brunner,Monaco,49,23,Pass,Pass,SecondHalf,42.9,68.8,53.8,91.7,Successful
+Stanis Idumbo,Monaco,49,26,Long Pass,Pass,SecondHalf,56.8,94.0,89.0,72.3,Unsuccessful
+Matvey Safonov,PSG,49,32,KeeperPickup,KeeperPickup,SecondHalf,8.6,31.3,0.0,0.0,Successful
+Matvey Safonov,PSG,49,37,Pass,Pass,SecondHalf,11.2,48.0,15.1,70.7,Successful
+Warren Zaïre-Emery,PSG,49,42,Pass,Pass,SecondHalf,14.0,71.0,22.8,91.0,Successful
+Fabián Ruiz,PSG,49,44,Pass,Pass,SecondHalf,22.8,91.0,27.6,81.1,Successful
+Warren Zaïre-Emery,PSG,49,47,Loss of Possession,Dispossessed,SecondHalf,32.2,86.8,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,49,47,Successful Tackle,Tackle,SecondHalf,67.8,13.2,0.0,0.0,Successful
+Vanderson,Monaco,49,49,Pass,Pass,SecondHalf,69.0,6.6,68.3,12.4,Unsuccessful
+Warren Zaïre-Emery,PSG,49,52,Pass,Pass,SecondHalf,35.4,76.8,12.5,59.3,Successful
+Willian Pacho,PSG,49,54,Pass,Pass,SecondHalf,11.1,57.4,13.8,25.4,Successful
+Marquinhos,PSG,49,58,Pass,Pass,SecondHalf,16.9,15.3,28.0,18.4,Successful
+Maghnes Akliouche,PSG,50,0,Pass,Pass,SecondHalf,27.6,10.7,31.6,8.5,Successful
+Désiré Doué,PSG,50,4,Pass,Pass,SecondHalf,23.1,8.4,6.5,15.6,Successful
+Marquinhos,PSG,50,7,Pass,Pass,SecondHalf,6.6,15.5,4.2,42.9,Successful
+Matvey Safonov,PSG,50,11,Clearance,Clearance,SecondHalf,3.6,35.1,9.0,0.0,Successful
+Lamine Camara,Monaco,50,21,Long Pass,Pass,SecondHalf,81.7,100.0,62.3,88.7,Successful
+Eric Dier,Monaco,50,25,Pass,Pass,SecondHalf,55.9,71.5,63.8,55.9,Successful
+Mamadou Coulibaly,Monaco,50,30,Pass,Pass,SecondHalf,64.3,42.9,68.8,26.0,Successful
+Aleksandr Golovin,Monaco,50,31,BallTouch,BallTouch,SecondHalf,68.8,26.0,0.0,0.0,Unsuccessful
+João Neves,PSG,50,49,Throw In,Pass,SecondHalf,23.1,100.0,36.8,93.6,Successful
+Khvicha Kvaratskhelia,PSG,50,51,Pass,Pass,SecondHalf,36.8,93.6,28.7,95.8,Successful
+João Neves,PSG,50,53,Long Pass,Pass,SecondHalf,28.7,95.8,46.7,45.2,Unsuccessful
+Flávio Nazinho,Monaco,50,55,BallTouch,BallTouch,SecondHalf,53.5,58.8,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,50,56,Unsuccessful Dribble,TakeOn,SecondHalf,45.6,46.7,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,50,56,Successful Tackle,Tackle,SecondHalf,54.4,53.3,0.0,0.0,Successful
+Flávio Nazinho,Monaco,50,58,Ball Recovery,BallRecovery,SecondHalf,58.3,54.1,0.0,0.0,Successful
+Flávio Nazinho,Monaco,50,58,Pass,Pass,SecondHalf,58.3,54.1,65.5,61.4,Successful
+Stanis Idumbo,Monaco,50,59,Pass,Pass,SecondHalf,65.5,61.4,65.1,56.1,Successful
+Flávio Nazinho,Monaco,51,0,Pass,Pass,SecondHalf,65.4,56.1,75.8,45.8,Successful
+Paris Brunner,Monaco,51,2,Loss of Possession,Dispossessed,SecondHalf,77.2,43.4,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,51,2,Successful Tackle,Tackle,SecondHalf,22.8,56.6,0.0,0.0,Successful
+João Neves,PSG,51,4,BallTouch,BallTouch,SecondHalf,22.0,58.7,0.0,0.0,Successful
+Paris Brunner,Monaco,51,4,BallTouch,BallTouch,SecondHalf,84.5,45.6,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,51,6,Clearance,Clearance,SecondHalf,15.4,64.1,30.1,19.2,Successful
+Lamine Camara,Monaco,51,10,Pass,Pass,SecondHalf,71.1,94.6,59.0,89.0,Successful
+Eric Dier,Monaco,51,16,Pass,Pass,SecondHalf,59.0,89.0,68.5,69.7,Successful
+Flávio Nazinho,Monaco,51,17,Pass,Pass,SecondHalf,68.9,69.0,70.0,77.4,Unsuccessful
+Maghnes Akliouche,PSG,51,17,Interception,Interception,SecondHalf,30.0,22.6,0.0,0.0,Successful
+Achraf Hakimi,PSG,51,18,Pass,Pass,SecondHalf,27.3,17.0,26.3,22.1,Successful
+Marquinhos,PSG,51,20,Ball Recovery,BallRecovery,SecondHalf,23.7,26.2,0.0,0.0,Successful
+Marquinhos,PSG,51,20,Pass,Pass,SecondHalf,23.6,26.3,32.3,19.4,Successful
+Achraf Hakimi,PSG,51,21,Pass,Pass,SecondHalf,33.3,19.0,48.4,0.0,Unsuccessful
+Vanderson,Monaco,51,52,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jordan Teze,Monaco,51,52,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Flávio Nazinho,Monaco,52,8,Throw In,Pass,SecondHalf,45.5,100.0,31.9,85.3,Successful
+Eric Dier,Monaco,52,10,Long Pass,Pass,SecondHalf,30.8,82.4,61.5,83.8,Unsuccessful
+Marquinhos,PSG,52,12,Clearance,Clearance,SecondHalf,29.8,30.8,47.7,38.5,Successful
+Lamine Camara,Monaco,52,15,BallTouch,BallTouch,SecondHalf,45.6,58.0,0.0,0.0,Successful
+Eric Dier,Monaco,52,20,Pass,Pass,SecondHalf,45.0,58.6,69.6,69.0,Unsuccessful
+Marquinhos,PSG,52,22,Ball Recovery,BallRecovery,SecondHalf,33.0,27.2,0.0,0.0,Successful
+Marquinhos,PSG,52,24,Pass,Pass,SecondHalf,33.2,29.4,28.2,70.6,Successful
+Warren Zaïre-Emery,PSG,52,27,Pass,Pass,SecondHalf,30.1,68.9,24.5,51.5,Successful
+Willian Pacho,PSG,52,31,Pass,Pass,SecondHalf,20.1,43.3,20.5,27.7,Successful
+Marquinhos,PSG,52,34,Pass,Pass,SecondHalf,11.3,24.3,22.4,2.6,Successful
+Achraf Hakimi,PSG,52,37,Pass,Pass,SecondHalf,22.4,7.6,18.7,9.3,Successful
+Vitinha,PSG,52,40,Pass,Pass,SecondHalf,17.5,3.9,19.7,3.7,Unsuccessful
+Aleksandr Golovin,Monaco,52,40,BlockedPass,BlockedPass,SecondHalf,80.3,96.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,52,57,Throw In,Pass,SecondHalf,23.7,0.0,22.9,25.2,Successful
+Désiré Doué,PSG,53,0,Pass,Pass,SecondHalf,22.7,25.5,12.1,14.6,Successful
+Marquinhos,PSG,53,3,Long Pass,Pass,SecondHalf,12.0,14.7,23.4,93.3,Successful
+Warren Zaïre-Emery,PSG,53,10,Pass,Pass,SecondHalf,30.1,83.3,32.0,65.6,Successful
+Vitinha,PSG,53,14,Pass,Pass,SecondHalf,33.3,74.9,38.5,94.6,Successful
+Fabián Ruiz,PSG,53,15,Pass,Pass,SecondHalf,38.5,95.2,22.5,86.4,Successful
+Warren Zaïre-Emery,PSG,53,17,Long Pass,Pass,SecondHalf,22.0,84.0,44.2,44.4,Successful
+João Neves,PSG,53,19,Pass,Pass,SecondHalf,45.0,43.3,43.9,30.5,Successful
+Désiré Doué,PSG,53,21,Pass,Pass,SecondHalf,43.1,29.1,66.6,16.0,Successful
+Maghnes Akliouche,PSG,53,25,Pass,Pass,SecondHalf,84.3,26.3,84.2,40.9,Successful
+Achraf Hakimi,PSG,53,28,BallTouch,BallTouch,SecondHalf,84.1,42.6,0.0,0.0,Unsuccessful
+Denis Zakaria,Monaco,53,30,Clearance,Clearance,SecondHalf,15.2,50.9,23.5,59.9,Successful
+Désiré Doué,PSG,53,32,Foul,Foul,SecondHalf,72.6,31.7,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,53,32,Foul,Foul,SecondHalf,27.4,68.4,0.0,0.0,Unsuccessful
+Vitinha,PSG,54,13,Key Pass,Pass,SecondHalf,70.7,24.9,95.1,44.7,Successful
+Maghnes Akliouche,PSG,54,16,Shot on Target,SavedShot,SecondHalf,95.1,44.7,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,54,16,Save,Save,SecondHalf,2.0,51.0,0.0,0.0,Successful
+Maghnes Akliouche,PSG,54,17,CornerAwarded,CornerAwarded,SecondHalf,96.2,47.0,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,54,17,CornerAwarded,CornerAwarded,SecondHalf,3.8,53.0,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,54,28,Pass,Pass,SecondHalf,99.5,0.5,97.2,18.6,Successful
+Fabián Ruiz,PSG,54,29,Pass,Pass,SecondHalf,97.2,18.6,90.9,7.8,Successful
+Désiré Doué,PSG,54,31,Key Pass,Pass,SecondHalf,85.8,9.1,74.6,34.2,Successful
+Vitinha,PSG,54,33,Shot on Target,SavedShot,SecondHalf,76.9,35.6,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,54,33,Save,Save,SecondHalf,1.0,52.0,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,54,36,KeeperPickup,KeeperPickup,SecondHalf,1.0,52.0,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,54,39,Pass,Pass,SecondHalf,1.0,52.0,29.7,65.0,Successful
+Aleksandr Golovin,Monaco,54,40,Pass,Pass,SecondHalf,29.6,65.3,27.8,76.1,Successful
+Paris Brunner,Monaco,54,42,Pass,Pass,SecondHalf,28.0,78.7,31.7,96.5,Successful
+Stanis Idumbo,Monaco,54,45,Chipped Pass,Pass,SecondHalf,29.4,97.9,37.7,89.3,Successful
+Paris Brunner,Monaco,54,48,BallTouch,BallTouch,SecondHalf,40.5,86.1,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,55,3,Long Pass,Pass,SecondHalf,45.7,0.0,28.1,24.9,Successful
+Marquinhos,PSG,55,4,Pass,Pass,SecondHalf,27.6,25.5,25.6,44.9,Successful
+Willian Pacho,PSG,55,5,Pass,Pass,SecondHalf,25.6,44.9,25.6,74.1,Successful
+Warren Zaïre-Emery,PSG,55,9,Foul,Foul,SecondHalf,27.2,89.7,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,55,9,Foul,Foul,SecondHalf,72.8,10.2,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,55,20,Pass,Pass,SecondHalf,28.5,88.1,40.3,71.0,Successful
+João Neves,PSG,55,24,BallTouch,BallTouch,SecondHalf,40.3,71.0,0.0,0.0,Unsuccessful
+Denis Zakaria,Monaco,55,24,Pass,Pass,SecondHalf,60.5,23.8,63.1,34.8,Successful
+Lamine Camara,Monaco,55,25,Ball Recovery,BallRecovery,SecondHalf,63.4,35.6,0.0,0.0,Successful
+Lamine Camara,Monaco,55,26,Pass,Pass,SecondHalf,64.3,37.1,69.2,55.3,Successful
+Paris Brunner,Monaco,55,28,Pass,Pass,SecondHalf,70.8,59.1,79.4,68.0,Successful
+Stanis Idumbo,Monaco,55,32,Unsuccessful Dribble,TakeOn,SecondHalf,80.2,69.0,0.0,0.0,Unsuccessful
+Vitinha,PSG,55,32,Successful Tackle,Tackle,SecondHalf,19.8,31.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,55,36,Ball Recovery,BallRecovery,SecondHalf,24.2,18.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,55,36,Pass,Pass,SecondHalf,26.1,18.6,24.0,7.9,Successful
+Vitinha,PSG,55,40,Pass,Pass,SecondHalf,33.1,17.3,40.7,25.2,Successful
+João Neves,PSG,55,42,Chipped Pass,Pass,SecondHalf,40.7,25.2,54.2,7.3,Successful
+Achraf Hakimi,PSG,55,46,Unsuccessful Dribble,TakeOn,SecondHalf,54.6,9.4,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,55,46,Successful Tackle,Tackle,SecondHalf,45.4,90.6,0.0,0.0,Successful
+Eric Dier,Monaco,55,47,Ball Recovery,BallRecovery,SecondHalf,45.5,87.7,0.0,0.0,Successful
+Eric Dier,Monaco,55,49,Pass,Pass,SecondHalf,46.5,88.7,47.5,70.5,Successful
+Lamine Camara,Monaco,55,52,Foul,Foul,SecondHalf,45.8,72.8,0.0,0.0,Successful
+Désiré Doué,PSG,55,52,Foul,Foul,SecondHalf,54.2,27.2,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,56,3,Pass,Pass,SecondHalf,41.4,72.3,41.9,64.3,Successful
+Lamine Camara,Monaco,56,4,Pass,Pass,SecondHalf,41.9,63.6,38.4,43.9,Successful
+Denis Zakaria,Monaco,56,6,Pass,Pass,SecondHalf,38.4,43.9,36.3,27.6,Successful
+Sadibou Sané,Monaco,56,9,Pass,Pass,SecondHalf,34.5,26.3,8.9,48.0,Successful
+Lukás Hrádecky,Monaco,56,17,Pass,Pass,SecondHalf,14.8,33.3,19.1,13.5,Successful
+Sadibou Sané,Monaco,56,19,Pass,Pass,SecondHalf,19.7,14.2,41.4,23.5,Successful
+Mamadou Coulibaly,Monaco,56,20,Pass,Pass,SecondHalf,41.5,24.2,34.9,29.8,Successful
+Denis Zakaria,Monaco,56,22,Pass,Pass,SecondHalf,35.6,34.2,41.7,55.2,Successful
+Achraf Hakimi,PSG,56,23,Challenge,Challenge,SecondHalf,59.0,44.1,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,56,23,Successful Dribble,TakeOn,SecondHalf,41.0,55.9,0.0,0.0,Successful
+Lamine Camara,Monaco,56,27,Pass,Pass,SecondHalf,55.9,69.1,64.9,88.2,Successful
+Stanis Idumbo,Monaco,56,32,Pass,Pass,SecondHalf,80.3,85.0,72.3,86.5,Successful
+Lamine Camara,Monaco,56,37,Pass,Pass,SecondHalf,74.1,76.4,68.3,83.2,Successful
+Flávio Nazinho,Monaco,56,39,Pass,Pass,SecondHalf,68.4,83.2,64.7,61.5,Successful
+Eric Dier,Monaco,56,40,Pass,Pass,SecondHalf,64.7,61.5,64.8,36.4,Successful
+Sadibou Sané,Monaco,56,44,Pass,Pass,SecondHalf,63.6,28.0,70.7,28.6,Successful
+Aleksandr Golovin,Monaco,56,48,Pass,Pass,SecondHalf,69.8,25.1,68.6,5.9,Successful
+Jordan Teze,Monaco,56,50,Pass,Pass,SecondHalf,67.5,6.5,57.6,26.2,Successful
+Sadibou Sané,Monaco,56,51,Pass,Pass,SecondHalf,56.9,28.6,47.6,59.7,Successful
+Flávio Nazinho,Monaco,56,54,Pass,Pass,SecondHalf,46.9,67.0,61.0,96.2,Successful
+Stanis Idumbo,Monaco,57,0,Pass,Pass,SecondHalf,66.6,90.9,55.1,88.8,Successful
+Flávio Nazinho,Monaco,57,1,Pass,Pass,SecondHalf,55.1,88.8,45.7,61.5,Successful
+Eric Dier,Monaco,57,4,Pass,Pass,SecondHalf,45.7,60.8,62.7,33.5,Successful
+Mamadou Coulibaly,Monaco,57,8,Pass,Pass,SecondHalf,60.2,13.3,66.0,4.7,Successful
+Jordan Teze,Monaco,57,12,Pass,Pass,SecondHalf,63.8,22.9,65.4,26.8,Successful
+Mamadou Coulibaly,Monaco,57,13,Pass,Pass,SecondHalf,66.2,28.5,70.4,32.0,Unsuccessful
+João Neves,PSG,57,13,BlockedPass,BlockedPass,SecondHalf,29.6,68.0,0.0,0.0,Successful
+Lamine Camara,Monaco,57,17,Pass,Pass,SecondHalf,67.5,31.8,67.3,61.1,Successful
+Denis Zakaria,Monaco,57,19,Pass,Pass,SecondHalf,66.8,62.9,74.9,69.9,Successful
+Aleksandr Golovin,Monaco,57,26,Long Pass,Pass,SecondHalf,74.5,69.4,96.3,33.6,Successful
+Jordan Teze,Monaco,57,28,Pass,Pass,SecondHalf,96.3,33.6,94.9,44.7,Unsuccessful
+Willian Pacho,PSG,57,28,BallTouch,BallTouch,SecondHalf,10.6,55.1,0.0,0.0,Successful
+Marquinhos,PSG,57,29,Clearance,Clearance,SecondHalf,4.2,52.3,4.6,63.9,Successful
+Jordan Teze,Monaco,57,30,Assist,Pass,SecondHalf,97.7,29.5,95.7,54.8,Successful
+Flávio Nazinho,Monaco,57,31,Goal,Goal,SecondHalf,95.7,54.8,0.0,0.0,Successful
+Vitinha,PSG,58,49,Long Pass,Pass,SecondHalf,50.5,50.0,82.3,100.0,Unsuccessful
+Jordan Teze,Monaco,59,7,Throw In,Pass,SecondHalf,23.1,0.0,33.0,3.6,Successful
+Aleksandr Golovin,Monaco,59,9,Pass,Pass,SecondHalf,33.2,5.1,40.7,11.2,Unsuccessful
+Warren Zaïre-Emery,PSG,59,10,Ball Recovery,BallRecovery,SecondHalf,60.0,89.5,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,59,10,Pass,Pass,SecondHalf,60.2,89.2,53.4,50.8,Successful
+Marquinhos,PSG,59,13,Pass,Pass,SecondHalf,48.8,50.2,22.5,54.5,Successful
+Matvey Safonov,PSG,59,19,Pass,Pass,SecondHalf,22.6,54.8,29.4,29.3,Successful
+Marquinhos,PSG,59,23,Long Pass,Pass,SecondHalf,31.9,18.4,73.8,11.2,Successful
+Désiré Doué,PSG,59,27,BallTouch,BallTouch,SecondHalf,74.7,11.0,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,59,27,Ball Recovery,BallRecovery,SecondHalf,24.4,92.1,0.0,0.0,Successful
+Flávio Nazinho,Monaco,59,27,Pass,Pass,SecondHalf,24.4,92.1,19.4,73.8,Successful
+Eric Dier,Monaco,59,33,Chipped Pass,Pass,SecondHalf,9.3,86.1,32.2,91.4,Successful
+Stanis Idumbo,Monaco,59,34,Pass,Pass,SecondHalf,32.0,92.1,27.0,92.6,Successful
+Flávio Nazinho,Monaco,59,36,Pass,Pass,SecondHalf,25.7,94.7,32.5,94.4,Unsuccessful
+Achraf Hakimi,PSG,59,37,Ball Recovery,BallRecovery,SecondHalf,59.8,7.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,59,38,Pass,Pass,SecondHalf,59.4,7.8,61.6,15.8,Successful
+Vitinha,PSG,59,40,Pass,Pass,SecondHalf,64.5,20.4,63.3,43.0,Successful
+João Neves,PSG,59,42,Pass,Pass,SecondHalf,63.0,46.3,60.0,80.8,Successful
+Warren Zaïre-Emery,PSG,59,47,Pass,Pass,SecondHalf,59.9,81.4,70.7,92.2,Successful
+Khvicha Kvaratskhelia,PSG,59,49,Pass,Pass,SecondHalf,67.7,87.6,57.1,68.4,Successful
+João Neves,PSG,59,51,Pass,Pass,SecondHalf,52.9,64.4,46.9,26.3,Successful
+Marquinhos,PSG,59,54,Pass,Pass,SecondHalf,55.8,21.2,70.6,7.4,Successful
+Désiré Doué,PSG,59,57,Pass,Pass,SecondHalf,68.3,14.2,57.1,16.4,Successful
+Marquinhos,PSG,59,59,Pass,Pass,SecondHalf,60.0,15.0,75.6,6.4,Successful
+Maghnes Akliouche,PSG,60,1,Pass,Pass,SecondHalf,75.1,9.0,62.7,24.3,Successful
+Désiré Doué,PSG,60,5,Long Pass,Pass,SecondHalf,66.7,29.0,86.0,93.8,Successful
+Mamadou Coulibaly,Monaco,60,11,Challenge,Challenge,SecondHalf,24.6,11.4,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,60,11,Successful Dribble,TakeOn,SecondHalf,75.4,88.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,60,17,Pass,Pass,SecondHalf,71.1,70.7,79.4,71.5,Successful
+Fabián Ruiz,PSG,60,19,Pass,Pass,SecondHalf,79.2,71.4,81.8,95.2,Successful
+João Neves,PSG,60,21,Pass,Pass,SecondHalf,80.7,94.6,73.2,75.5,Successful
+Vitinha,PSG,60,24,Pass,Pass,SecondHalf,72.5,72.4,64.5,44.9,Successful
+Willian Pacho,PSG,60,26,Pass,Pass,SecondHalf,64.5,44.9,69.7,23.5,Successful
+Marquinhos,PSG,60,28,Pass,Pass,SecondHalf,68.4,19.2,79.3,9.0,Successful
+Achraf Hakimi,PSG,60,31,Pass,Pass,SecondHalf,79.2,9.0,61.8,12.2,Successful
+Marquinhos,PSG,60,34,Pass,Pass,SecondHalf,64.0,15.0,54.0,44.7,Successful
+Willian Pacho,PSG,60,36,Pass,Pass,SecondHalf,53.6,49.4,58.5,69.3,Successful
+Warren Zaïre-Emery,PSG,60,41,Pass,Pass,SecondHalf,62.9,78.9,75.6,97.5,Successful
+João Neves,PSG,60,43,Pass,Pass,SecondHalf,73.8,92.9,68.4,78.6,Successful
+Vitinha,PSG,60,46,Pass,Pass,SecondHalf,68.3,77.7,76.7,91.0,Successful
+Khvicha Kvaratskhelia,PSG,60,47,Pass,Pass,SecondHalf,76.7,93.5,54.4,94.3,Successful
+Vitinha,PSG,60,52,Pass,Pass,SecondHalf,55.3,90.9,49.6,77.1,Successful
+Warren Zaïre-Emery,PSG,60,55,Pass,Pass,SecondHalf,48.9,74.1,45.5,48.0,Successful
+Willian Pacho,PSG,60,57,Pass,Pass,SecondHalf,45.2,44.3,46.1,21.7,Successful
+Marquinhos,PSG,60,59,Pass,Pass,SecondHalf,46.2,20.6,63.3,4.2,Successful
+Achraf Hakimi,PSG,61,3,Pass,Pass,SecondHalf,62.4,4.5,35.8,11.5,Successful
+Marquinhos,PSG,61,4,Pass,Pass,SecondHalf,35.5,14.6,43.1,34.5,Successful
+Warren Zaïre-Emery,PSG,61,8,Loss of Possession,Dispossessed,SecondHalf,45.6,27.0,0.0,0.0,Successful
+Lamine Camara,Monaco,61,8,Was Dribbled,Tackle,SecondHalf,54.4,73.0,0.0,0.0,Unsuccessful
+Marquinhos,PSG,61,11,Long Pass,Pass,SecondHalf,40.1,12.7,70.1,38.5,Successful
+Maghnes Akliouche,PSG,61,12,BallTouch,BallTouch,SecondHalf,70.1,38.1,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,61,13,Ball Recovery,BallRecovery,SecondHalf,38.1,62.7,0.0,0.0,Successful
+Eric Dier,Monaco,61,14,Pass,Pass,SecondHalf,39.0,63.9,57.9,61.8,Successful
+Aleksandr Golovin,Monaco,61,16,Pass,Pass,SecondHalf,58.0,61.8,65.1,50.0,Unsuccessful
+Vitinha,PSG,61,18,Interception,Interception,SecondHalf,34.9,50.0,0.0,0.0,Successful
+Willian Pacho,PSG,61,19,BallTouch,BallTouch,SecondHalf,40.6,36.7,0.0,0.0,Successful
+Vitinha,PSG,61,20,Ball Recovery,BallRecovery,SecondHalf,44.8,33.1,0.0,0.0,Successful
+Vitinha,PSG,61,21,Pass,Pass,SecondHalf,49.0,42.3,63.8,79.4,Successful
+Khvicha Kvaratskhelia,PSG,61,30,Key Pass,BallTouch,SecondHalf,81.9,56.5,0.0,0.0,Successful
+Vitinha,PSG,61,31,Shot on Target,SavedShot,SecondHalf,80.7,49.5,0.0,0.0,Successful
+Denis Zakaria,Monaco,61,31,Save,Save,SecondHalf,17.2,50.3,0.0,0.0,Successful
+Désiré Doué,PSG,61,42,Cross,Pass,SecondHalf,93.4,26.0,95.6,97.4,Successful
+Fabián Ruiz,PSG,61,46,Pass,Pass,SecondHalf,95.6,97.4,67.1,81.6,Successful
+Warren Zaïre-Emery,PSG,61,52,Pass,Pass,SecondHalf,79.3,82.5,82.7,93.8,Successful
+Fabián Ruiz,PSG,61,55,Cross,Pass,SecondHalf,90.9,88.8,94.4,50.6,Unsuccessful
+Eric Dier,Monaco,61,57,Clearance,Clearance,SecondHalf,3.9,50.3,6.3,89.4,Successful
+João Neves,PSG,62,0,Pass,Pass,SecondHalf,91.8,12.1,81.0,14.6,Successful
+Maghnes Akliouche,PSG,62,3,Pass,Pass,SecondHalf,79.6,16.0,73.9,26.8,Successful
+Achraf Hakimi,PSG,62,6,Pass,Pass,SecondHalf,72.4,32.5,63.8,48.8,Successful
+Willian Pacho,PSG,62,8,Pass,Pass,SecondHalf,63.9,49.1,69.8,64.5,Successful
+Vitinha,PSG,62,11,Pass,Pass,SecondHalf,68.7,70.6,74.6,87.1,Successful
+Fabián Ruiz,PSG,62,13,Pass,Pass,SecondHalf,73.1,86.2,71.8,76.3,Successful
+Khvicha Kvaratskhelia,PSG,62,14,Pass,Pass,SecondHalf,73.2,77.9,73.2,92.1,Successful
+Fabián Ruiz,PSG,62,17,Chipped Pass,Pass,SecondHalf,73.1,91.8,96.0,75.2,Successful
+Khvicha Kvaratskhelia,PSG,62,19,Pass,Pass,SecondHalf,96.0,75.1,95.2,72.4,Unsuccessful
+Sadibou Sané,Monaco,62,19,BlockedPass,BlockedPass,SecondHalf,4.8,27.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,62,21,CornerAwarded,CornerAwarded,SecondHalf,95.6,70.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,62,21,CornerAwarded,CornerAwarded,SecondHalf,4.4,30.1,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,62,51,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ferran Torres,PSG,62,51,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,63,7,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lucas Hernández,PSG,63,7,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,63,20,Pass,Pass,SecondHalf,99.5,99.5,97.4,86.5,Successful
+Fabián Ruiz,PSG,63,22,Pass,Pass,SecondHalf,97.2,86.8,87.9,85.9,Successful
+Khvicha Kvaratskhelia,PSG,63,23,Pass,Pass,SecondHalf,87.5,85.3,74.8,76.0,Successful
+Lucas Hernández,PSG,63,28,Pass,Pass,SecondHalf,73.5,73.5,71.2,52.5,Successful
+Vitinha,PSG,63,29,Key Pass,Pass,SecondHalf,71.4,50.8,73.7,29.6,Successful
+Achraf Hakimi,PSG,63,32,Shot on Target,SavedShot,SecondHalf,76.3,32.5,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,63,32,Save,Save,SecondHalf,2.3,50.7,0.0,0.0,Successful
+Paris Brunner,Monaco,63,33,Clearance,Clearance,SecondHalf,7.9,47.7,14.0,37.7,Successful
+Fabián Ruiz,PSG,63,33,Key Pass,BallTouch,SecondHalf,87.0,69.3,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,63,34,Shot on Target,SavedShot,SecondHalf,81.2,74.6,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,63,34,Save,Save,SecondHalf,3.1,49.1,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,63,38,KeeperPickup,KeeperPickup,SecondHalf,7.5,48.3,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,63,48,Pass,Pass,SecondHalf,10.0,49.7,11.1,62.9,Successful
+Eric Dier,Monaco,63,49,Pass,Pass,SecondHalf,12.3,65.5,28.3,72.3,Successful
+Denis Zakaria,Monaco,63,51,Pass,Pass,SecondHalf,28.3,72.6,29.5,94.3,Successful
+Flávio Nazinho,Monaco,63,54,Long Pass,Pass,SecondHalf,29.6,94.7,59.0,78.7,Successful
+Mamadou Coulibaly,Monaco,63,57,Pass,Pass,SecondHalf,73.5,76.2,81.7,66.5,Successful
+Paris Brunner,Monaco,64,1,Unsuccessful Dribble,TakeOn,SecondHalf,88.8,67.2,0.0,0.0,Unsuccessful
+Lucas Hernández,PSG,64,1,Was Dribbled,Tackle,SecondHalf,11.1,32.8,0.0,0.0,Unsuccessful
+Paris Brunner,Monaco,64,4,Key Pass,Pass,SecondHalf,88.1,69.3,76.9,63.9,Successful
+Stanis Idumbo,Monaco,64,6,Shot off Target,MissedShots,SecondHalf,77.4,61.7,0.0,0.0,Successful
+Matvey Safonov,PSG,64,19,Long Pass,Pass,SecondHalf,3.8,50.6,32.2,84.5,Successful
+Fabián Ruiz,PSG,64,20,Pass,Pass,SecondHalf,31.9,87.3,36.6,78.3,Successful
+Maghnes Akliouche,PSG,64,23,Foul,Foul,SecondHalf,37.0,84.4,0.0,0.0,Successful
+Eric Dier,Monaco,64,23,Foul,Foul,SecondHalf,63.0,15.6,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,64,34,Pass,Pass,SecondHalf,44.3,87.6,39.9,80.0,Successful
+Vitinha,PSG,64,37,Pass,Pass,SecondHalf,38.0,72.9,20.4,50.8,Successful
+Willian Pacho,PSG,64,40,Pass,Pass,SecondHalf,17.8,50.5,20.5,22.8,Successful
+Marquinhos,PSG,64,45,Pass,Pass,SecondHalf,11.4,15.0,36.9,4.7,Successful
+Ferran Torres,PSG,64,49,Long Pass,Pass,SecondHalf,31.8,7.4,68.2,3.0,Successful
+Vitinha,PSG,64,53,Pass,Pass,SecondHalf,78.2,4.1,78.2,7.6,Unsuccessful
+Lamine Camara,Monaco,64,53,BlockedPass,BlockedPass,SecondHalf,21.8,92.4,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,64,58,KeeperPickup,KeeperPickup,SecondHalf,8.4,56.7,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,65,9,Pass,Pass,SecondHalf,11.8,50.0,18.0,18.5,Successful
+Sadibou Sané,Monaco,65,14,Pass,Pass,SecondHalf,31.7,24.2,45.4,36.2,Successful
+Mamadou Coulibaly,Monaco,65,18,Pass,Pass,SecondHalf,43.2,32.3,36.3,23.0,Unsuccessful
+Maghnes Akliouche,PSG,65,22,Ball Recovery,BallRecovery,SecondHalf,63.3,76.8,0.0,0.0,Successful
+Maghnes Akliouche,PSG,65,24,Pass,Pass,SecondHalf,62.4,60.4,62.9,42.1,Successful
+Vitinha,PSG,65,26,Pass,Pass,SecondHalf,66.3,34.7,75.3,14.6,Successful
+Achraf Hakimi,PSG,65,29,Cross,Pass,SecondHalf,80.1,8.4,87.2,26.8,Unsuccessful
+Flávio Nazinho,Monaco,65,30,Clearance,Clearance,SecondHalf,13.1,71.4,8.2,50.2,Successful
+Denis Zakaria,Monaco,65,32,Clearance,Clearance,SecondHalf,8.1,50.0,15.2,59.2,Successful
+Flávio Nazinho,Monaco,65,36,Ball Recovery,BallRecovery,SecondHalf,27.5,75.3,0.0,0.0,Successful
+Flávio Nazinho,Monaco,65,36,Pass,Pass,SecondHalf,28.6,74.6,42.5,53.0,Successful
+Aleksandr Golovin,Monaco,65,38,Loss of Possession,Dispossessed,SecondHalf,52.8,51.7,0.0,0.0,Successful
+João Neves,PSG,65,38,Successful Tackle,Tackle,SecondHalf,47.2,48.3,0.0,0.0,Successful
+Willian Pacho,PSG,65,40,Ball Recovery,BallRecovery,SecondHalf,36.3,58.2,0.0,0.0,Successful
+Willian Pacho,PSG,65,41,Pass,Pass,SecondHalf,35.9,58.8,31.4,36.4,Successful
+Marquinhos,PSG,65,45,Long Pass,Pass,SecondHalf,29.1,29.3,45.6,70.1,Successful
+João Neves,PSG,65,53,Pass,Pass,SecondHalf,78.2,81.1,81.8,92.4,Successful
+Khvicha Kvaratskhelia,PSG,65,54,Pass,Pass,SecondHalf,81.8,92.4,79.6,83.0,Successful
+Fabián Ruiz,PSG,65,56,Pass,Pass,SecondHalf,79.5,82.8,84.4,80.5,Successful
+Khvicha Kvaratskhelia,PSG,65,57,Pass,Pass,SecondHalf,87.0,73.8,82.6,55.7,Unsuccessful
+Lamine Camara,Monaco,66,0,Ball Recovery,BallRecovery,SecondHalf,15.6,49.7,0.0,0.0,Successful
+Lamine Camara,Monaco,66,5,Unsuccessful Dribble,TakeOn,SecondHalf,25.6,47.6,0.0,0.0,Unsuccessful
+Maghnes Akliouche,PSG,66,5,Successful Tackle,Tackle,SecondHalf,74.4,52.4,0.0,0.0,Successful
+Lamine Camara,Monaco,66,6,BallTouch,BallTouch,SecondHalf,24.9,48.8,0.0,0.0,Successful
+João Neves,PSG,66,7,Ball Recovery,BallRecovery,SecondHalf,73.3,54.5,0.0,0.0,Successful
+João Neves,PSG,66,8,Through Ball,Pass,SecondHalf,73.1,53.6,87.4,51.7,Unsuccessful
+Sadibou Sané,Monaco,66,12,Interception,Interception,SecondHalf,12.6,48.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,66,16,Throw In,Pass,SecondHalf,78.6,0.0,69.1,18.0,Successful
+Marquinhos,PSG,66,21,Chipped Pass,Pass,SecondHalf,64.8,20.6,57.1,52.8,Successful
+Willian Pacho,PSG,66,24,Pass,Pass,SecondHalf,57.0,52.6,67.1,69.5,Successful
+Fabián Ruiz,PSG,66,27,Pass,Pass,SecondHalf,67.7,68.7,66.9,51.4,Successful
+Vitinha,PSG,66,30,Chipped Pass,Pass,SecondHalf,66.6,47.7,92.5,26.5,Successful
+Achraf Hakimi,PSG,66,36,Pass,Pass,SecondHalf,97.6,22.9,87.0,32.2,Unsuccessful
+Denis Zakaria,Monaco,66,39,Interception,Interception,SecondHalf,13.0,67.8,0.0,0.0,Successful
+Achraf Hakimi,PSG,66,56,Throw In,Pass,SecondHalf,74.9,0.0,68.2,13.0,Successful
+Fabián Ruiz,PSG,67,4,Pass,Pass,SecondHalf,64.5,34.4,62.6,71.2,Unsuccessful
+Mamadou Coulibaly,Monaco,67,5,Interception,Interception,SecondHalf,37.4,28.8,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,67,6,Foul,Foul,SecondHalf,42.0,22.6,0.0,0.0,Successful
+Lucas Hernández,PSG,67,6,Foul,Foul,SecondHalf,58.0,77.4,0.0,0.0,Unsuccessful
+Lucas Hernández,PSG,67,8,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jordan Teze,Monaco,67,12,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,68,0,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Mika Godts,PSG,68,0,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Maghnes Akliouche,PSG,68,8,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ousmane Dembélé,PSG,68,8,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,68,19,Pass,Pass,SecondHalf,37.5,13.9,43.7,31.7,Successful
+Denis Zakaria,Monaco,68,20,Pass,Pass,SecondHalf,31.5,44.1,26.1,57.4,Successful
+Eric Dier,Monaco,68,22,Pass,Pass,SecondHalf,34.8,53.0,31.9,79.1,Successful
+Flávio Nazinho,Monaco,68,24,Pass,Pass,SecondHalf,34.6,82.0,44.7,93.1,Successful
+Stanis Idumbo,Monaco,68,28,Pass,Pass,SecondHalf,58.8,91.1,79.8,85.2,Successful
+Mamadou Coulibaly,Monaco,68,33,Pass,Pass,SecondHalf,85.1,89.0,74.1,95.9,Successful
+Flávio Nazinho,Monaco,68,37,Pass,Pass,SecondHalf,68.0,92.3,87.8,76.2,Unsuccessful
+Fabián Ruiz,PSG,68,42,Interception,Interception,SecondHalf,12.2,23.8,0.0,0.0,Successful
+Marquinhos,PSG,68,43,Ball Recovery,BallRecovery,SecondHalf,17.0,16.0,0.0,0.0,Successful
+Marquinhos,PSG,68,43,Pass,Pass,SecondHalf,17.3,14.7,28.5,20.8,Successful
+Ousmane Dembélé,PSG,68,44,Pass,Pass,SecondHalf,34.9,21.5,34.4,11.2,Successful
+Achraf Hakimi,PSG,68,47,Pass,Pass,SecondHalf,41.7,24.8,53.4,32.7,Successful
+Ousmane Dembélé,PSG,68,50,Through Ball,Pass,SecondHalf,57.4,45.0,87.1,62.1,Unsuccessful
+Lukás Hrádecky,Monaco,68,52,Ball Recovery,BallRecovery,SecondHalf,15.0,36.2,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,68,58,Pass,Pass,SecondHalf,15.1,41.8,22.7,32.3,Successful
+Sadibou Sané,Monaco,68,59,Pass,Pass,SecondHalf,21.6,31.5,13.1,41.4,Successful
+Paris Brunner,Monaco,69,0,Offside,OffsideGiven,SecondHalf,64.4,54.8,0.0,0.0,Unsuccessful
+Lukás Hrádecky,Monaco,69,6,Long Pass,Pass,SecondHalf,14.9,47.9,58.5,50.3,Successful
+Paris Brunner,Monaco,69,10,Loss of Possession,Dispossessed,SecondHalf,54.8,53.8,0.0,0.0,Successful
+Willian Pacho,PSG,69,10,Was Dribbled,Tackle,SecondHalf,45.2,46.3,0.0,0.0,Unsuccessful
+Paris Brunner,Monaco,69,13,Pass,Pass,SecondHalf,60.7,68.3,65.3,95.5,Successful
+Stanis Idumbo,Monaco,69,22,Pass,Pass,SecondHalf,63.0,80.3,66.9,61.4,Successful
+Paris Brunner,Monaco,69,26,Pass,Pass,SecondHalf,68.0,55.9,63.7,65.9,Successful
+Lamine Camara,Monaco,69,30,Pass,Pass,SecondHalf,62.5,63.9,44.7,62.6,Successful
+Eric Dier,Monaco,69,34,Pass,Pass,SecondHalf,44.2,62.9,54.4,74.7,Successful
+Aleksandr Golovin,Monaco,69,35,Pass,Pass,SecondHalf,54.4,76.5,45.2,91.5,Successful
+Flávio Nazinho,Monaco,69,37,Pass,Pass,SecondHalf,45.3,91.5,36.1,73.3,Successful
+Eric Dier,Monaco,69,42,Pass,Pass,SecondHalf,40.1,66.7,56.7,68.6,Successful
+Mamadou Coulibaly,Monaco,69,44,Offside,OffsidePass,SecondHalf,55.1,67.5,64.4,54.8,Successful
+Fabián Ruiz,PSG,69,44,OffsideProvoked,OffsideProvoked,SecondHalf,37.3,72.6,0.0,0.0,Successful
+Marquinhos,PSG,70,16,Pass,Pass,SecondHalf,26.1,38.5,39.7,25.5,Successful
+João Neves,PSG,70,18,Pass,Pass,SecondHalf,42.6,25.4,35.8,33.4,Successful
+Marquinhos,PSG,70,24,Pass,Pass,SecondHalf,40.3,32.2,32.0,51.7,Successful
+Willian Pacho,PSG,70,25,Pass,Pass,SecondHalf,31.7,52.6,31.9,76.6,Successful
+Lucas Hernández,PSG,70,28,Pass,Pass,SecondHalf,31.9,76.6,11.5,53.7,Successful
+Matvey Safonov,PSG,70,31,Pass,Pass,SecondHalf,11.0,53.2,18.7,14.6,Successful
+Marquinhos,PSG,70,33,Pass,Pass,SecondHalf,18.7,12.5,41.2,0.0,Unsuccessful
+Flávio Nazinho,Monaco,70,42,Long Pass,Pass,SecondHalf,59.3,100.0,39.7,87.6,Successful
+Eric Dier,Monaco,70,45,Pass,Pass,SecondHalf,38.3,87.4,24.0,51.4,Successful
+Lukás Hrádecky,Monaco,70,50,Long Pass,Pass,SecondHalf,16.4,55.8,58.2,73.2,Unsuccessful
+João Neves,PSG,70,52,Pass,Pass,SecondHalf,47.7,27.2,60.9,33.8,Unsuccessful
+Ferran Torres,PSG,70,55,Challenge,Challenge,SecondHalf,59.8,35.2,0.0,0.0,Unsuccessful
+Denis Zakaria,Monaco,70,55,Successful Dribble,TakeOn,SecondHalf,40.2,64.8,0.0,0.0,Successful
+Denis Zakaria,Monaco,71,1,Unsuccessful Dribble,TakeOn,SecondHalf,73.0,48.0,0.0,0.0,Unsuccessful
+Lucas Hernández,PSG,71,1,Was Dribbled,Tackle,SecondHalf,27.0,52.0,0.0,0.0,Unsuccessful
+Aleksandr Golovin,Monaco,71,3,Key Pass,Pass,SecondHalf,72.6,62.3,86.6,70.9,Successful
+Stanis Idumbo,Monaco,71,7,Goal,Goal,SecondHalf,95.1,66.0,0.0,0.0,Successful
+Mamadou Coulibaly,Monaco,72,21,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Anis Soubeir,Monaco,72,21,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Paris Brunner,Monaco,72,29,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Matthis Abline,Monaco,72,29,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ousmane Dembélé,PSG,72,40,Pass,Pass,SecondHalf,50.1,50.0,47.6,19.4,Successful
+Achraf Hakimi,PSG,72,41,Pass,Pass,SecondHalf,47.1,18.7,41.6,40.7,Successful
+Marquinhos,PSG,72,43,Pass,Pass,SecondHalf,41.5,41.3,39.4,77.2,Successful
+Lucas Hernández,PSG,72,46,Pass,Pass,SecondHalf,39.5,78.8,46.9,89.2,Successful
+Mika Godts,PSG,72,51,Pass,Pass,SecondHalf,46.1,86.1,31.0,52.8,Successful
+Willian Pacho,PSG,72,53,Pass,Pass,SecondHalf,30.9,50.9,34.6,27.2,Successful
+Marquinhos,PSG,72,55,Long Pass,Pass,SecondHalf,34.3,26.5,33.2,89.6,Successful
+Lucas Hernández,PSG,72,58,Chipped Pass,Pass,SecondHalf,33.2,89.6,37.2,87.8,Unsuccessful
+Anis Soubeir,Monaco,72,59,BallTouch,BallTouch,SecondHalf,62.5,5.3,0.0,0.0,Successful
+Lucas Hernández,PSG,73,6,Long Pass,Pass,SecondHalf,35.8,100.0,21.2,70.1,Successful
+Willian Pacho,PSG,73,10,Pass,Pass,SecondHalf,24.6,57.1,19.7,27.2,Successful
+Marquinhos,PSG,73,13,Pass,Pass,SecondHalf,20.0,18.6,30.3,3.4,Successful
+Ferran Torres,PSG,73,15,Pass,Pass,SecondHalf,30.0,5.1,32.1,13.2,Successful
+Achraf Hakimi,PSG,73,18,Pass,Pass,SecondHalf,30.4,6.8,9.9,13.9,Successful
+Marquinhos,PSG,73,20,Pass,Pass,SecondHalf,10.1,14.2,3.4,42.6,Successful
+Matvey Safonov,PSG,73,23,Pass,Pass,SecondHalf,3.4,42.4,7.2,85.6,Successful
+Vitinha,PSG,73,28,Pass,Pass,SecondHalf,9.8,82.8,25.4,78.9,Successful
+Fabián Ruiz,PSG,73,30,Pass,Pass,SecondHalf,28.1,81.7,35.4,96.0,Successful
+Lucas Hernández,PSG,73,32,Pass,Pass,SecondHalf,35.0,96.3,43.4,92.7,Successful
+Mika Godts,PSG,73,34,BallTouch,BallTouch,SecondHalf,43.4,92.7,0.0,0.0,Unsuccessful
+Anis Soubeir,Monaco,73,36,Ball Recovery,BallRecovery,SecondHalf,66.8,11.9,0.0,0.0,Successful
+Anis Soubeir,Monaco,73,37,Pass,Pass,SecondHalf,65.0,15.0,60.4,36.5,Successful
+Lamine Camara,Monaco,73,39,Pass,Pass,SecondHalf,60.5,36.4,64.9,55.6,Successful
+Stanis Idumbo,Monaco,73,41,Pass,Pass,SecondHalf,65.6,53.0,46.1,46.4,Successful
+Eric Dier,Monaco,73,46,Pass,Pass,SecondHalf,48.6,44.7,43.6,15.4,Successful
+Sadibou Sané,Monaco,73,50,Pass,Pass,SecondHalf,42.2,20.3,29.3,47.1,Successful
+Lukás Hrádecky,Monaco,73,52,Pass,Pass,SecondHalf,29.3,47.4,31.2,67.6,Successful
+Flávio Nazinho,Monaco,73,55,Pass,Pass,SecondHalf,30.4,67.0,14.4,45.0,Successful
+Lukás Hrádecky,Monaco,73,57,Long Pass,Pass,SecondHalf,14.1,44.4,65.0,53.2,Successful
+Matthis Abline,Monaco,74,3,Pass,Pass,SecondHalf,66.1,53.2,63.8,29.8,Unsuccessful
+Lucas Hernández,PSG,74,5,Pass,Pass,SecondHalf,38.0,72.9,43.0,73.1,Successful
+Fabián Ruiz,PSG,74,9,Pass,Pass,SecondHalf,43.0,73.1,40.7,67.8,Successful
+Vitinha,PSG,74,10,Ball Recovery,BallRecovery,SecondHalf,38.8,70.9,0.0,0.0,Successful
+Vitinha,PSG,74,10,Pass,Pass,SecondHalf,38.1,72.0,34.0,82.0,Successful
+Lucas Hernández,PSG,74,11,Pass,Pass,SecondHalf,33.6,83.0,29.3,65.9,Successful
+João Neves,PSG,74,14,Pass,Pass,SecondHalf,29.4,63.0,27.9,29.9,Successful
+Marquinhos,PSG,74,16,Pass,Pass,SecondHalf,28.5,26.3,41.6,7.8,Successful
+Achraf Hakimi,PSG,74,22,Pass,Pass,SecondHalf,56.5,37.3,50.8,55.9,Successful
+Fabián Ruiz,PSG,74,26,Long Pass,Pass,SecondHalf,57.1,64.7,86.4,91.9,Successful
+Mika Godts,PSG,74,30,Pass,Pass,SecondHalf,91.3,82.0,78.6,72.4,Successful
+Vitinha,PSG,74,33,Pass,Pass,SecondHalf,79.4,68.4,75.4,65.8,Successful
+Fabián Ruiz,PSG,74,35,Pass,Pass,SecondHalf,75.3,66.7,82.7,83.3,Successful
+Mika Godts,PSG,74,36,Pass,Pass,SecondHalf,86.8,84.0,97.8,71.7,Successful
+Vitinha,PSG,74,39,Chipped Pass,Pass,SecondHalf,98.4,70.3,97.8,49.4,Unsuccessful
+Flávio Nazinho,Monaco,74,41,Clearance,Clearance,SecondHalf,2.0,51.4,14.2,43.9,Successful
+Fabián Ruiz,PSG,74,44,BallTouch,BallTouch,SecondHalf,88.3,55.4,0.0,0.0,Unsuccessful
+Lamine Camara,Monaco,74,44,BallTouch,BallTouch,SecondHalf,11.1,43.0,0.0,0.0,Successful
+Anis Soubeir,Monaco,74,46,Clearance,Clearance,SecondHalf,15.6,41.1,36.2,24.5,Successful
+Lucas Hernández,PSG,74,47,Key Pass,Pass,SecondHalf,70.9,76.3,78.2,84.4,Successful
+Mika Godts,PSG,74,50,Shot off Target,MissedShots,SecondHalf,78.2,69.7,0.0,0.0,Successful
+Fabián Ruiz,PSG,75,2,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Dro Fernández,PSG,75,2,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Eric Dier,Monaco,75,20,Pass,Pass,SecondHalf,3.6,59.6,5.6,49.4,Successful
+Lukás Hrádecky,Monaco,75,21,Pass,Pass,SecondHalf,5.6,49.2,20.9,53.0,Successful
+Lamine Camara,Monaco,75,22,Pass,Pass,SecondHalf,20.9,53.0,8.9,70.8,Successful
+Eric Dier,Monaco,75,25,Chipped Pass,Pass,SecondHalf,9.5,74.6,38.5,87.6,Unsuccessful
+Marquinhos,PSG,75,27,Pass,Pass,SecondHalf,65.8,21.8,75.8,30.7,Successful
+Vitinha,PSG,75,30,Pass,Pass,SecondHalf,75.6,30.7,73.9,41.6,Successful
+Dro Fernández,PSG,75,31,BallTouch,BallTouch,SecondHalf,73.9,41.6,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,75,32,Ball Recovery,BallRecovery,SecondHalf,25.7,57.3,0.0,0.0,Successful
+Eric Dier,Monaco,75,32,Pass,Pass,SecondHalf,25.6,57.3,26.5,55.8,Unsuccessful
+Dro Fernández,PSG,75,32,BlockedPass,BlockedPass,SecondHalf,73.5,44.2,0.0,0.0,Successful
+Sadibou Sané,Monaco,75,35,Clearance,Clearance,SecondHalf,19.6,53.6,30.4,80.5,Successful
+Achraf Hakimi,PSG,75,35,Pass,Pass,SecondHalf,71.5,18.0,68.3,25.4,Successful
+Marquinhos,PSG,75,36,Ball Recovery,BallRecovery,SecondHalf,68.3,25.4,0.0,0.0,Successful
+Marquinhos,PSG,75,37,Long Pass,Pass,SecondHalf,68.6,25.4,80.7,78.3,Unsuccessful
+Jordan Teze,Monaco,75,40,Clearance,Clearance,SecondHalf,23.5,16.6,31.9,38.9,Successful
+João Neves,PSG,75,44,Pass,Pass,SecondHalf,65.9,60.1,62.8,79.7,Successful
+Lucas Hernández,PSG,75,45,Pass,Pass,SecondHalf,62.6,79.9,68.6,92.1,Successful
+Mika Godts,PSG,75,47,Pass,Pass,SecondHalf,68.7,90.9,67.9,75.8,Successful
+Dro Fernández,PSG,75,53,Unsuccessful Dribble,TakeOn,SecondHalf,86.3,69.8,0.0,0.0,Unsuccessful
+Sadibou Sané,Monaco,75,53,Successful Tackle,Tackle,SecondHalf,13.7,30.2,0.0,0.0,Successful
+Dro Fernández,PSG,75,54,BallTouch,BallTouch,SecondHalf,84.1,70.0,0.0,0.0,Successful
+Sadibou Sané,Monaco,75,55,Ball Recovery,BallRecovery,SecondHalf,13.9,31.5,0.0,0.0,Successful
+Sadibou Sané,Monaco,75,55,Pass,Pass,SecondHalf,14.4,32.4,22.2,41.5,Successful
+Denis Zakaria,Monaco,75,56,Pass,Pass,SecondHalf,22.2,41.5,23.3,32.3,Successful
+Lamine Camara,Monaco,75,57,BallTouch,BallTouch,SecondHalf,23.3,32.3,0.0,0.0,Successful
+Ousmane Dembélé,PSG,76,0,Offside,OffsideGiven,SecondHalf,92.2,25.8,0.0,0.0,Unsuccessful
+Anis Soubeir,Monaco,76,0,Pass,Pass,SecondHalf,15.5,16.3,21.8,8.6,Successful
+Jordan Teze,Monaco,76,1,Pass,Pass,SecondHalf,22.0,8.9,37.8,33.5,Successful
+Matthis Abline,Monaco,76,3,Loss of Possession,Dispossessed,SecondHalf,51.1,49.1,0.0,0.0,Successful
+Willian Pacho,PSG,76,3,Successful Tackle,Tackle,SecondHalf,48.9,50.9,0.0,0.0,Successful
+Marquinhos,PSG,76,4,Loss of Possession,Dispossessed,SecondHalf,45.6,45.4,0.0,0.0,Successful
+Matthis Abline,Monaco,76,4,Was Dribbled,Tackle,SecondHalf,54.4,54.6,0.0,0.0,Unsuccessful
+Matvey Safonov,PSG,76,8,Ball Recovery,BallRecovery,SecondHalf,38.2,34.8,0.0,0.0,Successful
+Matvey Safonov,PSG,76,8,Pass,Pass,SecondHalf,38.3,35.5,54.7,14.7,Successful
+Achraf Hakimi,PSG,76,12,Pass,Pass,SecondHalf,70.7,11.0,79.5,5.4,Successful
+Ousmane Dembélé,PSG,76,13,Pass,Pass,SecondHalf,81.3,7.6,80.9,24.0,Successful
+Achraf Hakimi,PSG,76,15,Unsuccessful Dribble,TakeOn,SecondHalf,85.0,32.6,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,76,15,Was Dribbled,Tackle,SecondHalf,15.0,67.4,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,76,16,Offside,OffsidePass,SecondHalf,87.0,30.3,92.2,25.8,Successful
+Jordan Teze,Monaco,76,16,OffsideProvoked,OffsideProvoked,SecondHalf,11.0,41.3,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,76,49,Long Pass,Pass,SecondHalf,15.0,65.9,65.5,72.0,Successful
+Matthis Abline,Monaco,76,52,Aerial Won,Aerial,SecondHalf,65.5,72.0,0.0,0.0,Successful
+Willian Pacho,PSG,76,52,Aerial Lost,Aerial,SecondHalf,34.5,28.0,0.0,0.0,Unsuccessful
+Matthis Abline,Monaco,76,52,BallTouch,BallTouch,SecondHalf,65.7,72.0,0.0,0.0,Unsuccessful
+Willian Pacho,PSG,76,56,Clearance,Clearance,SecondHalf,33.1,30.2,40.1,33.4,Successful
+João Neves,PSG,76,57,Aerial Won,Aerial,SecondHalf,40.1,33.4,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,76,57,Aerial Lost,Aerial,SecondHalf,59.9,66.6,0.0,0.0,Unsuccessful
+João Neves,PSG,76,57,Pass,Pass,SecondHalf,40.1,33.4,41.4,32.8,Successful
+Vitinha,PSG,76,58,Pass,Pass,SecondHalf,41.6,32.2,41.5,37.8,Successful
+Dro Fernández,PSG,76,59,Pass,Pass,SecondHalf,41.5,38.5,41.6,29.1,Successful
+Vitinha,PSG,77,0,Ball Recovery,BallRecovery,SecondHalf,42.2,26.5,0.0,0.0,Successful
+Vitinha,PSG,77,1,Pass,Pass,SecondHalf,43.3,25.4,48.0,29.0,Successful
+Ousmane Dembélé,PSG,77,2,Pass,Pass,SecondHalf,48.7,27.9,46.1,0.0,Unsuccessful
+Flávio Nazinho,Monaco,77,11,Throw In,Pass,SecondHalf,54.1,100.0,51.3,90.3,Successful
+Aleksandr Golovin,Monaco,77,12,Pass,Pass,SecondHalf,49.4,89.4,44.8,95.3,Successful
+Flávio Nazinho,Monaco,77,13,Pass,Pass,SecondHalf,44.7,95.5,30.3,84.1,Successful
+Eric Dier,Monaco,77,14,Pass,Pass,SecondHalf,30.3,84.1,10.4,57.9,Successful
+Lukás Hrádecky,Monaco,77,18,Long Pass,Pass,SecondHalf,9.2,55.3,51.6,65.2,Successful
+Aleksandr Golovin,Monaco,77,21,Pass,Pass,SecondHalf,52.2,64.9,60.4,66.2,Successful
+Matthis Abline,Monaco,77,23,Pass,Pass,SecondHalf,61.3,70.6,63.2,100.0,Unsuccessful
+Marquinhos,PSG,77,29,Throw In,Pass,SecondHalf,38.3,0.0,34.5,20.0,Successful
+Willian Pacho,PSG,77,35,Pass,Pass,SecondHalf,19.6,40.1,27.8,76.2,Successful
+Lucas Hernández,PSG,77,39,Pass,Pass,SecondHalf,26.4,75.5,30.1,61.3,Successful
+Vitinha,PSG,77,41,Chipped Pass,Pass,SecondHalf,28.0,58.0,45.8,46.9,Successful
+Ferran Torres,PSG,77,43,Pass,Pass,SecondHalf,44.8,47.5,47.0,48.1,Unsuccessful
+Eric Dier,Monaco,77,43,BlockedPass,BlockedPass,SecondHalf,53.0,51.9,0.0,0.0,Successful
+Ferran Torres,PSG,77,47,Pass,Pass,SecondHalf,45.3,66.9,44.0,78.2,Successful
+Dro Fernández,PSG,77,50,Pass,Pass,SecondHalf,44.8,67.6,39.4,57.7,Successful
+Vitinha,PSG,77,53,Long Pass,Pass,SecondHalf,39.6,52.8,68.5,28.5,Successful
+Ousmane Dembélé,PSG,77,55,Pass,Pass,SecondHalf,68.7,28.0,93.8,19.2,Successful
+Achraf Hakimi,PSG,77,57,Cross,Pass,SecondHalf,93.8,19.2,93.6,25.7,Unsuccessful
+Flávio Nazinho,Monaco,77,58,Clearance,Clearance,SecondHalf,6.4,74.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,78,0,CornerAwarded,CornerAwarded,SecondHalf,93.8,22.1,0.0,0.0,Successful
+Flávio Nazinho,Monaco,78,0,CornerAwarded,CornerAwarded,SecondHalf,6.2,77.9,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,78,11,Pass,Pass,SecondHalf,99.5,0.5,96.8,27.6,Successful
+Achraf Hakimi,PSG,78,13,Pass,Pass,SecondHalf,96.8,27.9,93.1,43.8,Unsuccessful
+Jordan Teze,Monaco,78,16,Clearance,Clearance,SecondHalf,12.4,52.1,34.2,95.2,Successful
+Dro Fernández,PSG,78,21,Pass,Pass,SecondHalf,68.2,10.5,61.3,34.8,Successful
+Vitinha,PSG,78,24,Long Pass,Pass,SecondHalf,62.6,36.4,85.7,87.6,Successful
+Mika Godts,PSG,78,32,Pass,Pass,SecondHalf,78.7,61.0,74.9,25.9,Successful
+Dro Fernández,PSG,78,34,Pass,Pass,SecondHalf,76.7,30.0,92.3,25.1,Successful
+Ousmane Dembélé,PSG,78,35,Pass,Pass,SecondHalf,92.4,25.1,92.6,34.4,Unsuccessful
+Eric Dier,Monaco,78,37,Interception,Interception,SecondHalf,7.4,65.6,0.0,0.0,Successful
+Ousmane Dembélé,PSG,78,37,CornerAwarded,CornerAwarded,SecondHalf,90.8,33.4,0.0,0.0,Successful
+Eric Dier,Monaco,78,37,CornerAwarded,CornerAwarded,SecondHalf,9.2,66.6,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,78,44,Pass,Pass,SecondHalf,99.5,0.5,78.6,13.3,Successful
+Achraf Hakimi,PSG,78,46,Pass,Pass,SecondHalf,78.1,14.4,89.0,9.1,Successful
+Ousmane Dembélé,PSG,78,47,Cross,Pass,SecondHalf,88.1,10.7,91.1,55.1,Unsuccessful
+Jordan Teze,Monaco,78,49,Clearance,Clearance,SecondHalf,8.1,51.5,10.4,21.8,Successful
+Mika Godts,PSG,78,53,Cross,Pass,SecondHalf,90.4,73.7,92.4,44.3,Unsuccessful
+Stanis Idumbo,Monaco,78,55,Clearance,Clearance,SecondHalf,8.3,54.1,14.9,65.5,Successful
+Matthis Abline,Monaco,78,57,Clearance,Clearance,SecondHalf,12.8,61.2,12.8,68.5,Successful
+Stanis Idumbo,Monaco,78,59,Clearance,Clearance,SecondHalf,12.6,69.6,14.8,78.5,Successful
+Aleksandr Golovin,Monaco,79,1,Ball Recovery,BallRecovery,SecondHalf,12.0,89.6,0.0,0.0,Successful
+Aleksandr Golovin,Monaco,79,4,Long Pass,Pass,SecondHalf,9.0,95.8,37.1,85.2,Successful
+João Neves,PSG,79,11,Challenge,Challenge,SecondHalf,46.1,11.4,0.0,0.0,Unsuccessful
+Matthis Abline,Monaco,79,11,Successful Dribble,TakeOn,SecondHalf,53.9,88.6,0.0,0.0,Successful
+Matthis Abline,Monaco,79,19,Loss of Possession,Dispossessed,SecondHalf,69.7,93.9,0.0,0.0,Successful
+Dro Fernández,PSG,79,19,Successful Tackle,Tackle,SecondHalf,30.3,6.1,0.0,0.0,Successful
+João Neves,PSG,79,21,Ball Recovery,BallRecovery,SecondHalf,22.2,6.5,0.0,0.0,Successful
+João Neves,PSG,79,22,Pass,Pass,SecondHalf,22.3,7.0,22.5,21.7,Successful
+Vitinha,PSG,79,29,Long Pass,Pass,SecondHalf,37.0,37.6,75.2,14.9,Successful
+Achraf Hakimi,PSG,79,34,BallTouch,BallTouch,SecondHalf,80.5,19.2,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,79,35,Ball Recovery,BallRecovery,SecondHalf,12.8,74.6,0.0,0.0,Successful
+Flávio Nazinho,Monaco,79,35,Pass,Pass,SecondHalf,12.9,76.8,28.4,88.8,Successful
+Stanis Idumbo,Monaco,79,38,Pass,Pass,SecondHalf,29.1,91.4,34.3,69.7,Successful
+Lamine Camara,Monaco,79,43,Pass,Pass,SecondHalf,34.1,65.8,35.3,54.9,Successful
+Aleksandr Golovin,Monaco,79,45,Pass,Pass,SecondHalf,35.5,54.7,39.0,25.3,Unsuccessful
+Lucas Hernández,PSG,79,46,Interception,Interception,SecondHalf,61.0,74.7,0.0,0.0,Successful
+Mika Godts,PSG,79,47,Ball Recovery,BallRecovery,SecondHalf,63.6,74.6,0.0,0.0,Successful
+Jordan Teze,Monaco,79,48,Challenge,Challenge,SecondHalf,32.6,27.6,0.0,0.0,Unsuccessful
+Mika Godts,PSG,79,48,Successful Dribble,TakeOn,SecondHalf,67.4,72.4,0.0,0.0,Successful
+Mika Godts,PSG,79,51,Pass,Pass,SecondHalf,76.3,56.3,78.7,53.2,Unsuccessful
+Sadibou Sané,Monaco,79,51,BlockedPass,BlockedPass,SecondHalf,21.3,46.8,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,79,55,KeeperPickup,KeeperPickup,SecondHalf,7.0,49.4,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,80,10,Long Pass,Pass,SecondHalf,8.7,47.4,46.3,55.3,Successful
+Matthis Abline,Monaco,80,12,Loss of Possession,Dispossessed,SecondHalf,40.1,63.8,0.0,0.0,Successful
+Willian Pacho,PSG,80,12,Successful Tackle,Tackle,SecondHalf,59.9,36.2,0.0,0.0,Successful
+Achraf Hakimi,PSG,80,13,Ball Recovery,BallRecovery,SecondHalf,67.0,29.9,0.0,0.0,Successful
+Achraf Hakimi,PSG,80,14,Pass,Pass,SecondHalf,67.0,30.0,68.6,43.3,Successful
+Vitinha,PSG,80,16,Pass,Pass,SecondHalf,69.5,42.7,82.2,48.8,Successful
+Ousmane Dembélé,PSG,80,18,BallTouch,BallTouch,SecondHalf,82.5,48.8,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,80,19,Clearance,Clearance,SecondHalf,15.2,52.4,29.8,45.5,Successful
+Dro Fernández,PSG,80,20,Pass,Pass,SecondHalf,66.9,57.1,71.1,50.5,Successful
+Vitinha,PSG,80,24,Pass,Pass,SecondHalf,70.7,54.3,78.0,86.4,Successful
+Mika Godts,PSG,80,27,Pass,Pass,SecondHalf,79.1,82.8,89.0,76.0,Unsuccessful
+Jordan Teze,Monaco,80,29,Interception,Interception,SecondHalf,11.0,24.0,0.0,0.0,Successful
+Jordan Teze,Monaco,80,30,Ball Recovery,BallRecovery,SecondHalf,12.6,24.2,0.0,0.0,Successful
+Jordan Teze,Monaco,80,30,Pass,Pass,SecondHalf,12.6,24.2,16.8,32.9,Successful
+Lamine Camara,Monaco,80,33,Pass,Pass,SecondHalf,23.0,26.5,13.6,16.8,Successful
+Jordan Teze,Monaco,80,35,Pass,Pass,SecondHalf,13.3,17.3,19.5,24.5,Successful
+Lamine Camara,Monaco,80,36,Chipped Pass,Pass,SecondHalf,19.3,24.8,24.3,5.4,Successful
+Anis Soubeir,Monaco,80,39,Unsuccessful Dribble,TakeOn,SecondHalf,27.2,6.3,0.0,0.0,Unsuccessful
+Lucas Hernández,PSG,80,40,Pass,Pass,SecondHalf,65.9,91.6,56.5,84.0,Successful
+João Neves,PSG,80,42,Ball Recovery,BallRecovery,SecondHalf,56.5,83.6,0.0,0.0,Successful
+João Neves,PSG,80,43,Pass,Pass,SecondHalf,55.1,79.4,51.2,34.7,Successful
+Marquinhos,PSG,80,47,Pass,Pass,SecondHalf,57.7,28.5,70.6,7.9,Successful
+Achraf Hakimi,PSG,80,50,Pass,Pass,SecondHalf,70.2,7.3,70.5,26.6,Successful
+Ousmane Dembélé,PSG,80,55,Long Pass,Pass,SecondHalf,69.2,39.5,89.1,89.0,Successful
+Mika Godts,PSG,81,1,Cross,Pass,SecondHalf,90.4,80.0,91.4,76.9,Unsuccessful
+Jordan Teze,Monaco,81,1,Clearance,Clearance,SecondHalf,8.6,23.1,0.0,0.0,Successful
+Mika Godts,PSG,81,4,Cross,Pass,SecondHalf,94.7,84.5,93.1,58.4,Unsuccessful
+Sadibou Sané,Monaco,81,7,Clearance,Clearance,SecondHalf,8.3,43.2,25.9,27.7,Successful
+Matthis Abline,Monaco,81,9,Ball Recovery,BallRecovery,SecondHalf,27.0,26.0,0.0,0.0,Successful
+Matthis Abline,Monaco,81,9,Pass,Pass,SecondHalf,27.4,25.1,25.7,23.3,Successful
+Anis Soubeir,Monaco,81,10,Pass,Pass,SecondHalf,25.4,23.2,27.5,36.1,Successful
+Lamine Camara,Monaco,81,15,Pass,Pass,SecondHalf,32.9,34.8,38.8,9.2,Successful
+Anis Soubeir,Monaco,81,18,Pass,Pass,SecondHalf,40.5,8.8,48.1,6.3,Unsuccessful
+Lucas Hernández,PSG,81,21,Ball Recovery,BallRecovery,SecondHalf,44.5,95.7,0.0,0.0,Successful
+Lucas Hernández,PSG,81,22,Pass,Pass,SecondHalf,44.8,96.3,37.0,87.0,Successful
+Willian Pacho,PSG,81,27,Pass,Pass,SecondHalf,36.3,75.8,42.7,67.8,Successful
+Vitinha,PSG,81,30,Pass,Pass,SecondHalf,43.5,65.8,47.9,79.7,Successful
+João Neves,PSG,81,34,Pass,Pass,SecondHalf,64.1,79.6,76.1,95.2,Successful
+Mika Godts,PSG,81,37,Unsuccessful Dribble,TakeOn,SecondHalf,74.1,88.6,0.0,0.0,Unsuccessful
+Jordan Teze,Monaco,81,37,Successful Tackle,Tackle,SecondHalf,25.9,11.4,0.0,0.0,Successful
+Anis Soubeir,Monaco,81,39,Ball Recovery,BallRecovery,SecondHalf,30.7,6.5,0.0,0.0,Successful
+Anis Soubeir,Monaco,81,41,Loss of Possession,Dispossessed,SecondHalf,27.4,6.0,0.0,0.0,Successful
+Dro Fernández,PSG,81,41,Successful Tackle,Tackle,SecondHalf,72.6,94.0,0.0,0.0,Successful
+Dro Fernández,PSG,81,41,Ball Recovery,BallRecovery,SecondHalf,78.5,92.4,0.0,0.0,Successful
+Dro Fernández,PSG,81,44,Pass,Pass,SecondHalf,78.3,72.9,73.9,52.3,Successful
+Ferran Torres,PSG,81,45,Pass,Pass,SecondHalf,74.8,50.8,74.8,33.4,Successful
+Achraf Hakimi,PSG,81,47,Pass,Pass,SecondHalf,74.7,33.0,83.2,18.1,Successful
+Ousmane Dembélé,PSG,81,50,Pass,Pass,SecondHalf,86.3,21.1,81.3,31.4,Successful
+Achraf Hakimi,PSG,81,51,Pass,Pass,SecondHalf,81.2,31.4,86.1,29.6,Successful
+Ferran Torres,PSG,81,52,Pass,Pass,SecondHalf,86.1,29.6,97.9,22.0,Successful
+Ousmane Dembélé,PSG,81,54,Cross,Pass,SecondHalf,97.9,22.3,89.6,55.3,Unsuccessful
+Lamine Camara,Monaco,81,57,Pass,Pass,SecondHalf,11.2,46.1,4.0,41.7,Successful
+Lukás Hrádecky,Monaco,81,59,KeeperPickup,KeeperPickup,SecondHalf,4.0,41.7,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,82,8,Pass,Pass,SecondHalf,11.5,49.7,25.7,34.7,Successful
+Sadibou Sané,Monaco,82,10,BallTouch,BallTouch,SecondHalf,25.7,34.7,0.0,0.0,Successful
+Stanis Idumbo,Monaco,82,12,Pass,Pass,SecondHalf,34.1,58.6,27.6,59.7,Successful
+Denis Zakaria,Monaco,82,14,Pass,Pass,SecondHalf,27.6,59.7,25.3,38.5,Successful
+Lamine Camara,Monaco,82,21,Pass,Pass,SecondHalf,28.9,32.1,20.5,16.0,Successful
+Sadibou Sané,Monaco,82,22,Pass,Pass,SecondHalf,20.5,16.0,24.9,8.3,Successful
+Jordan Teze,Monaco,82,23,Pass,Pass,SecondHalf,24.9,8.3,26.0,21.8,Successful
+Denis Zakaria,Monaco,82,24,Pass,Pass,SecondHalf,26.0,21.8,33.4,10.0,Successful
+Anis Soubeir,Monaco,82,25,Loss of Possession,Dispossessed,SecondHalf,33.8,14.5,0.0,0.0,Successful
+Lucas Hernández,PSG,82,25,Was Dribbled,Tackle,SecondHalf,66.2,85.5,0.0,0.0,Unsuccessful
+Anis Soubeir,Monaco,82,26,Pass,Pass,SecondHalf,33.0,8.6,36.2,18.0,Successful
+Denis Zakaria,Monaco,82,29,Pass,Pass,SecondHalf,41.9,35.7,43.6,53.3,Successful
+Stanis Idumbo,Monaco,82,31,Pass,Pass,SecondHalf,44.2,56.1,60.6,91.5,Successful
+Aleksandr Golovin,Monaco,82,39,Pass,Pass,SecondHalf,63.5,89.9,62.7,77.6,Successful
+Stanis Idumbo,Monaco,82,42,Pass,Pass,SecondHalf,61.4,75.3,48.0,53.6,Successful
+Lamine Camara,Monaco,82,45,Pass,Pass,SecondHalf,48.0,53.6,59.5,32.0,Successful
+Denis Zakaria,Monaco,82,46,Pass,Pass,SecondHalf,59.5,32.0,45.1,27.3,Successful
+Sadibou Sané,Monaco,82,50,Pass,Pass,SecondHalf,55.7,46.8,55.8,54.9,Successful
+Denis Zakaria,Monaco,82,54,Pass,Pass,SecondHalf,54.5,63.6,58.1,89.1,Successful
+Flávio Nazinho,Monaco,82,55,Pass,Pass,SecondHalf,58.6,89.3,62.3,72.1,Successful
+Stanis Idumbo,Monaco,82,57,Pass,Pass,SecondHalf,62.3,72.1,59.9,71.5,Successful
+Ousmane Dembélé,PSG,83,0,Offside,OffsideGiven,SecondHalf,86.8,34.6,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,83,1,Pass,Pass,SecondHalf,68.3,58.2,73.8,58.5,Unsuccessful
+Achraf Hakimi,PSG,83,1,Ball Recovery,BallRecovery,SecondHalf,26.6,36.4,0.0,0.0,Successful
+Achraf Hakimi,PSG,83,2,Pass,Pass,SecondHalf,26.6,36.5,26.8,48.0,Successful
+João Neves,PSG,83,6,Pass,Pass,SecondHalf,30.1,62.5,32.8,79.2,Successful
+Lucas Hernández,PSG,83,9,Pass,Pass,SecondHalf,34.4,78.5,42.1,64.7,Successful
+Mika Godts,PSG,83,11,Pass,Pass,SecondHalf,40.8,68.0,35.7,81.6,Successful
+Lucas Hernández,PSG,83,13,Pass,Pass,SecondHalf,35.7,79.9,28.8,66.7,Successful
+João Neves,PSG,83,16,Pass,Pass,SecondHalf,28.9,64.9,31.5,28.3,Successful
+Marquinhos,PSG,83,19,Pass,Pass,SecondHalf,31.5,27.6,44.5,24.8,Successful
+Ousmane Dembélé,PSG,83,21,Pass,Pass,SecondHalf,44.5,25.4,41.2,34.8,Successful
+Vitinha,PSG,83,23,Pass,Pass,SecondHalf,42.6,29.6,58.2,4.2,Successful
+Achraf Hakimi,PSG,83,26,Pass,Pass,SecondHalf,60.6,3.6,54.2,15.5,Successful
+Vitinha,PSG,83,31,Pass,Pass,SecondHalf,54.0,24.2,46.4,60.2,Successful
+João Neves,PSG,83,34,Pass,Pass,SecondHalf,50.5,65.2,70.0,95.2,Successful
+Mika Godts,PSG,83,40,Pass,Pass,SecondHalf,78.2,87.6,76.0,76.9,Successful
+Lucas Hernández,PSG,83,41,Pass,Pass,SecondHalf,75.9,76.9,72.1,65.9,Successful
+Vitinha,PSG,83,44,Offside,OffsidePass,SecondHalf,74.9,62.6,86.8,34.6,Successful
+Flávio Nazinho,Monaco,83,44,OffsideProvoked,OffsideProvoked,SecondHalf,14.1,59.1,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,84,41,Long Pass,Pass,SecondHalf,11.6,49.8,67.0,64.9,Unsuccessful
+João Neves,PSG,84,45,Aerial Won,Aerial,SecondHalf,33.0,35.1,0.0,0.0,Successful
+Matthis Abline,Monaco,84,45,Aerial Lost,Aerial,SecondHalf,67.0,64.9,0.0,0.0,Unsuccessful
+João Neves,PSG,84,45,Pass,Pass,SecondHalf,33.0,35.1,36.0,32.7,Unsuccessful
+Matthis Abline,Monaco,84,46,BallTouch,BallTouch,SecondHalf,67.0,64.9,0.0,0.0,Successful
+Vitinha,PSG,84,47,Ball Recovery,BallRecovery,SecondHalf,44.2,27.1,0.0,0.0,Successful
+Vitinha,PSG,84,48,Pass,Pass,SecondHalf,44.0,21.7,35.6,7.9,Successful
+Achraf Hakimi,PSG,84,51,Pass,Pass,SecondHalf,34.4,8.1,19.6,14.1,Successful
+Marquinhos,PSG,84,52,Pass,Pass,SecondHalf,19.4,13.9,19.0,54.0,Successful
+Willian Pacho,PSG,84,56,Pass,Pass,SecondHalf,19.0,54.0,30.1,86.2,Successful
+Lucas Hernández,PSG,84,59,Pass,Pass,SecondHalf,28.9,92.6,40.2,94.9,Successful
+Mika Godts,PSG,85,3,Pass,Pass,SecondHalf,40.9,96.1,34.8,82.5,Successful
+Dro Fernández,PSG,85,4,Pass,Pass,SecondHalf,35.4,83.1,27.5,89.8,Successful
+Lucas Hernández,PSG,85,6,Pass,Pass,SecondHalf,29.2,86.4,18.6,52.5,Successful
+Willian Pacho,PSG,85,9,Pass,Pass,SecondHalf,18.1,51.1,22.6,30.0,Successful
+Marquinhos,PSG,85,11,Pass,Pass,SecondHalf,23.5,26.5,31.3,14.9,Successful
+Vitinha,PSG,85,13,Pass,Pass,SecondHalf,31.7,14.9,37.1,34.1,Successful
+João Neves,PSG,85,15,Pass,Pass,SecondHalf,36.8,33.3,33.2,56.5,Successful
+Willian Pacho,PSG,85,19,Pass,Pass,SecondHalf,36.8,59.8,39.6,47.2,Successful
+João Neves,PSG,85,21,Pass,Pass,SecondHalf,39.4,46.9,46.3,46.6,Successful
+Vitinha,PSG,85,23,Pass,Pass,SecondHalf,47.9,42.9,56.1,24.3,Successful
+Ousmane Dembélé,PSG,85,28,Long Pass,Pass,SecondHalf,61.4,28.8,75.9,94.0,Successful
+Mika Godts,PSG,85,38,Pass,Pass,SecondHalf,72.8,67.3,74.8,27.1,Successful
+Ousmane Dembélé,PSG,85,39,Pass,Pass,SecondHalf,74.7,26.6,92.5,22.9,Successful
+Achraf Hakimi,PSG,85,42,Pass,Pass,SecondHalf,92.7,22.8,88.3,34.5,Unsuccessful
+Stanis Idumbo,Monaco,85,44,Clearance,Clearance,SecondHalf,11.0,72.4,7.1,100.0,Successful
+Aleksandr Golovin,Monaco,86,7,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Safouane Benzahra,Monaco,86,7,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Stanis Idumbo,Monaco,86,11,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Christian Mawissa,Monaco,86,11,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,86,12,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,86,20,Long Pass,Pass,SecondHalf,90.3,0.0,68.1,5.1,Successful
+Marquinhos,PSG,86,23,Pass,Pass,SecondHalf,68.7,6.4,68.5,41.5,Successful
+Vitinha,PSG,86,25,Pass,Pass,SecondHalf,68.7,48.1,70.0,76.6,Successful
+Lucas Hernández,PSG,86,28,Pass,Pass,SecondHalf,69.6,76.2,65.9,64.4,Successful
+Vitinha,PSG,86,30,Pass,Pass,SecondHalf,62.8,58.5,63.8,25.7,Successful
+Marquinhos,PSG,86,34,Key Pass,Pass,SecondHalf,65.2,21.8,92.6,29.9,Successful
+Achraf Hakimi,PSG,86,36,Shot off Target,MissedShots,SecondHalf,92.6,29.9,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,87,2,Long Pass,Pass,SecondHalf,5.0,50.2,52.6,100.0,Unsuccessful
+Marquinhos,PSG,87,9,Throw In,Pass,SecondHalf,45.8,0.0,36.7,6.7,Successful
+João Neves,PSG,87,12,Pass,Pass,SecondHalf,38.7,8.7,33.1,44.9,Successful
+Willian Pacho,PSG,87,14,Pass,Pass,SecondHalf,33.0,46.6,37.1,78.5,Successful
+Lucas Hernández,PSG,87,16,Pass,Pass,SecondHalf,36.8,78.9,46.7,93.5,Successful
+Mika Godts,PSG,87,22,Unsuccessful Dribble,TakeOn,SecondHalf,60.2,95.2,0.0,0.0,Unsuccessful
+Jordan Teze,Monaco,87,22,Successful Tackle,Tackle,SecondHalf,39.7,4.8,0.0,0.0,Successful
+Lucas Hernández,PSG,87,30,Throw In,Pass,SecondHalf,56.9,100.0,44.8,89.3,Successful
+Dro Fernández,PSG,87,33,Pass,Pass,SecondHalf,44.3,83.4,37.4,60.8,Successful
+Willian Pacho,PSG,87,38,Pass,Pass,SecondHalf,35.4,57.9,43.9,74.3,Successful
+Vitinha,PSG,87,41,Pass,Pass,SecondHalf,46.6,74.3,46.8,32.4,Successful
+Marquinhos,PSG,87,45,Chipped Pass,Pass,SecondHalf,51.5,31.3,69.3,4.2,Successful
+Achraf Hakimi,PSG,87,48,Pass,Pass,SecondHalf,69.5,4.0,79.6,5.1,Successful
+João Neves,PSG,87,51,Pass,Pass,SecondHalf,78.1,5.7,56.0,13.9,Successful
+Marquinhos,PSG,87,56,Pass,Pass,SecondHalf,59.8,20.8,48.8,48.1,Successful
+Willian Pacho,PSG,87,58,Pass,Pass,SecondHalf,46.9,52.5,54.0,70.9,Successful
+Vitinha,PSG,88,2,Pass,Pass,SecondHalf,63.6,63.5,67.3,40.2,Successful
+Ousmane Dembélé,PSG,88,6,Pass,Pass,SecondHalf,75.1,36.8,76.4,41.2,Successful
+Achraf Hakimi,PSG,88,9,Pass,Pass,SecondHalf,75.9,37.6,73.6,24.6,Successful
+Dro Fernández,PSG,88,10,Pass,Pass,SecondHalf,72.9,23.2,79.5,10.7,Successful
+João Neves,PSG,88,12,Pass,Pass,SecondHalf,79.8,9.5,74.2,25.4,Successful
+Achraf Hakimi,PSG,88,13,Pass,Pass,SecondHalf,75.0,24.5,77.3,22.5,Unsuccessful
+Safouane Benzahra,Monaco,88,13,BlockedPass,BlockedPass,SecondHalf,22.7,77.5,0.0,0.0,Successful
+Marquinhos,PSG,88,16,Pass,Pass,SecondHalf,68.2,35.3,70.1,65.3,Successful
+Vitinha,PSG,88,19,Pass,Pass,SecondHalf,68.4,69.3,75.3,83.3,Successful
+Mika Godts,PSG,88,24,Pass,Pass,SecondHalf,81.6,81.3,74.5,76.8,Successful
+Vitinha,PSG,88,26,Pass,Pass,SecondHalf,71.5,73.1,68.7,32.2,Successful
+Marquinhos,PSG,88,28,Pass,Pass,SecondHalf,68.5,31.7,77.4,24.5,Successful
+Ousmane Dembélé,PSG,88,32,Pass,Pass,SecondHalf,77.7,29.7,80.3,42.3,Successful
+Ferran Torres,PSG,88,35,Pass,Pass,SecondHalf,79.4,36.5,70.1,35.1,Successful
+Marquinhos,PSG,88,36,Pass,Pass,SecondHalf,70.0,34.7,76.6,24.5,Successful
+Ousmane Dembélé,PSG,88,38,Pass,Pass,SecondHalf,77.5,27.1,82.8,39.0,Unsuccessful
+Lamine Camara,Monaco,88,41,Interception,Interception,SecondHalf,17.2,61.0,0.0,0.0,Successful
+Lamine Camara,Monaco,88,44,Ball Recovery,BallRecovery,SecondHalf,27.3,58.3,0.0,0.0,Successful
+Lamine Camara,Monaco,88,45,Long Pass,Pass,SecondHalf,32.0,55.0,70.0,37.0,Unsuccessful
+Matvey Safonov,PSG,88,48,KeeperSweeper,KeeperSweeper,SecondHalf,26.8,71.8,0.0,0.0,Successful
+Matvey Safonov,PSG,88,49,Clearance,Clearance,SecondHalf,26.7,72.1,68.6,83.7,Successful
+Mika Godts,PSG,88,51,Ball Recovery,BallRecovery,SecondHalf,69.1,84.7,0.0,0.0,Successful
+Jordan Teze,Monaco,88,52,Challenge,Challenge,SecondHalf,30.2,14.8,0.0,0.0,Unsuccessful
+Mika Godts,PSG,88,52,Successful Dribble,TakeOn,SecondHalf,69.8,85.2,0.0,0.0,Successful
+Mika Godts,PSG,88,55,Pass,Pass,SecondHalf,71.3,57.6,72.2,42.6,Successful
+Ousmane Dembélé,PSG,88,58,Key Pass,Pass,SecondHalf,75.6,31.7,79.5,41.0,Successful
+Mika Godts,PSG,89,1,Shot on Target,SavedShot,SecondHalf,81.7,50.9,0.0,0.0,Successful
+Safouane Benzahra,Monaco,89,1,Save,Save,SecondHalf,17.9,48.3,0.0,0.0,Successful
+Dro Fernández,PSG,89,3,Pass,Pass,SecondHalf,73.4,70.4,76.2,87.0,Successful
+Lucas Hernández,PSG,89,4,Pass,Pass,SecondHalf,76.2,87.0,79.0,85.6,Successful
+Vitinha,PSG,89,6,Long Pass,Pass,SecondHalf,75.0,83.3,71.4,24.8,Successful
+Achraf Hakimi,PSG,89,11,Pass,Pass,SecondHalf,70.8,25.2,67.4,33.3,Successful
+Marquinhos,PSG,89,14,Pass,Pass,SecondHalf,68.2,32.7,67.8,56.8,Successful
+Dro Fernández,PSG,89,16,Pass,Pass,SecondHalf,67.8,56.8,70.9,65.0,Successful
+Vitinha,PSG,89,19,Pass,Pass,SecondHalf,70.6,60.5,68.3,63.0,Successful
+Dro Fernández,PSG,89,20,Pass,Pass,SecondHalf,69.6,66.7,75.3,84.7,Successful
+Lucas Hernández,PSG,89,23,Pass,Pass,SecondHalf,75.2,83.7,70.8,73.4,Successful
+Vitinha,PSG,89,26,Pass,Pass,SecondHalf,69.9,61.5,68.4,32.0,Successful
+Marquinhos,PSG,89,28,Pass,Pass,SecondHalf,70.7,29.3,76.8,9.9,Successful
+Achraf Hakimi,PSG,89,31,Pass,Pass,SecondHalf,76.3,13.8,78.1,23.1,Successful
+Ousmane Dembélé,PSG,89,33,Pass,Pass,SecondHalf,78.1,23.2,74.9,16.0,Successful
+Achraf Hakimi,PSG,89,37,Pass,Pass,SecondHalf,73.4,30.3,64.1,50.6,Successful
+Willian Pacho,PSG,89,38,Pass,Pass,SecondHalf,64.1,50.6,68.2,65.6,Successful
+Lucas Hernández,PSG,89,41,Pass,Pass,SecondHalf,68.0,68.6,79.0,88.1,Successful
+Mika Godts,PSG,89,45,Unsuccessful Dribble,TakeOn,SecondHalf,83.4,83.4,0.0,0.0,Unsuccessful
+Anis Soubeir,Monaco,89,45,Successful Tackle,Tackle,SecondHalf,16.6,16.6,0.0,0.0,Successful
+Anis Soubeir,Monaco,89,46,Ball Recovery,BallRecovery,SecondHalf,24.8,9.5,0.0,0.0,Successful
+Anis Soubeir,Monaco,89,49,Loss of Possession,Dispossessed,SecondHalf,28.3,2.3,0.0,0.0,Successful
+Mika Godts,PSG,89,49,Successful Tackle,Tackle,SecondHalf,71.8,97.8,0.0,0.0,Successful
+Jordan Teze,Monaco,90,4,Throw In,Pass,SecondHalf,27.7,0.0,15.4,7.9,Successful
+Sadibou Sané,Monaco,90,6,Chipped Pass,Pass,SecondHalf,14.7,7.9,44.2,10.1,Unsuccessful
+Lucas Hernández,PSG,90,7,Pass,Pass,SecondHalf,53.1,84.0,63.9,85.9,Unsuccessful
+Anis Soubeir,Monaco,90,8,Aerial Won,Aerial,SecondHalf,36.1,14.1,0.0,0.0,Successful
+Dro Fernández,PSG,90,8,Aerial Lost,Aerial,SecondHalf,63.9,85.9,0.0,0.0,Unsuccessful
+Anis Soubeir,Monaco,90,9,Pass,Pass,SecondHalf,36.1,14.1,55.2,8.5,Successful
+Safouane Benzahra,Monaco,90,10,BallTouch,BallTouch,SecondHalf,55.2,8.5,0.0,0.0,Unsuccessful
+Lucas Hernández,PSG,90,12,Long Pass,Pass,SecondHalf,45.6,80.3,70.5,77.7,Successful
+Mika Godts,PSG,90,14,BallTouch,BallTouch,SecondHalf,69.8,77.7,0.0,0.0,Unsuccessful
+Jordan Teze,Monaco,90,17,Clearance,Clearance,SecondHalf,29.8,23.2,51.9,47.4,Successful
+Achraf Hakimi,PSG,90,21,Ball Recovery,BallRecovery,SecondHalf,62.3,25.1,0.0,0.0,Successful
+Achraf Hakimi,PSG,90,21,Pass,Pass,SecondHalf,64.2,21.4,73.9,6.0,Successful
+Ousmane Dembélé,PSG,90,24,Pass,Pass,SecondHalf,77.8,18.4,70.9,31.1,Successful
+João Neves,PSG,90,27,Pass,Pass,SecondHalf,70.4,25.1,73.9,19.8,Successful
+Ousmane Dembélé,PSG,90,33,Pass,Pass,SecondHalf,77.1,18.6,96.6,43.0,Unsuccessful
+Lukás Hrádecky,Monaco,90,39,KeeperPickup,KeeperPickup,SecondHalf,3.4,55.3,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,90,52,Long Pass,Pass,SecondHalf,11.4,50.2,65.0,71.5,Successful
+Matthis Abline,Monaco,90,56,Aerial Won,Aerial,SecondHalf,65.0,71.5,0.0,0.0,Successful
+Willian Pacho,PSG,90,56,Aerial Lost,Aerial,SecondHalf,35.0,28.5,0.0,0.0,Unsuccessful
+Matthis Abline,Monaco,90,56,BallTouch,BallTouch,SecondHalf,65.0,71.5,0.0,0.0,Unsuccessful
+Marquinhos,PSG,90,57,Pass,Pass,SecondHalf,30.6,22.8,15.3,35.3,Successful
+Matvey Safonov,PSG,91,1,KeeperPickup,KeeperPickup,SecondHalf,15.3,34.8,0.0,0.0,Successful
+Matvey Safonov,PSG,91,1,Pass,Pass,SecondHalf,15.3,34.8,31.4,64.5,Successful
+Vitinha,PSG,91,5,Pass,Pass,SecondHalf,30.8,71.2,34.3,86.5,Successful
+Lucas Hernández,PSG,91,8,Pass,Pass,SecondHalf,42.5,89.0,56.3,97.2,Successful
+Dro Fernández,PSG,91,11,Pass,Pass,SecondHalf,56.2,97.0,43.8,90.9,Successful
+Lucas Hernández,PSG,91,14,Pass,Pass,SecondHalf,43.0,86.5,38.8,71.4,Successful
+Vitinha,PSG,91,15,Pass,Pass,SecondHalf,38.2,71.0,38.2,24.6,Successful
+Marquinhos,PSG,91,19,Pass,Pass,SecondHalf,41.8,26.8,44.8,31.3,Successful
+João Neves,PSG,91,21,Pass,Pass,SecondHalf,45.1,31.4,35.7,28.8,Successful
+Marquinhos,PSG,91,22,Pass,Pass,SecondHalf,36.1,36.4,35.7,67.3,Successful
+Vitinha,PSG,91,25,Pass,Pass,SecondHalf,33.9,70.9,59.7,88.5,Successful
+Mika Godts,PSG,91,33,Pass,Pass,SecondHalf,65.4,74.0,65.3,30.3,Successful
+João Neves,PSG,91,39,Pass,Pass,SecondHalf,68.0,18.6,78.1,5.0,Successful
+Achraf Hakimi,PSG,91,41,Pass,Pass,SecondHalf,78.1,5.0,66.6,18.9,Successful
+Marquinhos,PSG,91,42,Pass,Pass,SecondHalf,66.3,19.8,71.8,53.6,Successful
+Vitinha,PSG,91,46,Key Pass,Pass,SecondHalf,69.5,53.6,81.4,89.3,Successful
+Mika Godts,PSG,91,54,Shot on Target,SavedShot,SecondHalf,80.6,72.8,0.0,0.0,Successful
+Sadibou Sané,Monaco,91,54,Save,Save,SecondHalf,8.8,39.7,0.0,0.0,Successful
+Lucas Hernández,PSG,92,5,Long Pass,Pass,SecondHalf,84.8,100.0,63.2,88.2,Successful
+Vitinha,PSG,92,11,Pass,Pass,SecondHalf,62.1,56.7,62.6,30.5,Successful
+Marquinhos,PSG,92,14,Chipped Pass,Pass,SecondHalf,61.1,30.2,83.5,28.0,Unsuccessful
+Christian Mawissa,Monaco,92,18,Interception,Interception,SecondHalf,16.5,72.0,0.0,0.0,Successful
+Flávio Nazinho,Monaco,92,20,Ball Recovery,BallRecovery,SecondHalf,23.3,82.3,0.0,0.0,Successful
+Flávio Nazinho,Monaco,92,21,Pass,Pass,SecondHalf,23.6,83.8,30.3,69.1,Successful
+Dro Fernández,PSG,92,21,Challenge,Challenge,SecondHalf,71.2,30.4,0.0,0.0,Unsuccessful
+Denis Zakaria,Monaco,92,21,Successful Dribble,TakeOn,SecondHalf,28.8,69.6,0.0,0.0,Successful
+Denis Zakaria,Monaco,92,23,Long Pass,Pass,SecondHalf,34.9,67.7,65.6,92.9,Successful
+Matthis Abline,Monaco,92,32,Pass,Pass,SecondHalf,98.6,66.1,91.8,32.1,Unsuccessful
+Lucas Hernández,PSG,92,33,Ball Recovery,BallRecovery,SecondHalf,10.6,73.1,0.0,0.0,Successful
+Lucas Hernández,PSG,92,38,Pass,Pass,SecondHalf,29.6,90.5,42.2,94.7,Successful
+Mika Godts,PSG,92,41,Chipped Pass,Pass,SecondHalf,42.8,95.0,64.2,93.3,Unsuccessful
+Sadibou Sané,Monaco,92,43,Clearance,Clearance,SecondHalf,27.5,10.0,32.2,0.0,Successful
+Lucas Hernández,PSG,92,49,Throw In,Pass,SecondHalf,67.5,100.0,53.6,86.2,Successful
+João Neves,PSG,92,52,Pass,Pass,SecondHalf,54.0,84.5,56.1,81.9,Successful
+Mika Godts,PSG,92,56,Pass,Pass,SecondHalf,58.0,62.8,67.3,30.2,Successful
+Ousmane Dembélé,PSG,92,59,Pass,Pass,SecondHalf,67.7,29.0,78.7,7.0,Successful
+Achraf Hakimi,PSG,93,2,Pass,Pass,SecondHalf,81.9,11.5,74.8,25.5,Successful
+Ousmane Dembélé,PSG,93,3,Pass,Pass,SecondHalf,74.9,28.3,76.5,51.2,Successful
+Mika Godts,PSG,93,6,Key Pass,Pass,SecondHalf,78.8,43.8,84.1,31.3,Successful
+Ousmane Dembélé,PSG,93,8,Shot off Target,MissedShots,SecondHalf,82.5,32.2,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,93,34,Long Pass,Pass,SecondHalf,2.0,53.0,59.8,97.8,Successful
+Flávio Nazinho,Monaco,93,36,Pass,Pass,SecondHalf,59.8,97.8,66.2,89.4,Unsuccessful
+João Neves,PSG,93,37,Chipped Pass,Pass,SecondHalf,39.6,15.6,47.7,10.1,Successful
+Achraf Hakimi,PSG,93,38,Pass,Pass,SecondHalf,48.2,9.0,37.9,15.3,Successful
+João Neves,PSG,93,40,Ball Recovery,BallRecovery,SecondHalf,35.4,16.7,0.0,0.0,Successful
+João Neves,PSG,93,41,Pass,Pass,SecondHalf,35.3,16.7,15.5,46.6,Successful
+Matvey Safonov,PSG,93,46,Pass,Pass,SecondHalf,21.8,48.8,31.2,79.1,Successful
+Lucas Hernández,PSG,93,49,Pass,Pass,SecondHalf,33.5,82.7,44.0,93.5,Successful
+Mika Godts,PSG,93,51,Pass,Pass,SecondHalf,43.8,89.8,44.7,75.5,Successful
+Vitinha,PSG,93,54,Long Pass,Pass,SecondHalf,44.9,70.3,70.1,41.2,Unsuccessful
+Christian Mawissa,Monaco,93,57,Clearance,Clearance,SecondHalf,28.0,61.7,31.4,53.0,Successful
+Dro Fernández,PSG,93,58,Loss of Possession,Dispossessed,SecondHalf,68.8,56.2,0.0,0.0,Successful
+Lamine Camara,Monaco,93,58,Was Dribbled,Tackle,SecondHalf,31.2,43.7,0.0,0.0,Unsuccessful
+Mika Godts,PSG,94,0,Pass,Pass,SecondHalf,64.7,60.7,56.7,46.6,Successful
+Marquinhos,PSG,94,3,Pass,Pass,SecondHalf,58.0,43.0,76.1,5.6,Successful
+Achraf Hakimi,PSG,94,10,Unsuccessful Dribble,TakeOn,SecondHalf,76.8,21.4,0.0,0.0,Unsuccessful
+Flávio Nazinho,Monaco,94,10,Was Dribbled,Tackle,SecondHalf,23.2,78.6,0.0,0.0,Unsuccessful
+Marquinhos,PSG,94,12,Long Pass,Pass,SecondHalf,75.9,25.4,80.1,75.8,Successful
+Lucas Hernández,PSG,94,14,Pass,Pass,SecondHalf,79.9,75.8,69.1,69.8,Successful
+Vitinha,PSG,94,19,Pass,Pass,SecondHalf,71.5,63.3,72.2,31.6,Successful
+Marquinhos,PSG,94,21,Pass,Pass,SecondHalf,72.0,29.0,82.2,9.5,Successful
+João Neves,PSG,94,24,Pass,Pass,SecondHalf,82.0,9.0,79.5,20.6,Successful
+Flávio Nazinho,Monaco,94,29,Challenge,Challenge,SecondHalf,6.2,76.4,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,94,29,Successful Dribble,TakeOn,SecondHalf,93.9,24.0,0.0,0.0,Successful
+Ousmane Dembélé,PSG,94,31,Chipped Pass,Pass,SecondHalf,98.1,27.6,95.0,50.9,Unsuccessful
+Sadibou Sané,Monaco,94,33,Clearance,Clearance,SecondHalf,5.9,49.4,16.9,53.9,Successful
+João Neves,PSG,94,33,Pass,Pass,SecondHalf,89.3,40.1,84.7,51.7,Successful
+Mika Godts,PSG,94,34,Key Pass,Pass,SecondHalf,84.2,51.4,78.0,60.3,Successful
+Vitinha,PSG,94,36,Shot on Target,SavedShot,SecondHalf,78.0,60.3,0.0,0.0,Successful
+Jordan Teze,Monaco,94,36,Save,Save,SecondHalf,10.3,43.5,0.0,0.0,Successful
+Lucas Hernández,PSG,94,38,BallTouch,BallTouch,SecondHalf,86.3,68.9,0.0,0.0,Successful
+Vitinha,PSG,94,42,Pass,Pass,SecondHalf,71.2,85.3,66.5,42.1,Successful
+Marquinhos,PSG,94,45,Pass,Pass,SecondHalf,66.4,32.0,82.2,11.6,Successful
+Achraf Hakimi,PSG,94,47,Key Pass,Pass,SecondHalf,82.2,11.2,78.0,17.8,Successful
+Ousmane Dembélé,PSG,94,51,Shot on Target,SavedShot,SecondHalf,81.2,30.5,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,94,51,Save,Save,SecondHalf,2.0,50.8,0.0,0.0,Successful
+Lukás Hrádecky,Monaco,94,55,CornerAwarded,CornerAwarded,SecondHalf,9.4,58.2,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,94,55,CornerAwarded,CornerAwarded,SecondHalf,90.6,41.8,0.0,0.0,Successful
+Vitinha,PSG,95,24,Cross,Pass,SecondHalf,99.5,99.5,94.9,53.1,Unsuccessful
+Eric Dier,Monaco,95,26,Aerial Won,Aerial,SecondHalf,5.1,46.9,0.0,0.0,Successful
+Willian Pacho,PSG,95,26,Aerial Lost,Aerial,SecondHalf,94.9,53.1,0.0,0.0,Unsuccessful
+Eric Dier,Monaco,95,27,Clearance,Clearance,SecondHalf,5.1,46.9,2.8,33.8,Successful
+Jordan Teze,Monaco,95,29,Clearance,Clearance,SecondHalf,2.7,33.6,28.0,2.7,Successful
+,PSG,95,30,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,95,30,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Monaco,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful

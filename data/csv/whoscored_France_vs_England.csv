@@ -1,0 +1,1560 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,France,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,England,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Rayan Cherki,France,0,0,Long Pass,Pass,FirstHalf,49.9,49.7,77.9,0.0,Unsuccessful
+Djed Spence,England,0,6,Throw In,Pass,FirstHalf,19.7,100.0,10.4,91.4,Successful
+Marc Guéhi,England,0,9,Pass,Pass,FirstHalf,13.3,90.3,15.6,74.2,Successful
+Declan Rice,England,0,11,Pass,Pass,FirstHalf,14.3,80.9,10.4,91.1,Successful
+Marc Guéhi,England,0,13,Pass,Pass,FirstHalf,12.5,91.7,3.4,68.5,Successful
+Dean Henderson,England,0,17,Pass,Pass,FirstHalf,4.4,64.8,7.2,84.2,Successful
+Marc Guéhi,England,0,19,Pass,Pass,FirstHalf,6.8,82.3,19.7,96.3,Successful
+Djed Spence,England,0,23,Pass,Pass,FirstHalf,21.1,95.4,9.3,81.1,Successful
+Marc Guéhi,England,0,30,Pass,Pass,FirstHalf,20.4,68.1,28.5,33.6,Successful
+Eberechi Eze,England,0,33,Pass,Pass,FirstHalf,29.8,23.3,29.6,4.3,Successful
+Jarell Quansah,England,0,36,Pass,Pass,FirstHalf,29.6,4.3,11.7,15.9,Successful
+Ezri Konsa,England,0,38,Pass,Pass,FirstHalf,11.7,15.9,3.9,40.1,Successful
+Dean Henderson,England,0,41,Pass,Pass,FirstHalf,5.0,43.1,24.1,72.9,Successful
+Djed Spence,England,0,48,Pass,Pass,FirstHalf,46.3,81.2,60.4,96.3,Successful
+Marcus Rashford,England,0,52,Unsuccessful Dribble,TakeOn,FirstHalf,69.0,82.0,0.0,0.0,Unsuccessful
+Michael Olise,France,0,52,Was Dribbled,Tackle,FirstHalf,31.0,18.0,0.0,0.0,Unsuccessful
+Marcus Rashford,England,0,52,BallTouch,BallTouch,FirstHalf,70.3,83.5,0.0,0.0,Successful
+Michael Olise,France,0,53,BallTouch,BallTouch,FirstHalf,33.0,22.1,0.0,0.0,Successful
+Malo Gusto,France,0,54,BallTouch,BallTouch,FirstHalf,33.0,23.2,0.0,0.0,Unsuccessful
+Marcus Rashford,England,0,56,Pass,Pass,FirstHalf,70.4,86.5,65.7,96.2,Successful
+Djed Spence,England,1,1,Pass,Pass,FirstHalf,61.7,95.4,60.5,83.2,Successful
+Declan Rice,England,1,5,Pass,Pass,FirstHalf,58.7,71.8,53.3,43.3,Successful
+Ezri Konsa,England,1,7,Pass,Pass,FirstHalf,53.2,40.0,54.0,22.2,Successful
+Jarell Quansah,England,1,12,Pass,Pass,FirstHalf,54.0,22.2,45.8,35.7,Successful
+Ezri Konsa,England,1,16,Pass,Pass,FirstHalf,53.7,34.2,66.4,43.6,Successful
+Morgan Rogers,England,1,18,Pass,Pass,FirstHalf,65.6,43.1,66.4,62.6,Successful
+Eberechi Eze,England,1,24,Pass,Pass,FirstHalf,69.5,70.8,81.9,90.5,Successful
+Marcus Rashford,England,1,29,Cross,Pass,FirstHalf,78.0,82.1,90.7,53.9,Unsuccessful
+Maxence Lacroix,France,1,32,Aerial Won,Aerial,FirstHalf,9.3,46.1,0.0,0.0,Successful
+Ivan Toney,England,1,32,Aerial Lost,Aerial,FirstHalf,90.7,53.9,0.0,0.0,Unsuccessful
+Maxence Lacroix,France,1,32,Clearance,Clearance,FirstHalf,9.3,46.1,14.0,73.8,Successful
+Théo Hernández,France,1,35,Ball Recovery,BallRecovery,FirstHalf,13.3,80.0,0.0,0.0,Successful
+Théo Hernández,France,1,37,Pass,Pass,FirstHalf,16.2,90.6,15.5,86.4,Successful
+Adrien Rabiot,France,1,39,Pass,Pass,FirstHalf,15.8,87.8,14.9,93.0,Successful
+Théo Hernández,France,1,40,Pass,Pass,FirstHalf,14.7,93.3,23.4,93.9,Successful
+Désiré Doué,France,1,43,Pass,Pass,FirstHalf,23.5,93.9,20.2,94.2,Successful
+Théo Hernández,France,1,45,Long Pass,Pass,FirstHalf,18.0,94.2,19.5,94.2,Unsuccessful
+Bukayo Saka,England,1,45,BlockedPass,BlockedPass,FirstHalf,80.5,5.8,0.0,0.0,Successful
+Théo Hernández,France,2,3,Throw In,Pass,FirstHalf,6.2,100.0,23.3,93.9,Successful
+Adrien Rabiot,France,2,6,Pass,Pass,FirstHalf,23.3,93.9,36.1,78.8,Successful
+Désiré Doué,France,2,10,Pass,Pass,FirstHalf,36.1,74.2,43.3,34.0,Unsuccessful
+Declan Rice,England,2,11,Interception,Interception,FirstHalf,56.7,66.0,0.0,0.0,Successful
+Declan Rice,England,2,12,Ball Recovery,BallRecovery,FirstHalf,60.0,73.6,0.0,0.0,Successful
+Declan Rice,England,2,14,Goal,Goal,FirstHalf,78.3,64.4,0.0,0.0,Successful
+Kylian Mbappé,France,3,17,Pass,Pass,FirstHalf,50.4,50.0,39.8,57.0,Successful
+Adrien Rabiot,France,3,21,Pass,Pass,FirstHalf,43.2,66.7,59.0,82.8,Successful
+Désiré Doué,France,3,27,Foul,Foul,FirstHalf,59.8,82.9,0.0,0.0,Successful
+Jarell Quansah,England,3,27,Foul,Foul,FirstHalf,40.2,17.1,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,3,37,Pass,Pass,FirstHalf,61.1,86.3,59.1,80.3,Successful
+Rayan Cherki,France,3,38,Pass,Pass,FirstHalf,64.2,75.3,65.3,79.7,Successful
+Kylian Mbappé,France,3,38,Pass,Pass,FirstHalf,65.3,79.7,57.7,68.3,Successful
+Rayan Cherki,France,3,40,Pass,Pass,FirstHalf,55.1,61.9,44.8,40.9,Successful
+Ibrahima Konaté,France,3,43,Pass,Pass,FirstHalf,40.3,30.5,51.8,9.4,Successful
+Malo Gusto,France,3,45,Pass,Pass,FirstHalf,51.9,9.1,43.0,20.1,Successful
+Ibrahima Konaté,France,3,46,Pass,Pass,FirstHalf,42.4,19.8,56.4,21.0,Successful
+Warren Zaïre-Emery,France,3,49,Pass,Pass,FirstHalf,56.4,21.0,53.8,12.5,Successful
+Malo Gusto,France,3,51,Pass,Pass,FirstHalf,59.5,12.2,46.4,13.9,Successful
+Warren Zaïre-Emery,France,3,56,Pass,Pass,FirstHalf,46.3,13.7,40.7,28.3,Successful
+Ibrahima Konaté,France,3,58,Pass,Pass,FirstHalf,39.8,28.8,54.2,41.5,Successful
+Rayan Cherki,France,4,0,Pass,Pass,FirstHalf,54.2,41.9,42.6,37.8,Successful
+Ibrahima Konaté,France,4,3,Pass,Pass,FirstHalf,44.5,40.9,44.9,59.5,Successful
+Adrien Rabiot,France,4,7,Chipped Pass,Pass,FirstHalf,51.0,67.5,68.5,82.9,Successful
+Désiré Doué,France,4,8,Pass,Pass,FirstHalf,68.7,83.5,62.3,89.6,Successful
+Théo Hernández,France,4,11,Pass,Pass,FirstHalf,60.3,92.1,44.0,71.3,Successful
+Maxence Lacroix,France,4,18,Pass,Pass,FirstHalf,43.6,67.5,38.3,52.0,Successful
+Ibrahima Konaté,France,4,21,Pass,Pass,FirstHalf,39.3,58.1,54.3,75.8,Successful
+Adrien Rabiot,France,4,23,Pass,Pass,FirstHalf,54.4,76.8,56.9,90.6,Successful
+Désiré Doué,France,4,25,Pass,Pass,FirstHalf,57.2,92.9,65.2,92.1,Successful
+Adrien Rabiot,France,4,31,Key Pass,Pass,FirstHalf,79.8,95.1,79.4,89.6,Successful
+Kylian Mbappé,France,4,36,Shot on Target,SavedShot,FirstHalf,88.0,73.2,0.0,0.0,Successful
+Declan Rice,England,4,36,Save,Save,FirstHalf,9.4,30.7,0.0,0.0,Successful
+Kylian Mbappé,France,4,37,BallTouch,BallTouch,FirstHalf,87.8,74.2,0.0,0.0,Successful
+Jarell Quansah,England,4,38,Ball Recovery,BallRecovery,FirstHalf,12.5,23.1,0.0,0.0,Successful
+Jarell Quansah,England,4,38,Pass,Pass,FirstHalf,12.5,23.0,26.9,30.6,Unsuccessful
+Théo Hernández,France,4,39,Interception,Interception,FirstHalf,73.1,69.4,0.0,0.0,Successful
+Maxence Lacroix,France,4,40,Ball Recovery,BallRecovery,FirstHalf,69.1,81.9,0.0,0.0,Successful
+Maxence Lacroix,France,4,41,Pass,Pass,FirstHalf,67.8,82.8,71.0,90.0,Successful
+Adrien Rabiot,France,4,42,Pass,Pass,FirstHalf,71.6,91.9,59.5,92.1,Successful
+Maxence Lacroix,France,4,44,Pass,Pass,FirstHalf,59.3,92.2,58.1,81.7,Successful
+Théo Hernández,France,4,46,Pass,Pass,FirstHalf,59.8,76.5,55.9,68.9,Successful
+Warren Zaïre-Emery,France,4,50,Through Ball,Pass,FirstHalf,60.3,62.0,95.7,59.6,Unsuccessful
+Dean Henderson,England,4,55,Ball Recovery,BallRecovery,FirstHalf,9.3,40.4,0.0,0.0,Successful
+Dean Henderson,England,4,58,Pass,Pass,FirstHalf,9.6,44.0,14.7,52.4,Successful
+Declan Rice,England,4,58,Pass,Pass,FirstHalf,14.3,52.7,14.1,25.6,Successful
+Ezri Konsa,England,5,5,Pass,Pass,FirstHalf,26.3,23.3,22.1,59.6,Successful
+Marc Guéhi,England,5,12,Pass,Pass,FirstHalf,40.6,72.4,54.6,58.8,Successful
+Ivan Toney,England,5,14,Pass,Pass,FirstHalf,54.5,58.8,46.7,43.6,Successful
+Declan Rice,England,5,15,Pass,Pass,FirstHalf,47.9,40.6,55.9,8.5,Successful
+Jarell Quansah,England,5,18,Pass,Pass,FirstHalf,55.6,6.8,53.3,26.8,Successful
+Declan Rice,England,5,20,Pass,Pass,FirstHalf,53.9,25.0,50.4,10.6,Successful
+Jarell Quansah,England,5,23,Pass,Pass,FirstHalf,50.8,10.6,61.3,26.7,Successful
+Ivan Toney,England,5,24,Pass,Pass,FirstHalf,60.8,26.4,62.7,5.2,Successful
+Morgan Rogers,England,5,26,Pass,Pass,FirstHalf,61.6,3.2,43.7,8.3,Successful
+Jarell Quansah,England,5,28,Pass,Pass,FirstHalf,43.7,8.3,43.6,22.4,Successful
+Declan Rice,England,5,29,Pass,Pass,FirstHalf,43.2,20.7,58.1,14.7,Successful
+Ivan Toney,England,5,31,Pass,Pass,FirstHalf,61.1,19.7,59.2,31.8,Successful
+Morgan Rogers,England,5,33,Through Ball,Pass,FirstHalf,61.9,32.2,75.1,31.9,Unsuccessful
+Ibrahima Konaté,France,5,35,Ball Recovery,BallRecovery,FirstHalf,25.5,69.2,0.0,0.0,Successful
+Ibrahima Konaté,France,5,36,Pass,Pass,FirstHalf,19.5,69.9,24.8,71.4,Unsuccessful
+Ivan Toney,England,5,37,BallTouch,BallTouch,FirstHalf,70.2,29.4,0.0,0.0,Successful
+Adrien Rabiot,France,5,37,Pass,Pass,FirstHalf,33.0,76.7,30.9,88.4,Successful
+Théo Hernández,France,5,41,Pass,Pass,FirstHalf,37.7,87.4,36.3,93.6,Successful
+Désiré Doué,France,5,42,Pass,Pass,FirstHalf,36.5,94.4,31.4,86.8,Successful
+Adrien Rabiot,France,5,52,Pass,Pass,FirstHalf,36.0,62.0,37.0,78.1,Successful
+Maxence Lacroix,France,5,56,Pass,Pass,FirstHalf,38.6,83.9,59.1,67.1,Successful
+Kylian Mbappé,France,5,58,Pass,Pass,FirstHalf,59.1,67.1,63.0,79.7,Unsuccessful
+Ezri Konsa,England,5,59,Interception,Interception,FirstHalf,37.0,20.3,0.0,0.0,Successful
+Ezri Konsa,England,6,0,Ball Recovery,BallRecovery,FirstHalf,41.4,30.6,0.0,0.0,Successful
+Ezri Konsa,England,6,0,Pass,Pass,FirstHalf,44.2,29.1,65.0,11.1,Successful
+Bukayo Saka,England,6,6,Key Pass,Pass,FirstHalf,85.7,22.4,87.0,50.4,Successful
+Marcus Rashford,England,6,10,Shot on Target,SavedShot,FirstHalf,86.7,59.3,0.0,0.0,Successful
+Malo Gusto,France,6,10,Save,Save,FirstHalf,9.2,43.0,0.0,0.0,Successful
+Marcus Rashford,England,6,11,CornerAwarded,CornerAwarded,FirstHalf,89.4,56.8,0.0,0.0,Successful
+Malo Gusto,France,6,11,CornerAwarded,CornerAwarded,FirstHalf,10.6,43.2,0.0,0.0,Unsuccessful
+Declan Rice,England,6,56,Cross,Pass,FirstHalf,99.5,99.5,92.7,1.9,Successful
+Ezri Konsa,England,7,4,Pass,Pass,FirstHalf,92.7,1.9,77.0,4.0,Successful
+Eberechi Eze,England,7,7,Pass,Pass,FirstHalf,75.0,2.6,85.2,2.8,Successful
+Ezri Konsa,England,7,9,Pass,Pass,FirstHalf,84.9,2.8,91.5,18.3,Unsuccessful
+Adrien Rabiot,France,7,12,BallTouch,BallTouch,FirstHalf,13.4,88.7,0.0,0.0,Unsuccessful
+Morgan Rogers,England,7,14,Key Pass,Pass,FirstHalf,91.5,24.9,86.0,31.8,Successful
+Eberechi Eze,England,7,16,Shot on Target,SavedShot,FirstHalf,87.7,35.4,0.0,0.0,Successful
+Théo Hernández,France,7,16,Save,Save,FirstHalf,9.2,60.8,0.0,0.0,Successful
+Désiré Doué,France,7,19,Ball Recovery,BallRecovery,FirstHalf,23.8,80.2,0.0,0.0,Successful
+Désiré Doué,France,7,19,Pass,Pass,FirstHalf,24.1,80.0,27.9,70.4,Successful
+Rayan Cherki,France,7,20,Through Ball,Pass,FirstHalf,27.9,70.3,64.3,64.5,Successful
+Kylian Mbappé,France,7,23,Loss of Possession,Dispossessed,FirstHalf,66.2,60.8,0.0,0.0,Successful
+Djed Spence,England,7,23,Was Dribbled,Tackle,FirstHalf,33.8,39.2,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,7,24,BallTouch,BallTouch,FirstHalf,64.1,64.6,0.0,0.0,Successful
+Ezri Konsa,England,7,27,Ball Recovery,BallRecovery,FirstHalf,31.7,44.2,0.0,0.0,Successful
+Ezri Konsa,England,7,30,Pass,Pass,FirstHalf,32.6,44.5,37.8,32.5,Successful
+Declan Rice,England,7,32,Pass,Pass,FirstHalf,37.8,32.5,53.3,35.4,Successful
+Morgan Rogers,England,7,36,Pass,Pass,FirstHalf,51.5,31.0,43.3,30.7,Successful
+Declan Rice,England,7,37,Pass,Pass,FirstHalf,40.8,31.3,48.2,34.0,Successful
+Morgan Rogers,England,7,39,Long Pass,Pass,FirstHalf,48.7,36.7,59.0,96.5,Successful
+Marcus Rashford,England,7,45,Pass,Pass,FirstHalf,61.4,92.9,58.2,79.9,Successful
+Eberechi Eze,England,7,46,Pass,Pass,FirstHalf,60.1,80.0,48.0,89.4,Successful
+Djed Spence,England,7,48,Pass,Pass,FirstHalf,48.0,88.1,52.6,54.0,Successful
+Declan Rice,England,7,53,Pass,Pass,FirstHalf,56.3,44.2,65.1,65.2,Successful
+Eberechi Eze,England,7,56,Pass,Pass,FirstHalf,65.6,69.4,74.8,91.1,Successful
+Marcus Rashford,England,7,57,Pass,Pass,FirstHalf,77.7,91.1,92.6,81.4,Successful
+Eberechi Eze,England,8,2,Foul,Foul,FirstHalf,89.8,88.4,0.0,0.0,Successful
+Malo Gusto,France,8,2,Foul,Foul,FirstHalf,10.2,11.6,0.0,0.0,Unsuccessful
+Declan Rice,England,8,54,Cross,Pass,FirstHalf,95.9,88.9,96.7,52.1,Unsuccessful
+Ibrahima Konaté,France,8,57,Clearance,Clearance,FirstHalf,4.4,42.7,11.1,34.3,Successful
+Ivan Toney,England,8,59,BallTouch,BallTouch,FirstHalf,90.8,69.7,0.0,0.0,Unsuccessful
+Rayan Cherki,France,9,1,Ball Recovery,BallRecovery,FirstHalf,14.3,20.3,0.0,0.0,Successful
+Rayan Cherki,France,9,2,Long Pass,Pass,FirstHalf,15.8,18.1,46.9,17.5,Unsuccessful
+Declan Rice,England,9,4,Ball Recovery,BallRecovery,FirstHalf,54.0,86.2,0.0,0.0,Successful
+Declan Rice,England,9,10,Pass,Pass,FirstHalf,38.8,82.7,40.9,68.2,Successful
+Djed Spence,England,9,12,Pass,Pass,FirstHalf,41.8,69.0,39.1,51.5,Successful
+Marc Guéhi,England,9,14,Pass,Pass,FirstHalf,40.1,53.9,40.6,36.0,Successful
+Ezri Konsa,England,9,18,Pass,Pass,FirstHalf,39.7,36.9,38.1,49.4,Successful
+Marc Guéhi,England,9,22,Pass,Pass,FirstHalf,40.6,54.6,37.3,71.2,Successful
+Declan Rice,England,9,24,Pass,Pass,FirstHalf,41.1,73.5,58.4,95.4,Successful
+Djed Spence,England,9,28,Pass,Pass,FirstHalf,58.4,94.4,54.7,83.0,Successful
+Eberechi Eze,England,9,30,Pass,Pass,FirstHalf,54.6,83.0,40.7,95.6,Successful
+Djed Spence,England,9,33,Pass,Pass,FirstHalf,37.5,93.0,15.0,65.2,Successful
+Dean Henderson,England,9,36,Pass,Pass,FirstHalf,14.3,65.4,20.8,65.4,Successful
+Marc Guéhi,England,9,40,Pass,Pass,FirstHalf,27.3,58.7,29.7,35.1,Successful
+Ezri Konsa,England,9,50,Through Ball,Pass,FirstHalf,40.1,40.4,71.3,51.9,Unsuccessful
+Malo Gusto,France,9,51,Interception,Interception,FirstHalf,28.7,48.1,0.0,0.0,Successful
+Malo Gusto,France,9,53,Ball Recovery,BallRecovery,FirstHalf,30.3,38.4,0.0,0.0,Successful
+Malo Gusto,France,9,53,Pass,Pass,FirstHalf,30.9,39.5,30.9,58.5,Successful
+Maxence Lacroix,France,9,56,Pass,Pass,FirstHalf,30.6,61.0,45.9,77.3,Successful
+Bukayo Saka,England,10,0,Offside,OffsideGiven,FirstHalf,70.7,15.0,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,10,1,Pass,Pass,FirstHalf,50.1,75.3,76.5,86.8,Successful
+Théo Hernández,France,10,4,Pass,Pass,FirstHalf,85.2,81.4,84.5,53.8,Successful
+Désiré Doué,France,10,6,Unsuccessful Dribble,TakeOn,FirstHalf,85.6,55.8,0.0,0.0,Unsuccessful
+Marc Guéhi,England,10,6,Was Dribbled,Tackle,FirstHalf,14.4,44.2,0.0,0.0,Unsuccessful
+Rayan Cherki,France,10,7,Shot on Target,SavedShot,FirstHalf,81.8,47.7,0.0,0.0,Successful
+Dean Henderson,England,10,7,Save,Save,FirstHalf,4.0,51.0,0.0,0.0,Successful
+Djed Spence,England,10,9,Clearance,Clearance,FirstHalf,8.1,53.4,29.8,53.6,Successful
+Warren Zaïre-Emery,France,10,12,Shot on Target,SavedShot,FirstHalf,75.0,55.4,0.0,0.0,Successful
+Declan Rice,England,10,12,Save,Save,FirstHalf,21.9,46.8,0.0,0.0,Successful
+Eberechi Eze,England,10,13,BallTouch,BallTouch,FirstHalf,23.0,52.6,0.0,0.0,Successful
+Dean Henderson,England,10,15,Ball Recovery,BallRecovery,FirstHalf,4.2,43.0,0.0,0.0,Successful
+Dean Henderson,England,10,28,Pass,Pass,FirstHalf,4.3,43.0,21.1,65.5,Successful
+Marc Guéhi,England,10,35,Pass,Pass,FirstHalf,24.1,67.9,26.8,86.0,Successful
+Eberechi Eze,England,10,40,Pass,Pass,FirstHalf,22.4,80.9,9.9,46.4,Successful
+Dean Henderson,England,10,44,Long Pass,Pass,FirstHalf,11.1,39.7,33.9,5.9,Successful
+Jarell Quansah,England,10,49,Pass,Pass,FirstHalf,43.4,23.6,43.7,30.7,Successful
+Morgan Rogers,England,10,52,Offside,OffsidePass,FirstHalf,55.7,13.1,70.7,15.0,Successful
+Théo Hernández,France,10,52,OffsideProvoked,OffsideProvoked,FirstHalf,32.8,84.0,0.0,0.0,Successful
+Adrien Rabiot,France,11,18,Pass,Pass,FirstHalf,26.5,76.7,44.6,75.5,Successful
+Kylian Mbappé,France,11,25,Pass,Pass,FirstHalf,79.3,65.6,87.7,50.3,Successful
+Michael Olise,France,11,28,BallTouch,BallTouch,FirstHalf,89.9,50.8,0.0,0.0,Unsuccessful
+Ezri Konsa,England,11,29,BallTouch,BallTouch,FirstHalf,13.6,52.5,0.0,0.0,Successful
+Marc Guéhi,England,11,30,Ball Recovery,BallRecovery,FirstHalf,13.5,52.7,0.0,0.0,Successful
+Marc Guéhi,England,11,31,Pass,Pass,FirstHalf,13.5,53.0,2.7,39.7,Successful
+Djed Spence,England,11,33,Pass,Pass,FirstHalf,4.1,40.1,11.5,20.3,Successful
+Jarell Quansah,England,11,35,Pass,Pass,FirstHalf,11.4,5.8,31.7,6.2,Unsuccessful
+Théo Hernández,France,11,37,Pass,Pass,FirstHalf,69.9,86.3,77.9,81.4,Unsuccessful
+Marc Guéhi,England,11,38,Clearance,Clearance,FirstHalf,14.5,18.8,18.8,11.1,Successful
+Bukayo Saka,England,11,40,Pass,Pass,FirstHalf,9.9,17.7,10.8,3.1,Successful
+Jarell Quansah,England,11,42,Long Pass,Pass,FirstHalf,7.5,3.4,10.9,5.0,Unsuccessful
+Désiré Doué,France,11,42,BlockedPass,BlockedPass,FirstHalf,89.1,95.0,0.0,0.0,Successful
+Jarell Quansah,England,11,48,Long Pass,Pass,FirstHalf,10.6,0.0,29.7,27.1,Unsuccessful
+Adrien Rabiot,France,11,51,Interception,Interception,FirstHalf,70.3,72.9,0.0,0.0,Successful
+Warren Zaïre-Emery,France,11,53,Ball Recovery,BallRecovery,FirstHalf,66.9,69.2,0.0,0.0,Successful
+Warren Zaïre-Emery,France,11,55,Pass,Pass,FirstHalf,65.2,64.0,67.9,67.5,Successful
+Rayan Cherki,France,11,58,Pass,Pass,FirstHalf,67.9,67.5,56.9,60.2,Successful
+Ibrahima Konaté,France,12,1,Pass,Pass,FirstHalf,55.6,53.5,55.1,46.2,Successful
+Warren Zaïre-Emery,France,12,3,Pass,Pass,FirstHalf,54.7,40.7,60.6,9.6,Successful
+Malo Gusto,France,12,6,Pass,Pass,FirstHalf,60.5,8.4,70.9,7.5,Successful
+Michael Olise,France,12,13,Pass,Pass,FirstHalf,67.7,10.2,57.4,18.9,Successful
+Warren Zaïre-Emery,France,12,15,Pass,Pass,FirstHalf,56.2,19.8,47.3,40.2,Successful
+Ibrahima Konaté,France,12,19,Pass,Pass,FirstHalf,54.6,47.0,55.5,78.7,Successful
+Maxence Lacroix,France,12,23,Pass,Pass,FirstHalf,55.6,80.3,64.8,95.0,Successful
+Théo Hernández,France,12,26,Pass,Pass,FirstHalf,64.8,95.0,63.3,90.9,Successful
+Adrien Rabiot,France,12,27,Pass,Pass,FirstHalf,62.9,90.3,64.0,95.3,Successful
+Théo Hernández,France,12,27,Pass,Pass,FirstHalf,64.0,95.3,47.6,72.9,Successful
+Maxence Lacroix,France,12,30,Pass,Pass,FirstHalf,46.9,70.0,47.2,44.4,Successful
+Ibrahima Konaté,France,12,33,Pass,Pass,FirstHalf,51.3,40.9,67.0,6.1,Successful
+Michael Olise,France,12,38,Pass,Pass,FirstHalf,71.7,7.9,65.1,9.3,Successful
+Malo Gusto,France,12,40,Pass,Pass,FirstHalf,70.0,12.8,65.8,23.6,Successful
+Warren Zaïre-Emery,France,12,42,Pass,Pass,FirstHalf,59.6,29.7,53.4,69.7,Successful
+Maxence Lacroix,France,12,45,Pass,Pass,FirstHalf,53.5,70.0,52.1,43.6,Successful
+Ibrahima Konaté,France,12,50,Pass,Pass,FirstHalf,60.2,31.2,70.8,7.5,Successful
+Declan Rice,England,12,56,Challenge,Challenge,FirstHalf,19.9,71.8,0.0,0.0,Unsuccessful
+Michael Olise,France,12,56,Successful Dribble,TakeOn,FirstHalf,80.1,28.2,0.0,0.0,Successful
+Michael Olise,France,12,58,BallTouch,BallTouch,FirstHalf,80.0,34.0,0.0,0.0,Unsuccessful
+Djed Spence,England,12,58,Clearance,Clearance,FirstHalf,20.8,62.7,33.4,62.6,Successful
+Ivan Toney,England,13,0,Foul,Foul,FirstHalf,25.4,62.8,0.0,0.0,Successful
+Maxence Lacroix,France,13,0,Foul,Foul,FirstHalf,74.6,37.2,0.0,0.0,Unsuccessful
+Declan Rice,England,13,12,Long Pass,Pass,FirstHalf,31.4,59.4,40.0,9.5,Successful
+Jarell Quansah,England,13,17,Pass,Pass,FirstHalf,56.4,8.2,62.3,25.8,Successful
+Bukayo Saka,England,13,22,Pass,Pass,FirstHalf,60.5,24.7,57.4,31.0,Successful
+Morgan Rogers,England,13,23,Pass,Pass,FirstHalf,60.5,32.1,63.7,28.8,Successful
+Bukayo Saka,England,13,24,Pass,Pass,FirstHalf,60.7,25.9,53.6,28.6,Successful
+Morgan Rogers,England,13,25,Pass,Pass,FirstHalf,57.4,31.2,57.4,24.0,Successful
+Bukayo Saka,England,13,26,Pass,Pass,FirstHalf,57.9,23.6,52.5,27.9,Successful
+Declan Rice,England,13,27,Pass,Pass,FirstHalf,52.5,28.2,47.3,54.3,Successful
+Marc Guéhi,England,13,30,BallTouch,BallTouch,FirstHalf,54.0,56.4,0.0,0.0,Successful
+Eberechi Eze,England,13,35,Pass,Pass,FirstHalf,57.7,35.1,58.0,21.3,Successful
+Jarell Quansah,England,13,36,Pass,Pass,FirstHalf,58.5,21.5,68.6,36.7,Successful
+Morgan Rogers,England,13,40,Pass,Pass,FirstHalf,65.7,35.8,69.0,35.4,Unsuccessful
+Adrien Rabiot,France,13,40,BlockedPass,BlockedPass,FirstHalf,31.0,64.6,0.0,0.0,Successful
+Warren Zaïre-Emery,France,13,43,Ball Recovery,BallRecovery,FirstHalf,31.4,70.3,0.0,0.0,Successful
+Warren Zaïre-Emery,France,13,43,Pass,Pass,FirstHalf,31.5,70.6,35.4,69.8,Successful
+Kylian Mbappé,France,13,44,Pass,Pass,FirstHalf,35.4,69.7,54.9,65.4,Successful
+Warren Zaïre-Emery,France,13,48,Pass,Pass,FirstHalf,58.8,69.5,71.4,88.4,Successful
+Désiré Doué,France,13,56,Pass,Pass,FirstHalf,74.6,73.2,80.3,84.2,Successful
+Jarell Quansah,England,14,1,Challenge,Challenge,FirstHalf,8.1,26.3,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,14,1,Successful Dribble,TakeOn,FirstHalf,91.9,73.7,0.0,0.0,Successful
+Kylian Mbappé,France,14,3,Pass,Pass,FirstHalf,97.8,72.3,95.8,56.4,Unsuccessful
+Marc Guéhi,England,14,4,Clearance,Clearance,FirstHalf,4.3,49.7,0.0,30.7,Successful
+Marc Guéhi,England,14,5,CornerAwarded,CornerAwarded,FirstHalf,1.4,37.2,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,14,5,CornerAwarded,CornerAwarded,FirstHalf,98.6,62.8,0.0,0.0,Successful
+Rayan Cherki,France,14,16,Pass,Pass,FirstHalf,99.5,99.5,77.7,89.8,Successful
+Théo Hernández,France,14,18,Pass,Pass,FirstHalf,78.4,89.2,80.5,92.5,Successful
+Rayan Cherki,France,14,20,Pass,Pass,FirstHalf,80.2,90.1,91.1,86.8,Successful
+Théo Hernández,France,14,22,Cross,Pass,FirstHalf,91.1,86.4,94.0,60.1,Unsuccessful
+Ivan Toney,England,14,24,Clearance,Clearance,FirstHalf,4.5,41.6,38.8,10.3,Successful
+Rayan Cherki,France,14,28,Pass,Pass,FirstHalf,62.3,84.3,58.5,68.0,Successful
+Warren Zaïre-Emery,France,14,30,Pass,Pass,FirstHalf,58.4,67.2,63.0,68.5,Successful
+Michael Olise,France,14,37,Pass,Pass,FirstHalf,56.5,54.9,54.8,42.1,Successful
+Ibrahima Konaté,France,14,39,Pass,Pass,FirstHalf,54.4,36.0,54.0,12.8,Successful
+Malo Gusto,France,14,41,Pass,Pass,FirstHalf,54.8,12.6,54.8,23.0,Successful
+Michael Olise,France,14,43,Pass,Pass,FirstHalf,56.4,22.9,65.8,7.8,Successful
+Désiré Doué,France,14,47,Long Pass,Pass,FirstHalf,65.4,11.9,33.8,59.8,Successful
+Mike Maignan,France,14,53,Pass,Pass,FirstHalf,33.7,60.5,39.4,68.0,Successful
+Maxence Lacroix,France,14,55,Pass,Pass,FirstHalf,40.9,67.5,40.3,41.8,Successful
+Ibrahima Konaté,France,14,57,Pass,Pass,FirstHalf,43.0,46.6,46.1,50.9,Successful
+Warren Zaïre-Emery,France,15,0,Pass,Pass,FirstHalf,51.4,48.5,56.7,39.2,Successful
+Rayan Cherki,France,15,1,Pass,Pass,FirstHalf,56.8,38.9,54.9,48.3,Successful
+Warren Zaïre-Emery,France,15,2,Pass,Pass,FirstHalf,56.7,42.5,54.4,32.5,Successful
+Adrien Rabiot,France,15,6,Pass,Pass,FirstHalf,55.3,37.3,60.5,12.0,Successful
+Malo Gusto,France,15,8,Pass,Pass,FirstHalf,60.4,11.9,70.7,7.5,Successful
+Michael Olise,France,15,15,Pass,Pass,FirstHalf,72.6,9.6,76.7,7.9,Successful
+Malo Gusto,France,15,18,Pass,Pass,FirstHalf,75.2,7.6,69.1,8.4,Successful
+Michael Olise,France,15,22,Pass,Pass,FirstHalf,67.7,9.0,66.8,9.6,Unsuccessful
+Djed Spence,England,15,22,BlockedPass,BlockedPass,FirstHalf,33.2,90.4,0.0,0.0,Successful
+Michael Olise,France,15,22,BallTouch,BallTouch,FirstHalf,68.7,8.7,0.0,0.0,Successful
+Ibrahima Konaté,France,15,23,Loss of Possession,Dispossessed,FirstHalf,65.2,15.9,0.0,0.0,Successful
+Djed Spence,England,15,23,Successful Tackle,Tackle,FirstHalf,34.8,84.1,0.0,0.0,Successful
+Marcus Rashford,England,15,31,Ball Recovery,BallRecovery,FirstHalf,9.2,93.3,0.0,0.0,Successful
+Marcus Rashford,England,15,35,Pass,Pass,FirstHalf,8.5,90.8,22.2,82.7,Successful
+Declan Rice,England,15,38,Pass,Pass,FirstHalf,22.5,82.4,15.4,67.3,Successful
+Marc Guéhi,England,15,45,Pass,Pass,FirstHalf,43.8,46.9,40.4,22.2,Successful
+Jarell Quansah,England,15,48,Pass,Pass,FirstHalf,40.9,23.9,41.8,53.1,Successful
+Declan Rice,England,15,56,Pass,Pass,FirstHalf,47.0,58.4,52.2,68.8,Successful
+Eberechi Eze,England,15,57,Pass,Pass,FirstHalf,52.2,68.8,38.3,60.5,Successful
+Marc Guéhi,England,15,59,Pass,Pass,FirstHalf,36.4,63.4,43.1,54.9,Successful
+Eberechi Eze,England,16,4,Pass,Pass,FirstHalf,44.4,48.8,42.6,23.0,Successful
+Jarell Quansah,England,16,5,Pass,Pass,FirstHalf,42.3,23.1,32.3,36.9,Successful
+Ezri Konsa,England,16,10,Pass,Pass,FirstHalf,32.0,36.4,34.1,61.1,Successful
+Marc Guéhi,England,16,12,Long Pass,Pass,FirstHalf,44.7,66.0,90.4,74.4,Unsuccessful
+Mike Maignan,France,16,17,KeeperPickup,KeeperPickup,FirstHalf,12.4,26.7,0.0,0.0,Successful
+Mike Maignan,France,16,18,Pass,Pass,FirstHalf,13.9,28.8,22.0,60.8,Successful
+Maxence Lacroix,France,16,24,Pass,Pass,FirstHalf,32.1,66.2,30.5,40.5,Successful
+Ibrahima Konaté,France,16,26,Pass,Pass,FirstHalf,29.5,35.2,31.1,9.3,Successful
+Malo Gusto,France,16,31,Pass,Pass,FirstHalf,33.8,14.8,37.6,29.4,Successful
+Warren Zaïre-Emery,France,16,35,Loss of Possession,Dispossessed,FirstHalf,39.6,24.0,0.0,0.0,Successful
+Ivan Toney,England,16,35,Was Dribbled,Tackle,FirstHalf,60.4,76.0,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,France,16,38,Pass,Pass,FirstHalf,42.8,17.2,40.7,37.3,Successful
+Adrien Rabiot,France,16,43,Pass,Pass,FirstHalf,39.8,37.8,51.0,31.4,Successful
+Warren Zaïre-Emery,France,16,49,Pass,Pass,FirstHalf,65.9,19.0,68.9,6.4,Successful
+Malo Gusto,France,16,52,Pass,Pass,FirstHalf,66.0,7.6,57.3,19.2,Successful
+Adrien Rabiot,France,16,55,Pass,Pass,FirstHalf,58.8,22.1,73.0,37.2,Unsuccessful
+Marc Guéhi,England,16,58,Interception,Interception,FirstHalf,27.0,62.8,0.0,0.0,Successful
+Ivan Toney,England,16,59,Ball Recovery,BallRecovery,FirstHalf,37.3,66.6,0.0,0.0,Successful
+Ivan Toney,England,17,0,Pass,Pass,FirstHalf,39.4,66.7,34.0,59.4,Successful
+Morgan Rogers,England,17,1,Pass,Pass,FirstHalf,34.7,59.6,45.1,48.4,Successful
+Eberechi Eze,England,17,1,Key Pass,Pass,FirstHalf,44.9,47.2,71.4,33.1,Successful
+Bukayo Saka,England,17,8,Shot on Target,SavedShot,FirstHalf,87.7,37.1,0.0,0.0,Successful
+Maxence Lacroix,France,17,8,Save,Save,FirstHalf,10.8,61.4,0.0,0.0,Successful
+Maxence Lacroix,France,17,9,CornerAwarded,CornerAwarded,FirstHalf,12.3,62.0,0.0,0.0,Unsuccessful
+Bukayo Saka,England,17,9,CornerAwarded,CornerAwarded,FirstHalf,87.7,38.0,0.0,0.0,Successful
+Declan Rice,England,17,49,Assist,Pass,FirstHalf,99.5,99.5,92.7,53.8,Successful
+Ezri Konsa,England,17,50,Aerial Won,Aerial,FirstHalf,92.7,53.8,0.0,0.0,Successful
+Adrien Rabiot,France,17,50,Aerial Lost,Aerial,FirstHalf,7.3,46.2,0.0,0.0,Unsuccessful
+Ezri Konsa,England,17,52,Goal,Goal,FirstHalf,92.7,53.8,0.0,0.0,Successful
+Kylian Mbappé,France,18,59,Pass,Pass,FirstHalf,50.2,50.0,51.9,47.9,Successful
+Rayan Cherki,France,19,1,Pass,Pass,FirstHalf,47.7,49.2,45.5,44.5,Successful
+Warren Zaïre-Emery,France,19,3,Pass,Pass,FirstHalf,45.3,42.5,37.8,19.3,Successful
+Malo Gusto,France,19,5,Pass,Pass,FirstHalf,37.4,19.0,28.3,32.2,Successful
+Ibrahima Konaté,France,19,9,Pass,Pass,FirstHalf,25.8,38.5,33.8,47.2,Successful
+Adrien Rabiot,France,19,10,Pass,Pass,FirstHalf,34.9,48.3,28.8,13.3,Successful
+Malo Gusto,France,19,13,Pass,Pass,FirstHalf,28.8,13.4,33.8,13.7,Unsuccessful
+Declan Rice,England,19,14,Interception,Interception,FirstHalf,66.2,86.3,0.0,0.0,Successful
+Warren Zaïre-Emery,France,19,15,BallTouch,BallTouch,FirstHalf,33.8,13.7,0.0,0.0,Successful
+Declan Rice,England,19,16,Pass,Pass,FirstHalf,61.3,87.5,64.4,88.5,Unsuccessful
+Michael Olise,France,19,16,BallTouch,BallTouch,FirstHalf,33.1,14.5,0.0,0.0,Successful
+Morgan Rogers,England,19,16,Ball Recovery,BallRecovery,FirstHalf,68.8,63.4,0.0,0.0,Successful
+Morgan Rogers,England,19,17,Pass,Pass,FirstHalf,64.6,83.2,66.0,89.4,Successful
+Eberechi Eze,England,19,19,Unsuccessful Dribble,TakeOn,FirstHalf,66.0,89.6,0.0,0.0,Unsuccessful
+Malo Gusto,France,19,20,Foul,Foul,FirstHalf,31.1,11.5,0.0,0.0,Successful
+Eberechi Eze,England,19,20,Foul,Foul,FirstHalf,68.8,88.6,0.0,0.0,Unsuccessful
+Malo Gusto,France,19,29,Pass,Pass,FirstHalf,33.3,11.7,24.0,32.0,Successful
+Ibrahima Konaté,France,19,31,Pass,Pass,FirstHalf,23.9,31.1,23.2,65.1,Successful
+Maxence Lacroix,France,19,35,Pass,Pass,FirstHalf,24.7,67.5,35.3,88.1,Successful
+Théo Hernández,France,19,38,Long Pass,Pass,FirstHalf,34.6,89.2,83.8,73.9,Unsuccessful
+Dean Henderson,England,19,43,KeeperSweeper,KeeperSweeper,FirstHalf,14.2,26.7,0.0,0.0,Successful
+Dean Henderson,England,19,44,KeeperPickup,KeeperPickup,FirstHalf,14.2,26.7,0.0,0.0,Successful
+Dean Henderson,England,19,47,Pass,Pass,FirstHalf,7.1,40.7,14.8,50.3,Successful
+Marc Guéhi,England,19,51,Pass,Pass,FirstHalf,18.9,54.9,25.3,55.4,Successful
+Declan Rice,England,19,53,Pass,Pass,FirstHalf,25.6,55.4,27.3,68.2,Successful
+Marc Guéhi,England,19,57,Pass,Pass,FirstHalf,30.8,70.9,46.1,54.6,Successful
+Ivan Toney,England,20,0,Offside,OffsideGiven,FirstHalf,75.6,55.6,0.0,0.0,Unsuccessful
+Ivan Toney,England,20,1,Foul,Foul,FirstHalf,43.3,61.2,0.0,0.0,Successful
+Ibrahima Konaté,France,20,1,Foul,Foul,FirstHalf,56.7,38.8,0.0,0.0,Unsuccessful
+Marc Guéhi,England,20,22,Pass,Pass,FirstHalf,45.3,64.9,45.6,85.9,Successful
+Eberechi Eze,England,20,27,Pass,Pass,FirstHalf,46.5,85.4,64.8,94.7,Successful
+Djed Spence,England,20,30,Pass,Pass,FirstHalf,68.1,95.9,69.6,84.2,Successful
+Marcus Rashford,England,20,31,Pass,Pass,FirstHalf,69.6,84.2,62.0,89.7,Successful
+Eberechi Eze,England,20,32,Pass,Pass,FirstHalf,62.0,89.7,51.5,70.6,Successful
+Marc Guéhi,England,20,35,Pass,Pass,FirstHalf,51.5,71.1,63.5,90.9,Successful
+Eberechi Eze,England,20,38,Offside,OffsidePass,FirstHalf,63.8,91.0,75.6,55.6,Successful
+Ibrahima Konaté,France,20,38,OffsideProvoked,OffsideProvoked,FirstHalf,26.6,38.7,0.0,0.0,Successful
+Mike Maignan,France,20,48,Pass,Pass,FirstHalf,11.2,43.0,22.4,71.6,Successful
+Théo Hernández,France,20,55,Pass,Pass,FirstHalf,51.9,74.9,55.3,88.6,Successful
+Désiré Doué,France,20,58,Pass,Pass,FirstHalf,61.1,92.8,56.0,81.8,Successful
+Kylian Mbappé,France,21,3,Pass,Pass,FirstHalf,63.3,89.5,63.3,77.9,Successful
+Désiré Doué,France,21,8,Long Pass,Pass,FirstHalf,60.3,64.0,69.1,9.0,Successful
+Rayan Cherki,France,21,14,Pass,Pass,FirstHalf,69.1,12.0,77.1,6.5,Successful
+Malo Gusto,France,21,17,Pass,Pass,FirstHalf,79.1,7.3,77.1,16.8,Successful
+Michael Olise,France,21,19,Pass,Pass,FirstHalf,77.1,16.8,77.5,9.3,Successful
+Malo Gusto,France,21,20,Pass,Pass,FirstHalf,77.5,8.8,68.0,9.7,Successful
+Rayan Cherki,France,21,22,Pass,Pass,FirstHalf,66.4,10.4,60.2,33.5,Successful
+Ibrahima Konaté,France,21,25,Pass,Pass,FirstHalf,59.6,36.1,62.7,62.7,Successful
+Adrien Rabiot,France,21,27,Pass,Pass,FirstHalf,62.9,63.7,74.4,93.8,Successful
+Théo Hernández,France,21,32,Pass,Pass,FirstHalf,67.7,86.3,58.8,68.8,Successful
+Maxence Lacroix,France,21,34,Long Pass,Pass,FirstHalf,57.4,67.1,63.4,17.4,Successful
+Malo Gusto,France,21,38,Pass,Pass,FirstHalf,65.0,13.1,74.2,6.7,Successful
+Michael Olise,France,21,43,Pass,Pass,FirstHalf,85.8,17.5,81.2,25.9,Successful
+Rayan Cherki,France,21,46,Pass,Pass,FirstHalf,80.6,25.4,76.8,26.4,Successful
+Michael Olise,France,21,50,Key Pass,Pass,FirstHalf,74.9,30.2,76.1,78.7,Successful
+Kylian Mbappé,France,21,55,Shot off Target,MissedShots,FirstHalf,76.6,73.6,0.0,0.0,Successful
+Ezri Konsa,England,25,9,Pass,Pass,FirstHalf,5.4,38.5,3.3,49.0,Successful
+Dean Henderson,England,25,15,Pass,Pass,FirstHalf,7.1,48.5,12.9,26.1,Successful
+Ezri Konsa,England,25,19,Pass,Pass,FirstHalf,13.2,25.5,28.6,9.2,Successful
+Declan Rice,England,25,21,Pass,Pass,FirstHalf,31.7,12.8,27.6,34.0,Successful
+Ezri Konsa,England,25,25,Pass,Pass,FirstHalf,29.6,40.1,30.2,53.0,Successful
+Eberechi Eze,England,25,28,Pass,Pass,FirstHalf,32.8,60.6,27.9,64.9,Successful
+Marc Guéhi,England,25,30,Pass,Pass,FirstHalf,26.5,64.6,36.4,49.9,Successful
+Declan Rice,England,25,34,Pass,Pass,FirstHalf,36.2,52.8,34.9,73.8,Successful
+Eberechi Eze,England,25,35,Pass,Pass,FirstHalf,34.4,74.2,44.3,97.1,Successful
+Djed Spence,England,25,38,Pass,Pass,FirstHalf,44.1,97.1,52.5,84.1,Successful
+Marcus Rashford,England,25,40,Pass,Pass,FirstHalf,52.5,84.1,30.5,73.5,Successful
+Marc Guéhi,England,25,44,Pass,Pass,FirstHalf,29.2,67.9,38.1,51.5,Successful
+Declan Rice,England,25,46,Long Pass,Pass,FirstHalf,39.0,50.4,86.6,3.5,Successful
+Jarell Quansah,England,25,51,BallTouch,BallTouch,FirstHalf,86.6,3.5,0.0,0.0,Unsuccessful
+Théo Hernández,France,25,53,Ball Recovery,BallRecovery,FirstHalf,10.3,93.2,0.0,0.0,Successful
+Théo Hernández,France,25,54,Long Pass,Pass,FirstHalf,6.4,95.9,35.7,100.0,Unsuccessful
+Jarell Quansah,England,26,1,Throw In,Pass,FirstHalf,67.1,0.0,56.1,5.3,Successful
+Declan Rice,England,26,6,Pass,Pass,FirstHalf,56.7,7.3,43.3,8.9,Successful
+Ezri Konsa,England,26,13,Pass,Pass,FirstHalf,46.9,10.6,63.6,2.6,Successful
+Jarell Quansah,England,26,15,Pass,Pass,FirstHalf,63.6,2.6,51.7,24.0,Successful
+Declan Rice,England,26,19,Pass,Pass,FirstHalf,52.5,25.9,54.6,40.4,Successful
+Eberechi Eze,England,26,23,Pass,Pass,FirstHalf,53.5,29.8,45.8,15.3,Successful
+Declan Rice,England,26,25,Pass,Pass,FirstHalf,42.0,24.3,32.6,35.8,Successful
+Ezri Konsa,England,26,29,Pass,Pass,FirstHalf,33.9,39.1,33.7,62.7,Successful
+Marc Guéhi,England,26,32,Pass,Pass,FirstHalf,28.8,65.8,36.5,64.9,Successful
+Morgan Rogers,England,26,34,Pass,Pass,FirstHalf,36.0,64.6,27.8,38.9,Successful
+Ezri Konsa,England,26,36,Pass,Pass,FirstHalf,25.2,38.6,14.2,52.2,Successful
+Dean Henderson,England,26,40,Pass,Pass,FirstHalf,14.5,50.3,19.3,63.3,Successful
+Marc Guéhi,England,26,45,Pass,Pass,FirstHalf,20.5,60.2,22.5,20.4,Successful
+Ezri Konsa,England,26,54,Pass,Pass,FirstHalf,25.9,28.2,13.2,50.0,Successful
+Dean Henderson,England,26,57,Pass,Pass,FirstHalf,14.0,51.9,16.4,68.8,Successful
+Kylian Mbappé,France,27,0,Offside,OffsideGiven,FirstHalf,81.5,54.2,0.0,0.0,Unsuccessful
+Marc Guéhi,England,27,0,Pass,Pass,FirstHalf,16.5,67.5,12.9,46.0,Successful
+Dean Henderson,England,27,2,Pass,Pass,FirstHalf,12.9,46.0,22.8,54.0,Successful
+Declan Rice,England,27,4,Pass,Pass,FirstHalf,25.2,65.1,38.0,78.1,Successful
+Morgan Rogers,England,27,7,Unsuccessful Dribble,TakeOn,FirstHalf,41.4,76.6,0.0,0.0,Unsuccessful
+Adrien Rabiot,France,27,7,Successful Tackle,Tackle,FirstHalf,58.6,23.4,0.0,0.0,Successful
+Adrien Rabiot,France,27,9,Ball Recovery,BallRecovery,FirstHalf,55.4,25.1,0.0,0.0,Successful
+Adrien Rabiot,France,27,9,Pass,Pass,FirstHalf,54.6,26.7,58.5,46.8,Successful
+Warren Zaïre-Emery,France,27,12,Pass,Pass,FirstHalf,58.6,47.0,67.3,57.3,Successful
+Désiré Doué,France,27,13,Offside,OffsidePass,FirstHalf,72.8,59.3,81.5,54.2,Successful
+Ezri Konsa,England,27,13,OffsideProvoked,OffsideProvoked,FirstHalf,19.4,45.8,0.0,0.0,Successful
+Dean Henderson,England,27,45,Pass,Pass,FirstHalf,11.7,48.8,21.2,82.1,Successful
+Marc Guéhi,England,27,48,Pass,Pass,FirstHalf,21.4,81.7,30.3,95.9,Successful
+Djed Spence,England,27,49,Pass,Pass,FirstHalf,30.4,95.7,24.2,74.8,Successful
+Marc Guéhi,England,27,52,Long Pass,Pass,FirstHalf,33.9,72.7,78.7,58.4,Unsuccessful
+Mike Maignan,France,27,57,Ball Recovery,BallRecovery,FirstHalf,22.7,38.6,0.0,0.0,Successful
+Mike Maignan,France,27,57,Pass,Pass,FirstHalf,22.6,37.8,28.3,63.9,Successful
+Maxence Lacroix,France,28,3,Pass,Pass,FirstHalf,36.6,65.7,42.9,70.4,Successful
+Désiré Doué,France,28,5,Pass,Pass,FirstHalf,43.8,72.1,52.1,89.6,Successful
+Théo Hernández,France,28,8,Pass,Pass,FirstHalf,50.3,92.7,53.1,88.1,Successful
+Warren Zaïre-Emery,France,28,13,Pass,Pass,FirstHalf,56.9,93.5,54.6,94.8,Unsuccessful
+Bukayo Saka,England,28,15,BallTouch,BallTouch,FirstHalf,39.5,5.6,0.0,0.0,Successful
+Théo Hernández,France,28,16,Pass,Pass,FirstHalf,54.2,90.3,44.3,86.1,Successful
+Désiré Doué,France,28,18,Pass,Pass,FirstHalf,43.9,84.5,38.9,50.9,Successful
+Maxence Lacroix,France,28,23,Pass,Pass,FirstHalf,37.8,46.8,42.9,25.1,Successful
+Ibrahima Konaté,France,28,24,Pass,Pass,FirstHalf,42.9,24.8,45.6,9.1,Successful
+Malo Gusto,France,28,25,Pass,Pass,FirstHalf,45.6,9.1,55.5,10.5,Unsuccessful
+Djed Spence,England,28,30,Ball Recovery,BallRecovery,FirstHalf,44.5,93.9,0.0,0.0,Successful
+Djed Spence,England,28,30,Loss of Possession,Dispossessed,FirstHalf,46.0,92.9,0.0,0.0,Successful
+Michael Olise,France,28,30,Successful Tackle,Tackle,FirstHalf,54.0,7.0,0.0,0.0,Successful
+Rayan Cherki,France,28,33,Ball Recovery,BallRecovery,FirstHalf,43.9,26.8,0.0,0.0,Successful
+Rayan Cherki,France,28,35,Pass,Pass,FirstHalf,50.7,40.2,47.8,52.3,Successful
+Warren Zaïre-Emery,France,28,37,Pass,Pass,FirstHalf,54.6,61.9,67.7,92.5,Successful
+Désiré Doué,France,28,45,BallTouch,BallTouch,FirstHalf,75.0,66.2,0.0,0.0,Successful
+Adrien Rabiot,France,28,47,Pass,Pass,FirstHalf,71.8,67.2,76.2,76.5,Successful
+Kylian Mbappé,France,28,52,Long Pass,Pass,FirstHalf,77.0,65.2,99.1,7.9,Successful
+Malo Gusto,France,28,57,Pass,Pass,FirstHalf,98.0,7.6,88.4,9.1,Successful
+Michael Olise,France,29,4,Pass,Pass,FirstHalf,74.9,26.4,73.6,73.2,Successful
+Théo Hernández,France,29,7,Pass,Pass,FirstHalf,73.7,73.6,79.8,86.1,Successful
+Désiré Doué,France,29,11,Pass,Pass,FirstHalf,81.7,85.4,80.5,75.3,Successful
+Michael Olise,France,29,13,Through Ball,Pass,FirstHalf,80.7,75.5,93.1,61.4,Unsuccessful
+Marc Guéhi,England,29,15,Clearance,Clearance,FirstHalf,7.2,49.0,6.4,13.8,Successful
+Jarell Quansah,England,29,18,Ball Recovery,BallRecovery,FirstHalf,6.7,12.5,0.0,0.0,Successful
+Jarell Quansah,England,29,23,Pass,Pass,FirstHalf,15.2,4.3,3.4,25.8,Successful
+Ezri Konsa,England,29,35,Pass,Pass,FirstHalf,21.3,34.3,30.2,42.4,Successful
+Ivan Toney,England,29,39,Pass,Pass,FirstHalf,34.2,43.3,38.1,86.8,Successful
+Eberechi Eze,England,29,47,Pass,Pass,FirstHalf,37.0,82.0,42.2,65.2,Successful
+Ivan Toney,England,29,50,Pass,Pass,FirstHalf,43.1,64.9,48.7,77.0,Successful
+Eberechi Eze,England,29,51,BallTouch,BallTouch,FirstHalf,48.7,77.0,0.0,0.0,Unsuccessful
+Michael Olise,France,29,52,Ball Recovery,BallRecovery,FirstHalf,58.8,19.7,0.0,0.0,Successful
+Michael Olise,France,29,53,Pass,Pass,FirstHalf,60.6,20.9,75.1,29.4,Successful
+Kylian Mbappé,France,29,59,Unsuccessful Dribble,TakeOn,FirstHalf,88.9,29.6,0.0,0.0,Unsuccessful
+Declan Rice,England,29,59,Was Dribbled,Tackle,FirstHalf,11.0,70.3,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,30,0,BallTouch,BallTouch,FirstHalf,88.4,27.9,0.0,0.0,Successful
+Djed Spence,England,30,1,BallTouch,BallTouch,FirstHalf,11.3,70.6,0.0,0.0,Successful
+Declan Rice,England,30,2,Ball Recovery,BallRecovery,FirstHalf,8.8,75.3,0.0,0.0,Successful
+Declan Rice,England,30,2,Pass,Pass,FirstHalf,8.3,75.3,23.1,94.7,Successful
+Marcus Rashford,England,30,6,Loss of Possession,Dispossessed,FirstHalf,24.9,93.2,0.0,0.0,Successful
+Malo Gusto,France,30,6,Successful Tackle,Tackle,FirstHalf,75.1,6.8,0.0,0.0,Successful
+Marcus Rashford,England,30,16,Throw In,Pass,FirstHalf,25.2,100.0,10.0,86.0,Successful
+Marc Guéhi,England,30,21,Pass,Pass,FirstHalf,12.7,79.7,20.7,66.7,Successful
+Declan Rice,England,30,22,Pass,Pass,FirstHalf,21.5,66.3,13.1,80.6,Successful
+Marc Guéhi,England,30,26,Pass,Pass,FirstHalf,22.4,77.2,31.5,63.6,Successful
+Eberechi Eze,England,30,28,Pass,Pass,FirstHalf,31.5,63.6,24.3,76.4,Successful
+Marc Guéhi,England,30,31,Pass,Pass,FirstHalf,25.5,76.9,36.2,70.9,Successful
+Marcus Rashford,England,30,33,Pass,Pass,FirstHalf,37.1,70.0,36.2,57.3,Successful
+Eberechi Eze,England,30,34,Pass,Pass,FirstHalf,36.2,57.5,33.9,46.4,Successful
+Declan Rice,England,30,36,Pass,Pass,FirstHalf,34.2,45.4,36.3,25.3,Successful
+Jarell Quansah,England,30,38,Pass,Pass,FirstHalf,34.9,28.2,32.7,34.5,Successful
+Declan Rice,England,30,42,Pass,Pass,FirstHalf,31.6,38.0,36.4,52.2,Successful
+Marc Guéhi,England,30,45,Pass,Pass,FirstHalf,39.5,42.8,47.4,27.0,Unsuccessful
+Adrien Rabiot,France,30,47,Interception,Interception,FirstHalf,52.6,73.0,0.0,0.0,Successful
+Bukayo Saka,England,30,50,Pass,Pass,FirstHalf,55.1,4.4,37.2,25.0,Successful
+Jarell Quansah,England,30,52,Pass,Pass,FirstHalf,35.6,21.3,36.5,25.2,Successful
+Declan Rice,England,30,53,Pass,Pass,FirstHalf,39.3,37.4,32.3,48.8,Successful
+Ezri Konsa,England,30,55,Pass,Pass,FirstHalf,34.2,51.2,36.0,92.3,Successful
+Djed Spence,England,31,0,Pass,Pass,FirstHalf,40.9,96.3,54.0,96.5,Successful
+Marcus Rashford,England,31,2,Pass,Pass,FirstHalf,54.5,96.5,54.6,81.4,Successful
+Eberechi Eze,England,31,5,Pass,Pass,FirstHalf,46.7,87.5,35.0,80.9,Successful
+Marc Guéhi,England,31,10,Pass,Pass,FirstHalf,33.0,81.1,23.6,56.4,Successful
+Dean Henderson,England,31,13,Pass,Pass,FirstHalf,25.3,53.1,30.5,41.2,Successful
+Ezri Konsa,England,31,18,Pass,Pass,FirstHalf,38.2,30.1,38.2,20.1,Successful
+Jarell Quansah,England,31,20,Pass,Pass,FirstHalf,37.5,19.7,43.6,27.4,Successful
+Morgan Rogers,England,31,21,Pass,Pass,FirstHalf,43.6,27.4,40.5,37.6,Successful
+Declan Rice,England,31,22,Pass,Pass,FirstHalf,40.2,38.2,25.9,32.1,Successful
+Ezri Konsa,England,31,25,Pass,Pass,FirstHalf,20.9,27.9,27.3,3.7,Successful
+Jarell Quansah,England,31,28,Foul,Foul,FirstHalf,28.8,6.2,0.0,0.0,Successful
+Désiré Doué,France,31,28,Foul,Foul,FirstHalf,71.2,93.8,0.0,0.0,Unsuccessful
+Jarell Quansah,England,31,52,Pass,Pass,FirstHalf,33.8,1.6,23.1,19.2,Successful
+Ivan Toney,England,32,0,Offside,OffsideGiven,FirstHalf,80.1,66.0,0.0,0.0,Unsuccessful
+Ezri Konsa,England,32,4,Pass,Pass,FirstHalf,28.6,32.2,33.7,66.6,Successful
+Eberechi Eze,England,32,6,Pass,Pass,FirstHalf,38.5,75.3,45.0,94.8,Successful
+Djed Spence,England,32,8,Pass,Pass,FirstHalf,46.0,94.5,56.5,96.9,Successful
+Marcus Rashford,England,32,10,Pass,Pass,FirstHalf,56.5,96.9,61.5,84.7,Successful
+Eberechi Eze,England,32,11,Pass,Pass,FirstHalf,61.7,81.6,70.5,82.2,Successful
+Djed Spence,England,32,12,BallTouch,BallTouch,FirstHalf,67.8,82.0,0.0,0.0,Unsuccessful
+Michael Olise,France,32,13,Ball Recovery,BallRecovery,FirstHalf,26.7,14.9,0.0,0.0,Successful
+Michael Olise,France,32,15,Pass,Pass,FirstHalf,26.5,31.2,18.0,51.4,Successful
+Maxence Lacroix,France,32,19,Pass,Pass,FirstHalf,15.2,65.7,27.1,91.2,Successful
+Désiré Doué,France,32,23,Pass,Pass,FirstHalf,27.9,92.5,13.6,76.4,Successful
+Maxence Lacroix,France,32,25,Pass,Pass,FirstHalf,12.8,74.0,19.8,53.4,Successful
+Michael Olise,France,32,32,Pass,Pass,FirstHalf,32.9,48.0,45.3,43.4,Successful
+Warren Zaïre-Emery,France,32,34,Pass,Pass,FirstHalf,45.3,43.4,55.8,31.9,Successful
+Rayan Cherki,France,32,36,Pass,Pass,FirstHalf,55.9,32.2,62.4,39.6,Successful
+Kylian Mbappé,France,32,37,Loss of Possession,Dispossessed,FirstHalf,65.5,44.6,0.0,0.0,Successful
+Ezri Konsa,England,32,37,Successful Tackle,Tackle,FirstHalf,34.5,55.4,0.0,0.0,Successful
+Eberechi Eze,England,32,40,Pass,Pass,FirstHalf,37.6,62.3,40.8,54.2,Successful
+Morgan Rogers,England,32,41,Ball Recovery,BallRecovery,FirstHalf,43.9,51.6,0.0,0.0,Successful
+Morgan Rogers,England,32,43,Key Pass,Pass,FirstHalf,56.7,35.8,66.0,58.5,Successful
+Marcus Rashford,England,32,48,Successful Dribble,TakeOn,FirstHalf,68.6,59.0,0.0,0.0,Successful
+Warren Zaïre-Emery,France,32,48,Challenge,Challenge,FirstHalf,31.4,41.0,0.0,0.0,Unsuccessful
+Marcus Rashford,England,32,49,GoodSkill,GoodSkill,FirstHalf,65.4,55.1,0.0,0.0,Successful
+Marcus Rashford,England,32,50,Shot on Target,SavedShot,FirstHalf,71.1,50.6,0.0,0.0,Successful
+Mike Maignan,France,32,50,Save,Save,FirstHalf,1.7,47.8,0.0,0.0,Successful
+Marcus Rashford,England,32,51,Offside,OffsidePass,FirstHalf,66.8,53.4,80.1,66.0,Successful
+Maxence Lacroix,France,32,51,OffsideProvoked,OffsideProvoked,FirstHalf,20.9,49.1,0.0,0.0,Successful
+Ibrahima Konaté,France,33,16,Pass,Pass,FirstHalf,20.2,30.9,24.3,46.2,Successful
+Adrien Rabiot,France,33,18,Pass,Pass,FirstHalf,24.7,47.0,29.8,37.5,Successful
+Warren Zaïre-Emery,France,33,21,Pass,Pass,FirstHalf,31.7,38.9,32.5,59.3,Successful
+Adrien Rabiot,France,33,23,Pass,Pass,FirstHalf,35.5,61.9,41.4,65.7,Successful
+Kylian Mbappé,France,33,25,Pass,Pass,FirstHalf,41.4,66.0,53.2,58.8,Successful
+Rayan Cherki,France,33,26,Loss of Possession,Dispossessed,FirstHalf,57.4,61.8,0.0,0.0,Successful
+Declan Rice,England,33,26,Was Dribbled,Tackle,FirstHalf,42.6,38.2,0.0,0.0,Unsuccessful
+Rayan Cherki,France,33,28,BallTouch,BallTouch,FirstHalf,54.8,62.7,0.0,0.0,Unsuccessful
+Morgan Rogers,England,33,30,Ball Recovery,BallRecovery,FirstHalf,56.9,41.0,0.0,0.0,Successful
+Morgan Rogers,England,33,30,Pass,Pass,FirstHalf,59.0,38.3,60.4,22.4,Successful
+Bukayo Saka,England,33,32,Pass,Pass,FirstHalf,60.7,26.1,46.1,43.0,Successful
+Declan Rice,England,33,34,Pass,Pass,FirstHalf,46.1,43.0,55.0,56.7,Successful
+Marcus Rashford,England,33,35,Pass,Pass,FirstHalf,55.1,56.7,43.5,63.7,Successful
+Marc Guéhi,England,33,39,Pass,Pass,FirstHalf,60.2,76.9,66.0,94.7,Successful
+Djed Spence,England,33,42,Pass,Pass,FirstHalf,66.2,95.6,66.2,92.0,Unsuccessful
+Rayan Cherki,France,33,42,BlockedPass,BlockedPass,FirstHalf,33.8,8.0,0.0,0.0,Successful
+Rayan Cherki,France,33,45,Foul,Foul,FirstHalf,33.4,5.4,0.0,0.0,Successful
+Djed Spence,England,33,45,Foul,Foul,FirstHalf,66.6,94.4,0.0,0.0,Unsuccessful
+Michael Olise,France,33,51,Pass,Pass,FirstHalf,32.7,4.3,30.1,9.5,Successful
+Malo Gusto,France,33,52,Pass,Pass,FirstHalf,32.3,10.9,34.5,7.0,Successful
+Michael Olise,France,33,53,Pass,Pass,FirstHalf,37.4,13.2,30.3,58.4,Successful
+Maxence Lacroix,France,33,56,Pass,Pass,FirstHalf,31.4,64.8,44.4,93.3,Successful
+Désiré Doué,France,34,0,Pass,Pass,FirstHalf,44.2,93.0,45.3,84.2,Successful
+Adrien Rabiot,France,34,3,Key Pass,Pass,FirstHalf,45.6,82.9,79.9,82.9,Successful
+Kylian Mbappé,France,34,11,Shot on Target,SavedShot,FirstHalf,89.6,56.2,0.0,0.0,Successful
+Dean Henderson,England,34,11,Save,Save,FirstHalf,2.4,51.5,0.0,0.0,Successful
+Dean Henderson,England,34,12,CornerAwarded,CornerAwarded,FirstHalf,5.2,47.5,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,34,12,CornerAwarded,CornerAwarded,FirstHalf,94.8,52.5,0.0,0.0,Successful
+Michael Olise,France,34,35,Pass,Pass,FirstHalf,99.5,0.5,89.3,5.8,Successful
+Kylian Mbappé,France,34,36,Pass,Pass,FirstHalf,89.0,6.1,84.6,8.4,Successful
+Michael Olise,France,34,37,Loss of Possession,Dispossessed,FirstHalf,85.0,11.0,0.0,0.0,Successful
+Bukayo Saka,England,34,37,Was Dribbled,Tackle,FirstHalf,15.0,89.0,0.0,0.0,Unsuccessful
+Michael Olise,France,34,38,BallTouch,BallTouch,FirstHalf,83.4,9.1,0.0,0.0,Successful
+Bukayo Saka,England,34,38,Loss of Possession,Dispossessed,FirstHalf,18.6,87.5,0.0,0.0,Successful
+Michael Olise,France,34,38,Was Dribbled,Tackle,FirstHalf,81.4,12.4,0.0,0.0,Unsuccessful
+Bukayo Saka,England,34,39,Ball Recovery,BallRecovery,FirstHalf,25.9,77.9,0.0,0.0,Successful
+Bukayo Saka,England,34,45,Pass,Pass,FirstHalf,42.3,70.5,45.6,84.7,Successful
+Morgan Rogers,England,34,46,Long Pass,Pass,FirstHalf,47.5,82.9,67.3,27.7,Successful
+Marcus Rashford,England,34,49,Pass,Pass,FirstHalf,68.8,31.0,85.7,65.8,Successful
+Mike Maignan,France,34,52,Challenge,Challenge,FirstHalf,8.5,30.0,0.0,0.0,Unsuccessful
+Bukayo Saka,England,34,52,Successful Dribble,TakeOn,FirstHalf,91.5,70.0,0.0,0.0,Successful
+Bukayo Saka,England,34,56,Pass,Pass,FirstHalf,92.7,77.3,69.8,67.9,Unsuccessful
+Rayan Cherki,France,34,59,Ball Recovery,BallRecovery,FirstHalf,24.4,31.7,0.0,0.0,Successful
+Rayan Cherki,France,34,59,Pass,Pass,FirstHalf,24.4,31.7,28.9,18.3,Successful
+Michael Olise,France,35,8,Pass,Pass,FirstHalf,57.2,22.9,64.8,9.1,Successful
+Kylian Mbappé,France,35,11,Loss of Possession,Dispossessed,FirstHalf,72.0,17.2,0.0,0.0,Successful
+Declan Rice,England,35,11,Successful Tackle,Tackle,FirstHalf,28.0,82.8,0.0,0.0,Successful
+Morgan Rogers,England,35,12,BallTouch,BallTouch,FirstHalf,13.1,74.7,0.0,0.0,Successful
+Michael Olise,France,35,14,Pass,Pass,FirstHalf,77.1,27.0,80.9,30.1,Successful
+Kylian Mbappé,France,35,15,Loss of Possession,Dispossessed,FirstHalf,78.4,38.0,0.0,0.0,Successful
+Declan Rice,England,35,15,Was Dribbled,Tackle,FirstHalf,21.6,62.0,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,35,17,BallTouch,BallTouch,FirstHalf,78.6,38.0,0.0,0.0,Successful
+Jarell Quansah,England,35,19,Ball Recovery,BallRecovery,FirstHalf,21.7,34.9,0.0,0.0,Successful
+Jarell Quansah,England,35,21,Pass,Pass,FirstHalf,23.0,35.4,15.9,53.3,Successful
+Declan Rice,England,35,23,Pass,Pass,FirstHalf,15.6,54.5,20.1,71.7,Successful
+Marc Guéhi,England,35,25,Pass,Pass,FirstHalf,21.7,72.7,31.2,93.8,Successful
+Djed Spence,England,35,29,Loss of Possession,Dispossessed,FirstHalf,38.4,92.2,0.0,0.0,Successful
+Michael Olise,France,35,29,Successful Tackle,Tackle,FirstHalf,61.6,7.8,0.0,0.0,Successful
+Malo Gusto,France,35,32,Ball Recovery,BallRecovery,FirstHalf,56.4,15.2,0.0,0.0,Successful
+Malo Gusto,France,35,32,Pass,Pass,FirstHalf,56.5,16.9,60.1,29.6,Successful
+Rayan Cherki,France,35,35,Pass,Pass,FirstHalf,64.8,31.1,82.2,28.2,Unsuccessful
+Djed Spence,England,35,36,Interception,Interception,FirstHalf,17.8,71.8,0.0,0.0,Successful
+Rayan Cherki,France,35,40,Pass,Pass,FirstHalf,85.2,24.8,90.1,17.7,Successful
+Malo Gusto,France,35,42,Pass,Pass,FirstHalf,91.2,17.4,88.3,21.3,Successful
+Rayan Cherki,France,35,45,Pass,Pass,FirstHalf,88.5,21.5,76.1,23.3,Successful
+Warren Zaïre-Emery,France,35,47,Pass,Pass,FirstHalf,74.7,23.9,77.7,22.1,Successful
+Michael Olise,France,35,48,Pass,Pass,FirstHalf,77.7,22.2,83.8,27.0,Successful
+Désiré Doué,France,35,49,Pass,Pass,FirstHalf,83.8,27.0,87.0,24.5,Successful
+Rayan Cherki,France,35,51,Chipped Pass,Pass,FirstHalf,91.6,28.4,92.9,49.5,Unsuccessful
+Dean Henderson,England,35,52,Interception,Interception,FirstHalf,7.1,50.5,0.0,0.0,Successful
+Ivan Toney,England,35,56,Loss of Possession,Dispossessed,FirstHalf,20.2,57.8,0.0,0.0,Successful
+Désiré Doué,France,35,56,Was Dribbled,Tackle,FirstHalf,79.8,42.2,0.0,0.0,Unsuccessful
+Bukayo Saka,England,35,58,Ball Recovery,BallRecovery,FirstHalf,37.3,47.0,0.0,0.0,Successful
+Bukayo Saka,England,35,59,Key Pass,Pass,FirstHalf,38.1,47.8,60.8,69.1,Successful
+Marcus Rashford,England,36,3,Shot on Target,SavedShot,FirstHalf,86.9,66.5,0.0,0.0,Successful
+Mike Maignan,France,36,3,Save,Save,FirstHalf,9.7,38.0,0.0,0.0,Successful
+Marcus Rashford,England,36,4,Key Pass,BallTouch,FirstHalf,84.8,68.2,0.0,0.0,Successful
+Bukayo Saka,England,36,6,Shot on Target,SavedShot,FirstHalf,88.3,64.4,0.0,0.0,Successful
+Maxence Lacroix,France,36,6,Save,Save,FirstHalf,6.7,42.6,0.0,0.0,Successful
+Marcus Rashford,England,36,9,Assist,Pass,FirstHalf,97.7,72.3,91.6,65.7,Successful
+Bukayo Saka,England,36,10,Goal,Goal,FirstHalf,91.6,65.7,0.0,0.0,Successful
+Rayan Cherki,France,37,45,Pass,Pass,FirstHalf,50.6,50.3,47.0,50.9,Successful
+Adrien Rabiot,France,37,47,Pass,Pass,FirstHalf,47.0,50.9,51.2,45.3,Successful
+Rayan Cherki,France,37,48,Pass,Pass,FirstHalf,51.3,45.3,45.6,49.8,Successful
+Warren Zaïre-Emery,France,37,51,Pass,Pass,FirstHalf,45.4,49.8,40.6,57.8,Successful
+Maxence Lacroix,France,37,52,Pass,Pass,FirstHalf,40.5,58.1,55.3,68.5,Successful
+Kylian Mbappé,France,37,56,BallTouch,BallTouch,FirstHalf,54.9,68.5,0.0,0.0,Unsuccessful
+Ezri Konsa,England,37,56,Ball Recovery,BallRecovery,FirstHalf,35.9,27.6,0.0,0.0,Successful
+Ezri Konsa,England,37,59,Pass,Pass,FirstHalf,33.4,26.1,32.1,37.4,Successful
+Declan Rice,England,38,1,Pass,Pass,FirstHalf,31.5,37.1,37.8,32.2,Successful
+Morgan Rogers,England,38,1,Pass,Pass,FirstHalf,37.7,32.4,32.0,46.4,Successful
+Declan Rice,England,38,3,Pass,Pass,FirstHalf,32.3,47.3,33.7,62.7,Successful
+Eberechi Eze,England,38,5,Pass,Pass,FirstHalf,34.5,63.3,25.3,53.1,Successful
+Marc Guéhi,England,38,7,Pass,Pass,FirstHalf,25.2,53.1,31.9,45.1,Successful
+Declan Rice,England,38,9,Pass,Pass,FirstHalf,33.3,40.7,37.8,8.3,Successful
+Jarell Quansah,England,38,13,Pass,Pass,FirstHalf,38.0,8.2,55.8,3.2,Successful
+Bukayo Saka,England,38,19,Cross,Pass,FirstHalf,85.2,9.8,87.0,34.8,Unsuccessful
+Maxence Lacroix,France,38,24,Clearance,Clearance,FirstHalf,6.0,76.7,38.7,97.4,Successful
+Jarell Quansah,England,38,28,Pass,Pass,FirstHalf,62.7,4.3,61.5,9.0,Successful
+Declan Rice,England,38,31,Pass,Pass,FirstHalf,58.1,19.7,61.1,4.9,Successful
+Jarell Quansah,England,38,33,Pass,Pass,FirstHalf,63.2,4.9,55.4,9.2,Successful
+Declan Rice,England,38,35,Pass,Pass,FirstHalf,54.5,7.4,54.5,26.7,Successful
+Eberechi Eze,England,38,38,Pass,Pass,FirstHalf,52.0,26.4,33.5,25.8,Successful
+Ezri Konsa,England,38,43,Pass,Pass,FirstHalf,31.5,27.9,32.7,54.0,Successful
+Eberechi Eze,England,38,45,Pass,Pass,FirstHalf,34.2,56.9,37.2,81.8,Successful
+Marc Guéhi,England,38,51,Pass,Pass,FirstHalf,45.4,78.4,41.3,68.1,Successful
+Eberechi Eze,England,38,52,Pass,Pass,FirstHalf,42.2,68.8,36.5,79.1,Successful
+Marc Guéhi,England,38,54,Pass,Pass,FirstHalf,36.6,78.5,54.6,77.6,Successful
+Djed Spence,England,38,57,Pass,Pass,FirstHalf,59.1,82.9,56.1,96.3,Successful
+Malo Gusto,France,39,3,Challenge,Challenge,FirstHalf,26.6,10.9,0.0,0.0,Unsuccessful
+Marcus Rashford,England,39,3,Successful Dribble,TakeOn,FirstHalf,73.4,89.1,0.0,0.0,Successful
+Marcus Rashford,England,39,6,Cross,Pass,FirstHalf,94.4,85.9,95.1,54.3,Unsuccessful
+Mike Maignan,France,39,7,KeeperPickup,KeeperPickup,FirstHalf,4.6,41.9,0.0,0.0,Successful
+Mike Maignan,France,39,14,Pass,Pass,FirstHalf,15.1,49.4,16.8,65.9,Successful
+Maxence Lacroix,France,39,19,Pass,Pass,FirstHalf,16.5,65.4,21.3,47.4,Successful
+Warren Zaïre-Emery,France,39,21,Pass,Pass,FirstHalf,22.6,46.0,32.8,44.2,Successful
+Désiré Doué,France,39,24,Pass,Pass,FirstHalf,32.8,44.2,21.8,30.9,Successful
+Ibrahima Konaté,France,39,27,Pass,Pass,FirstHalf,22.9,28.7,34.0,9.7,Successful
+Malo Gusto,France,39,30,Long Pass,Pass,FirstHalf,36.1,10.7,66.4,21.3,Successful
+Désiré Doué,France,39,35,Foul,Foul,FirstHalf,69.2,19.2,0.0,0.0,Successful
+Ezri Konsa,England,39,35,Foul,Foul,FirstHalf,30.8,80.8,0.0,0.0,Unsuccessful
+Michael Olise,France,39,46,Through Ball,Pass,FirstHalf,69.4,15.5,100.0,38.9,Unsuccessful
+Dean Henderson,England,39,56,Pass,Pass,FirstHalf,3.1,56.3,24.7,25.6,Successful
+Jarell Quansah,England,39,59,Pass,Pass,FirstHalf,28.5,26.1,33.0,34.9,Successful
+Morgan Rogers,England,40,2,Pass,Pass,FirstHalf,33.0,34.9,27.3,51.2,Successful
+Declan Rice,England,40,8,Pass,Pass,FirstHalf,27.3,50.1,28.1,34.9,Successful
+Ezri Konsa,England,40,10,Pass,Pass,FirstHalf,28.7,35.4,34.9,58.2,Successful
+Eberechi Eze,England,40,12,Pass,Pass,FirstHalf,34.9,58.2,28.7,51.8,Successful
+Declan Rice,England,40,14,Pass,Pass,FirstHalf,31.1,46.1,51.6,48.1,Successful
+Morgan Rogers,England,40,17,Pass,Pass,FirstHalf,52.6,45.6,51.0,41.1,Unsuccessful
+Ibrahima Konaté,France,40,18,BallTouch,BallTouch,FirstHalf,47.0,54.8,0.0,0.0,Unsuccessful
+Eberechi Eze,England,40,20,Pass,Pass,FirstHalf,61.9,34.8,79.4,15.8,Successful
+Bukayo Saka,England,40,25,Cross,Pass,FirstHalf,84.6,25.3,100.0,63.6,Unsuccessful
+Maxence Lacroix,France,40,46,Pass,Pass,FirstHalf,4.3,58.4,4.5,50.3,Successful
+Mike Maignan,France,40,47,Pass,Pass,FirstHalf,4.5,49.5,9.4,34.6,Successful
+Ibrahima Konaté,France,40,48,Pass,Pass,FirstHalf,9.9,31.9,14.1,15.4,Successful
+Malo Gusto,France,40,51,Pass,Pass,FirstHalf,15.6,11.6,32.6,10.2,Successful
+Michael Olise,France,40,53,Pass,Pass,FirstHalf,32.6,10.2,31.3,7.9,Successful
+Malo Gusto,France,40,58,Pass,Pass,FirstHalf,67.4,14.9,68.0,19.8,Unsuccessful
+Declan Rice,England,40,58,BlockedPass,BlockedPass,FirstHalf,32.0,80.2,0.0,0.0,Successful
+Jarell Quansah,England,41,2,Ball Recovery,BallRecovery,FirstHalf,22.5,31.2,0.0,0.0,Successful
+Jarell Quansah,England,41,2,Pass,Pass,FirstHalf,22.1,30.9,41.5,28.0,Successful
+Bukayo Saka,England,41,6,Long Pass,Pass,FirstHalf,41.8,35.4,84.0,86.6,Successful
+Marcus Rashford,England,41,11,Key Pass,Pass,FirstHalf,91.5,74.5,85.2,15.6,Unsuccessful
+Ivan Toney,England,41,12,ChanceMissed,ChanceMissed,FirstHalf,91.2,52.5,0.0,0.0,Unsuccessful
+Théo Hernández,France,41,17,Ball Recovery,BallRecovery,FirstHalf,15.1,82.0,0.0,0.0,Successful
+Théo Hernández,France,41,22,Pass,Pass,FirstHalf,45.6,68.9,41.2,58.7,Successful
+Rayan Cherki,France,41,27,Long Pass,Pass,FirstHalf,46.6,64.3,86.6,76.7,Successful
+Kylian Mbappé,France,41,37,Unsuccessful Dribble,TakeOn,FirstHalf,94.8,77.8,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,41,38,Pass,Pass,FirstHalf,93.6,76.3,86.6,77.5,Successful
+Désiré Doué,France,41,40,Pass,Pass,FirstHalf,84.9,78.5,80.2,68.3,Successful
+Rayan Cherki,France,41,41,BallTouch,BallTouch,FirstHalf,80.4,70.6,0.0,0.0,Unsuccessful
+Declan Rice,England,41,43,Pass,Pass,FirstHalf,20.6,39.2,11.2,44.5,Successful
+Ezri Konsa,England,41,44,Ball Recovery,BallRecovery,FirstHalf,11.2,44.5,0.0,0.0,Successful
+Ezri Konsa,England,41,44,Pass,Pass,FirstHalf,11.2,44.5,19.3,59.6,Successful
+Eberechi Eze,England,41,45,Pass,Pass,FirstHalf,19.3,59.4,18.3,43.9,Successful
+Declan Rice,England,41,47,Pass,Pass,FirstHalf,18.5,43.4,23.9,42.1,Successful
+Morgan Rogers,England,41,48,Pass,Pass,FirstHalf,24.0,42.1,19.5,49.0,Successful
+Declan Rice,England,41,49,Pass,Pass,FirstHalf,19.5,49.0,21.6,66.0,Successful
+Eberechi Eze,England,41,51,Pass,Pass,FirstHalf,21.6,66.0,21.4,54.6,Successful
+Declan Rice,England,41,53,Pass,Pass,FirstHalf,21.3,53.9,31.7,48.5,Successful
+Morgan Rogers,England,41,56,Pass,Pass,FirstHalf,32.5,45.4,31.6,25.0,Successful
+Jarell Quansah,England,41,58,Pass,Pass,FirstHalf,33.6,24.4,29.9,49.3,Successful
+Declan Rice,England,42,0,Pass,Pass,FirstHalf,30.0,49.3,34.0,65.2,Successful
+Eberechi Eze,England,42,4,Pass,Pass,FirstHalf,36.7,65.5,35.9,84.1,Successful
+Djed Spence,England,42,7,Pass,Pass,FirstHalf,36.1,82.1,26.5,64.8,Successful
+Marc Guéhi,England,42,21,Pass,Pass,FirstHalf,32.4,65.1,42.5,66.7,Successful
+Ivan Toney,England,42,23,Pass,Pass,FirstHalf,42.5,66.7,32.2,61.7,Successful
+Marc Guéhi,England,42,26,Pass,Pass,FirstHalf,32.0,61.7,38.3,57.3,Successful
+Ivan Toney,England,42,27,Long Pass,Pass,FirstHalf,39.3,56.7,67.7,3.8,Successful
+Bukayo Saka,England,42,34,Pass,Pass,FirstHalf,89.4,19.5,75.2,22.2,Successful
+Morgan Rogers,England,42,36,Pass,Pass,FirstHalf,72.2,23.4,76.4,47.6,Successful
+Ivan Toney,England,42,40,Long Pass,Pass,FirstHalf,77.3,37.4,97.6,0.0,Unsuccessful
+Théo Hernández,France,42,54,Throw In,Pass,FirstHalf,6.6,100.0,11.0,92.4,Successful
+Adrien Rabiot,France,42,57,Pass,Pass,FirstHalf,11.1,91.5,8.8,92.5,Successful
+Théo Hernández,France,42,59,Pass,Pass,FirstHalf,7.6,92.5,28.9,91.9,Successful
+Morgan Rogers,England,43,1,Challenge,Challenge,FirstHalf,68.2,11.0,0.0,0.0,Unsuccessful
+Désiré Doué,France,43,1,Successful Dribble,TakeOn,FirstHalf,31.8,89.0,0.0,0.0,Successful
+Désiré Doué,France,43,4,Pass,Pass,FirstHalf,22.8,77.6,12.7,33.7,Successful
+Ibrahima Konaté,France,43,7,Pass,Pass,FirstHalf,15.5,33.4,27.8,29.4,Successful
+Michael Olise,France,43,8,Pass,Pass,FirstHalf,27.9,29.4,35.6,18.9,Successful
+Malo Gusto,France,43,10,Unsuccessful Dribble,TakeOn,FirstHalf,38.6,13.8,0.0,0.0,Unsuccessful
+Djed Spence,England,43,10,Successful Tackle,Tackle,FirstHalf,61.4,86.1,0.0,0.0,Successful
+Malo Gusto,France,43,19,Throw In,Pass,FirstHalf,46.2,0.0,38.6,9.1,Successful
+Michael Olise,France,43,21,Pass,Pass,FirstHalf,36.7,10.0,42.2,16.9,Successful
+Rayan Cherki,France,43,22,Pass,Pass,FirstHalf,42.2,17.2,37.9,13.6,Successful
+Michael Olise,France,43,23,Pass,Pass,FirstHalf,37.9,13.6,34.4,27.7,Successful
+Warren Zaïre-Emery,France,43,27,Pass,Pass,FirstHalf,40.3,33.7,44.0,63.4,Successful
+Maxence Lacroix,France,43,30,Pass,Pass,FirstHalf,45.5,65.4,48.6,83.7,Successful
+Théo Hernández,France,43,33,Pass,Pass,FirstHalf,52.3,89.5,59.1,93.3,Successful
+Désiré Doué,France,43,35,Pass,Pass,FirstHalf,59.4,93.5,58.9,87.4,Successful
+Adrien Rabiot,France,43,37,Pass,Pass,FirstHalf,59.1,86.9,58.9,78.2,Successful
+Rayan Cherki,France,43,41,Pass,Pass,FirstHalf,64.1,75.5,68.6,60.4,Successful
+Michael Olise,France,43,44,Pass,Pass,FirstHalf,72.3,44.7,75.6,17.1,Successful
+Malo Gusto,France,43,47,Cross,Pass,FirstHalf,89.3,27.4,86.2,71.6,Unsuccessful
+Jarell Quansah,England,43,49,Ball Recovery,BallRecovery,FirstHalf,12.2,29.2,0.0,0.0,Successful
+Jarell Quansah,England,43,51,Pass,Pass,FirstHalf,15.7,25.5,27.6,40.7,Successful
+Morgan Rogers,England,43,56,Successful Dribble,TakeOn,FirstHalf,36.0,37.2,0.0,0.0,Successful
+Désiré Doué,France,43,56,Challenge,Challenge,FirstHalf,64.0,62.8,0.0,0.0,Unsuccessful
+Morgan Rogers,England,43,56,Pass,Pass,FirstHalf,38.2,28.9,36.8,4.3,Successful
+Bukayo Saka,England,44,0,Pass,Pass,FirstHalf,36.5,5.2,29.0,24.1,Successful
+Jarell Quansah,England,44,3,Pass,Pass,FirstHalf,27.2,27.7,27.6,50.7,Successful
+Declan Rice,England,44,11,Pass,Pass,FirstHalf,29.9,58.1,29.1,70.0,Successful
+Marc Guéhi,England,44,14,Pass,Pass,FirstHalf,28.1,70.2,25.2,53.1,Successful
+Declan Rice,England,44,16,Pass,Pass,FirstHalf,25.2,53.1,28.7,69.1,Successful
+Marc Guéhi,England,44,18,Pass,Pass,FirstHalf,29.5,70.9,42.5,67.3,Successful
+Marcus Rashford,England,44,21,Pass,Pass,FirstHalf,40.8,68.5,40.6,90.9,Successful
+Djed Spence,England,44,24,Pass,Pass,FirstHalf,40.5,93.9,38.3,79.7,Successful
+Marcus Rashford,England,44,27,Pass,Pass,FirstHalf,38.4,84.2,41.1,66.7,Successful
+Eberechi Eze,England,44,29,Pass,Pass,FirstHalf,41.1,66.7,29.5,73.3,Successful
+Marc Guéhi,England,44,30,Pass,Pass,FirstHalf,29.5,73.3,32.6,81.4,Successful
+Marcus Rashford,England,44,31,Pass,Pass,FirstHalf,33.3,82.9,28.0,73.9,Successful
+Marc Guéhi,England,44,32,Pass,Pass,FirstHalf,28.0,73.9,31.1,82.6,Successful
+Marcus Rashford,England,44,32,Pass,Pass,FirstHalf,31.1,82.6,28.4,73.0,Successful
+Marc Guéhi,England,44,35,Pass,Pass,FirstHalf,29.2,72.4,29.2,52.5,Successful
+Declan Rice,England,44,38,Pass,Pass,FirstHalf,27.7,53.6,26.2,72.7,Successful
+Marc Guéhi,England,44,41,Pass,Pass,FirstHalf,26.9,73.8,34.4,70.9,Successful
+Eberechi Eze,England,44,41,Pass,Pass,FirstHalf,34.4,70.9,14.6,49.1,Successful
+Dean Henderson,England,44,48,Pass,Pass,FirstHalf,14.4,49.7,15.4,72.1,Successful
+Marc Guéhi,England,44,49,Pass,Pass,FirstHalf,15.3,72.3,21.7,52.4,Successful
+Declan Rice,England,44,53,Pass,Pass,FirstHalf,21.7,52.1,32.4,41.6,Successful
+Morgan Rogers,England,44,55,Pass,Pass,FirstHalf,30.9,40.9,34.5,6.7,Successful
+Jarell Quansah,England,44,56,Pass,Pass,FirstHalf,34.2,7.6,44.9,12.5,Successful
+Bukayo Saka,England,44,58,Pass,Pass,FirstHalf,42.5,20.4,34.1,24.3,Successful
+Morgan Rogers,England,45,1,Pass,Pass,FirstHalf,36.3,30.0,37.0,63.4,Successful
+Eberechi Eze,England,45,6,Pass,Pass,FirstHalf,41.2,77.9,57.2,96.0,Successful
+Marcus Rashford,England,45,9,Chipped Pass,Pass,FirstHalf,61.3,95.7,74.8,91.7,Unsuccessful
+Malo Gusto,France,45,11,BallTouch,BallTouch,FirstHalf,27.8,13.7,0.0,0.0,Unsuccessful
+Djed Spence,England,45,18,Foul,Foul,FirstHalf,77.6,90.8,0.0,0.0,Successful
+Ibrahima Konaté,France,45,18,Foul,Foul,FirstHalf,22.4,9.2,0.0,0.0,Unsuccessful
+Marcus Rashford,England,45,36,Pass,Pass,FirstHalf,75.9,90.1,56.8,68.9,Successful
+Marc Guéhi,England,45,41,Chipped Pass,Pass,FirstHalf,60.9,69.9,72.1,94.2,Successful
+Marcus Rashford,England,45,42,Pass,Pass,FirstHalf,72.1,94.2,64.1,95.1,Successful
+Djed Spence,England,45,44,Pass,Pass,FirstHalf,64.1,95.1,52.1,89.6,Successful
+Declan Rice,England,45,46,Pass,Pass,FirstHalf,52.1,89.6,47.7,67.5,Successful
+Marc Guéhi,England,45,48,Pass,Pass,FirstHalf,44.6,66.4,57.4,60.5,Successful
+Eberechi Eze,England,45,50,Assist,Pass,FirstHalf,62.4,46.6,81.9,55.5,Successful
+Bukayo Saka,England,45,52,Goal,Goal,FirstHalf,83.1,53.8,0.0,0.0,Successful
+Rayan Cherki,France,47,5,Pass,Pass,FirstHalf,50.2,50.2,46.0,42.7,Successful
+Warren Zaïre-Emery,France,47,8,Pass,Pass,FirstHalf,45.8,42.5,50.8,49.8,Successful
+Rayan Cherki,France,47,9,Pass,Pass,FirstHalf,50.8,51.1,40.9,94.8,Successful
+Théo Hernández,France,47,13,Pass,Pass,FirstHalf,40.8,95.7,40.7,79.0,Successful
+Adrien Rabiot,France,47,18,Pass,Pass,FirstHalf,42.6,77.0,60.4,95.1,Successful
+Théo Hernández,France,47,25,Pass,Pass,FirstHalf,45.5,96.5,29.5,92.2,Successful
+Adrien Rabiot,France,47,30,Pass,Pass,FirstHalf,34.8,87.8,39.1,75.8,Successful
+Warren Zaïre-Emery,France,47,32,Long Pass,Pass,FirstHalf,41.0,68.6,39.5,10.2,Successful
+Ibrahima Konaté,France,47,43,Pass,Pass,FirstHalf,51.4,12.1,55.7,25.2,Unsuccessful
+Declan Rice,England,47,44,Interception,Interception,FirstHalf,44.3,74.8,0.0,0.0,Successful
+Declan Rice,England,47,44,Ball Recovery,BallRecovery,FirstHalf,45.1,73.0,0.0,0.0,Successful
+Declan Rice,England,47,44,Pass,Pass,FirstHalf,45.1,73.2,56.1,52.4,Successful
+Ivan Toney,England,47,47,Pass,Pass,FirstHalf,62.0,51.6,68.3,29.8,Successful
+Bukayo Saka,England,47,52,Long Pass,Pass,FirstHalf,74.1,42.7,100.0,89.1,Unsuccessful
+Mike Maignan,France,48,2,Pass,Pass,FirstHalf,3.5,42.8,9.5,34.8,Successful
+Ibrahima Konaté,France,48,8,Pass,Pass,FirstHalf,18.3,39.3,19.6,65.1,Successful
+Maxence Lacroix,France,48,12,Pass,Pass,FirstHalf,22.8,67.2,29.0,91.0,Successful
+Théo Hernández,France,48,15,Pass,Pass,FirstHalf,29.2,92.5,34.8,91.2,Successful
+Kylian Mbappé,France,48,19,Unsuccessful Dribble,TakeOn,FirstHalf,34.6,95.0,0.0,0.0,Unsuccessful
+Ezri Konsa,England,48,19,Successful Tackle,Tackle,FirstHalf,65.4,5.0,0.0,0.0,Successful
+Bukayo Saka,England,48,24,Ball Recovery,BallRecovery,FirstHalf,71.2,12.5,0.0,0.0,Successful
+Bukayo Saka,England,48,25,Pass,Pass,FirstHalf,72.2,11.3,71.4,31.3,Successful
+Morgan Rogers,England,48,25,Key Pass,Pass,FirstHalf,73.2,32.2,92.9,27.1,Successful
+Ivan Toney,England,48,28,Shot on Target,SavedShot,FirstHalf,92.6,26.1,0.0,0.0,Successful
+Maxence Lacroix,France,48,28,Save,Save,FirstHalf,6.0,69.3,0.0,0.0,Successful
+Maxence Lacroix,France,48,29,CornerAwarded,CornerAwarded,FirstHalf,6.6,68.8,0.0,0.0,Unsuccessful
+Ivan Toney,England,48,29,CornerAwarded,CornerAwarded,FirstHalf,93.5,31.2,0.0,0.0,Successful
+Bukayo Saka,England,49,19,Cross,Pass,FirstHalf,99.5,0.5,98.1,49.6,Unsuccessful
+Ibrahima Konaté,France,49,25,Foul,Foul,FirstHalf,3.0,48.6,0.0,0.0,Successful
+Marc Guéhi,England,49,25,Foul,Foul,FirstHalf,97.0,51.4,0.0,0.0,Unsuccessful
+,France,49,34,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,England,49,34,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Rayan Cherki,France,45,0,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ousmane Dembélé,France,45,0,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Désiré Doué,France,45,0,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Bradley Barcola,France,45,0,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Théo Hernández,France,45,0,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lucas Digne,France,45,0,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ibrahima Konaté,France,45,0,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Dayot Upamecano,France,45,0,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Marcus Rashford,England,45,0,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ollie Watkins,England,45,0,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,France,45,0,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,France,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,England,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Declan Rice,England,45,0,Pass,Pass,SecondHalf,49.8,50.1,23.6,50.0,Successful
+Dean Henderson,England,45,5,Long Pass,Pass,SecondHalf,27.4,48.1,67.5,14.6,Successful
+Ivan Toney,England,45,11,Pass,Pass,SecondHalf,68.8,10.1,66.8,11.3,Unsuccessful
+Bradley Barcola,France,45,12,BallTouch,BallTouch,SecondHalf,32.5,87.5,0.0,0.0,Successful
+Jarell Quansah,England,45,14,Pass,Pass,SecondHalf,58.7,3.7,33.2,14.3,Successful
+Ezri Konsa,England,45,17,Pass,Pass,SecondHalf,33.2,14.7,13.5,45.2,Successful
+Dean Henderson,England,45,26,Pass,Pass,SecondHalf,13.4,49.1,32.5,41.3,Successful
+Morgan Rogers,England,45,33,Pass,Pass,SecondHalf,38.8,46.0,35.7,57.3,Successful
+Declan Rice,England,45,34,Pass,Pass,SecondHalf,35.7,57.3,42.1,69.1,Successful
+Eberechi Eze,England,45,38,Pass,Pass,SecondHalf,48.9,73.6,60.5,95.7,Successful
+Djed Spence,England,45,46,Unsuccessful Dribble,TakeOn,SecondHalf,86.8,87.4,0.0,0.0,Unsuccessful
+Malo Gusto,France,45,46,Successful Tackle,Tackle,SecondHalf,13.2,12.6,0.0,0.0,Successful
+Ousmane Dembélé,France,45,48,Foul,Foul,SecondHalf,10.8,7.9,0.0,0.0,Successful
+Djed Spence,England,45,48,Foul,Foul,SecondHalf,89.2,92.0,0.0,0.0,Unsuccessful
+Mike Maignan,France,46,9,Long Pass,Pass,SecondHalf,12.4,8.4,68.3,0.0,Unsuccessful
+Djed Spence,England,46,21,Throw In,Pass,SecondHalf,17.6,100.0,9.5,85.7,Successful
+Marc Guéhi,England,46,27,Long Pass,Pass,SecondHalf,9.0,97.4,30.0,83.2,Unsuccessful
+Warren Zaïre-Emery,France,46,28,Pass,Pass,SecondHalf,75.9,15.8,70.8,9.6,Successful
+Malo Gusto,France,46,30,Ball Recovery,BallRecovery,SecondHalf,70.6,9.6,0.0,0.0,Successful
+Malo Gusto,France,46,30,Pass,Pass,SecondHalf,70.6,9.6,78.7,31.9,Unsuccessful
+Ezri Konsa,England,46,31,Interception,Interception,SecondHalf,21.3,68.1,0.0,0.0,Successful
+Adrien Rabiot,France,46,33,Pass,Pass,SecondHalf,67.5,27.1,69.1,23.2,Successful
+Warren Zaïre-Emery,France,46,36,Loss of Possession,Dispossessed,SecondHalf,73.0,27.1,0.0,0.0,Successful
+Ollie Watkins,England,46,36,Successful Tackle,Tackle,SecondHalf,27.0,72.9,0.0,0.0,Successful
+Declan Rice,England,46,39,Ball Recovery,BallRecovery,SecondHalf,30.2,66.0,0.0,0.0,Successful
+Declan Rice,England,46,39,Pass,Pass,SecondHalf,30.1,66.7,30.9,55.4,Successful
+Eberechi Eze,England,46,42,Pass,Pass,SecondHalf,31.0,55.4,25.7,60.6,Successful
+Marc Guéhi,England,46,43,Pass,Pass,SecondHalf,25.7,60.6,32.6,82.0,Successful
+Declan Rice,England,46,47,Pass,Pass,SecondHalf,35.1,89.7,28.6,76.3,Successful
+Djed Spence,England,46,50,Pass,Pass,SecondHalf,31.2,76.1,23.8,68.7,Successful
+Marc Guéhi,England,46,56,Pass,Pass,SecondHalf,24.5,66.0,28.1,51.2,Successful
+Morgan Rogers,England,46,57,Pass,Pass,SecondHalf,28.1,51.2,21.3,70.6,Successful
+Marc Guéhi,England,46,59,Pass,Pass,SecondHalf,21.5,70.5,24.1,95.3,Successful
+Djed Spence,England,47,2,Pass,Pass,SecondHalf,22.9,94.4,8.6,77.0,Successful
+Marc Guéhi,England,47,4,Pass,Pass,SecondHalf,8.0,76.3,3.7,61.5,Successful
+Dean Henderson,England,47,8,Long Pass,Pass,SecondHalf,5.1,60.2,38.9,68.8,Unsuccessful
+Malo Gusto,France,47,10,Ball Recovery,BallRecovery,SecondHalf,58.8,38.1,0.0,0.0,Successful
+Malo Gusto,France,47,11,Pass,Pass,SecondHalf,60.5,35.4,69.5,31.9,Successful
+Ousmane Dembélé,France,47,12,Pass,Pass,SecondHalf,70.0,31.7,73.2,39.5,Unsuccessful
+Declan Rice,England,47,14,Pass,Pass,SecondHalf,24.8,64.3,33.6,73.6,Successful
+Ivan Toney,England,47,16,Ball Recovery,BallRecovery,SecondHalf,36.4,73.8,0.0,0.0,Successful
+Ivan Toney,England,47,17,Pass,Pass,SecondHalf,36.5,74.1,44.7,96.2,Successful
+Ollie Watkins,England,47,20,Pass,Pass,SecondHalf,53.8,96.0,51.4,84.5,Successful
+Ivan Toney,England,47,21,Pass,Pass,SecondHalf,51.5,84.2,53.3,96.9,Successful
+Ollie Watkins,England,47,23,Loss of Possession,Dispossessed,SecondHalf,50.6,92.4,0.0,0.0,Successful
+Dayot Upamecano,France,47,23,Was Dribbled,Tackle,SecondHalf,49.4,7.6,0.0,0.0,Unsuccessful
+Ollie Watkins,England,47,23,BallTouch,BallTouch,SecondHalf,51.0,96.5,0.0,0.0,Successful
+Dayot Upamecano,France,47,24,Ball Recovery,BallRecovery,SecondHalf,53.7,13.4,0.0,0.0,Successful
+Dayot Upamecano,France,47,27,Pass,Pass,SecondHalf,64.7,22.9,67.3,33.8,Successful
+Michael Olise,France,47,28,Assist,Pass,SecondHalf,76.5,37.3,90.9,55.4,Successful
+Kylian Mbappé,France,47,30,Goal,Goal,SecondHalf,90.9,55.4,0.0,0.0,Successful
+Declan Rice,England,48,7,Pass,Pass,SecondHalf,49.8,50.1,44.7,51.6,Successful
+Eberechi Eze,England,48,10,Pass,Pass,SecondHalf,44.7,51.6,33.7,61.1,Successful
+Marc Guéhi,England,48,12,Pass,Pass,SecondHalf,32.1,59.3,25.9,26.4,Successful
+Ezri Konsa,England,48,14,Pass,Pass,SecondHalf,22.3,32.2,8.8,52.1,Successful
+Dean Henderson,England,48,17,Pass,Pass,SecondHalf,8.6,51.3,19.7,48.2,Successful
+Eberechi Eze,England,48,19,Pass,Pass,SecondHalf,19.6,48.2,9.1,51.0,Successful
+Dean Henderson,England,48,21,Long Pass,Pass,SecondHalf,9.0,50.6,40.6,68.4,Unsuccessful
+Malo Gusto,France,48,23,Aerial Won,Aerial,SecondHalf,59.4,31.6,0.0,0.0,Successful
+Ollie Watkins,England,48,23,Aerial Lost,Aerial,SecondHalf,40.6,68.4,0.0,0.0,Unsuccessful
+Malo Gusto,France,48,24,BallTouch,BallTouch,SecondHalf,61.9,30.0,0.0,0.0,Successful
+Ousmane Dembélé,France,48,25,Ball Recovery,BallRecovery,SecondHalf,62.4,23.9,0.0,0.0,Successful
+Ousmane Dembélé,France,48,26,Pass,Pass,SecondHalf,62.4,23.9,55.1,56.3,Successful
+Maxence Lacroix,France,48,30,Pass,Pass,SecondHalf,53.0,65.2,47.4,52.7,Successful
+Dayot Upamecano,France,48,32,Pass,Pass,SecondHalf,51.8,55.0,59.5,66.9,Successful
+Kylian Mbappé,France,48,36,Long Pass,Pass,SecondHalf,64.1,58.7,67.5,5.8,Successful
+Malo Gusto,France,48,39,Pass,Pass,SecondHalf,68.9,6.1,69.7,14.6,Successful
+Ousmane Dembélé,France,48,41,Pass,Pass,SecondHalf,68.8,20.6,72.6,32.0,Successful
+Kylian Mbappé,France,48,44,Loss of Possession,Dispossessed,SecondHalf,80.6,37.6,0.0,0.0,Successful
+Morgan Rogers,England,48,44,Was Dribbled,Tackle,SecondHalf,19.4,62.4,0.0,0.0,Unsuccessful
+Michael Olise,France,48,46,Pass,Pass,SecondHalf,72.5,29.4,69.7,23.9,Successful
+Ousmane Dembélé,France,48,47,Pass,Pass,SecondHalf,70.1,24.2,67.8,31.2,Successful
+Warren Zaïre-Emery,France,48,48,Pass,Pass,SecondHalf,67.8,31.2,70.0,26.2,Successful
+Ousmane Dembélé,France,48,53,Pass,Pass,SecondHalf,73.5,23.6,69.6,33.7,Successful
+Michael Olise,France,48,55,Pass,Pass,SecondHalf,69.6,34.0,72.4,24.8,Successful
+Ousmane Dembélé,France,48,56,Pass,Pass,SecondHalf,72.5,24.7,64.5,25.9,Successful
+Warren Zaïre-Emery,France,48,59,Pass,Pass,SecondHalf,64.5,25.1,70.9,6.7,Successful
+Malo Gusto,France,49,1,Pass,Pass,SecondHalf,70.7,6.7,64.4,15.8,Successful
+Warren Zaïre-Emery,France,49,2,Pass,Pass,SecondHalf,64.3,16.6,62.0,26.2,Successful
+Michael Olise,France,49,7,Pass,Pass,SecondHalf,75.9,42.5,81.6,48.7,Unsuccessful
+Ezri Konsa,England,49,8,Interception,Interception,SecondHalf,18.4,51.3,0.0,0.0,Successful
+Declan Rice,England,49,9,Ball Recovery,BallRecovery,SecondHalf,20.9,60.1,0.0,0.0,Successful
+Declan Rice,England,49,17,Pass,Pass,SecondHalf,22.6,92.7,30.3,58.7,Successful
+Morgan Rogers,England,49,22,Pass,Pass,SecondHalf,31.0,47.9,37.7,29.5,Successful
+Jarell Quansah,England,49,27,Pass,Pass,SecondHalf,58.7,29.8,64.7,5.8,Successful
+Bukayo Saka,England,49,31,Key Pass,Pass,SecondHalf,69.9,17.7,85.3,28.8,Successful
+Ollie Watkins,England,49,32,Shot off Target,MissedShots,SecondHalf,88.7,28.2,0.0,0.0,Successful
+Mike Maignan,France,49,39,Pass,Pass,SecondHalf,1.9,43.6,19.5,14.2,Successful
+Malo Gusto,France,49,44,Pass,Pass,SecondHalf,24.4,12.9,28.6,15.7,Successful
+Ousmane Dembélé,France,49,46,Pass,Pass,SecondHalf,31.5,16.1,23.5,22.1,Successful
+Dayot Upamecano,France,49,49,Long Pass,Pass,SecondHalf,26.3,23.2,67.5,2.9,Successful
+Michael Olise,France,49,57,Unsuccessful Dribble,TakeOn,SecondHalf,87.6,31.7,0.0,0.0,Unsuccessful
+Declan Rice,England,49,57,Was Dribbled,Tackle,SecondHalf,12.4,68.3,0.0,0.0,Unsuccessful
+Michael Olise,France,49,57,BallTouch,BallTouch,SecondHalf,87.8,27.7,0.0,0.0,Successful
+Dean Henderson,England,49,59,KeeperPickup,KeeperPickup,SecondHalf,3.4,50.0,0.0,0.0,Successful
+Dean Henderson,England,50,6,Pass,Pass,SecondHalf,10.5,47.5,7.5,61.1,Successful
+Marc Guéhi,England,50,8,Pass,Pass,SecondHalf,9.1,60.5,23.3,51.5,Successful
+Morgan Rogers,England,50,10,Pass,Pass,SecondHalf,23.2,51.5,9.2,62.3,Successful
+Marc Guéhi,England,50,14,Long Pass,Pass,SecondHalf,10.6,55.1,32.6,90.0,Successful
+Eberechi Eze,England,50,16,Pass,Pass,SecondHalf,32.9,90.2,19.6,77.9,Successful
+Declan Rice,England,50,20,Pass,Pass,SecondHalf,16.0,79.7,2.9,80.8,Successful
+Marc Guéhi,England,50,22,Pass,Pass,SecondHalf,2.9,80.8,2.3,59.1,Successful
+Dean Henderson,England,50,29,Long Pass,Pass,SecondHalf,11.9,50.1,54.4,33.4,Unsuccessful
+Lucas Digne,France,50,32,Aerial Won,Aerial,SecondHalf,45.6,66.6,0.0,0.0,Successful
+Bukayo Saka,England,50,32,Aerial Lost,Aerial,SecondHalf,54.4,33.4,0.0,0.0,Unsuccessful
+Lucas Digne,France,50,32,Pass,Pass,SecondHalf,45.6,66.6,54.4,64.0,Successful
+Adrien Rabiot,France,50,34,Ball Recovery,BallRecovery,SecondHalf,54.5,63.3,0.0,0.0,Successful
+Adrien Rabiot,France,50,37,Pass,Pass,SecondHalf,60.4,50.2,69.0,32.5,Successful
+Michael Olise,France,50,38,Through Ball,Pass,SecondHalf,69.4,32.3,85.9,47.0,Unsuccessful
+Ezri Konsa,England,50,39,Aerial Won,Aerial,SecondHalf,14.1,53.0,0.0,0.0,Successful
+Kylian Mbappé,France,50,39,Aerial Lost,Aerial,SecondHalf,85.9,47.0,0.0,0.0,Unsuccessful
+Ezri Konsa,England,50,40,Clearance,Clearance,SecondHalf,14.1,53.0,15.7,43.9,Successful
+Adrien Rabiot,France,50,41,Shot off Target,MissedShots,SecondHalf,84.6,51.1,0.0,0.0,Successful
+Ezri Konsa,England,51,6,Pass,Pass,SecondHalf,5.1,38.6,2.9,51.6,Successful
+Dean Henderson,England,51,12,Pass,Pass,SecondHalf,8.1,52.6,16.0,69.1,Successful
+Marc Guéhi,England,51,18,Pass,Pass,SecondHalf,31.2,75.6,34.4,96.6,Successful
+Djed Spence,England,51,21,Pass,Pass,SecondHalf,35.0,96.2,44.6,77.5,Successful
+Ollie Watkins,England,51,23,Pass,Pass,SecondHalf,41.7,77.8,33.6,54.0,Successful
+Declan Rice,England,51,27,Pass,Pass,SecondHalf,33.8,53.4,53.1,45.8,Successful
+Bukayo Saka,England,51,28,Pass,Pass,SecondHalf,53.1,45.8,44.7,31.5,Unsuccessful
+Bradley Barcola,France,51,30,Pass,Pass,SecondHalf,57.2,73.5,60.9,68.3,Successful
+Michael Olise,France,51,32,Ball Recovery,BallRecovery,SecondHalf,60.9,68.3,0.0,0.0,Successful
+Michael Olise,France,51,32,Pass,Pass,SecondHalf,60.9,68.1,64.0,57.3,Successful
+Kylian Mbappé,France,51,34,Long Pass,Pass,SecondHalf,64.4,56.9,92.2,76.5,Unsuccessful
+Ezri Konsa,England,51,37,Ball Recovery,BallRecovery,SecondHalf,2.8,24.8,0.0,0.0,Successful
+Ezri Konsa,England,51,39,Pass,Pass,SecondHalf,8.4,23.0,23.9,23.4,Successful
+Morgan Rogers,England,51,42,Pass,Pass,SecondHalf,23.9,23.4,26.9,50.1,Successful
+Eberechi Eze,England,51,43,Pass,Pass,SecondHalf,26.9,50.1,17.9,50.1,Successful
+Declan Rice,England,51,45,Pass,Pass,SecondHalf,21.5,54.6,35.0,89.9,Successful
+Djed Spence,England,51,51,Pass,Pass,SecondHalf,57.5,88.1,79.4,85.0,Successful
+Ollie Watkins,England,51,55,Loss of Possession,Dispossessed,SecondHalf,89.2,88.1,0.0,0.0,Successful
+Dayot Upamecano,France,51,55,Successful Tackle,Tackle,SecondHalf,10.8,11.9,0.0,0.0,Successful
+Djed Spence,England,52,8,Throw In,Pass,SecondHalf,84.5,100.0,71.4,91.1,Successful
+Eberechi Eze,England,52,12,Pass,Pass,SecondHalf,71.1,88.0,63.1,74.4,Successful
+Declan Rice,England,52,14,Pass,Pass,SecondHalf,62.6,73.3,68.0,83.3,Successful
+Eberechi Eze,England,52,16,Pass,Pass,SecondHalf,68.0,83.5,59.5,72.1,Successful
+Declan Rice,England,52,17,Pass,Pass,SecondHalf,58.9,70.6,65.1,83.9,Successful
+Eberechi Eze,England,52,22,Pass,Pass,SecondHalf,65.9,77.9,71.4,62.6,Successful
+Ivan Toney,England,52,25,Pass,Pass,SecondHalf,76.1,66.4,76.3,64.3,Unsuccessful
+Adrien Rabiot,France,52,25,BlockedPass,BlockedPass,SecondHalf,23.7,35.7,0.0,0.0,Successful
+Adrien Rabiot,France,52,27,Loss of Possession,Dispossessed,SecondHalf,25.2,28.6,0.0,0.0,Successful
+Ivan Toney,England,52,27,Was Dribbled,Tackle,SecondHalf,74.8,71.4,0.0,0.0,Unsuccessful
+Adrien Rabiot,France,52,30,Pass,Pass,SecondHalf,27.9,36.4,27.2,36.4,Unsuccessful
+Ivan Toney,England,52,30,BlockedPass,BlockedPass,SecondHalf,72.8,63.6,0.0,0.0,Successful
+Warren Zaïre-Emery,France,52,31,Ball Recovery,BallRecovery,SecondHalf,33.5,26.0,0.0,0.0,Successful
+Warren Zaïre-Emery,France,52,32,Pass,Pass,SecondHalf,37.7,20.5,37.5,31.5,Successful
+Michael Olise,France,52,34,Pass,Pass,SecondHalf,37.5,31.5,24.7,30.8,Successful
+Malo Gusto,France,52,37,Pass,Pass,SecondHalf,22.2,30.3,22.7,58.4,Successful
+Maxence Lacroix,France,52,42,Pass,Pass,SecondHalf,33.4,63.0,42.9,88.4,Successful
+Lucas Digne,France,52,47,Pass,Pass,SecondHalf,61.2,91.8,57.0,78.7,Successful
+Kylian Mbappé,France,52,50,Long Pass,Pass,SecondHalf,56.5,75.5,65.8,5.9,Successful
+Ousmane Dembélé,France,52,57,Through Ball,Pass,SecondHalf,73.5,23.8,86.4,39.2,Unsuccessful
+Marc Guéhi,England,52,58,Key Pass,Interception,SecondHalf,13.6,60.8,0.0,0.0,Successful
+Eberechi Eze,England,53,0,Ball Recovery,BallRecovery,SecondHalf,25.4,64.8,0.0,0.0,Successful
+Ousmane Dembélé,France,53,1,Challenge,Challenge,SecondHalf,69.4,35.2,0.0,0.0,Unsuccessful
+Eberechi Eze,England,53,1,Successful Dribble,TakeOn,SecondHalf,30.6,64.8,0.0,0.0,Successful
+Adrien Rabiot,France,53,2,Challenge,Challenge,SecondHalf,63.4,37.4,0.0,0.0,Unsuccessful
+Eberechi Eze,England,53,2,Successful Dribble,TakeOn,SecondHalf,36.6,62.6,0.0,0.0,Successful
+Dayot Upamecano,France,53,5,Challenge,Challenge,SecondHalf,50.7,40.3,0.0,0.0,Unsuccessful
+Eberechi Eze,England,53,5,Successful Dribble,TakeOn,SecondHalf,49.3,59.7,0.0,0.0,Successful
+Eberechi Eze,England,53,7,Shot off Target,MissedShots,SecondHalf,65.9,60.9,0.0,0.0,Successful
+Mike Maignan,France,53,14,Pass,Pass,SecondHalf,3.6,45.8,9.4,48.5,Successful
+Maxence Lacroix,France,53,21,Pass,Pass,SecondHalf,29.2,64.3,32.3,89.6,Successful
+Lucas Digne,France,53,23,Pass,Pass,SecondHalf,32.4,89.5,28.9,73.2,Successful
+Maxence Lacroix,France,53,27,Pass,Pass,SecondHalf,30.1,67.7,35.8,59.6,Successful
+Warren Zaïre-Emery,France,53,31,Pass,Pass,SecondHalf,36.3,62.0,41.5,68.5,Successful
+Adrien Rabiot,France,53,32,Pass,Pass,SecondHalf,42.4,69.1,52.9,89.3,Successful
+Kylian Mbappé,France,53,35,Assist,Pass,SecondHalf,57.3,90.6,84.1,72.4,Successful
+Bradley Barcola,France,53,39,Goal,Goal,SecondHalf,90.5,55.0,0.0,0.0,Successful
+Declan Rice,England,54,21,Pass,Pass,SecondHalf,49.8,50.0,25.3,50.9,Successful
+Dean Henderson,England,54,25,Pass,Pass,SecondHalf,25.4,49.3,30.1,24.0,Successful
+Ezri Konsa,England,54,29,Pass,Pass,SecondHalf,27.3,19.4,14.7,49.0,Successful
+Dean Henderson,England,54,34,Pass,Pass,SecondHalf,14.5,48.4,26.6,38.5,Successful
+Declan Rice,England,54,38,Pass,Pass,SecondHalf,22.7,37.6,8.3,36.1,Successful
+Dean Henderson,England,54,42,Long Pass,Pass,SecondHalf,8.1,26.4,56.1,25.2,Unsuccessful
+Lucas Digne,France,54,45,Aerial Won,Aerial,SecondHalf,43.9,74.8,0.0,0.0,Successful
+Bukayo Saka,England,54,45,Aerial Lost,Aerial,SecondHalf,56.1,25.2,0.0,0.0,Unsuccessful
+Lucas Digne,France,54,46,Pass,Pass,SecondHalf,43.9,74.8,52.1,70.4,Unsuccessful
+Ivan Toney,England,54,48,Pass,Pass,SecondHalf,45.5,32.8,46.7,28.8,Unsuccessful
+Adrien Rabiot,France,54,48,BlockedPass,BlockedPass,SecondHalf,53.3,71.2,0.0,0.0,Successful
+Marc Guéhi,England,54,50,Pass,Pass,SecondHalf,29.7,55.2,43.8,54.5,Successful
+Eberechi Eze,England,54,51,Pass,Pass,SecondHalf,44.0,55.1,38.7,46.4,Successful
+Declan Rice,England,54,52,Pass,Pass,SecondHalf,39.5,47.0,45.1,57.0,Successful
+Eberechi Eze,England,54,53,Pass,Pass,SecondHalf,45.3,58.1,41.7,47.0,Successful
+Declan Rice,England,54,56,Pass,Pass,SecondHalf,42.1,47.3,65.0,23.1,Successful
+Ousmane Dembélé,France,55,0,Offside,OffsideGiven,SecondHalf,53.0,57.5,0.0,0.0,Unsuccessful
+Adrien Rabiot,France,55,2,Challenge,Challenge,SecondHalf,33.7,85.3,0.0,0.0,Unsuccessful
+Morgan Rogers,England,55,2,Successful Dribble,TakeOn,SecondHalf,66.3,14.7,0.0,0.0,Successful
+Morgan Rogers,England,55,5,Foul,Foul,SecondHalf,66.9,24.8,0.0,0.0,Successful
+Bradley Barcola,France,55,5,Foul,Foul,SecondHalf,33.0,75.1,0.0,0.0,Unsuccessful
+Declan Rice,England,55,46,Cross,Pass,SecondHalf,71.1,26.8,95.9,54.0,Unsuccessful
+Mike Maignan,France,55,49,Claim,Claim,SecondHalf,4.1,46.0,0.0,0.0,Successful
+Mike Maignan,France,55,51,Pass,Pass,SecondHalf,11.1,38.9,39.6,27.7,Successful
+Kylian Mbappé,France,55,55,Offside,OffsidePass,SecondHalf,40.3,30.9,53.0,57.5,Successful
+Eberechi Eze,England,55,55,OffsideProvoked,OffsideProvoked,SecondHalf,47.7,60.7,0.0,0.0,Successful
+Ezri Konsa,England,56,38,Pass,Pass,SecondHalf,20.9,20.0,13.1,46.0,Successful
+Dean Henderson,England,56,40,Pass,Pass,SecondHalf,13.5,46.0,20.6,70.2,Successful
+Marc Guéhi,England,56,42,Pass,Pass,SecondHalf,20.8,70.3,31.6,49.1,Successful
+Declan Rice,England,56,45,Long Pass,Pass,SecondHalf,35.1,47.2,63.6,10.4,Unsuccessful
+Lucas Digne,France,56,48,Interception,Interception,SecondHalf,36.4,89.6,0.0,0.0,Successful
+Bradley Barcola,France,56,49,Ball Recovery,BallRecovery,SecondHalf,39.4,82.0,0.0,0.0,Successful
+Bradley Barcola,France,56,51,Pass,Pass,SecondHalf,40.3,86.0,33.8,70.9,Successful
+Maxence Lacroix,France,56,53,Pass,Pass,SecondHalf,33.8,70.7,38.5,62.7,Successful
+Warren Zaïre-Emery,France,56,54,Pass,Pass,SecondHalf,38.9,63.3,45.4,70.1,Successful
+Michael Olise,France,56,56,Pass,Pass,SecondHalf,45.5,71.0,62.3,78.2,Successful
+Adrien Rabiot,France,56,58,Pass,Pass,SecondHalf,62.7,77.3,66.3,85.1,Successful
+Bradley Barcola,France,57,0,Loss of Possession,Dispossessed,SecondHalf,65.8,87.0,0.0,0.0,Successful
+Bukayo Saka,England,57,0,Was Dribbled,Tackle,SecondHalf,34.2,13.0,0.0,0.0,Unsuccessful
+Bradley Barcola,France,57,1,BallTouch,BallTouch,SecondHalf,66.4,84.6,0.0,0.0,Successful
+Bukayo Saka,England,57,3,Foul,Foul,SecondHalf,34.2,25.6,0.0,0.0,Successful
+Bradley Barcola,France,57,3,Foul,Foul,SecondHalf,65.8,74.4,0.0,0.0,Unsuccessful
+Declan Rice,England,57,46,Pass,Pass,SecondHalf,36.2,30.0,26.1,25.3,Successful
+Ezri Konsa,England,57,48,Pass,Pass,SecondHalf,26.1,27.7,26.5,62.1,Successful
+Marc Guéhi,England,57,50,Pass,Pass,SecondHalf,26.2,66.1,35.3,95.4,Successful
+Djed Spence,England,57,52,Pass,Pass,SecondHalf,33.3,95.7,42.9,94.1,Unsuccessful
+Malo Gusto,France,57,53,Interception,Interception,SecondHalf,57.1,5.9,0.0,0.0,Successful
+Djed Spence,England,58,0,Pass,Pass,SecondHalf,81.5,77.9,81.9,75.4,Unsuccessful
+Dayot Upamecano,France,58,0,BlockedPass,BlockedPass,SecondHalf,18.1,24.6,0.0,0.0,Successful
+Djed Spence,England,58,2,CornerAwarded,CornerAwarded,SecondHalf,78.6,75.8,0.0,0.0,Successful
+Dayot Upamecano,France,58,2,CornerAwarded,CornerAwarded,SecondHalf,21.4,24.2,0.0,0.0,Unsuccessful
+Declan Rice,England,58,47,Key Pass,Pass,SecondHalf,99.5,99.5,92.9,52.1,Successful
+Ivan Toney,England,58,48,Aerial Won,Aerial,SecondHalf,92.9,52.1,0.0,0.0,Successful
+Maxence Lacroix,France,58,48,Aerial Lost,Aerial,SecondHalf,7.1,47.9,0.0,0.0,Unsuccessful
+Ivan Toney,England,58,49,Shot on Target,SavedShot,SecondHalf,92.9,52.1,0.0,0.0,Successful
+Mike Maignan,France,58,49,Save,Save,SecondHalf,1.4,50.9,0.0,0.0,Successful
+Warren Zaïre-Emery,France,58,54,Ball Recovery,BallRecovery,SecondHalf,9.6,85.7,0.0,0.0,Successful
+Warren Zaïre-Emery,France,58,54,Pass,Pass,SecondHalf,9.6,85.7,22.3,91.2,Successful
+Michael Olise,France,58,58,Unsuccessful Dribble,TakeOn,SecondHalf,21.6,94.4,0.0,0.0,Unsuccessful
+Eberechi Eze,England,58,59,Ball Recovery,BallRecovery,SecondHalf,76.5,7.6,0.0,0.0,Successful
+Eberechi Eze,England,59,5,BallTouch,BallTouch,SecondHalf,97.5,11.1,0.0,0.0,Unsuccessful
+Mike Maignan,France,59,13,Long Pass,Pass,SecondHalf,3.6,51.2,36.2,11.4,Successful
+Malo Gusto,France,59,20,Pass,Pass,SecondHalf,52.0,10.0,54.3,5.5,Successful
+Ousmane Dembélé,France,59,23,Pass,Pass,SecondHalf,55.1,7.0,48.9,17.0,Successful
+Adrien Rabiot,France,59,26,Pass,Pass,SecondHalf,53.4,17.7,61.9,5.3,Successful
+Malo Gusto,France,59,30,Pass,Pass,SecondHalf,69.4,7.0,78.8,33.5,Unsuccessful
+Declan Rice,England,59,32,Ball Recovery,BallRecovery,SecondHalf,26.9,60.6,0.0,0.0,Successful
+Declan Rice,England,59,32,Pass,Pass,SecondHalf,26.8,60.6,18.0,69.7,Successful
+Bukayo Saka,England,59,35,Pass,Pass,SecondHalf,18.3,72.1,19.5,91.1,Successful
+Ollie Watkins,England,59,38,Pass,Pass,SecondHalf,19.9,90.8,24.6,71.7,Successful
+Declan Rice,England,59,40,Pass,Pass,SecondHalf,24.5,71.4,38.4,68.8,Successful
+Ivan Toney,England,59,41,Pass,Pass,SecondHalf,41.8,77.3,54.3,96.0,Successful
+Bukayo Saka,England,59,48,Pass,Pass,SecondHalf,70.4,84.1,71.0,81.1,Unsuccessful
+Malo Gusto,France,59,48,BlockedPass,BlockedPass,SecondHalf,29.0,18.9,0.0,0.0,Successful
+Malo Gusto,France,59,50,Ball Recovery,BallRecovery,SecondHalf,27.0,20.3,0.0,0.0,Successful
+Malo Gusto,France,59,50,Pass,Pass,SecondHalf,26.0,14.3,10.5,41.0,Successful
+Mike Maignan,France,59,53,Long Pass,Pass,SecondHalf,10.8,42.8,26.6,83.5,Successful
+Lucas Digne,France,59,57,Pass,Pass,SecondHalf,32.9,88.3,54.7,91.2,Successful
+Michael Olise,France,60,0,Pass,Pass,SecondHalf,61.5,91.6,73.8,91.6,Successful
+Kylian Mbappé,France,60,5,Unsuccessful Dribble,TakeOn,SecondHalf,86.0,77.4,0.0,0.0,Unsuccessful
+Jarell Quansah,England,60,5,Was Dribbled,Tackle,SecondHalf,14.0,22.6,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,60,6,BallTouch,BallTouch,SecondHalf,85.3,81.4,0.0,0.0,Successful
+Kylian Mbappé,France,60,7,Challenge,Challenge,SecondHalf,88.7,65.0,0.0,0.0,Unsuccessful
+Ezri Konsa,England,60,7,Successful Dribble,TakeOn,SecondHalf,11.3,35.0,0.0,0.0,Successful
+Ezri Konsa,England,60,8,Ball Recovery,BallRecovery,SecondHalf,9.6,31.0,0.0,0.0,Successful
+Ezri Konsa,England,60,9,Pass,Pass,SecondHalf,9.0,30.4,26.7,43.0,Successful
+Declan Rice,England,60,14,Pass,Pass,SecondHalf,29.8,24.6,36.1,8.3,Successful
+Morgan Rogers,England,60,18,Pass,Pass,SecondHalf,47.5,5.0,46.5,21.9,Unsuccessful
+Morgan Rogers,England,60,19,Error,Error,SecondHalf,44.2,7.4,0.0,0.0,Successful
+Warren Zaïre-Emery,France,60,20,Key Pass,Pass,SecondHalf,54.2,83.7,61.2,77.6,Successful
+Michael Olise,France,60,21,Ball Recovery,BallRecovery,SecondHalf,62.1,76.8,0.0,0.0,Successful
+Michael Olise,France,60,25,Shot off Target,MissedShots,SecondHalf,81.8,58.7,0.0,0.0,Successful
+Ezri Konsa,England,60,48,Pass,Pass,SecondHalf,5.0,37.0,3.9,50.7,Successful
+Dean Henderson,England,60,50,Pass,Pass,SecondHalf,3.9,50.7,6.3,72.0,Successful
+Marc Guéhi,England,60,54,Pass,Pass,SecondHalf,9.0,71.4,31.1,68.5,Successful
+Ivan Toney,England,60,56,Pass,Pass,SecondHalf,32.4,74.7,46.1,95.6,Successful
+Djed Spence,England,61,4,Pass,Pass,SecondHalf,75.3,73.3,74.1,46.7,Successful
+Morgan Rogers,England,61,5,Pass,Pass,SecondHalf,72.1,46.9,77.0,34.8,Successful
+Bukayo Saka,England,61,8,Pass,Pass,SecondHalf,73.4,40.3,68.0,54.5,Successful
+Eberechi Eze,England,61,14,Pass,Pass,SecondHalf,68.8,56.4,62.0,46.1,Successful
+Declan Rice,England,61,16,Pass,Pass,SecondHalf,63.7,47.8,67.1,66.1,Successful
+Eberechi Eze,England,61,18,Pass,Pass,SecondHalf,67.3,65.4,55.1,57.0,Successful
+Marc Guéhi,England,61,21,Pass,Pass,SecondHalf,58.9,58.8,63.1,75.9,Successful
+Eberechi Eze,England,61,23,Pass,Pass,SecondHalf,63.1,75.9,59.5,66.7,Successful
+Marc Guéhi,England,61,26,Pass,Pass,SecondHalf,58.1,66.4,59.1,59.0,Successful
+Declan Rice,England,61,29,Pass,Pass,SecondHalf,59.4,59.0,60.0,72.4,Successful
+Marc Guéhi,England,61,32,Pass,Pass,SecondHalf,60.0,72.6,70.2,95.9,Successful
+Djed Spence,England,61,35,Pass,Pass,SecondHalf,70.7,95.6,64.0,84.2,Successful
+Eberechi Eze,England,61,37,Pass,Pass,SecondHalf,65.1,84.2,57.9,72.7,Successful
+Marc Guéhi,England,61,39,Pass,Pass,SecondHalf,57.9,72.7,56.2,65.4,Successful
+Declan Rice,England,61,41,Pass,Pass,SecondHalf,57.1,63.9,57.4,73.6,Successful
+Marc Guéhi,England,61,45,Pass,Pass,SecondHalf,62.7,73.0,67.4,91.4,Successful
+Eberechi Eze,England,61,48,Pass,Pass,SecondHalf,67.9,89.9,65.9,62.9,Successful
+Declan Rice,England,61,53,Pass,Pass,SecondHalf,76.5,66.7,86.8,75.1,Successful
+Ollie Watkins,England,61,56,Successful Dribble,TakeOn,SecondHalf,86.4,72.5,0.0,0.0,Successful
+Dayot Upamecano,France,61,56,Challenge,Challenge,SecondHalf,13.6,27.5,0.0,0.0,Unsuccessful
+Ollie Watkins,England,61,57,Pass,Pass,SecondHalf,86.6,68.7,83.8,65.6,Unsuccessful
+Michael Olise,France,61,57,BallTouch,BallTouch,SecondHalf,16.2,33.6,0.0,0.0,Successful
+Adrien Rabiot,France,61,58,Clearance,Clearance,SecondHalf,19.8,31.9,21.6,35.2,Successful
+Eberechi Eze,England,62,0,Through Ball,Pass,SecondHalf,73.3,55.7,91.2,44.8,Successful
+Ivan Toney,England,62,2,Loss of Possession,Dispossessed,SecondHalf,91.0,52.0,0.0,0.0,Successful
+Maxence Lacroix,France,62,2,Successful Tackle,Tackle,SecondHalf,9.0,48.0,0.0,0.0,Successful
+Ivan Toney,England,62,2,BallTouch,BallTouch,SecondHalf,90.6,51.6,0.0,0.0,Successful
+Dayot Upamecano,France,62,3,Clearance,Clearance,SecondHalf,12.0,46.2,15.2,53.4,Successful
+Warren Zaïre-Emery,France,62,4,Clearance,Clearance,SecondHalf,15.1,53.4,23.6,48.9,Successful
+Adrien Rabiot,France,62,6,Foul,Foul,SecondHalf,25.5,49.0,0.0,0.0,Successful
+Declan Rice,England,62,6,Foul,Foul,SecondHalf,74.5,51.0,0.0,0.0,Unsuccessful
+Dayot Upamecano,France,62,21,Pass,Pass,SecondHalf,27.0,46.5,32.2,52.6,Successful
+Michael Olise,France,62,26,Pass,Pass,SecondHalf,37.1,49.4,37.7,23.0,Successful
+Malo Gusto,France,62,29,Pass,Pass,SecondHalf,44.0,17.2,63.3,6.7,Successful
+Ousmane Dembélé,France,62,32,Pass,Pass,SecondHalf,63.7,6.8,64.6,11.9,Successful
+Kylian Mbappé,France,62,37,Unsuccessful Dribble,TakeOn,SecondHalf,73.9,26.3,0.0,0.0,Unsuccessful
+Djed Spence,England,62,37,Successful Tackle,Tackle,SecondHalf,26.1,73.7,0.0,0.0,Successful
+Djed Spence,England,62,38,Ball Recovery,BallRecovery,SecondHalf,25.9,70.5,0.0,0.0,Successful
+Ousmane Dembélé,France,62,40,Challenge,Challenge,SecondHalf,72.1,22.0,0.0,0.0,Unsuccessful
+Djed Spence,England,62,40,Successful Dribble,TakeOn,SecondHalf,27.9,78.0,0.0,0.0,Successful
+Michael Olise,France,62,41,Challenge,Challenge,SecondHalf,70.4,25.9,0.0,0.0,Unsuccessful
+Djed Spence,England,62,41,Successful Dribble,TakeOn,SecondHalf,29.6,74.1,0.0,0.0,Successful
+Djed Spence,England,62,43,Long Pass,Pass,SecondHalf,40.7,65.2,66.4,95.9,Successful
+Malo Gusto,France,62,50,Challenge,Challenge,SecondHalf,19.2,24.0,0.0,0.0,Unsuccessful
+Ollie Watkins,England,62,50,Successful Dribble,TakeOn,SecondHalf,80.8,76.0,0.0,0.0,Successful
+Ollie Watkins,England,62,52,Pass,Pass,SecondHalf,87.8,75.3,92.6,53.0,Successful
+Ivan Toney,England,62,53,BallTouch,BallTouch,SecondHalf,92.5,53.9,0.0,0.0,Successful
+Ollie Watkins,England,62,56,Key Pass,Pass,SecondHalf,95.9,74.0,81.3,67.5,Successful
+Eberechi Eze,England,63,2,Shot on Target,SavedShot,SecondHalf,87.3,66.9,0.0,0.0,Successful
+Malo Gusto,France,63,2,Save,Save,SecondHalf,10.7,35.9,0.0,0.0,Successful
+Lucas Digne,France,63,3,Clearance,Clearance,SecondHalf,8.8,54.8,29.9,39.1,Successful
+Declan Rice,England,63,6,Pass,Pass,SecondHalf,73.4,62.1,81.8,83.9,Successful
+Ollie Watkins,England,63,12,Cross,Pass,SecondHalf,81.1,82.6,92.8,39.4,Unsuccessful
+Lucas Digne,France,63,15,Clearance,Clearance,SecondHalf,8.4,61.1,15.8,56.0,Successful
+Warren Zaïre-Emery,France,63,16,Ball Recovery,BallRecovery,SecondHalf,16.4,57.0,0.0,0.0,Successful
+Warren Zaïre-Emery,France,63,18,Pass,Pass,SecondHalf,21.7,55.0,29.1,57.8,Successful
+Michael Olise,France,63,19,Pass,Pass,SecondHalf,29.3,57.9,26.4,68.3,Successful
+Bradley Barcola,France,63,23,Pass,Pass,SecondHalf,32.3,69.2,25.7,77.1,Successful
+Lucas Digne,France,63,25,Pass,Pass,SecondHalf,25.8,77.1,30.0,66.6,Successful
+Michael Olise,France,63,31,Pass,Pass,SecondHalf,36.7,50.2,43.5,65.1,Successful
+Warren Zaïre-Emery,France,63,34,Pass,Pass,SecondHalf,54.1,69.1,66.8,89.2,Successful
+Bradley Barcola,France,63,39,Pass,Pass,SecondHalf,87.8,78.9,84.5,64.2,Successful
+Kylian Mbappé,France,63,42,Key Pass,Pass,SecondHalf,84.9,58.9,89.3,34.4,Successful
+Ousmane Dembélé,France,63,44,Shot on Target,SavedShot,SecondHalf,88.6,41.3,0.0,0.0,Successful
+Dean Henderson,England,63,44,Save,Save,SecondHalf,3.4,52.4,0.0,0.0,Successful
+Dean Henderson,England,63,46,KeeperPickup,KeeperPickup,SecondHalf,3.4,52.4,0.0,0.0,Successful
+Dean Henderson,England,64,2,Pass,Pass,SecondHalf,13.8,48.1,7.2,64.0,Successful
+Marc Guéhi,England,64,5,Pass,Pass,SecondHalf,5.0,67.0,2.3,55.2,Successful
+Dean Henderson,England,64,7,Long Pass,Pass,SecondHalf,2.9,55.2,22.3,100.0,Unsuccessful
+Malo Gusto,France,64,18,Throw In,Pass,SecondHalf,73.9,0.0,64.6,7.1,Successful
+Adrien Rabiot,France,64,22,Pass,Pass,SecondHalf,59.3,21.5,60.3,33.4,Successful
+Warren Zaïre-Emery,France,64,29,Pass,Pass,SecondHalf,66.3,60.4,69.3,87.1,Successful
+Lucas Digne,France,64,31,Pass,Pass,SecondHalf,72.2,87.8,70.4,74.6,Successful
+Warren Zaïre-Emery,France,64,33,Pass,Pass,SecondHalf,70.4,74.6,81.2,93.6,Successful
+Bradley Barcola,France,64,37,Pass,Pass,SecondHalf,80.9,90.6,76.8,84.3,Successful
+Warren Zaïre-Emery,France,64,40,Key Pass,Pass,SecondHalf,71.2,78.1,67.7,54.3,Successful
+Dayot Upamecano,France,64,44,Shot on Target,SavedShot,SecondHalf,72.5,48.3,0.0,0.0,Successful
+Dean Henderson,England,64,44,Save,Save,SecondHalf,2.7,46.6,0.0,0.0,Successful
+Bradley Barcola,France,64,49,Pass,Pass,SecondHalf,93.9,94.4,82.5,94.4,Successful
+Lucas Digne,France,64,53,Pass,Pass,SecondHalf,86.0,89.0,77.6,74.6,Successful
+Warren Zaïre-Emery,France,64,58,Pass,Pass,SecondHalf,77.5,69.5,75.6,60.8,Successful
+Maxence Lacroix,France,64,59,Pass,Pass,SecondHalf,75.7,60.5,73.6,36.1,Successful
+Michael Olise,France,65,1,Pass,Pass,SecondHalf,73.7,36.0,82.0,18.9,Successful
+Malo Gusto,France,65,4,Pass,Pass,SecondHalf,82.6,19.0,83.8,27.4,Successful
+Ousmane Dembélé,France,65,5,Pass,Pass,SecondHalf,83.8,27.4,80.9,16.6,Successful
+Malo Gusto,France,65,7,Pass,Pass,SecondHalf,81.2,16.8,76.9,25.6,Successful
+Michael Olise,France,65,10,Pass,Pass,SecondHalf,76.9,25.6,79.4,17.7,Successful
+Ousmane Dembélé,France,65,11,Pass,Pass,SecondHalf,79.5,20.7,97.7,26.8,Successful
+Malo Gusto,France,65,16,Pass,Pass,SecondHalf,97.6,34.2,97.4,41.9,Unsuccessful
+Marc Guéhi,England,65,17,BallTouch,BallTouch,SecondHalf,3.1,58.1,0.0,0.0,Successful
+Kylian Mbappé,France,65,18,Pass,Pass,SecondHalf,88.7,36.3,78.9,45.6,Unsuccessful
+Morgan Rogers,England,65,20,Ball Recovery,BallRecovery,SecondHalf,23.3,51.3,0.0,0.0,Successful
+Morgan Rogers,England,65,22,Pass,Pass,SecondHalf,19.6,47.6,13.4,43.4,Successful
+Jarell Quansah,England,65,24,Long Pass,Pass,SecondHalf,13.6,43.7,66.1,62.9,Successful
+Ollie Watkins,England,65,30,BallTouch,BallTouch,SecondHalf,66.2,62.7,0.0,0.0,Unsuccessful
+Maxence Lacroix,France,65,33,Ball Recovery,BallRecovery,SecondHalf,20.1,29.9,0.0,0.0,Successful
+Maxence Lacroix,France,65,37,Pass,Pass,SecondHalf,31.7,28.7,31.6,31.9,Successful
+Dayot Upamecano,France,65,40,Pass,Pass,SecondHalf,34.8,28.3,53.0,9.7,Successful
+Ousmane Dembélé,France,65,47,Pass,Pass,SecondHalf,73.5,17.6,79.9,35.8,Successful
+Kylian Mbappé,France,65,48,Pass,Pass,SecondHalf,81.5,35.2,85.3,31.7,Successful
+Michael Olise,France,65,49,Assist,Pass,SecondHalf,85.3,30.5,82.8,48.1,Successful
+Kylian Mbappé,France,65,50,Goal,Goal,SecondHalf,85.5,48.3,0.0,0.0,Successful
+Declan Rice,England,66,42,Pass,Pass,SecondHalf,49.8,50.0,23.5,50.3,Successful
+Dean Henderson,England,66,48,Long Pass,Pass,SecondHalf,23.0,47.3,64.8,7.7,Unsuccessful
+Lucas Digne,France,66,50,Aerial Won,Aerial,SecondHalf,35.2,92.3,0.0,0.0,Successful
+Ivan Toney,England,66,50,Aerial Lost,Aerial,SecondHalf,64.8,7.7,0.0,0.0,Unsuccessful
+Lucas Digne,France,66,51,Pass,Pass,SecondHalf,35.2,92.3,42.3,78.5,Successful
+Bradley Barcola,France,66,52,Ball Recovery,BallRecovery,SecondHalf,42.3,78.4,0.0,0.0,Successful
+Bradley Barcola,France,66,55,Pass,Pass,SecondHalf,35.7,66.6,32.3,36.4,Successful
+Malo Gusto,France,66,58,Pass,Pass,SecondHalf,34.5,34.3,43.7,13.4,Successful
+Ousmane Dembélé,France,67,1,Key Pass,Pass,SecondHalf,47.0,12.9,82.8,50.9,Successful
+Kylian Mbappé,France,67,5,Shot off Target,MissedShots,SecondHalf,88.1,54.2,0.0,0.0,Successful
+Ezri Konsa,England,71,15,Pass,Pass,SecondHalf,5.2,37.4,3.3,49.1,Successful
+Dean Henderson,England,71,18,Long Pass,Pass,SecondHalf,4.3,49.1,35.2,68.7,Successful
+Ivan Toney,England,71,21,Pass,Pass,SecondHalf,34.4,63.9,46.1,64.8,Successful
+Ollie Watkins,England,71,22,Aerial Won,Aerial,SecondHalf,46.1,64.8,0.0,0.0,Successful
+Malo Gusto,France,71,22,Aerial Lost,Aerial,SecondHalf,53.9,35.2,0.0,0.0,Unsuccessful
+Ollie Watkins,England,71,22,Pass,Pass,SecondHalf,46.1,64.8,33.6,39.7,Successful
+Jarell Quansah,England,71,27,Pass,Pass,SecondHalf,33.3,38.2,34.1,45.1,Successful
+Morgan Rogers,England,71,27,Pass,Pass,SecondHalf,34.1,45.1,36.7,38.0,Successful
+Jarell Quansah,England,71,28,Unsuccessful Dribble,TakeOn,SecondHalf,37.0,40.3,0.0,0.0,Unsuccessful
+Jarell Quansah,England,71,29,Foul,Foul,SecondHalf,37.7,37.8,0.0,0.0,Successful
+Adrien Rabiot,France,71,29,Foul,Foul,SecondHalf,62.3,62.2,0.0,0.0,Unsuccessful
+Declan Rice,England,71,43,Pass,Pass,SecondHalf,45.5,39.8,40.7,64.6,Successful
+Marc Guéhi,England,71,48,Pass,Pass,SecondHalf,42.1,67.5,43.2,54.2,Successful
+Declan Rice,England,71,50,Pass,Pass,SecondHalf,42.1,60.2,40.5,72.7,Successful
+Michael Olise,France,71,52,Challenge,Challenge,SecondHalf,61.2,28.8,0.0,0.0,Unsuccessful
+Marc Guéhi,England,71,52,Successful Dribble,TakeOn,SecondHalf,38.8,71.2,0.0,0.0,Successful
+Marc Guéhi,England,71,57,Foul,Foul,SecondHalf,44.0,50.7,0.0,0.0,Successful
+Michael Olise,France,71,57,Foul,Foul,SecondHalf,56.0,49.3,0.0,0.0,Unsuccessful
+Ezri Konsa,England,72,10,Pass,Pass,SecondHalf,48.0,45.4,46.9,66.0,Successful
+Eberechi Eze,England,72,12,Pass,Pass,SecondHalf,46.9,66.3,58.9,98.0,Successful
+Djed Spence,England,72,16,Pass,Pass,SecondHalf,59.9,97.8,70.3,91.8,Successful
+Ollie Watkins,England,72,20,Pass,Pass,SecondHalf,67.5,91.4,52.5,91.4,Successful
+Eberechi Eze,England,72,22,Pass,Pass,SecondHalf,52.7,90.6,52.2,67.5,Successful
+Declan Rice,England,72,26,Pass,Pass,SecondHalf,47.4,65.8,51.6,58.2,Successful
+Eberechi Eze,England,72,28,Pass,Pass,SecondHalf,46.9,59.1,42.8,77.2,Successful
+Marc Guéhi,England,72,31,Pass,Pass,SecondHalf,36.7,72.4,21.1,55.5,Successful
+Dean Henderson,England,72,38,Pass,Pass,SecondHalf,19.8,50.6,45.6,56.9,Successful
+Ivan Toney,England,72,40,Foul,Foul,SecondHalf,46.0,54.6,0.0,0.0,Successful
+Dayot Upamecano,France,72,40,Foul,Foul,SecondHalf,54.0,45.4,0.0,0.0,Unsuccessful
+Declan Rice,England,73,4,Pass,Pass,SecondHalf,46.8,56.3,39.6,68.4,Successful
+Marc Guéhi,England,73,6,Pass,Pass,SecondHalf,40.6,69.6,58.5,96.2,Successful
+Djed Spence,England,73,10,Pass,Pass,SecondHalf,58.2,95.9,37.6,73.6,Successful
+Marc Guéhi,England,73,13,Pass,Pass,SecondHalf,37.7,66.4,36.0,40.7,Successful
+Ezri Konsa,England,73,16,Pass,Pass,SecondHalf,34.4,34.2,38.1,17.7,Successful
+Bradley Barcola,France,73,20,Challenge,Challenge,SecondHalf,64.9,77.8,0.0,0.0,Unsuccessful
+Jarell Quansah,England,73,20,Successful Dribble,TakeOn,SecondHalf,35.1,22.2,0.0,0.0,Successful
+Jarell Quansah,England,73,21,Pass,Pass,SecondHalf,39.6,29.1,34.1,36.9,Successful
+Declan Rice,England,73,22,Pass,Pass,SecondHalf,34.1,36.9,38.3,6.8,Successful
+Morgan Rogers,England,73,26,Long Pass,Pass,SecondHalf,42.2,13.2,53.6,98.0,Successful
+Djed Spence,England,73,30,Pass,Pass,SecondHalf,53.6,98.0,65.5,89.0,Successful
+Ollie Watkins,England,73,34,Unsuccessful Dribble,TakeOn,SecondHalf,70.5,79.5,0.0,0.0,Unsuccessful
+Malo Gusto,France,73,34,Successful Tackle,Tackle,SecondHalf,29.5,20.5,0.0,0.0,Successful
+Malo Gusto,France,73,36,Ball Recovery,BallRecovery,SecondHalf,32.3,13.9,0.0,0.0,Successful
+Malo Gusto,France,73,37,Pass,Pass,SecondHalf,31.5,13.6,31.5,20.1,Successful
+Warren Zaïre-Emery,France,73,39,Pass,Pass,SecondHalf,31.3,20.6,36.4,26.2,Successful
+Michael Olise,France,73,41,Pass,Pass,SecondHalf,37.2,26.4,31.9,25.3,Successful
+Warren Zaïre-Emery,France,73,47,Pass,Pass,SecondHalf,34.7,34.8,31.3,54.7,Successful
+Maxence Lacroix,France,73,52,Pass,Pass,SecondHalf,31.7,59.1,31.7,41.5,Successful
+Dayot Upamecano,France,73,56,Pass,Pass,SecondHalf,35.8,29.9,40.4,35.7,Successful
+Warren Zaïre-Emery,France,73,58,Pass,Pass,SecondHalf,42.5,36.3,55.5,30.2,Successful
+Ousmane Dembélé,France,74,1,Pass,Pass,SecondHalf,60.6,25.8,68.8,7.1,Successful
+Malo Gusto,France,74,4,Cross,Pass,SecondHalf,85.2,15.4,85.5,28.0,Unsuccessful
+Declan Rice,England,74,5,BallTouch,BallTouch,SecondHalf,11.9,69.1,0.0,0.0,Successful
+Michael Olise,France,74,6,Shot off Target,MissedShots,SecondHalf,85.9,45.6,0.0,0.0,Successful
+Ezri Konsa,England,74,24,Pass,Pass,SecondHalf,5.0,37.0,3.1,49.1,Successful
+Dean Henderson,England,74,29,Pass,Pass,SecondHalf,3.4,49.1,2.4,69.1,Successful
+Marc Guéhi,England,74,35,Long Pass,Pass,SecondHalf,8.3,61.7,44.7,41.8,Unsuccessful
+Maxence Lacroix,France,74,38,Aerial Won,Aerial,SecondHalf,55.3,58.2,0.0,0.0,Successful
+Bukayo Saka,England,74,38,Aerial Lost,Aerial,SecondHalf,44.7,41.8,0.0,0.0,Unsuccessful
+Maxence Lacroix,France,74,38,Pass,Pass,SecondHalf,55.3,58.2,76.0,52.3,Unsuccessful
+Declan Rice,England,74,40,Chipped Pass,Pass,SecondHalf,25.1,50.7,32.4,66.4,Unsuccessful
+Warren Zaïre-Emery,France,74,41,Pass,Pass,SecondHalf,72.6,38.6,77.1,28.8,Successful
+Ousmane Dembélé,France,74,42,Ball Recovery,BallRecovery,SecondHalf,77.1,28.7,0.0,0.0,Successful
+Ousmane Dembélé,France,74,42,Chipped Pass,Pass,SecondHalf,77.1,28.7,76.6,43.9,Successful
+Adrien Rabiot,France,74,43,Pass,Pass,SecondHalf,76.6,44.1,71.6,34.8,Successful
+Warren Zaïre-Emery,France,74,44,Pass,Pass,SecondHalf,71.6,34.8,60.0,28.7,Successful
+Dayot Upamecano,France,74,45,Pass,Pass,SecondHalf,59.7,28.7,65.5,16.5,Successful
+Ousmane Dembélé,France,74,47,Pass,Pass,SecondHalf,68.9,15.6,91.9,16.2,Successful
+Michael Olise,France,74,55,Pass,Pass,SecondHalf,87.6,9.7,73.9,22.6,Successful
+Warren Zaïre-Emery,France,74,59,Pass,Pass,SecondHalf,72.3,26.1,72.0,44.8,Successful
+Kylian Mbappé,France,75,3,Pass,Pass,SecondHalf,70.8,56.7,82.3,87.8,Successful
+Lucas Digne,France,75,6,Pass,Pass,SecondHalf,86.8,89.6,78.3,77.3,Successful
+Kylian Mbappé,France,75,9,Pass,Pass,SecondHalf,79.1,76.5,93.3,77.5,Successful
+Lucas Digne,France,75,10,Cross,Pass,SecondHalf,92.5,78.7,92.4,77.4,Unsuccessful
+Jarell Quansah,England,75,10,Clearance,Clearance,SecondHalf,7.6,22.6,0.0,0.0,Successful
+Lucas Digne,France,75,15,Pass,Pass,SecondHalf,91.3,89.7,87.8,75.0,Successful
+Morgan Rogers,England,75,17,Challenge,Challenge,SecondHalf,12.1,24.4,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,75,17,Successful Dribble,TakeOn,SecondHalf,87.9,75.6,0.0,0.0,Successful
+Kylian Mbappé,France,75,20,BallTouch,BallTouch,SecondHalf,91.4,72.3,0.0,0.0,Unsuccessful
+Bukayo Saka,England,75,21,Ball Recovery,BallRecovery,SecondHalf,12.0,27.3,0.0,0.0,Successful
+Bukayo Saka,England,75,22,Foul,Foul,SecondHalf,11.2,28.4,0.0,0.0,Successful
+Lucas Digne,France,75,22,Foul,Foul,SecondHalf,88.8,71.6,0.0,0.0,Unsuccessful
+Ezri Konsa,England,76,11,Pass,Pass,SecondHalf,12.5,23.7,6.4,42.2,Successful
+Dean Henderson,England,76,15,Pass,Pass,SecondHalf,7.7,40.4,14.5,14.3,Successful
+Ezri Konsa,England,76,17,Pass,Pass,SecondHalf,15.1,14.7,34.6,32.2,Successful
+Morgan Rogers,England,76,22,Loss of Possession,Dispossessed,SecondHalf,32.8,39.5,0.0,0.0,Successful
+Adrien Rabiot,France,76,22,Successful Tackle,Tackle,SecondHalf,67.2,60.5,0.0,0.0,Successful
+Dayot Upamecano,France,76,23,Ball Recovery,BallRecovery,SecondHalf,62.0,64.0,0.0,0.0,Successful
+Dayot Upamecano,France,76,24,Pass,Pass,SecondHalf,61.8,64.0,62.7,43.0,Successful
+Warren Zaïre-Emery,France,76,25,Pass,Pass,SecondHalf,62.7,42.7,69.1,53.8,Successful
+Michael Olise,France,76,28,Pass,Pass,SecondHalf,72.0,58.8,76.1,68.0,Successful
+Kylian Mbappé,France,76,30,Through Ball,Pass,SecondHalf,78.6,70.1,88.5,60.4,Successful
+Michael Olise,France,76,31,Loss of Possession,Dispossessed,SecondHalf,90.4,59.0,0.0,0.0,Successful
+Marc Guéhi,England,76,31,Successful Tackle,Tackle,SecondHalf,9.7,41.0,0.0,0.0,Successful
+Lucas Digne,France,76,41,Throw In,Pass,SecondHalf,91.2,100.0,80.1,93.5,Successful
+Kylian Mbappé,France,76,42,Pass,Pass,SecondHalf,80.1,92.9,89.2,80.7,Successful
+Bradley Barcola,France,76,45,Pass,Pass,SecondHalf,89.9,72.8,82.6,64.4,Successful
+Adrien Rabiot,France,76,47,Pass,Pass,SecondHalf,79.9,61.6,80.1,67.1,Successful
+Kylian Mbappé,France,76,48,Chipped Pass,Pass,SecondHalf,80.1,66.9,89.7,25.1,Successful
+Ousmane Dembélé,France,76,51,Pass,Pass,SecondHalf,89.8,24.8,77.6,27.3,Successful
+Malo Gusto,France,76,53,Foul,Foul,SecondHalf,76.6,24.8,0.0,0.0,Successful
+Ollie Watkins,England,76,53,Foul,Foul,SecondHalf,23.4,75.2,0.0,0.0,Unsuccessful
+Ousmane Dembélé,France,77,42,Cross,Pass,SecondHalf,77.2,28.4,91.3,49.1,Unsuccessful
+Jarell Quansah,England,77,43,Clearance,Clearance,SecondHalf,9.0,55.8,9.1,50.3,Successful
+Ivan Toney,England,77,44,BallTouch,BallTouch,SecondHalf,8.8,50.7,0.0,0.0,Successful
+Eberechi Eze,England,77,44,Clearance,Clearance,SecondHalf,14.0,50.7,46.3,74.4,Successful
+Malo Gusto,France,77,50,Pass,Pass,SecondHalf,53.8,28.0,52.9,51.1,Successful
+Warren Zaïre-Emery,France,77,53,Pass,Pass,SecondHalf,54.7,57.7,64.3,79.9,Successful
+Adrien Rabiot,France,77,56,Pass,Pass,SecondHalf,67.5,86.4,76.7,92.4,Successful
+Bradley Barcola,France,78,2,Pass,Pass,SecondHalf,81.7,81.0,89.5,79.6,Successful
+Lucas Digne,France,78,4,Pass,Pass,SecondHalf,90.2,78.5,88.5,71.7,Successful
+Kylian Mbappé,France,78,5,Loss of Possession,Dispossessed,SecondHalf,90.6,59.5,0.0,0.0,Successful
+Declan Rice,England,78,5,Was Dribbled,Tackle,SecondHalf,9.4,40.5,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,78,7,Shot on Target,SavedShot,SecondHalf,94.9,66.5,0.0,0.0,Successful
+Ezri Konsa,England,78,7,Save,Save,SecondHalf,4.4,36.1,0.0,0.0,Successful
+Bradley Barcola,France,78,10,BallTouch,BallTouch,SecondHalf,80.5,90.2,0.0,0.0,Unsuccessful
+Morgan Rogers,England,78,12,Ball Recovery,BallRecovery,SecondHalf,25.0,15.5,0.0,0.0,Successful
+Morgan Rogers,England,78,15,Foul,Foul,SecondHalf,37.8,14.4,0.0,0.0,Successful
+Lucas Digne,France,78,15,Foul,Foul,SecondHalf,62.2,85.6,0.0,0.0,Unsuccessful
+Ivan Toney,England,78,50,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Elliot Anderson,England,78,50,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Eberechi Eze,England,78,58,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jude Bellingham,England,78,58,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,England,79,0,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ezri Konsa,England,79,11,Pass,Pass,SecondHalf,32.3,24.0,40.7,27.1,Successful
+Declan Rice,England,79,13,Pass,Pass,SecondHalf,39.7,25.9,35.3,3.7,Successful
+Jarell Quansah,England,79,14,Pass,Pass,SecondHalf,33.7,3.5,43.5,1.0,Successful
+Jude Bellingham,England,79,15,Pass,Pass,SecondHalf,42.0,1.4,44.5,2.0,Unsuccessful
+Adrien Rabiot,France,79,16,BallTouch,BallTouch,SecondHalf,60.1,96.7,0.0,0.0,Successful
+Lucas Digne,France,79,17,Ball Recovery,BallRecovery,SecondHalf,41.8,94.1,0.0,0.0,Successful
+Lucas Digne,France,79,18,Pass,Pass,SecondHalf,41.8,94.1,57.6,90.7,Successful
+Bradley Barcola,France,79,18,Pass,Pass,SecondHalf,58.1,90.6,56.7,80.8,Successful
+Michael Olise,France,79,19,Pass,Pass,SecondHalf,56.8,80.2,58.2,61.3,Successful
+Warren Zaïre-Emery,France,79,23,Pass,Pass,SecondHalf,62.3,36.3,68.7,20.0,Successful
+Ousmane Dembélé,France,79,28,Pass,Pass,SecondHalf,76.0,21.2,73.2,27.3,Successful
+Warren Zaïre-Emery,France,79,30,Pass,Pass,SecondHalf,72.7,27.1,76.1,17.8,Successful
+Ousmane Dembélé,France,79,32,Chipped Pass,Pass,SecondHalf,76.1,17.8,84.4,27.6,Successful
+Warren Zaïre-Emery,France,79,34,BallTouch,BallTouch,SecondHalf,84.4,27.6,0.0,0.0,Unsuccessful
+Djed Spence,England,79,35,Ball Recovery,BallRecovery,SecondHalf,13.2,73.6,0.0,0.0,Successful
+Djed Spence,England,79,35,Pass,Pass,SecondHalf,13.0,73.9,32.1,63.7,Successful
+Ollie Watkins,England,79,36,Pass,Pass,SecondHalf,32.4,64.6,27.1,71.7,Successful
+Jude Bellingham,England,79,38,Pass,Pass,SecondHalf,30.6,92.9,60.3,85.4,Successful
+Ollie Watkins,England,79,47,Key Pass,Pass,SecondHalf,79.2,76.9,74.9,64.2,Successful
+Jude Bellingham,England,79,48,Successful Dribble,TakeOn,SecondHalf,81.9,62.1,0.0,0.0,Successful
+Malo Gusto,France,79,48,Challenge,Challenge,SecondHalf,18.1,37.9,0.0,0.0,Unsuccessful
+Jude Bellingham,England,79,50,Successful Dribble,TakeOn,SecondHalf,96.4,60.7,0.0,0.0,Successful
+Dayot Upamecano,France,79,50,Challenge,Challenge,SecondHalf,3.6,39.3,0.0,0.0,Unsuccessful
+Jude Bellingham,England,79,51,Shot on Target,SavedShot,SecondHalf,96.8,58.7,0.0,0.0,Successful
+Mike Maignan,France,79,52,Save,Save,SecondHalf,2.1,44.4,0.0,0.0,Successful
+Morgan Rogers,England,79,55,Shot on Target,SavedShot,SecondHalf,89.3,61.1,0.0,0.0,Successful
+Maxence Lacroix,France,79,55,Save,Save,SecondHalf,6.3,41.9,0.0,0.0,Successful
+Warren Zaïre-Emery,France,79,57,Ball Recovery,BallRecovery,SecondHalf,24.7,58.1,0.0,0.0,Successful
+Warren Zaïre-Emery,France,79,57,Pass,Pass,SecondHalf,24.9,58.4,46.6,80.5,Successful
+Michael Olise,France,80,3,Pass,Pass,SecondHalf,58.1,82.6,76.2,87.8,Successful
+Jarell Quansah,England,80,8,Challenge,Challenge,SecondHalf,11.6,25.3,0.0,0.0,Unsuccessful
+Bradley Barcola,France,80,8,Successful Dribble,TakeOn,SecondHalf,88.4,74.7,0.0,0.0,Successful
+Bradley Barcola,France,80,10,Pass,Pass,SecondHalf,94.2,77.8,88.3,82.0,Successful
+Kylian Mbappé,France,80,15,Pass,Pass,SecondHalf,87.2,72.7,86.9,56.7,Successful
+Michael Olise,France,80,16,Pass,Pass,SecondHalf,86.9,56.7,92.3,43.9,Successful
+Ousmane Dembélé,France,80,17,Key Pass,Pass,SecondHalf,92.2,38.9,90.3,49.5,Successful
+Michael Olise,France,80,18,Shot off Target,MissedShots,SecondHalf,90.3,49.5,0.0,0.0,Successful
+Jarell Quansah,England,82,34,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Reece James,England,82,34,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Dean Henderson,England,82,52,Long Pass,Pass,SecondHalf,5.2,60.8,70.3,57.3,Unsuccessful
+Maxence Lacroix,France,82,56,Aerial Won,Aerial,SecondHalf,29.7,42.7,0.0,0.0,Successful
+Ollie Watkins,England,82,56,Aerial Lost,Aerial,SecondHalf,70.3,57.3,0.0,0.0,Unsuccessful
+Maxence Lacroix,France,82,57,Clearance,Clearance,SecondHalf,29.7,42.7,38.2,33.1,Successful
+Jude Bellingham,England,82,58,BallTouch,BallTouch,SecondHalf,62.8,58.8,0.0,0.0,Unsuccessful
+Ousmane Dembélé,France,82,59,Pass,Pass,SecondHalf,52.0,29.3,48.1,33.7,Successful
+Michael Olise,France,83,0,Ball Recovery,BallRecovery,SecondHalf,48.1,33.7,0.0,0.0,Successful
+Michael Olise,France,83,3,Pass,Pass,SecondHalf,37.2,47.9,40.4,75.5,Successful
+Lucas Digne,France,83,5,Pass,Pass,SecondHalf,40.3,75.2,12.8,55.6,Successful
+Mike Maignan,France,83,9,Pass,Pass,SecondHalf,13.8,56.4,23.7,66.8,Successful
+Maxence Lacroix,France,83,13,Pass,Pass,SecondHalf,23.7,66.9,24.8,24.1,Successful
+Dayot Upamecano,France,83,15,Pass,Pass,SecondHalf,26.5,22.1,33.0,27.7,Successful
+Warren Zaïre-Emery,France,83,16,Pass,Pass,SecondHalf,33.1,28.0,38.9,24.4,Successful
+Ousmane Dembélé,France,83,17,Pass,Pass,SecondHalf,39.1,24.4,36.3,37.0,Successful
+Warren Zaïre-Emery,France,83,21,Long Pass,Pass,SecondHalf,51.3,46.0,68.4,88.7,Successful
+Bradley Barcola,France,83,25,Key Pass,Pass,SecondHalf,69.2,86.0,69.9,74.9,Successful
+Kylian Mbappé,France,83,29,Shot on Target,SavedShot,SecondHalf,76.2,61.7,0.0,0.0,Successful
+Dean Henderson,England,83,29,Save,Save,SecondHalf,3.4,47.8,0.0,0.0,Successful
+Dean Henderson,England,83,30,KeeperPickup,KeeperPickup,SecondHalf,4.4,50.1,0.0,0.0,Successful
+Dean Henderson,England,83,32,Pass,Pass,SecondHalf,9.9,47.0,20.5,46.7,Successful
+Elliot Anderson,England,83,38,Pass,Pass,SecondHalf,18.1,42.5,13.1,65.7,Successful
+Marc Guéhi,England,83,40,Pass,Pass,SecondHalf,13.1,65.7,31.7,85.0,Successful
+Djed Spence,England,83,45,Pass,Pass,SecondHalf,32.0,95.3,15.2,77.2,Successful
+Marc Guéhi,England,83,52,Pass,Pass,SecondHalf,28.0,73.9,29.0,85.9,Successful
+Elliot Anderson,England,83,56,Pass,Pass,SecondHalf,25.4,80.6,7.5,63.7,Successful
+Dean Henderson,England,84,8,Pass,Pass,SecondHalf,7.2,52.2,26.5,34.6,Successful
+Jude Bellingham,England,84,10,Pass,Pass,SecondHalf,27.4,36.7,21.1,21.0,Successful
+Ezri Konsa,England,84,13,Pass,Pass,SecondHalf,24.4,16.4,32.4,26.8,Successful
+Jude Bellingham,England,84,18,Long Pass,Pass,SecondHalf,37.6,33.9,71.2,95.6,Successful
+Morgan Rogers,England,84,24,Pass,Pass,SecondHalf,78.9,80.0,92.5,75.1,Successful
+Djed Spence,England,84,25,Unsuccessful Dribble,TakeOn,SecondHalf,91.6,74.9,0.0,0.0,Unsuccessful
+Djed Spence,England,84,26,Foul,Foul,SecondHalf,92.8,72.8,0.0,0.0,Successful
+Malo Gusto,France,84,26,Foul,Foul,SecondHalf,7.2,27.3,0.0,0.0,Unsuccessful
+Bukayo Saka,England,86,41,Goal,Goal,SecondHalf,88.5,50.0,0.0,0.0,Successful
+Mike Maignan,France,86,41,PenaltyFaced,PenaltyFaced,SecondHalf,0.0,0.0,0.0,0.0,Unsuccessful
+Kylian Mbappé,France,87,55,Pass,Pass,SecondHalf,49.9,50.3,45.1,51.7,Successful
+Michael Olise,France,87,56,Pass,Pass,SecondHalf,45.1,51.7,47.5,50.2,Successful
+Kylian Mbappé,France,88,1,Pass,Pass,SecondHalf,44.9,63.9,45.3,88.3,Successful
+Lucas Digne,France,88,7,Unsuccessful Dribble,TakeOn,SecondHalf,62.2,92.0,0.0,0.0,Unsuccessful
+Bukayo Saka,England,88,7,Successful Tackle,Tackle,SecondHalf,37.8,8.0,0.0,0.0,Successful
+Bukayo Saka,England,88,8,Ball Recovery,BallRecovery,SecondHalf,32.3,13.6,0.0,0.0,Successful
+Bukayo Saka,England,88,9,Pass,Pass,SecondHalf,35.2,9.8,37.3,4.3,Successful
+Jude Bellingham,England,88,11,Pass,Pass,SecondHalf,37.2,8.9,32.2,41.0,Successful
+Elliot Anderson,England,88,14,Pass,Pass,SecondHalf,30.0,46.0,40.4,63.7,Successful
+Morgan Rogers,England,88,15,Pass,Pass,SecondHalf,40.4,63.9,32.8,59.1,Successful
+Elliot Anderson,England,88,17,Pass,Pass,SecondHalf,34.3,60.0,47.1,51.8,Successful
+Jude Bellingham,England,88,21,Pass,Pass,SecondHalf,60.9,66.3,56.5,53.3,Successful
+Elliot Anderson,England,88,24,Pass,Pass,SecondHalf,56.6,66.7,45.0,93.0,Successful
+Marc Guéhi,England,88,28,Pass,Pass,SecondHalf,44.9,92.6,41.7,68.8,Successful
+Declan Rice,England,88,33,Pass,Pass,SecondHalf,43.0,64.2,48.5,77.8,Successful
+Elliot Anderson,England,88,36,Pass,Pass,SecondHalf,48.3,76.3,59.8,96.8,Successful
+Djed Spence,England,88,41,Pass,Pass,SecondHalf,55.4,97.2,37.1,79.6,Successful
+Marc Guéhi,England,88,44,Pass,Pass,SecondHalf,34.4,75.3,36.1,63.1,Successful
+Declan Rice,England,88,49,Pass,Pass,SecondHalf,34.9,63.7,40.1,76.9,Successful
+Marc Guéhi,England,88,55,Pass,Pass,SecondHalf,44.7,76.9,54.7,97.4,Successful
+Djed Spence,England,88,59,Pass,Pass,SecondHalf,56.1,95.3,38.0,86.9,Successful
+Marc Guéhi,England,89,3,Pass,Pass,SecondHalf,38.6,84.1,35.6,61.1,Successful
+Declan Rice,England,89,9,Pass,Pass,SecondHalf,37.0,62.6,40.4,76.6,Successful
+Marc Guéhi,England,89,13,Pass,Pass,SecondHalf,39.9,76.0,47.2,75.0,Successful
+Morgan Rogers,England,89,16,Pass,Pass,SecondHalf,45.7,88.4,46.2,97.1,Successful
+Djed Spence,England,89,19,Pass,Pass,SecondHalf,42.5,95.0,46.1,90.3,Successful
+Jude Bellingham,England,89,20,Loss of Possession,Dispossessed,SecondHalf,47.8,78.1,0.0,0.0,Successful
+Dayot Upamecano,France,89,20,Was Dribbled,Tackle,SecondHalf,52.2,21.9,0.0,0.0,Unsuccessful
+Dayot Upamecano,France,89,22,Pass,Pass,SecondHalf,52.2,23.2,52.6,23.2,Unsuccessful
+Jude Bellingham,England,89,22,BlockedPass,BlockedPass,SecondHalf,47.4,76.8,0.0,0.0,Successful
+Dayot Upamecano,France,89,23,Challenge,Challenge,SecondHalf,52.0,13.0,0.0,0.0,Unsuccessful
+Djed Spence,England,89,23,Successful Dribble,TakeOn,SecondHalf,48.0,87.0,0.0,0.0,Successful
+Djed Spence,England,89,25,Pass,Pass,SecondHalf,63.4,64.6,73.6,50.7,Unsuccessful
+Maxence Lacroix,France,89,26,Interception,Interception,SecondHalf,26.4,49.3,0.0,0.0,Successful
+Lucas Digne,France,89,27,Ball Recovery,BallRecovery,SecondHalf,30.0,72.3,0.0,0.0,Successful
+Lucas Digne,France,89,28,Pass,Pass,SecondHalf,27.2,72.4,37.5,61.4,Successful
+Michael Olise,France,89,33,Pass,Pass,SecondHalf,39.3,73.6,32.5,86.4,Successful
+Lucas Digne,France,89,36,Pass,Pass,SecondHalf,32.4,87.1,22.8,63.4,Successful
+Maxence Lacroix,France,89,40,Pass,Pass,SecondHalf,23.4,67.2,28.4,68.5,Successful
+Michael Olise,France,89,43,Pass,Pass,SecondHalf,28.7,70.6,25.6,46.2,Successful
+Dayot Upamecano,France,89,46,Pass,Pass,SecondHalf,27.0,42.4,42.5,18.3,Successful
+Malo Gusto,France,89,48,Pass,Pass,SecondHalf,44.6,17.4,57.5,7.0,Successful
+Ousmane Dembélé,France,89,53,Pass,Pass,SecondHalf,58.9,9.1,58.6,16.5,Successful
+Adrien Rabiot,France,89,55,Pass,Pass,SecondHalf,60.3,18.3,71.2,9.7,Successful
+Malo Gusto,France,89,57,Pass,Pass,SecondHalf,74.0,13.1,76.0,17.1,Successful
+Kylian Mbappé,France,90,0,Offside,OffsideGiven,SecondHalf,96.0,95.7,0.0,0.0,Unsuccessful
+Ousmane Dembélé,France,90,0,Pass,Pass,SecondHalf,76.3,18.9,73.7,37.0,Successful
+Michael Olise,France,90,1,Pass,Pass,SecondHalf,73.4,38.4,75.5,44.1,Unsuccessful
+Ezri Konsa,England,90,3,Interception,Interception,SecondHalf,24.5,55.9,0.0,0.0,Successful
+Ezri Konsa,England,90,4,Ball Recovery,BallRecovery,SecondHalf,29.0,46.3,0.0,0.0,Successful
+Ezri Konsa,England,90,5,Pass,Pass,SecondHalf,26.9,47.2,31.3,37.9,Successful
+Jude Bellingham,England,90,6,Pass,Pass,SecondHalf,31.6,37.0,28.9,42.1,Unsuccessful
+Michael Olise,France,90,7,Ball Recovery,BallRecovery,SecondHalf,71.4,45.9,0.0,0.0,Successful
+Michael Olise,France,90,9,Key Pass,Pass,SecondHalf,72.3,52.4,75.1,65.6,Successful
+Bradley Barcola,France,90,11,Shot on Target,SavedShot,SecondHalf,79.3,67.9,0.0,0.0,Successful
+Reece James,England,90,11,Save,Save,SecondHalf,15.2,36.6,0.0,0.0,Successful
+Reece James,England,90,12,CornerAwarded,CornerAwarded,SecondHalf,18.6,33.3,0.0,0.0,Unsuccessful
+Bradley Barcola,France,90,12,CornerAwarded,CornerAwarded,SecondHalf,81.4,66.7,0.0,0.0,Successful
+Malo Gusto,France,90,33,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jules Koundé,France,90,33,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kylian Mbappé,France,90,36,Pass,Pass,SecondHalf,99.5,99.5,83.9,92.2,Successful
+Lucas Digne,France,90,38,Offside,OffsidePass,SecondHalf,86.3,93.8,96.0,95.7,Successful
+Ollie Watkins,England,90,38,OffsideProvoked,OffsideProvoked,SecondHalf,4.4,42.1,0.0,0.0,Successful
+Dean Henderson,England,91,17,Long Pass,Pass,SecondHalf,13.2,13.8,68.4,32.4,Unsuccessful
+Maxence Lacroix,France,91,21,Clearance,Clearance,SecondHalf,29.3,73.4,31.5,74.4,Successful
+Ollie Watkins,England,91,22,BallTouch,BallTouch,SecondHalf,68.2,24.4,0.0,0.0,Successful
+Bukayo Saka,England,91,26,BallTouch,BallTouch,SecondHalf,65.7,6.7,0.0,0.0,Unsuccessful
+Adrien Rabiot,France,91,27,Ball Recovery,BallRecovery,SecondHalf,33.8,79.9,0.0,0.0,Successful
+Adrien Rabiot,France,91,28,Pass,Pass,SecondHalf,34.1,80.2,39.4,75.6,Successful
+Michael Olise,France,91,30,Pass,Pass,SecondHalf,40.3,72.0,45.3,40.9,Successful
+Jules Koundé,France,91,34,Pass,Pass,SecondHalf,60.8,32.5,75.4,12.0,Successful
+Ousmane Dembélé,France,91,38,Pass,Pass,SecondHalf,84.0,23.6,80.8,32.2,Successful
+Michael Olise,France,91,40,Unsuccessful Dribble,TakeOn,SecondHalf,78.1,33.9,0.0,0.0,Unsuccessful
+Declan Rice,England,91,40,Successful Tackle,Tackle,SecondHalf,21.9,66.1,0.0,0.0,Successful
+Morgan Rogers,England,91,41,Ball Recovery,BallRecovery,SecondHalf,27.3,62.7,0.0,0.0,Successful
+Morgan Rogers,England,91,44,Pass,Pass,SecondHalf,29.9,57.2,31.4,47.9,Successful
+Jude Bellingham,England,91,45,Unsuccessful Dribble,TakeOn,SecondHalf,31.3,46.7,0.0,0.0,Unsuccessful
+Jude Bellingham,England,91,46,Foul,Foul,SecondHalf,30.2,45.6,0.0,0.0,Successful
+Adrien Rabiot,France,91,46,Foul,Foul,SecondHalf,69.8,54.4,0.0,0.0,Unsuccessful
+Marc Guéhi,England,92,14,SubstitutionOff,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Trevoh Chalobah,England,92,14,SubstitutionOn,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ezri Konsa,England,92,29,Pass,Pass,SecondHalf,36.5,40.4,19.1,50.1,Successful
+Dean Henderson,England,92,37,Long Pass,Pass,SecondHalf,21.2,52.5,60.9,68.5,Unsuccessful
+Jules Koundé,France,92,39,Pass,Pass,SecondHalf,41.3,28.7,43.1,33.4,Successful
+Warren Zaïre-Emery,France,92,40,Ball Recovery,BallRecovery,SecondHalf,42.9,33.5,0.0,0.0,Successful
+Warren Zaïre-Emery,France,92,41,Pass,Pass,SecondHalf,42.9,33.7,34.7,59.6,Successful
+Jude Bellingham,England,92,44,Challenge,Challenge,SecondHalf,64.4,41.0,0.0,0.0,Unsuccessful
+Maxence Lacroix,France,92,44,Successful Dribble,TakeOn,SecondHalf,35.6,59.0,0.0,0.0,Successful
+Maxence Lacroix,France,92,45,Pass,Pass,SecondHalf,35.6,53.5,45.5,45.1,Successful
+Adrien Rabiot,France,92,46,Pass,Pass,SecondHalf,54.0,42.1,63.5,32.9,Successful
+Michael Olise,France,92,49,Pass,Pass,SecondHalf,72.6,32.9,89.0,23.6,Successful
+Ousmane Dembélé,France,92,52,Pass,Pass,SecondHalf,91.3,29.9,92.7,42.7,Unsuccessful
+Trevoh Chalobah,England,92,53,Clearance,Clearance,SecondHalf,7.1,57.0,12.6,87.2,Successful
+Jules Koundé,France,92,54,Pass,Pass,SecondHalf,84.5,16.8,90.8,23.6,Successful
+Ousmane Dembélé,France,92,57,Pass,Pass,SecondHalf,92.3,33.8,90.3,43.8,Unsuccessful
+Elliot Anderson,England,92,58,BallTouch,BallTouch,SecondHalf,9.8,63.4,0.0,0.0,Successful
+Michael Olise,France,93,2,Loss of Possession,Dispossessed,SecondHalf,80.8,33.2,0.0,0.0,Successful
+Ollie Watkins,England,93,2,Successful Tackle,Tackle,SecondHalf,19.2,66.8,0.0,0.0,Successful
+Elliot Anderson,England,93,3,Ball Recovery,BallRecovery,SecondHalf,14.8,63.7,0.0,0.0,Successful
+Elliot Anderson,England,93,4,Pass,Pass,SecondHalf,14.8,63.7,9.4,75.6,Successful
+Djed Spence,England,93,8,Long Pass,Pass,SecondHalf,10.3,91.1,48.6,86.3,Unsuccessful
+Dayot Upamecano,France,93,10,Pass,Pass,SecondHalf,50.4,17.8,55.9,10.7,Successful
+Jules Koundé,France,93,11,Ball Recovery,BallRecovery,SecondHalf,55.9,10.7,0.0,0.0,Successful
+Jules Koundé,France,93,12,Pass,Pass,SecondHalf,56.2,11.0,51.9,40.2,Successful
+Maxence Lacroix,France,93,15,Pass,Pass,SecondHalf,52.2,42.1,58.1,42.8,Successful
+Warren Zaïre-Emery,France,93,17,Pass,Pass,SecondHalf,60.9,48.9,67.6,60.7,Successful
+Kylian Mbappé,France,93,22,Pass,Pass,SecondHalf,74.8,41.1,86.0,23.7,Successful
+Michael Olise,France,93,26,Unsuccessful Dribble,TakeOn,SecondHalf,89.4,32.1,0.0,0.0,Unsuccessful
+Djed Spence,England,93,26,Was Dribbled,Tackle,SecondHalf,10.6,68.0,0.0,0.0,Unsuccessful
+Michael Olise,France,93,26,BallTouch,BallTouch,SecondHalf,88.8,27.7,0.0,0.0,Successful
+Djed Spence,England,93,27,Clearance,Clearance,SecondHalf,10.7,65.8,66.2,66.0,Successful
+Mike Maignan,France,93,34,Pass,Pass,SecondHalf,38.8,27.0,66.1,9.0,Successful
+Jules Koundé,France,93,37,Pass,Pass,SecondHalf,68.3,10.7,84.1,12.8,Successful
+Michael Olise,France,94,47,Pass,Pass,SecondHalf,84.3,8.8,73.6,24.4,Successful
+Kylian Mbappé,France,94,52,Unsuccessful Dribble,TakeOn,SecondHalf,74.4,27.6,0.0,0.0,Unsuccessful
+Elliot Anderson,England,94,52,Successful Tackle,Tackle,SecondHalf,25.6,72.4,0.0,0.0,Successful
+Elliot Anderson,England,94,54,Loss of Possession,Dispossessed,SecondHalf,24.8,68.7,0.0,0.0,Successful
+Michael Olise,France,94,54,Was Dribbled,Tackle,SecondHalf,75.2,31.3,0.0,0.0,Unsuccessful
+Elliot Anderson,England,94,57,Pass,Pass,SecondHalf,29.5,64.2,26.2,63.7,Successful
+Declan Rice,England,94,58,Ball Recovery,BallRecovery,SecondHalf,26.2,63.7,0.0,0.0,Successful
+Declan Rice,England,94,58,Pass,Pass,SecondHalf,26.9,62.4,30.4,72.1,Successful
+Jules Koundé,France,95,0,Challenge,Challenge,SecondHalf,72.4,25.1,0.0,0.0,Unsuccessful
+Jude Bellingham,England,95,0,Successful Dribble,TakeOn,SecondHalf,27.6,74.9,0.0,0.0,Successful
+Jude Bellingham,England,95,4,Pass,Pass,SecondHalf,57.8,67.9,61.4,72.3,Unsuccessful
+Dayot Upamecano,France,95,4,BlockedPass,BlockedPass,SecondHalf,38.6,27.7,0.0,0.0,Successful
+Warren Zaïre-Emery,France,95,7,Aerial Won,Aerial,SecondHalf,42.8,43.6,0.0,0.0,Successful
+Bukayo Saka,England,95,7,Aerial Lost,Aerial,SecondHalf,57.2,56.4,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,France,95,7,Pass,Pass,SecondHalf,40.7,38.4,58.1,20.1,Unsuccessful
+Morgan Rogers,England,95,12,Pass,Pass,SecondHalf,51.8,90.5,45.4,54.8,Successful
+Declan Rice,England,95,14,Pass,Pass,SecondHalf,44.7,54.8,62.4,61.8,Unsuccessful
+Dayot Upamecano,France,95,16,Interception,Interception,SecondHalf,37.6,38.2,0.0,0.0,Successful
+Dayot Upamecano,France,95,17,Ball Recovery,BallRecovery,SecondHalf,39.7,40.1,0.0,0.0,Successful
+Dayot Upamecano,France,95,18,Key Pass,Pass,SecondHalf,54.6,41.1,77.2,21.6,Successful
+Trevoh Chalobah,England,95,22,Challenge,Challenge,SecondHalf,13.1,60.4,0.0,0.0,Unsuccessful
+Ousmane Dembélé,France,95,22,Successful Dribble,TakeOn,SecondHalf,86.9,39.6,0.0,0.0,Successful
+Ousmane Dembélé,France,95,23,Goal,Goal,SecondHalf,87.7,39.5,0.0,0.0,Successful
+Declan Rice,England,96,4,Pass,Pass,SecondHalf,49.9,49.7,26.3,46.3,Successful
+Dean Henderson,England,96,9,Long Pass,Pass,SecondHalf,27.6,35.7,71.1,33.9,Successful
+Ollie Watkins,England,96,14,Aerial Won,Aerial,SecondHalf,71.1,33.9,0.0,0.0,Successful
+Maxence Lacroix,France,96,14,Aerial Lost,Aerial,SecondHalf,28.9,66.1,0.0,0.0,Unsuccessful
+Ollie Watkins,England,96,14,Pass,Pass,SecondHalf,71.1,33.9,66.4,26.2,Unsuccessful
+Adrien Rabiot,France,96,16,Pass,Pass,SecondHalf,32.9,76.4,36.2,72.7,Unsuccessful
+Reece James,England,96,18,Pass,Pass,SecondHalf,62.3,28.2,60.5,31.1,Unsuccessful
+Michael Olise,France,96,19,BallTouch,BallTouch,SecondHalf,36.3,72.6,0.0,0.0,Successful
+Jude Bellingham,England,96,20,Pass,Pass,SecondHalf,61.1,36.2,65.1,54.9,Successful
+Morgan Rogers,England,96,21,Pass,Pass,SecondHalf,63.0,52.6,56.8,43.2,Successful
+Elliot Anderson,England,96,23,Pass,Pass,SecondHalf,54.7,36.8,59.5,15.6,Successful
+Reece James,England,96,26,Pass,Pass,SecondHalf,60.2,10.1,68.9,4.9,Successful
+Bukayo Saka,England,96,30,Pass,Pass,SecondHalf,63.1,3.3,50.3,7.4,Successful
+Elliot Anderson,England,96,33,Pass,Pass,SecondHalf,50.4,8.2,52.1,25.6,Successful
+Declan Rice,England,96,35,Pass,Pass,SecondHalf,44.5,21.6,25.7,18.9,Successful
+Kylian Mbappé,France,96,40,Challenge,Challenge,SecondHalf,82.6,89.2,0.0,0.0,Unsuccessful
+Ezri Konsa,England,96,40,Successful Dribble,TakeOn,SecondHalf,17.4,10.8,0.0,0.0,Successful
+Ezri Konsa,England,96,42,Pass,Pass,SecondHalf,20.1,12.6,21.1,27.6,Successful
+Elliot Anderson,England,96,43,Pass,Pass,SecondHalf,21.1,27.6,27.0,3.1,Successful
+Reece James,England,96,45,Pass,Pass,SecondHalf,26.8,2.6,26.2,11.7,Successful
+Ezri Konsa,England,96,46,Loss of Possession,Dispossessed,SecondHalf,25.1,12.8,0.0,0.0,Successful
+Bradley Barcola,France,96,46,Successful Tackle,Tackle,SecondHalf,74.9,87.2,0.0,0.0,Successful
+Adrien Rabiot,France,96,47,BallTouch,BallTouch,SecondHalf,78.8,88.0,0.0,0.0,Successful
+Ezri Konsa,England,96,48,BallTouch,BallTouch,SecondHalf,27.6,8.8,0.0,0.0,Successful
+Bradley Barcola,France,96,50,Challenge,Challenge,SecondHalf,71.7,86.9,0.0,0.0,Unsuccessful
+Reece James,England,96,50,Successful Dribble,TakeOn,SecondHalf,28.3,13.1,0.0,0.0,Successful
+Reece James,England,96,51,Pass,Pass,SecondHalf,31.4,12.9,25.3,14.0,Successful
+Declan Rice,England,96,52,BallTouch,BallTouch,SecondHalf,25.3,14.0,0.0,0.0,Unsuccessful
+Adrien Rabiot,France,96,54,Ball Recovery,BallRecovery,SecondHalf,79.0,87.5,0.0,0.0,Successful
+Adrien Rabiot,France,96,57,Unsuccessful Dribble,TakeOn,SecondHalf,87.4,87.4,0.0,0.0,Unsuccessful
+Reece James,England,96,57,Successful Tackle,Tackle,SecondHalf,12.6,12.6,0.0,0.0,Successful
+Reece James,England,97,1,Clearance,Clearance,SecondHalf,0.9,27.9,27.4,15.8,Successful
+Bukayo Saka,England,97,4,Pass,Pass,SecondHalf,27.4,19.4,44.4,50.0,Unsuccessful
+Dayot Upamecano,France,97,6,Interception,Interception,SecondHalf,55.6,50.0,0.0,0.0,Successful
+Jude Bellingham,England,97,8,Ball Recovery,BallRecovery,SecondHalf,44.7,47.8,0.0,0.0,Successful
+Dayot Upamecano,France,97,9,Challenge,Challenge,SecondHalf,54.7,52.4,0.0,0.0,Unsuccessful
+Jude Bellingham,England,97,9,Successful Dribble,TakeOn,SecondHalf,45.3,47.6,0.0,0.0,Successful
+Maxence Lacroix,France,97,14,Challenge,Challenge,SecondHalf,17.3,39.2,0.0,0.0,Unsuccessful
+Jude Bellingham,England,97,14,Successful Dribble,TakeOn,SecondHalf,82.7,60.8,0.0,0.0,Successful
+Jude Bellingham,England,97,15,Goal,Goal,SecondHalf,92.9,48.0,0.0,0.0,Successful
+Kylian Mbappé,France,98,19,Pass,Pass,SecondHalf,49.7,49.7,54.4,45.1,Successful
+Ousmane Dembélé,France,98,20,Pass,Pass,SecondHalf,54.8,44.7,44.7,83.4,Successful
+,France,98,22,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,England,98,22,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,France,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,England,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,England,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,France,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful

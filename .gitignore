@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Large match media & exports
+data/videos/*.mp4
+data/videos/*.mkv
+data/videos/*.mov
+data/videos/*.avi
+output/*.mp4
+output/*.zip
+output/clips/*
+!output/clips/.gitkeep
+!data/videos/.gitkeep
+!data/csv/.gitkeep
+!data/music/.gitkeep
+
+# Environment & OS files
+.env
+venv/
+.venv/
+.DS_Store
+Thumbs.db

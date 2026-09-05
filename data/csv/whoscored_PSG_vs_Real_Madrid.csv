@@ -1,0 +1,1515 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,Real Madrid,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,0,0,Pass,Pass,FirstHalf,50.0,50.0,26.1,52.1,Successful
+Thibaut Courtois,Real Madrid,0,4,Long Pass,Pass,FirstHalf,28.1,52.1,64.3,17.7,Successful
+Jude Bellingham,Real Madrid,0,8,Pass,Pass,FirstHalf,64.3,17.7,71.9,22.5,Unsuccessful
+Beraldo,PSG,0,9,Interception,Interception,FirstHalf,28.0,69.4,0.0,0.0,Successful
+Arda Güler,Real Madrid,0,11,Pass,Pass,FirstHalf,66.0,25.3,52.2,48.4,Successful
+Antonio Rüdiger,Real Madrid,0,15,Long Pass,Pass,FirstHalf,53.8,49.6,78.7,21.2,Unsuccessful
+Nuno Mendes,PSG,0,18,Pass,Pass,FirstHalf,21.6,76.1,7.5,48.7,Successful
+Gianluigi Donnarumma,PSG,0,20,Ball Recovery,BallRecovery,FirstHalf,7.6,48.2,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,0,22,Pass,Pass,FirstHalf,8.3,46.7,23.3,8.0,Successful
+Achraf Hakimi,PSG,0,28,Pass,Pass,FirstHalf,27.4,7.7,12.9,28.6,Successful
+Marquinhos,PSG,0,33,Pass,Pass,FirstHalf,24.1,35.8,22.5,63.7,Successful
+Beraldo,PSG,0,35,Pass,Pass,FirstHalf,23.1,64.8,39.3,93.8,Successful
+Nuno Mendes,PSG,0,39,Pass,Pass,FirstHalf,39.8,93.6,31.5,70.9,Successful
+Beraldo,PSG,0,41,Pass,Pass,FirstHalf,31.5,70.9,27.3,37.6,Successful
+Marquinhos,PSG,0,44,Pass,Pass,FirstHalf,26.2,37.9,8.6,50.7,Successful
+Gianluigi Donnarumma,PSG,0,48,Pass,Pass,FirstHalf,8.7,49.7,7.9,18.2,Successful
+Marquinhos,PSG,0,50,Pass,Pass,FirstHalf,8.0,17.6,18.3,6.2,Successful
+Achraf Hakimi,PSG,0,52,Pass,Pass,FirstHalf,19.4,4.4,36.1,13.8,Successful
+João Neves,PSG,0,54,Pass,Pass,FirstHalf,35.2,12.8,34.8,3.2,Successful
+Achraf Hakimi,PSG,0,56,BallTouch,BallTouch,FirstHalf,34.8,3.2,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,0,57,Pass,Pass,FirstHalf,66.1,96.5,70.1,89.4,Successful
+Kylian Mbappé,Real Madrid,0,58,Ball Recovery,BallRecovery,FirstHalf,70.2,89.4,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,0,59,Pass,Pass,FirstHalf,70.2,89.4,71.6,74.4,Successful
+Gonzalo García,Real Madrid,1,0,Pass,Pass,FirstHalf,72.7,69.7,78.1,58.2,Successful
+Vinícius Júnior,Real Madrid,1,2,Pass,Pass,FirstHalf,76.8,56.3,87.2,15.8,Successful
+Federico Valverde,Real Madrid,1,5,Pass,Pass,FirstHalf,86.7,15.3,78.7,30.0,Successful
+Arda Güler,Real Madrid,1,7,Pass,Pass,FirstHalf,78.3,31.0,81.1,31.8,Unsuccessful
+Khvicha Kvaratskhelia,PSG,1,7,BlockedPass,BlockedPass,FirstHalf,26.4,65.8,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,1,10,Shot on Target,SavedShot,FirstHalf,75.0,62.2,0.0,0.0,Successful
+Ousmane Dembélé,PSG,1,11,Save,Save,FirstHalf,24.1,35.7,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,1,13,CornerAwarded,CornerAwarded,FirstHalf,75.4,61.1,0.0,0.0,Successful
+Ousmane Dembélé,PSG,1,13,CornerAwarded,CornerAwarded,FirstHalf,24.6,38.9,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,1,31,Pass,Pass,FirstHalf,99.5,99.5,97.6,90.9,Successful
+Vinícius Júnior,Real Madrid,1,32,Pass,Pass,FirstHalf,96.2,89.1,86.2,77.6,Unsuccessful
+Désiré Doué,PSG,1,35,Ball Recovery,BallRecovery,FirstHalf,20.6,18.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,1,39,Challenge,Challenge,FirstHalf,52.2,88.9,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,1,39,Successful Dribble,TakeOn,FirstHalf,47.8,11.1,0.0,0.0,Successful
+Désiré Doué,PSG,1,47,Pass,Pass,FirstHalf,67.4,5.2,61.6,7.3,Successful
+Vitinha,PSG,1,49,Pass,Pass,FirstHalf,60.4,8.5,37.6,24.4,Successful
+Marquinhos,PSG,1,52,Long Pass,Pass,FirstHalf,40.2,25.5,44.2,73.2,Successful
+Nuno Mendes,PSG,1,55,Key Pass,Pass,FirstHalf,51.2,76.3,71.3,96.9,Successful
+Khvicha Kvaratskhelia,PSG,2,1,Shot off Target,MissedShots,FirstHalf,93.0,69.9,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,2,30,Pass,Pass,FirstHalf,5.0,37.0,3.0,49.7,Successful
+Thibaut Courtois,Real Madrid,2,33,Long Pass,Pass,FirstHalf,4.4,51.8,55.7,52.5,Unsuccessful
+Beraldo,PSG,2,36,Aerial Won,Aerial,FirstHalf,42.0,44.9,0.0,0.0,Successful
+Gonzalo García,Real Madrid,2,36,Aerial Lost,Aerial,FirstHalf,58.0,55.1,0.0,0.0,Unsuccessful
+Beraldo,PSG,2,38,Clearance,Clearance,FirstHalf,38.3,40.4,56.0,43.0,Successful
+Aurélien Tchouaméni,Real Madrid,2,38,Pass,Pass,FirstHalf,42.0,58.5,54.6,55.2,Successful
+Gonzalo García,Real Madrid,2,39,BallTouch,BallTouch,FirstHalf,54.6,55.2,0.0,0.0,Unsuccessful
+Vitinha,PSG,2,40,Pass,Pass,FirstHalf,45.7,45.1,41.3,46.4,Successful
+Beraldo,PSG,2,40,Ball Recovery,BallRecovery,FirstHalf,41.3,46.4,0.0,0.0,Successful
+Beraldo,PSG,2,41,Pass,Pass,FirstHalf,41.3,46.4,53.1,55.2,Successful
+Fabián Ruiz,PSG,2,42,Pass,Pass,FirstHalf,53.1,55.2,43.3,80.3,Successful
+Khvicha Kvaratskhelia,PSG,2,45,Pass,Pass,FirstHalf,43.3,80.3,41.8,73.9,Successful
+Nuno Mendes,PSG,2,46,Pass,Pass,FirstHalf,42.0,73.0,44.7,50.0,Successful
+João Neves,PSG,2,53,Pass,Pass,FirstHalf,51.9,48.7,61.3,19.4,Successful
+Désiré Doué,PSG,2,56,Pass,Pass,FirstHalf,61.4,18.6,68.8,5.3,Successful
+Achraf Hakimi,PSG,2,59,Pass,Pass,FirstHalf,68.5,5.6,45.4,22.1,Successful
+Marquinhos,PSG,3,2,Pass,Pass,FirstHalf,46.2,22.4,43.5,53.7,Successful
+Beraldo,PSG,3,3,Pass,Pass,FirstHalf,44.3,54.3,64.8,79.0,Successful
+Nuno Mendes,PSG,3,10,Pass,Pass,FirstHalf,76.3,75.3,94.1,91.4,Successful
+Khvicha Kvaratskhelia,PSG,3,14,Pass,Pass,FirstHalf,90.4,87.2,70.0,82.9,Successful
+Vitinha,PSG,3,17,Pass,Pass,FirstHalf,70.0,83.3,78.1,93.6,Successful
+Khvicha Kvaratskhelia,PSG,3,21,Pass,Pass,FirstHalf,78.1,93.0,71.1,86.6,Successful
+Vitinha,PSG,3,22,Pass,Pass,FirstHalf,71.1,86.5,74.1,79.3,Successful
+João Neves,PSG,3,23,Pass,Pass,FirstHalf,74.1,79.3,69.8,84.5,Successful
+Vitinha,PSG,3,26,Pass,Pass,FirstHalf,68.5,83.0,67.2,63.3,Successful
+Désiré Doué,PSG,3,28,Pass,Pass,FirstHalf,67.2,62.4,64.2,41.6,Successful
+Marquinhos,PSG,3,31,Pass,Pass,FirstHalf,66.5,38.2,73.8,25.8,Successful
+Ousmane Dembélé,PSG,3,34,Pass,Pass,FirstHalf,78.5,18.0,88.6,6.8,Successful
+Achraf Hakimi,PSG,3,38,Pass,Pass,FirstHalf,88.6,6.8,84.8,14.9,Successful
+Ousmane Dembélé,PSG,3,40,Key Pass,Pass,FirstHalf,84.8,14.9,85.2,25.6,Successful
+Fabián Ruiz,PSG,3,41,Shot on Target,SavedShot,FirstHalf,85.3,25.6,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,3,41,Save,Save,FirstHalf,2.1,53.6,0.0,0.0,Successful
+Federico Valverde,Real Madrid,3,45,Clearance,Clearance,FirstHalf,1.8,29.2,9.3,0.0,Successful
+Khvicha Kvaratskhelia,PSG,3,51,Throw In,Pass,FirstHalf,84.0,100.0,75.6,95.1,Successful
+João Neves,PSG,3,52,Pass,Pass,FirstHalf,75.3,93.0,70.8,80.5,Successful
+Vitinha,PSG,3,53,Pass,Pass,FirstHalf,70.8,80.5,67.0,57.3,Successful
+Désiré Doué,PSG,3,58,Long Pass,Pass,FirstHalf,67.9,50.3,83.7,7.4,Successful
+Achraf Hakimi,PSG,4,4,Pass,Pass,FirstHalf,84.6,7.9,73.4,22.4,Successful
+Ousmane Dembélé,PSG,4,5,Pass,Pass,FirstHalf,73.4,22.4,76.5,23.0,Successful
+Désiré Doué,PSG,4,6,Pass,Pass,FirstHalf,76.5,23.0,90.4,24.1,Successful
+Achraf Hakimi,PSG,4,7,Key Pass,Pass,FirstHalf,90.4,24.1,91.8,54.2,Successful
+Nuno Mendes,PSG,4,9,Shot on Target,SavedShot,FirstHalf,92.9,51.7,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,4,9,Save,Save,FirstHalf,1.6,51.9,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,4,11,Clearance,Clearance,FirstHalf,6.3,70.6,15.5,82.0,Successful
+Désiré Doué,PSG,4,14,Pass,Pass,FirstHalf,86.9,18.2,82.4,28.0,Successful
+Ousmane Dembélé,PSG,4,15,Pass,Pass,FirstHalf,82.4,28.0,73.5,23.6,Unsuccessful
+Ousmane Dembélé,PSG,4,16,Error,Error,FirstHalf,35.7,90.5,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,4,17,Ball Recovery,BallRecovery,FirstHalf,32.3,72.1,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,4,18,Successful Dribble,TakeOn,FirstHalf,34.2,72.4,0.0,0.0,Successful
+Marquinhos,PSG,4,18,Challenge,Challenge,FirstHalf,65.8,27.6,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,4,19,Pass,Pass,FirstHalf,44.0,71.8,57.6,86.6,Successful
+Gonzalo García,Real Madrid,4,24,Key Pass,Pass,FirstHalf,76.2,76.0,80.7,43.9,Successful
+Kylian Mbappé,Real Madrid,4,26,Shot on Target,SavedShot,FirstHalf,84.6,42.1,0.0,0.0,Successful
+Vitinha,PSG,4,26,Save,Save,FirstHalf,13.4,56.7,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,4,30,Pass,Pass,FirstHalf,77.6,41.3,77.7,44.2,Unsuccessful
+João Neves,PSG,4,30,BlockedPass,BlockedPass,FirstHalf,31.6,60.3,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,4,34,Pass,Pass,FirstHalf,68.7,44.6,65.3,28.3,Successful
+Federico Valverde,Real Madrid,4,37,Pass,Pass,FirstHalf,64.9,26.8,67.9,34.5,Successful
+Aurélien Tchouaméni,Real Madrid,4,39,Pass,Pass,FirstHalf,67.9,34.5,71.7,38.6,Successful
+Jude Bellingham,Real Madrid,4,39,Pass,Pass,FirstHalf,71.7,38.6,79.5,8.3,Successful
+Arda Güler,Real Madrid,4,43,Pass,Pass,FirstHalf,79.2,9.1,92.3,24.6,Successful
+Vinícius Júnior,Real Madrid,4,46,Pass,Pass,FirstHalf,93.6,23.0,87.7,16.2,Successful
+Arda Güler,Real Madrid,4,48,Cross,Pass,FirstHalf,85.4,18.2,87.5,23.0,Unsuccessful
+Nuno Mendes,PSG,4,49,BallTouch,BallTouch,FirstHalf,15.4,84.5,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,4,51,Shot on Target,SavedShot,FirstHalf,92.4,44.8,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,4,51,Save,Save,FirstHalf,0.9,51.9,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,4,53,KeeperPickup,KeeperPickup,FirstHalf,0.9,52.7,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,4,57,Long Pass,Pass,FirstHalf,4.4,54.6,24.9,14.6,Successful
+Achraf Hakimi,PSG,5,5,Pass,Pass,FirstHalf,61.4,20.7,58.5,6.1,Successful
+Désiré Doué,PSG,5,7,Pass,Pass,FirstHalf,58.5,5.9,56.2,21.8,Successful
+João Neves,PSG,5,9,Pass,Pass,FirstHalf,55.8,22.7,45.8,25.0,Successful
+Vitinha,PSG,5,12,Pass,Pass,FirstHalf,49.0,31.5,47.5,54.0,Successful
+Fabián Ruiz,PSG,5,14,Long Pass,Pass,FirstHalf,47.0,54.6,66.0,96.8,Successful
+Khvicha Kvaratskhelia,PSG,5,20,Unsuccessful Dribble,TakeOn,FirstHalf,76.1,93.9,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,5,22,Pass,Pass,FirstHalf,72.4,82.4,60.4,85.0,Successful
+Nuno Mendes,PSG,5,23,Pass,Pass,FirstHalf,61.1,85.1,60.6,72.3,Successful
+Vitinha,PSG,5,25,Pass,Pass,FirstHalf,60.6,70.5,63.8,56.7,Successful
+João Neves,PSG,5,29,Pass,Pass,FirstHalf,64.8,51.2,73.0,24.7,Successful
+Ousmane Dembélé,PSG,5,31,Pass,Pass,FirstHalf,72.9,24.7,79.8,26.8,Successful
+Fran García,Real Madrid,5,33,Challenge,Challenge,FirstHalf,21.7,77.6,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,5,33,Successful Dribble,TakeOn,FirstHalf,78.3,22.4,0.0,0.0,Successful
+Désiré Doué,PSG,5,36,Pass,Pass,FirstHalf,91.8,22.5,89.1,47.8,Unsuccessful
+Raúl Asencio,Real Madrid,5,37,BallTouch,BallTouch,FirstHalf,11.9,54.3,0.0,0.0,Unsuccessful
+Raúl Asencio,Real Madrid,5,38,Error,Error,FirstHalf,11.8,49.9,0.0,0.0,Successful
+Ousmane Dembélé,PSG,5,39,Ball Recovery,BallRecovery,FirstHalf,86.9,43.6,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,5,39,Challenge,Challenge,FirstHalf,11.1,52.5,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,5,39,Successful Dribble,TakeOn,FirstHalf,88.9,47.5,0.0,0.0,Successful
+Ousmane Dembélé,PSG,5,40,Key Pass,BallTouch,FirstHalf,90.6,47.9,0.0,0.0,Successful
+Fabián Ruiz,PSG,5,41,Goal,Goal,FirstHalf,90.5,54.4,0.0,0.0,Successful
+Arda Güler,Real Madrid,6,57,Pass,Pass,FirstHalf,50.1,49.7,36.4,48.5,Successful
+Antonio Rüdiger,Real Madrid,6,58,BallTouch,BallTouch,FirstHalf,36.0,48.7,0.0,0.0,Successful
+Achraf Hakimi,PSG,6,59,BallTouch,BallTouch,FirstHalf,60.8,6.5,0.0,0.0,Successful
+Fran García,Real Madrid,7,18,Throw In,Pass,FirstHalf,32.7,100.0,46.0,93.0,Successful
+Gonzalo García,Real Madrid,7,19,BallTouch,BallTouch,FirstHalf,46.8,92.6,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,7,20,Pass,Pass,FirstHalf,52.5,49.9,73.7,19.8,Successful
+Vinícius Júnior,Real Madrid,7,24,Cross,Pass,FirstHalf,82.0,20.1,100.0,60.6,Unsuccessful
+Gianluigi Donnarumma,PSG,8,1,Long Pass,Pass,FirstHalf,4.2,51.3,44.4,12.2,Successful
+Désiré Doué,PSG,8,6,BallTouch,BallTouch,FirstHalf,43.7,12.0,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,8,6,Successful Dribble,TakeOn,FirstHalf,57.4,87.4,0.0,0.0,Successful
+Désiré Doué,PSG,8,6,Challenge,Challenge,FirstHalf,42.6,12.6,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,8,8,Ball Recovery,BallRecovery,FirstHalf,52.5,82.3,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,8,9,Pass,Pass,FirstHalf,48.1,71.7,38.0,66.7,Successful
+Antonio Rüdiger,Real Madrid,8,11,BallTouch,BallTouch,FirstHalf,36.6,65.7,0.0,0.0,Unsuccessful
+Antonio Rüdiger,Real Madrid,8,12,Error,Error,FirstHalf,36.6,65.7,0.0,0.0,Successful
+Ousmane Dembélé,PSG,8,12,Ball Recovery,BallRecovery,FirstHalf,74.8,38.3,0.0,0.0,Successful
+Ousmane Dembélé,PSG,8,14,Goal,Goal,FirstHalf,84.7,45.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,9,26,Pass,Pass,FirstHalf,50.2,50.0,33.2,51.9,Successful
+Antonio Rüdiger,Real Madrid,9,27,BallTouch,BallTouch,FirstHalf,33.2,51.9,0.0,0.0,Successful
+João Neves,PSG,9,35,Ball Recovery,BallRecovery,FirstHalf,61.1,7.7,0.0,0.0,Successful
+João Neves,PSG,9,37,BallTouch,BallTouch,FirstHalf,57.4,5.9,0.0,0.0,Unsuccessful
+Fran García,Real Madrid,9,42,Throw In,Pass,FirstHalf,39.8,100.0,26.4,93.3,Successful
+Antonio Rüdiger,Real Madrid,9,45,Pass,Pass,FirstHalf,21.7,93.6,4.7,72.6,Successful
+Thibaut Courtois,Real Madrid,9,46,Long Pass,Pass,FirstHalf,4.7,72.6,48.1,78.1,Successful
+Gonzalo García,Real Madrid,9,53,Pass,Pass,FirstHalf,48.8,78.1,47.8,74.4,Unsuccessful
+Fabián Ruiz,PSG,9,55,Pass,Pass,FirstHalf,54.0,24.9,47.0,42.4,Successful
+Vitinha,PSG,9,56,Pass,Pass,FirstHalf,47.0,42.4,34.0,50.1,Successful
+Nuno Mendes,PSG,9,58,Ball Recovery,BallRecovery,FirstHalf,34.0,50.1,0.0,0.0,Successful
+Nuno Mendes,PSG,9,58,Pass,Pass,FirstHalf,34.0,50.1,8.5,50.7,Successful
+Gianluigi Donnarumma,PSG,10,3,Pass,Pass,FirstHalf,7.6,49.0,13.4,21.6,Successful
+Marquinhos,PSG,10,7,Pass,Pass,FirstHalf,19.8,23.9,22.5,50.4,Successful
+Vitinha,PSG,10,14,Pass,Pass,FirstHalf,28.7,69.1,36.7,90.8,Successful
+Fabián Ruiz,PSG,10,17,Pass,Pass,FirstHalf,36.7,90.8,43.2,83.8,Successful
+Vitinha,PSG,10,20,Long Pass,Pass,FirstHalf,53.0,62.0,63.3,14.9,Successful
+Désiré Doué,PSG,10,24,Pass,Pass,FirstHalf,63.1,15.0,73.1,5.3,Successful
+Achraf Hakimi,PSG,10,25,Pass,Pass,FirstHalf,73.0,5.9,66.4,16.2,Successful
+Désiré Doué,PSG,10,27,Pass,Pass,FirstHalf,66.4,16.2,67.2,24.1,Successful
+Vitinha,PSG,10,28,Pass,Pass,FirstHalf,67.4,24.3,72.6,7.0,Successful
+Achraf Hakimi,PSG,10,30,Pass,Pass,FirstHalf,72.6,7.0,71.4,17.3,Successful
+Désiré Doué,PSG,10,34,Unsuccessful Dribble,TakeOn,FirstHalf,85.7,16.7,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,10,36,Foul,Foul,FirstHalf,80.6,12.4,0.0,0.0,Successful
+Fran García,Real Madrid,10,36,Foul,Foul,FirstHalf,19.4,87.6,0.0,0.0,Unsuccessful
+Vitinha,PSG,11,26,Cross,Pass,FirstHalf,84.1,8.6,92.4,44.3,Unsuccessful
+Gonzalo García,Real Madrid,11,28,Clearance,Clearance,FirstHalf,8.5,57.2,31.7,100.0,Successful
+Achraf Hakimi,PSG,11,51,Throw In,Pass,FirstHalf,59.4,0.0,66.1,12.7,Successful
+Désiré Doué,PSG,11,53,BallTouch,BallTouch,FirstHalf,74.8,5.6,0.0,0.0,Successful
+Fran García,Real Madrid,12,2,Throw In,Pass,FirstHalf,39.7,100.0,37.5,80.5,Successful
+Jude Bellingham,Real Madrid,12,4,Pass,Pass,FirstHalf,37.5,80.5,32.0,58.4,Successful
+Raúl Asencio,Real Madrid,12,5,Pass,Pass,FirstHalf,32.0,58.4,38.3,56.9,Successful
+Arda Güler,Real Madrid,12,10,Pass,Pass,FirstHalf,37.3,68.2,47.3,71.8,Successful
+Kylian Mbappé,Real Madrid,12,13,BallTouch,BallTouch,FirstHalf,46.8,67.3,0.0,0.0,Unsuccessful
+João Neves,PSG,12,13,Unsuccessful Dribble,TakeOn,FirstHalf,55.2,35.5,0.0,0.0,Unsuccessful
+João Neves,PSG,12,14,Foul,Foul,FirstHalf,53.0,37.6,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,12,14,Foul,Foul,FirstHalf,47.0,62.4,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,12,28,Pass,Pass,FirstHalf,54.4,40.6,44.9,47.2,Successful
+Vitinha,PSG,12,30,Pass,Pass,FirstHalf,44.9,47.2,47.0,84.5,Successful
+Nuno Mendes,PSG,12,36,BallTouch,BallTouch,FirstHalf,47.0,84.5,0.0,0.0,Successful
+Fabián Ruiz,PSG,12,38,Pass,Pass,FirstHalf,44.1,95.9,60.4,85.1,Successful
+Nuno Mendes,PSG,12,42,BallTouch,BallTouch,FirstHalf,71.5,75.7,0.0,0.0,Unsuccessful
+Raúl Asencio,Real Madrid,12,42,Clearance,Clearance,FirstHalf,25.4,26.4,29.8,0.0,Successful
+Khvicha Kvaratskhelia,PSG,12,48,Throw In,Pass,FirstHalf,74.8,100.0,58.7,95.0,Successful
+Fabián Ruiz,PSG,12,50,Pass,Pass,FirstHalf,58.7,95.0,62.6,82.7,Successful
+Vitinha,PSG,12,55,Pass,Pass,FirstHalf,58.4,80.6,45.0,58.1,Successful
+Beraldo,PSG,12,57,Pass,Pass,FirstHalf,45.0,58.1,44.0,32.4,Successful
+Marquinhos,PSG,13,1,Pass,Pass,FirstHalf,44.9,33.7,39.2,54.3,Successful
+Beraldo,PSG,13,3,Pass,Pass,FirstHalf,41.2,54.5,38.7,77.3,Successful
+Fabián Ruiz,PSG,13,6,Pass,Pass,FirstHalf,39.3,80.9,46.9,97.8,Successful
+Khvicha Kvaratskhelia,PSG,13,10,Through Ball,Pass,FirstHalf,46.1,96.0,83.8,65.5,Unsuccessful
+Thibaut Courtois,Real Madrid,13,13,KeeperPickup,KeeperPickup,FirstHalf,16.2,35.4,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,13,21,Pass,Pass,FirstHalf,15.1,49.1,33.6,28.0,Successful
+Raúl Asencio,Real Madrid,13,22,Long Pass,Pass,FirstHalf,34.5,23.3,72.5,12.3,Unsuccessful
+Beraldo,PSG,13,24,Ball Recovery,BallRecovery,FirstHalf,36.4,94.4,0.0,0.0,Successful
+Beraldo,PSG,13,25,Pass,Pass,FirstHalf,36.6,94.2,38.6,88.6,Successful
+Nuno Mendes,PSG,13,26,Long Pass,Pass,FirstHalf,38.6,88.6,10.2,51.9,Successful
+Gianluigi Donnarumma,PSG,13,32,Pass,Pass,FirstHalf,10.8,51.3,7.5,30.3,Successful
+Marquinhos,PSG,13,34,Pass,Pass,FirstHalf,7.8,29.5,14.3,8.2,Successful
+Désiré Doué,PSG,13,37,Pass,Pass,FirstHalf,14.3,7.6,19.8,17.6,Successful
+João Neves,PSG,13,42,Pass,Pass,FirstHalf,10.0,11.6,18.4,5.8,Successful
+Achraf Hakimi,PSG,13,43,Pass,Pass,FirstHalf,18.4,5.8,22.4,11.0,Unsuccessful
+Jude Bellingham,Real Madrid,13,47,Interception,Interception,FirstHalf,77.2,81.4,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,13,48,Pass,Pass,FirstHalf,78.0,83.3,73.6,78.4,Successful
+Aurélien Tchouaméni,Real Madrid,13,49,Loss of Possession,Dispossessed,FirstHalf,74.0,82.0,0.0,0.0,Successful
+Désiré Doué,PSG,13,49,Was Dribbled,Tackle,FirstHalf,26.0,18.0,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,13,49,BallTouch,BallTouch,FirstHalf,71.3,85.0,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,13,51,Foul,Foul,FirstHalf,74.8,83.9,0.0,0.0,Successful
+Achraf Hakimi,PSG,13,51,Foul,Foul,FirstHalf,25.2,16.1,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,14,19,Cross,Pass,FirstHalf,72.7,85.3,90.5,48.1,Unsuccessful
+Marquinhos,PSG,14,20,Aerial Won,Aerial,FirstHalf,9.6,51.2,0.0,0.0,Successful
+Gonzalo García,Real Madrid,14,20,Aerial Lost,Aerial,FirstHalf,90.4,48.8,0.0,0.0,Unsuccessful
+Marquinhos,PSG,14,21,Clearance,Clearance,FirstHalf,7.5,50.7,8.8,51.7,Successful
+Gonzalo García,Real Madrid,14,22,BallTouch,BallTouch,FirstHalf,91.6,48.1,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,14,26,Challenge,Challenge,FirstHalf,88.4,30.8,0.0,0.0,Unsuccessful
+Nuno Mendes,PSG,14,26,Successful Dribble,TakeOn,FirstHalf,11.6,69.2,0.0,0.0,Successful
+Nuno Mendes,PSG,14,27,Ball Recovery,BallRecovery,FirstHalf,13.4,84.2,0.0,0.0,Successful
+Nuno Mendes,PSG,14,29,Pass,Pass,FirstHalf,20.2,94.2,36.2,85.3,Unsuccessful
+Raúl Asencio,Real Madrid,14,32,Ball Recovery,BallRecovery,FirstHalf,70.8,5.5,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,14,34,Cross,Pass,FirstHalf,71.9,3.7,74.0,7.3,Unsuccessful
+Nuno Mendes,PSG,14,34,Clearance,Clearance,FirstHalf,28.5,94.4,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,14,36,Pass,Pass,FirstHalf,69.1,17.7,75.9,11.1,Unsuccessful
+Nuno Mendes,PSG,14,38,Ball Recovery,BallRecovery,FirstHalf,28.7,88.1,0.0,0.0,Successful
+Nuno Mendes,PSG,14,38,Pass,Pass,FirstHalf,28.7,88.1,39.8,89.0,Successful
+Khvicha Kvaratskhelia,PSG,14,39,Pass,Pass,FirstHalf,39.8,89.0,36.8,96.8,Successful
+Fabián Ruiz,PSG,14,41,Pass,Pass,FirstHalf,36.4,96.5,36.5,89.4,Unsuccessful
+Raúl Asencio,Real Madrid,14,42,BallTouch,BallTouch,FirstHalf,73.6,17.1,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,14,44,Ball Recovery,BallRecovery,FirstHalf,46.1,37.7,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,14,44,Pass,Pass,FirstHalf,46.1,37.7,46.7,28.3,Successful
+Aurélien Tchouaméni,Real Madrid,14,46,Pass,Pass,FirstHalf,46.7,28.5,53.5,33.3,Successful
+Arda Güler,Real Madrid,14,49,Pass,Pass,FirstHalf,56.3,36.3,56.5,46.0,Successful
+Jude Bellingham,Real Madrid,14,53,Pass,Pass,FirstHalf,49.2,44.0,54.6,27.9,Successful
+Raúl Asencio,Real Madrid,14,54,Pass,Pass,FirstHalf,54.6,27.9,44.7,34.3,Successful
+Aurélien Tchouaméni,Real Madrid,14,56,Pass,Pass,FirstHalf,44.9,34.0,51.4,38.6,Successful
+Jude Bellingham,Real Madrid,14,57,Pass,Pass,FirstHalf,48.1,39.4,41.8,59.9,Successful
+Antonio Rüdiger,Real Madrid,14,59,Pass,Pass,FirstHalf,41.8,59.9,44.5,53.0,Successful
+Ousmane Dembélé,PSG,15,0,Offside,OffsideGiven,FirstHalf,63.0,8.6,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,15,0,Pass,Pass,FirstHalf,44.5,53.0,45.6,58.8,Unsuccessful
+Désiré Doué,PSG,15,1,Interception,Interception,FirstHalf,53.6,43.3,0.0,0.0,Successful
+João Neves,PSG,15,2,BallTouch,BallTouch,FirstHalf,37.3,50.7,0.0,0.0,Unsuccessful
+Gonzalo García,Real Madrid,15,3,Unsuccessful Dribble,TakeOn,FirstHalf,58.1,47.9,0.0,0.0,Unsuccessful
+João Neves,PSG,15,3,Successful Tackle,Tackle,FirstHalf,41.9,52.1,0.0,0.0,Successful
+Fabián Ruiz,PSG,15,6,Ball Recovery,BallRecovery,FirstHalf,43.7,61.2,0.0,0.0,Successful
+Fabián Ruiz,PSG,15,6,Pass,Pass,FirstHalf,43.7,61.2,37.6,69.4,Successful
+Nuno Mendes,PSG,15,8,Pass,Pass,FirstHalf,56.0,67.8,67.3,49.9,Successful
+Désiré Doué,PSG,15,11,BallTouch,BallTouch,FirstHalf,67.9,50.0,0.0,0.0,Unsuccessful
+Fran García,Real Madrid,15,12,Foul,Foul,FirstHalf,30.2,53.3,0.0,0.0,Successful
+Désiré Doué,PSG,15,12,Foul,Foul,FirstHalf,69.8,46.7,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,15,19,Pass,Pass,FirstHalf,27.0,57.6,32.0,56.6,Successful
+Arda Güler,Real Madrid,15,21,Pass,Pass,FirstHalf,32.3,53.3,28.7,28.2,Successful
+Raúl Asencio,Real Madrid,15,24,Pass,Pass,FirstHalf,29.4,27.7,45.3,29.2,Successful
+Gonzalo García,Real Madrid,15,26,Pass,Pass,FirstHalf,45.1,28.5,46.8,0.0,Unsuccessful
+Nuno Mendes,PSG,15,42,Long Pass,Pass,FirstHalf,55.3,100.0,34.3,95.7,Successful
+Beraldo,PSG,15,44,Long Pass,Pass,FirstHalf,34.3,95.7,8.8,59.1,Successful
+Gianluigi Donnarumma,PSG,15,47,Pass,Pass,FirstHalf,8.7,57.6,5.8,23.3,Successful
+Marquinhos,PSG,15,49,Pass,Pass,FirstHalf,5.7,23.1,10.7,5.9,Successful
+Achraf Hakimi,PSG,15,52,Pass,Pass,FirstHalf,11.5,5.2,34.2,18.6,Successful
+Désiré Doué,PSG,15,56,Offside,OffsidePass,FirstHalf,50.7,21.9,63.0,8.6,Successful
+Antonio Rüdiger,Real Madrid,15,56,OffsideProvoked,OffsideProvoked,FirstHalf,44.4,78.1,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,16,24,Pass,Pass,FirstHalf,33.6,83.3,18.3,79.1,Successful
+Antonio Rüdiger,Real Madrid,16,27,Pass,Pass,FirstHalf,16.2,77.5,3.6,49.9,Successful
+Thibaut Courtois,Real Madrid,16,29,Pass,Pass,FirstHalf,3.6,49.9,14.5,25.6,Successful
+Raúl Asencio,Real Madrid,16,36,BallTouch,BallTouch,FirstHalf,33.6,20.1,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,16,37,Pass,Pass,FirstHalf,64.7,85.4,50.8,91.4,Successful
+Khvicha Kvaratskhelia,PSG,16,39,Ball Recovery,BallRecovery,FirstHalf,49.2,90.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,16,39,Pass,Pass,FirstHalf,49.2,90.6,55.9,83.2,Successful
+Nuno Mendes,PSG,16,40,Pass,Pass,FirstHalf,55.9,83.2,45.7,89.1,Successful
+Khvicha Kvaratskhelia,PSG,16,42,Pass,Pass,FirstHalf,45.0,89.1,41.4,84.7,Successful
+Fabián Ruiz,PSG,16,45,Pass,Pass,FirstHalf,41.2,83.5,42.8,77.3,Successful
+Vitinha,PSG,16,48,Pass,Pass,FirstHalf,40.4,78.1,33.3,60.5,Successful
+Beraldo,PSG,16,50,Pass,Pass,FirstHalf,32.8,59.4,38.9,58.2,Successful
+Vitinha,PSG,16,53,Long Pass,Pass,FirstHalf,46.3,50.4,62.9,7.3,Successful
+Achraf Hakimi,PSG,16,57,Pass,Pass,FirstHalf,62.9,7.3,72.0,17.7,Successful
+Désiré Doué,PSG,17,3,Pass,Pass,FirstHalf,68.9,27.4,65.6,42.8,Successful
+João Neves,PSG,17,5,Pass,Pass,FirstHalf,65.6,42.8,63.6,77.6,Successful
+Fabián Ruiz,PSG,17,8,Key Pass,Pass,FirstHalf,63.6,77.6,78.9,96.3,Successful
+Khvicha Kvaratskhelia,PSG,17,11,Shot on Target,SavedShot,FirstHalf,85.8,72.6,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,17,11,Save,Save,FirstHalf,13.1,31.5,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,17,14,Clearance,Clearance,FirstHalf,17.7,48.8,28.5,64.3,Successful
+Marquinhos,PSG,17,16,Aerial Won,Aerial,FirstHalf,70.2,36.4,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,17,16,Aerial Lost,Aerial,FirstHalf,29.8,63.6,0.0,0.0,Unsuccessful
+Marquinhos,PSG,17,17,Pass,Pass,FirstHalf,68.0,37.4,76.9,35.4,Unsuccessful
+Jude Bellingham,Real Madrid,17,18,Ball Recovery,BallRecovery,FirstHalf,24.2,69.4,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,17,18,Pass,Pass,FirstHalf,24.4,69.6,37.2,79.0,Unsuccessful
+Marquinhos,PSG,17,20,Interception,Interception,FirstHalf,67.6,25.9,0.0,0.0,Successful
+Marquinhos,PSG,17,21,Ball Recovery,BallRecovery,FirstHalf,66.7,21.6,0.0,0.0,Successful
+Marquinhos,PSG,17,21,Pass,Pass,FirstHalf,66.7,21.6,68.3,28.2,Successful
+Vitinha,PSG,17,24,Pass,Pass,FirstHalf,67.3,28.3,47.8,40.0,Successful
+Beraldo,PSG,17,27,Pass,Pass,FirstHalf,50.6,48.1,46.7,60.6,Successful
+Fabián Ruiz,PSG,17,29,Pass,Pass,FirstHalf,46.7,60.6,66.6,76.0,Successful
+Nuno Mendes,PSG,17,34,Pass,Pass,FirstHalf,68.5,73.3,75.3,94.1,Successful
+Khvicha Kvaratskhelia,PSG,17,40,Pass,Pass,FirstHalf,79.1,86.6,70.7,86.5,Successful
+João Neves,PSG,17,43,Pass,Pass,FirstHalf,68.9,86.5,67.0,72.3,Successful
+Vitinha,PSG,17,45,Chipped Pass,Pass,FirstHalf,67.3,69.0,89.2,40.1,Unsuccessful
+Fran García,Real Madrid,17,47,Clearance,Clearance,FirstHalf,11.6,60.2,23.8,81.4,Successful
+Ousmane Dembélé,PSG,17,49,Pass,Pass,FirstHalf,75.5,23.1,74.1,35.5,Successful
+Vitinha,PSG,17,54,Pass,Pass,FirstHalf,72.1,34.8,63.8,55.8,Successful
+Beraldo,PSG,17,57,Pass,Pass,FirstHalf,64.8,58.5,63.6,74.8,Successful
+Fabián Ruiz,PSG,18,0,Pass,Pass,FirstHalf,63.5,73.8,63.8,60.3,Successful
+Vitinha,PSG,18,5,Pass,Pass,FirstHalf,64.3,62.3,68.9,52.4,Successful
+João Neves,PSG,18,9,Pass,Pass,FirstHalf,59.9,49.6,54.4,23.4,Successful
+Marquinhos,PSG,18,10,Pass,Pass,FirstHalf,54.9,24.3,67.3,5.3,Successful
+Ousmane Dembélé,PSG,18,12,Pass,Pass,FirstHalf,67.3,5.3,91.2,0.0,Unsuccessful
+Fran García,Real Madrid,18,27,Throw In,Pass,FirstHalf,15.6,100.0,16.9,92.0,Successful
+Arda Güler,Real Madrid,18,29,Long Pass,Pass,FirstHalf,16.9,92.0,39.4,93.0,Unsuccessful
+Marquinhos,PSG,18,31,Aerial Won,Aerial,FirstHalf,60.2,7.8,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,18,31,Aerial Lost,Aerial,FirstHalf,39.8,92.2,0.0,0.0,Unsuccessful
+Marquinhos,PSG,18,32,BallTouch,BallTouch,FirstHalf,59.5,9.1,0.0,0.0,Successful
+Fabián Ruiz,PSG,18,33,Pass,Pass,FirstHalf,62.0,17.4,54.6,7.9,Successful
+Marquinhos,PSG,18,34,Ball Recovery,BallRecovery,FirstHalf,54.4,7.9,0.0,0.0,Successful
+Marquinhos,PSG,18,35,Long Pass,Pass,FirstHalf,47.5,9.1,17.1,47.6,Successful
+Gianluigi Donnarumma,PSG,18,41,Pass,Pass,FirstHalf,17.9,49.4,12.6,10.4,Successful
+Marquinhos,PSG,18,42,Pass,Pass,FirstHalf,12.2,11.0,23.7,6.2,Successful
+João Neves,PSG,18,44,Pass,Pass,FirstHalf,25.3,5.9,27.8,21.3,Successful
+Fabián Ruiz,PSG,18,49,Pass,Pass,FirstHalf,31.4,32.5,31.8,62.3,Successful
+Beraldo,PSG,18,51,Pass,Pass,FirstHalf,32.7,63.6,38.5,84.5,Successful
+Nuno Mendes,PSG,18,58,Pass,Pass,FirstHalf,38.5,84.5,29.5,63.9,Successful
+Beraldo,PSG,18,59,Pass,Pass,FirstHalf,29.5,63.9,28.5,35.2,Successful
+Marquinhos,PSG,19,5,Pass,Pass,FirstHalf,29.5,35.2,28.4,62.0,Successful
+Beraldo,PSG,19,7,Pass,Pass,FirstHalf,28.4,62.0,44.9,76.0,Successful
+Nuno Mendes,PSG,19,10,Pass,Pass,FirstHalf,54.3,76.9,74.5,93.8,Successful
+Khvicha Kvaratskhelia,PSG,19,18,Pass,Pass,FirstHalf,81.5,69.1,66.1,71.4,Successful
+Fabián Ruiz,PSG,19,20,Pass,Pass,FirstHalf,67.2,70.8,69.5,58.4,Successful
+João Neves,PSG,19,23,Key Pass,Pass,FirstHalf,69.8,56.3,76.3,35.1,Successful
+Achraf Hakimi,PSG,19,25,Shot off Target,MissedShots,FirstHalf,79.4,32.1,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,19,57,Pass,Pass,FirstHalf,5.2,38.9,3.6,51.5,Successful
+Thibaut Courtois,Real Madrid,19,58,Long Pass,Pass,FirstHalf,6.3,56.3,73.4,60.3,Successful
+Vinícius Júnior,Real Madrid,20,3,Loss of Possession,Dispossessed,FirstHalf,90.0,69.6,0.0,0.0,Successful
+Nuno Mendes,PSG,20,3,Successful Tackle,Tackle,FirstHalf,10.0,30.4,0.0,0.0,Successful
+Nuno Mendes,PSG,20,9,Ball Recovery,BallRecovery,FirstHalf,8.5,17.6,0.0,0.0,Successful
+Nuno Mendes,PSG,20,9,Long Pass,Pass,FirstHalf,8.5,17.6,28.5,59.4,Successful
+Vitinha,PSG,20,13,Pass,Pass,FirstHalf,28.5,59.4,36.9,87.4,Successful
+Fabián Ruiz,PSG,20,18,Pass,Pass,FirstHalf,54.1,79.9,56.4,75.3,Successful
+Ousmane Dembélé,PSG,20,20,Pass,Pass,FirstHalf,56.4,75.3,34.1,57.8,Successful
+Beraldo,PSG,20,22,Pass,Pass,FirstHalf,34.1,57.8,42.3,50.9,Successful
+João Neves,PSG,20,25,Pass,Pass,FirstHalf,43.4,50.9,46.0,57.5,Successful
+Vitinha,PSG,20,26,Pass,Pass,FirstHalf,46.0,57.5,42.0,46.4,Successful
+João Neves,PSG,20,27,Pass,Pass,FirstHalf,42.0,46.4,43.3,51.8,Successful
+Vitinha,PSG,20,28,Pass,Pass,FirstHalf,43.3,51.8,49.7,17.3,Successful
+Achraf Hakimi,PSG,20,32,Pass,Pass,FirstHalf,47.5,15.5,39.3,29.2,Successful
+Vitinha,PSG,20,36,Pass,Pass,FirstHalf,41.0,35.1,37.1,80.2,Successful
+Nuno Mendes,PSG,20,40,Pass,Pass,FirstHalf,37.1,80.2,46.6,93.3,Successful
+Fabián Ruiz,PSG,20,42,Pass,Pass,FirstHalf,46.6,93.3,54.1,82.4,Successful
+João Neves,PSG,20,44,Pass,Pass,FirstHalf,54.1,82.4,39.9,83.2,Successful
+Nuno Mendes,PSG,20,44,Pass,Pass,FirstHalf,39.9,83.2,45.6,94.5,Successful
+Fabián Ruiz,PSG,20,47,Pass,Pass,FirstHalf,45.0,94.1,44.3,87.1,Successful
+João Neves,PSG,20,49,Pass,Pass,FirstHalf,43.7,85.9,37.2,81.4,Successful
+Nuno Mendes,PSG,20,51,Pass,Pass,FirstHalf,37.2,81.4,42.5,67.6,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,20,53,Pass,Pass,FirstHalf,54.3,37.0,60.3,41.2,Successful
+Gonzalo García,Real Madrid,20,54,Pass,Pass,FirstHalf,60.3,41.2,61.1,39.2,Unsuccessful
+João Neves,PSG,20,54,BlockedPass,BlockedPass,FirstHalf,40.6,63.9,0.0,0.0,Successful
+Gonzalo García,Real Madrid,20,55,Ball Recovery,BallRecovery,FirstHalf,60.5,38.9,0.0,0.0,Successful
+Gonzalo García,Real Madrid,20,55,Pass,Pass,FirstHalf,60.4,38.8,72.8,18.6,Successful
+Vinícius Júnior,Real Madrid,21,0,Chipped Pass,Pass,FirstHalf,77.0,19.4,83.7,54.9,Unsuccessful
+Marquinhos,PSG,21,1,Pass,Pass,FirstHalf,12.4,42.4,25.1,47.2,Successful
+Gonzalo García,Real Madrid,21,3,Challenge,Challenge,FirstHalf,75.9,52.4,0.0,0.0,Unsuccessful
+Vitinha,PSG,21,3,Successful Dribble,TakeOn,FirstHalf,24.1,47.6,0.0,0.0,Successful
+Vitinha,PSG,21,4,Ball Recovery,BallRecovery,FirstHalf,24.8,54.8,0.0,0.0,Successful
+Vitinha,PSG,21,7,Pass,Pass,FirstHalf,28.1,72.0,38.8,94.1,Successful
+Khvicha Kvaratskhelia,PSG,21,10,Pass,Pass,FirstHalf,38.8,94.1,35.1,90.9,Successful
+Vitinha,PSG,21,12,Pass,Pass,FirstHalf,35.1,90.9,22.7,83.0,Successful
+Nuno Mendes,PSG,21,15,Pass,Pass,FirstHalf,23.3,83.2,22.5,70.3,Successful
+Fabián Ruiz,PSG,21,20,Pass,Pass,FirstHalf,22.4,55.2,20.7,27.6,Successful
+Marquinhos,PSG,21,22,Pass,Pass,FirstHalf,20.7,27.4,27.2,8.5,Successful
+Achraf Hakimi,PSG,21,25,Long Pass,Pass,FirstHalf,27.4,6.5,91.7,10.0,Successful
+Désiré Doué,PSG,21,41,Pass,Pass,FirstHalf,83.4,6.4,69.9,14.4,Successful
+Achraf Hakimi,PSG,21,42,Pass,Pass,FirstHalf,69.9,14.4,73.5,18.6,Successful
+Ousmane Dembélé,PSG,21,45,Pass,Pass,FirstHalf,75.5,15.0,69.5,28.2,Successful
+Vitinha,PSG,21,47,Long Pass,Pass,FirstHalf,69.8,28.6,80.0,87.8,Successful
+Khvicha Kvaratskhelia,PSG,21,53,Pass,Pass,FirstHalf,86.8,70.2,88.2,70.0,Unsuccessful
+Federico Valverde,Real Madrid,21,53,BlockedPass,BlockedPass,FirstHalf,14.7,29.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,21,57,Loss of Possession,Dispossessed,FirstHalf,26.1,24.4,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,21,57,Successful Tackle,Tackle,FirstHalf,73.9,75.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,22,3,Pass,Pass,FirstHalf,60.5,92.6,61.8,88.9,Successful
+Vitinha,PSG,22,6,Pass,Pass,FirstHalf,61.8,88.9,67.8,94.4,Successful
+Fabián Ruiz,PSG,22,7,Pass,Pass,FirstHalf,67.8,94.4,60.4,88.0,Successful
+Vitinha,PSG,22,8,Pass,Pass,FirstHalf,61.4,87.1,62.8,63.6,Successful
+João Neves,PSG,22,13,Pass,Pass,FirstHalf,64.6,55.7,55.1,70.8,Successful
+Nuno Mendes,PSG,22,15,Pass,Pass,FirstHalf,55.3,70.0,46.5,49.9,Successful
+Beraldo,PSG,22,17,Pass,Pass,FirstHalf,46.6,50.0,46.7,28.3,Successful
+Marquinhos,PSG,22,21,Pass,Pass,FirstHalf,46.2,26.1,43.0,50.6,Successful
+Beraldo,PSG,22,26,Long Pass,Pass,FirstHalf,53.4,52.1,72.7,4.4,Successful
+Achraf Hakimi,PSG,22,30,Pass,Pass,FirstHalf,73.1,4.4,70.8,17.7,Successful
+Ousmane Dembélé,PSG,22,32,Pass,Pass,FirstHalf,70.8,17.7,69.2,27.6,Unsuccessful
+Kylian Mbappé,Real Madrid,22,34,Interception,Interception,FirstHalf,36.0,85.9,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,22,35,Ball Recovery,BallRecovery,FirstHalf,36.9,85.4,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,22,43,Shot on Target,SavedShot,FirstHalf,85.6,65.6,0.0,0.0,Successful
+Marquinhos,PSG,22,43,Save,Save,FirstHalf,12.4,33.8,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,22,46,KeeperPickup,KeeperPickup,FirstHalf,5.5,52.2,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,22,58,Pass,Pass,FirstHalf,9.8,50.9,21.7,52.1,Successful
+João Neves,PSG,23,0,Pass,Pass,FirstHalf,21.7,52.1,21.4,77.6,Successful
+Nuno Mendes,PSG,23,1,Pass,Pass,FirstHalf,21.4,77.6,12.5,63.1,Successful
+Beraldo,PSG,23,2,Pass,Pass,FirstHalf,12.5,63.1,12.3,39.2,Successful
+Marquinhos,PSG,23,8,Pass,Pass,FirstHalf,22.9,36.0,23.8,18.6,Successful
+Vitinha,PSG,23,14,Pass,Pass,FirstHalf,19.8,37.6,11.1,67.0,Successful
+Beraldo,PSG,23,17,Pass,Pass,FirstHalf,11.4,67.5,26.5,86.5,Successful
+Nuno Mendes,PSG,23,20,Pass,Pass,FirstHalf,27.2,86.8,13.4,72.0,Successful
+Beraldo,PSG,23,25,Pass,Pass,FirstHalf,19.2,60.5,32.1,61.4,Successful
+Vitinha,PSG,23,27,Pass,Pass,FirstHalf,32.1,61.4,6.2,45.1,Successful
+Gianluigi Donnarumma,PSG,23,30,Pass,Pass,FirstHalf,6.2,45.1,19.0,7.6,Successful
+Achraf Hakimi,PSG,23,33,Pass,Pass,FirstHalf,19.3,7.1,34.7,27.9,Successful
+Désiré Doué,PSG,23,35,Pass,Pass,FirstHalf,34.7,27.9,42.8,9.5,Successful
+Achraf Hakimi,PSG,23,36,Pass,Pass,FirstHalf,42.8,9.5,58.2,27.0,Successful
+Ousmane Dembélé,PSG,23,38,Pass,Pass,FirstHalf,58.2,27.0,78.6,29.7,Successful
+Achraf Hakimi,PSG,23,41,Assist,Pass,FirstHalf,79.6,29.1,88.5,52.1,Successful
+Fabián Ruiz,PSG,23,43,Goal,Goal,FirstHalf,90.6,54.0,0.0,0.0,Successful
+Gonzalo García,Real Madrid,25,20,Pass,Pass,FirstHalf,49.9,49.9,33.8,52.2,Successful
+Aurélien Tchouaméni,Real Madrid,25,22,BallTouch,BallTouch,FirstHalf,33.8,52.2,0.0,0.0,Successful
+Arda Güler,Real Madrid,25,27,Pass,Pass,FirstHalf,38.5,66.6,36.7,91.1,Successful
+Fran García,Real Madrid,25,30,Chipped Pass,Pass,FirstHalf,37.3,91.7,61.0,79.4,Unsuccessful
+Marquinhos,PSG,25,32,Pass,Pass,FirstHalf,35.9,23.6,60.0,14.9,Successful
+Désiré Doué,PSG,25,33,Pass,Pass,FirstHalf,60.0,14.9,55.2,20.1,Successful
+João Neves,PSG,25,35,Ball Recovery,BallRecovery,FirstHalf,55.2,20.1,0.0,0.0,Successful
+João Neves,PSG,25,36,Pass,Pass,FirstHalf,55.2,20.1,49.0,6.4,Successful
+Achraf Hakimi,PSG,25,38,Pass,Pass,FirstHalf,49.0,6.4,33.2,12.6,Successful
+Marquinhos,PSG,25,40,Pass,Pass,FirstHalf,32.9,12.9,32.7,29.2,Successful
+Fabián Ruiz,PSG,25,43,Long Pass,Pass,FirstHalf,32.1,33.7,36.5,80.8,Successful
+Nuno Mendes,PSG,25,47,Pass,Pass,FirstHalf,36.5,80.8,31.2,48.5,Successful
+Fabián Ruiz,PSG,25,51,Pass,Pass,FirstHalf,33.0,43.0,25.4,27.0,Successful
+Marquinhos,PSG,25,56,Pass,Pass,FirstHalf,29.6,27.3,30.5,59.6,Successful
+Beraldo,PSG,25,58,Pass,Pass,FirstHalf,30.9,59.7,34.7,83.2,Successful
+Nuno Mendes,PSG,26,2,Pass,Pass,FirstHalf,35.6,80.3,43.4,69.9,Successful
+João Neves,PSG,26,4,Pass,Pass,FirstHalf,42.4,70.3,36.4,77.6,Successful
+Nuno Mendes,PSG,26,6,Pass,Pass,FirstHalf,36.7,77.6,42.4,92.6,Successful
+Vitinha,PSG,26,8,Pass,Pass,FirstHalf,41.5,92.3,58.0,97.4,Successful
+Khvicha Kvaratskhelia,PSG,26,10,Pass,Pass,FirstHalf,57.7,97.5,43.4,95.4,Successful
+Vitinha,PSG,26,12,Pass,Pass,FirstHalf,43.1,95.1,43.1,86.0,Successful
+João Neves,PSG,26,13,Pass,Pass,FirstHalf,43.1,86.0,32.6,80.0,Successful
+Nuno Mendes,PSG,26,15,Pass,Pass,FirstHalf,32.6,80.0,28.9,35.5,Successful
+Marquinhos,PSG,26,21,Pass,Pass,FirstHalf,29.3,34.5,36.5,37.9,Successful
+Fabián Ruiz,PSG,26,22,Pass,Pass,FirstHalf,36.5,37.9,27.9,57.0,Successful
+Beraldo,PSG,26,24,Pass,Pass,FirstHalf,28.4,57.9,34.4,80.5,Successful
+Nuno Mendes,PSG,26,27,Pass,Pass,FirstHalf,34.4,80.5,41.9,97.5,Successful
+Vitinha,PSG,26,32,Pass,Pass,FirstHalf,42.0,96.2,44.1,83.3,Successful
+João Neves,PSG,26,33,Pass,Pass,FirstHalf,44.1,83.3,30.6,81.1,Successful
+Nuno Mendes,PSG,26,36,Pass,Pass,FirstHalf,31.3,80.2,25.5,60.9,Successful
+Beraldo,PSG,26,38,Pass,Pass,FirstHalf,25.3,60.9,19.5,30.1,Successful
+Marquinhos,PSG,26,40,Pass,Pass,FirstHalf,19.4,30.1,25.2,7.3,Successful
+Fran García,Real Madrid,26,43,Challenge,Challenge,FirstHalf,67.4,93.0,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,26,43,Successful Dribble,TakeOn,FirstHalf,32.6,7.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,26,44,Pass,Pass,FirstHalf,35.7,18.6,35.9,26.8,Successful
+Fabián Ruiz,PSG,26,47,Long Pass,Pass,FirstHalf,35.3,31.3,44.7,85.4,Successful
+João Neves,PSG,26,55,Pass,Pass,FirstHalf,64.4,83.8,60.9,82.7,Successful
+Khvicha Kvaratskhelia,PSG,26,58,Pass,Pass,FirstHalf,62.9,87.2,66.6,95.1,Successful
+Vitinha,PSG,27,0,Pass,Pass,FirstHalf,66.6,95.1,60.0,90.8,Successful
+João Neves,PSG,27,3,Pass,Pass,FirstHalf,61.1,89.9,64.6,96.0,Successful
+Vitinha,PSG,27,9,Pass,Pass,FirstHalf,69.8,88.9,54.5,86.3,Successful
+Nuno Mendes,PSG,27,10,Pass,Pass,FirstHalf,54.6,84.2,48.4,42.7,Successful
+Marquinhos,PSG,27,13,Pass,Pass,FirstHalf,47.9,42.5,62.4,19.7,Successful
+Fabián Ruiz,PSG,27,15,Pass,Pass,FirstHalf,62.4,19.7,71.7,25.8,Successful
+Ousmane Dembélé,PSG,27,17,Pass,Pass,FirstHalf,71.7,25.8,65.1,33.9,Successful
+Achraf Hakimi,PSG,27,19,Pass,Pass,FirstHalf,65.1,33.9,71.4,22.4,Successful
+Ousmane Dembélé,PSG,27,20,Pass,Pass,FirstHalf,71.4,22.4,54.0,34.0,Successful
+Marquinhos,PSG,27,24,Pass,Pass,FirstHalf,60.4,39.2,69.8,17.3,Successful
+Ousmane Dembélé,PSG,27,26,Pass,Pass,FirstHalf,70.5,18.3,80.5,10.3,Successful
+Désiré Doué,PSG,27,30,Pass,Pass,FirstHalf,80.7,12.8,71.9,19.8,Successful
+Achraf Hakimi,PSG,27,32,Pass,Pass,FirstHalf,71.9,19.8,72.0,8.2,Successful
+Ousmane Dembélé,PSG,27,33,Pass,Pass,FirstHalf,72.0,8.2,64.3,16.1,Successful
+Fabián Ruiz,PSG,27,34,Pass,Pass,FirstHalf,64.3,16.1,76.3,7.0,Successful
+Ousmane Dembélé,PSG,27,35,Pass,Pass,FirstHalf,76.3,7.0,66.2,15.9,Successful
+Fabián Ruiz,PSG,27,36,Pass,Pass,FirstHalf,59.0,14.8,70.5,25.0,Successful
+Achraf Hakimi,PSG,27,38,Foul,Foul,FirstHalf,66.6,20.2,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,27,38,Foul,Foul,FirstHalf,33.4,79.8,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,27,40,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,28,7,Pass,Pass,FirstHalf,68.0,22.5,56.7,33.0,Successful
+Vitinha,PSG,28,8,Pass,Pass,FirstHalf,56.7,33.0,42.8,51.8,Successful
+Beraldo,PSG,28,9,Pass,Pass,FirstHalf,42.8,51.8,54.0,62.0,Successful
+Fabián Ruiz,PSG,28,10,Pass,Pass,FirstHalf,54.0,62.0,51.5,44.8,Successful
+Vitinha,PSG,28,15,Pass,Pass,FirstHalf,60.3,39.5,43.7,31.8,Successful
+Marquinhos,PSG,28,17,Pass,Pass,FirstHalf,44.7,31.9,56.2,8.2,Successful
+Achraf Hakimi,PSG,28,19,Long Pass,Pass,FirstHalf,56.3,8.0,34.9,53.9,Successful
+Marquinhos,PSG,28,24,Pass,Pass,FirstHalf,34.9,53.9,22.0,63.7,Successful
+Beraldo,PSG,28,27,Pass,Pass,FirstHalf,22.0,63.7,4.5,45.7,Successful
+Gianluigi Donnarumma,PSG,28,29,Pass,Pass,FirstHalf,4.5,45.7,11.5,28.6,Successful
+Marquinhos,PSG,28,32,Pass,Pass,FirstHalf,11.6,28.6,24.4,40.3,Successful
+Vitinha,PSG,28,33,Pass,Pass,FirstHalf,24.4,40.3,11.8,25.6,Successful
+Marquinhos,PSG,28,34,Pass,Pass,FirstHalf,11.8,25.6,9.5,42.1,Successful
+Vitinha,PSG,28,36,Pass,Pass,FirstHalf,9.2,40.1,9.2,25.3,Successful
+Marquinhos,PSG,28,41,Long Pass,Pass,FirstHalf,23.4,21.7,32.6,87.9,Successful
+Nuno Mendes,PSG,28,46,Pass,Pass,FirstHalf,36.7,86.0,35.4,89.9,Successful
+Fabián Ruiz,PSG,28,49,Pass,Pass,FirstHalf,35.4,89.9,37.3,76.1,Successful
+João Neves,PSG,28,52,Pass,Pass,FirstHalf,39.6,72.0,36.3,56.0,Successful
+Vitinha,PSG,28,53,Pass,Pass,FirstHalf,36.2,53.0,46.3,14.3,Successful
+Achraf Hakimi,PSG,28,57,Pass,Pass,FirstHalf,50.7,13.8,64.7,4.3,Successful
+Ousmane Dembélé,PSG,29,0,Pass,Pass,FirstHalf,73.3,9.5,93.7,14.6,Successful
+Achraf Hakimi,PSG,29,2,Pass,Pass,FirstHalf,93.7,14.6,90.7,23.0,Unsuccessful
+Jude Bellingham,Real Madrid,29,3,Interception,Interception,FirstHalf,11.8,80.5,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,29,4,CornerAwarded,CornerAwarded,FirstHalf,10.8,79.2,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,29,4,CornerAwarded,CornerAwarded,FirstHalf,89.2,20.8,0.0,0.0,Successful
+Vitinha,PSG,29,50,Cross,Pass,FirstHalf,99.5,0.5,89.3,46.9,Successful
+Beraldo,PSG,29,52,Aerial Won,Aerial,FirstHalf,90.2,49.3,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,29,52,Aerial Lost,Aerial,FirstHalf,9.8,50.7,0.0,0.0,Unsuccessful
+Beraldo,PSG,29,53,BallTouch,BallTouch,FirstHalf,89.3,46.9,0.0,0.0,Successful
+Fabián Ruiz,PSG,30,0,Offside,OffsideGiven,FirstHalf,84.9,84.4,0.0,0.0,Unsuccessful
+Fran García,Real Madrid,30,0,Challenge,Challenge,FirstHalf,19.7,12.8,0.0,0.0,Unsuccessful
+Nuno Mendes,PSG,30,0,Successful Dribble,TakeOn,FirstHalf,80.3,87.2,0.0,0.0,Successful
+Nuno Mendes,PSG,30,2,Cross,Pass,FirstHalf,82.2,80.3,89.9,69.3,Unsuccessful
+Raúl Asencio,Real Madrid,30,4,Clearance,Clearance,FirstHalf,10.3,32.7,9.1,21.7,Successful
+Fran García,Real Madrid,30,6,Clearance,Clearance,FirstHalf,10.4,23.4,22.3,34.0,Successful
+Khvicha Kvaratskhelia,PSG,30,10,Shot on Target,SavedShot,FirstHalf,74.7,53.0,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,30,10,Save,Save,FirstHalf,19.5,46.0,0.0,0.0,Successful
+Achraf Hakimi,PSG,30,15,Long Pass,Pass,FirstHalf,61.1,28.8,27.7,54.5,Successful
+Gianluigi Donnarumma,PSG,30,19,Long Pass,Pass,FirstHalf,27.7,54.5,42.1,96.5,Successful
+Désiré Doué,PSG,30,24,Pass,Pass,FirstHalf,42.1,96.5,61.9,97.4,Successful
+Nuno Mendes,PSG,30,30,Offside,OffsidePass,FirstHalf,72.8,79.3,84.9,84.4,Successful
+Raúl Asencio,Real Madrid,30,30,OffsideProvoked,OffsideProvoked,FirstHalf,14.0,26.8,0.0,0.0,Successful
+,Real Madrid,33,17,FormationChange,FormationChange,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,33,30,Pass,Pass,FirstHalf,29.4,21.3,5.7,42.4,Successful
+Thibaut Courtois,Real Madrid,33,35,Long Pass,Pass,FirstHalf,6.0,46.0,64.0,60.8,Unsuccessful
+Marquinhos,PSG,33,38,Pass,Pass,FirstHalf,36.3,36.7,44.4,42.7,Successful
+Vitinha,PSG,33,39,Pass,Pass,FirstHalf,43.7,42.5,56.7,12.3,Successful
+Achraf Hakimi,PSG,33,42,Ball Recovery,BallRecovery,FirstHalf,56.7,12.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,33,43,Pass,Pass,FirstHalf,60.0,12.0,67.5,5.3,Successful
+Désiré Doué,PSG,33,46,Pass,Pass,FirstHalf,65.2,6.1,59.5,28.9,Successful
+João Neves,PSG,33,51,Pass,Pass,FirstHalf,59.4,35.8,46.4,50.9,Successful
+Fabián Ruiz,PSG,33,57,Pass,Pass,FirstHalf,55.2,63.9,46.6,31.8,Successful
+Marquinhos,PSG,33,59,Pass,Pass,FirstHalf,46.7,31.8,54.6,18.8,Successful
+Vitinha,PSG,34,6,Long Pass,Pass,FirstHalf,57.0,18.9,38.9,80.6,Successful
+Nuno Mendes,PSG,34,8,Pass,Pass,FirstHalf,39.4,80.5,33.8,62.9,Successful
+Beraldo,PSG,34,11,Pass,Pass,FirstHalf,33.9,63.0,35.7,84.8,Successful
+Nuno Mendes,PSG,34,15,Pass,Pass,FirstHalf,35.8,85.6,36.6,79.0,Successful
+Vitinha,PSG,34,16,Pass,Pass,FirstHalf,36.6,79.0,35.0,90.3,Successful
+Nuno Mendes,PSG,34,18,Pass,Pass,FirstHalf,35.0,90.3,36.5,72.6,Successful
+Fabián Ruiz,PSG,34,19,Pass,Pass,FirstHalf,36.5,72.6,43.4,95.3,Successful
+Vitinha,PSG,34,24,Pass,Pass,FirstHalf,52.6,91.5,60.1,97.2,Successful
+Khvicha Kvaratskhelia,PSG,34,26,Pass,Pass,FirstHalf,60.1,97.2,55.7,95.6,Successful
+Vitinha,PSG,34,28,Pass,Pass,FirstHalf,56.2,95.9,39.5,84.2,Successful
+Nuno Mendes,PSG,34,30,Pass,Pass,FirstHalf,41.6,85.0,47.0,74.8,Successful
+Fabián Ruiz,PSG,34,35,Pass,Pass,FirstHalf,46.6,73.2,53.0,81.4,Successful
+Ousmane Dembélé,PSG,34,36,Pass,Pass,FirstHalf,53.0,81.4,42.1,81.2,Successful
+Nuno Mendes,PSG,34,37,Pass,Pass,FirstHalf,42.1,81.2,48.4,88.4,Successful
+Vitinha,PSG,34,40,Pass,Pass,FirstHalf,48.0,86.8,44.2,76.9,Successful
+Fabián Ruiz,PSG,34,46,Pass,Pass,FirstHalf,42.9,67.6,46.0,94.7,Successful
+Vitinha,PSG,34,49,Pass,Pass,FirstHalf,45.3,93.0,31.3,57.8,Successful
+Beraldo,PSG,34,51,Pass,Pass,FirstHalf,31.3,57.8,37.0,79.4,Successful
+Nuno Mendes,PSG,34,54,Pass,Pass,FirstHalf,37.0,79.4,40.8,70.9,Successful
+Fabián Ruiz,PSG,34,55,Pass,Pass,FirstHalf,40.8,70.9,35.1,84.5,Successful
+Nuno Mendes,PSG,34,58,Pass,Pass,FirstHalf,35.4,84.1,41.2,83.5,Successful
+Khvicha Kvaratskhelia,PSG,34,59,Pass,Pass,FirstHalf,41.2,83.5,32.9,84.1,Successful
+Nuno Mendes,PSG,35,1,Pass,Pass,FirstHalf,33.0,83.6,25.1,64.6,Successful
+Beraldo,PSG,35,3,Pass,Pass,FirstHalf,25.1,64.6,20.4,35.2,Successful
+Marquinhos,PSG,35,6,Pass,Pass,FirstHalf,20.2,34.8,42.8,30.9,Successful
+Désiré Doué,PSG,35,8,Long Pass,Pass,FirstHalf,42.8,30.9,66.0,0.0,Unsuccessful
+Fran García,Real Madrid,35,30,Throw In,Pass,FirstHalf,39.2,100.0,53.8,88.6,Unsuccessful
+João Neves,PSG,35,32,Pass,Pass,FirstHalf,43.5,15.6,52.2,20.0,Successful
+Fabián Ruiz,PSG,35,33,Pass,Pass,FirstHalf,52.2,20.0,40.5,29.8,Successful
+Beraldo,PSG,35,35,Ball Recovery,BallRecovery,FirstHalf,40.5,29.8,0.0,0.0,Successful
+Beraldo,PSG,35,35,Pass,Pass,FirstHalf,40.5,29.8,44.9,34.9,Successful
+Vitinha,PSG,35,39,Through Ball,Pass,FirstHalf,51.2,44.3,77.5,39.7,Successful
+Désiré Doué,PSG,35,42,BallTouch,BallTouch,FirstHalf,88.0,36.9,0.0,0.0,Unsuccessful
+Thibaut Courtois,Real Madrid,35,43,Smother,Smother,FirstHalf,8.8,69.7,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,35,44,KeeperPickup,KeeperPickup,FirstHalf,8.8,69.7,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,35,46,Pass,Pass,FirstHalf,10.0,70.2,21.3,66.6,Successful
+Aurélien Tchouaméni,Real Madrid,35,47,Pass,Pass,FirstHalf,21.4,67.2,7.2,64.9,Successful
+Thibaut Courtois,Real Madrid,35,50,Pass,Pass,FirstHalf,9.0,66.9,32.5,66.4,Successful
+Jude Bellingham,Real Madrid,35,52,Pass,Pass,FirstHalf,32.3,63.7,40.6,44.9,Successful
+Gonzalo García,Real Madrid,35,54,Long Pass,Pass,FirstHalf,44.8,48.1,56.5,92.1,Successful
+Vinícius Júnior,Real Madrid,36,0,Long Pass,Pass,FirstHalf,59.4,87.4,70.9,34.0,Successful
+Kylian Mbappé,Real Madrid,36,1,Pass,Pass,FirstHalf,70.9,34.0,66.5,41.3,Successful
+Arda Güler,Real Madrid,36,3,Pass,Pass,FirstHalf,66.5,41.3,68.3,30.1,Successful
+Federico Valverde,Real Madrid,36,5,Pass,Pass,FirstHalf,71.4,27.9,76.9,16.2,Successful
+Kylian Mbappé,Real Madrid,36,8,Unsuccessful Dribble,TakeOn,FirstHalf,76.8,22.6,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,36,8,Successful Tackle,Tackle,FirstHalf,23.2,77.4,0.0,0.0,Successful
+Arda Güler,Real Madrid,36,10,Challenge,Challenge,FirstHalf,74.5,23.4,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,36,10,Successful Dribble,TakeOn,FirstHalf,25.5,76.6,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,36,11,GoodSkill,GoodSkill,FirstHalf,32.7,73.8,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,36,14,Ball Recovery,BallRecovery,FirstHalf,35.9,75.7,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,36,18,Loss of Possession,Dispossessed,FirstHalf,64.5,69.3,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,36,18,Was Dribbled,Tackle,FirstHalf,35.5,30.7,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,36,20,BallTouch,BallTouch,FirstHalf,64.3,72.1,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,36,20,Ball Recovery,BallRecovery,FirstHalf,20.2,35.2,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,36,22,Pass,Pass,FirstHalf,18.5,27.1,39.6,11.3,Successful
+Federico Valverde,Real Madrid,36,33,Pass,Pass,FirstHalf,53.4,8.6,53.3,3.7,Successful
+Gonzalo García,Real Madrid,36,38,Pass,Pass,FirstHalf,44.7,18.2,41.2,41.8,Successful
+Jude Bellingham,Real Madrid,36,40,Pass,Pass,FirstHalf,43.4,43.7,39.8,68.5,Successful
+Antonio Rüdiger,Real Madrid,36,44,Pass,Pass,FirstHalf,40.4,71.8,54.9,94.2,Successful
+Vinícius Júnior,Real Madrid,36,46,Pass,Pass,FirstHalf,54.5,92.7,61.5,72.1,Successful
+Gonzalo García,Real Madrid,36,47,Pass,Pass,FirstHalf,61.9,73.3,67.6,93.6,Successful
+Fran García,Real Madrid,36,50,Pass,Pass,FirstHalf,70.4,92.1,69.1,85.6,Successful
+Vinícius Júnior,Real Madrid,36,53,Pass,Pass,FirstHalf,72.6,86.2,69.0,92.0,Successful
+Gonzalo García,Real Madrid,36,57,Pass,Pass,FirstHalf,72.7,91.8,80.3,94.2,Successful
+Vinícius Júnior,Real Madrid,37,5,Chipped Pass,Pass,FirstHalf,91.0,94.8,68.7,64.3,Successful
+Jude Bellingham,Real Madrid,37,8,Pass,Pass,FirstHalf,68.5,61.5,72.5,48.1,Successful
+Arda Güler,Real Madrid,37,12,Pass,Pass,FirstHalf,74.1,39.5,67.2,39.2,Successful
+Aurélien Tchouaméni,Real Madrid,37,13,Pass,Pass,FirstHalf,67.5,39.8,70.1,50.1,Successful
+Jude Bellingham,Real Madrid,37,17,Pass,Pass,FirstHalf,64.4,48.5,68.2,35.7,Successful
+Arda Güler,Real Madrid,37,19,Pass,Pass,FirstHalf,68.4,36.6,65.5,51.2,Successful
+Aurélien Tchouaméni,Real Madrid,37,21,Pass,Pass,FirstHalf,65.5,51.2,72.3,54.3,Successful
+Gonzalo García,Real Madrid,37,22,Pass,Pass,FirstHalf,72.4,54.5,73.3,48.7,Successful
+Federico Valverde,Real Madrid,37,24,Pass,Pass,FirstHalf,73.6,49.7,87.9,67.9,Successful
+Kylian Mbappé,Real Madrid,37,29,Unsuccessful Dribble,TakeOn,FirstHalf,96.4,70.9,0.0,0.0,Unsuccessful
+João Neves,PSG,37,29,Successful Tackle,Tackle,FirstHalf,3.6,29.1,0.0,0.0,Successful
+João Neves,PSG,37,34,Ball Recovery,BallRecovery,FirstHalf,4.6,3.5,0.0,0.0,Successful
+João Neves,PSG,37,34,Pass,Pass,FirstHalf,4.6,3.5,6.8,17.1,Successful
+Fabián Ruiz,PSG,37,35,Pass,Pass,FirstHalf,6.8,17.1,13.9,11.1,Successful
+Désiré Doué,PSG,37,36,Pass,Pass,FirstHalf,13.9,11.1,17.9,22.2,Successful
+Vitinha,PSG,37,39,Long Pass,Pass,FirstHalf,19.0,22.8,22.9,84.2,Successful
+Fabián Ruiz,PSG,38,57,Pass,Pass,FirstHalf,40.6,64.5,34.5,65.8,Successful
+Vitinha,PSG,38,58,Pass,Pass,FirstHalf,34.5,65.8,35.9,47.8,Successful
+João Neves,PSG,39,1,Pass,Pass,FirstHalf,36.7,40.0,38.9,11.7,Successful
+Achraf Hakimi,PSG,39,2,Pass,Pass,FirstHalf,38.9,11.7,39.8,25.5,Successful
+João Neves,PSG,39,4,Pass,Pass,FirstHalf,39.3,26.4,30.2,59.7,Successful
+Beraldo,PSG,39,7,Pass,Pass,FirstHalf,30.2,59.9,33.9,73.5,Successful
+Vitinha,PSG,39,9,Pass,Pass,FirstHalf,34.1,71.8,39.7,35.2,Successful
+João Neves,PSG,39,14,Pass,Pass,FirstHalf,40.4,40.9,38.5,67.9,Successful
+Vitinha,PSG,39,20,Pass,Pass,FirstHalf,42.8,72.6,70.6,77.0,Successful
+Khvicha Kvaratskhelia,PSG,39,22,Pass,Pass,FirstHalf,72.2,72.7,72.2,67.3,Successful
+Ousmane Dembélé,PSG,39,23,Key Pass,Pass,FirstHalf,72.2,67.3,85.9,72.0,Successful
+Khvicha Kvaratskhelia,PSG,39,25,Shot off Target,MissedShots,FirstHalf,87.7,61.3,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,39,53,Pass,Pass,FirstHalf,4.8,39.8,3.4,56.4,Successful
+Thibaut Courtois,Real Madrid,39,54,Long Pass,Pass,FirstHalf,5.7,59.4,52.0,76.6,Unsuccessful
+Marquinhos,PSG,39,56,Aerial Won,Aerial,FirstHalf,45.0,26.0,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,39,56,Aerial Lost,Aerial,FirstHalf,55.0,74.0,0.0,0.0,Unsuccessful
+Marquinhos,PSG,39,57,Pass,Pass,FirstHalf,39.9,30.1,56.0,16.7,Successful
+Achraf Hakimi,PSG,39,59,Ball Recovery,BallRecovery,FirstHalf,49.7,6.8,0.0,0.0,Successful
+Achraf Hakimi,PSG,40,0,Pass,Pass,FirstHalf,55.7,18.5,55.7,32.2,Successful
+Vitinha,PSG,40,0,Pass,Pass,FirstHalf,55.7,32.2,57.4,12.5,Successful
+Achraf Hakimi,PSG,40,2,Pass,Pass,FirstHalf,57.9,12.3,62.4,20.6,Successful
+Fabián Ruiz,PSG,40,4,Long Pass,Pass,FirstHalf,60.7,19.4,29.0,23.7,Successful
+Marquinhos,PSG,40,9,Pass,Pass,FirstHalf,28.6,26.1,23.8,72.1,Successful
+Beraldo,PSG,40,10,Pass,Pass,FirstHalf,23.8,72.1,32.3,95.4,Successful
+Nuno Mendes,PSG,40,17,Pass,Pass,FirstHalf,40.7,94.5,38.0,79.0,Successful
+Fabián Ruiz,PSG,40,21,Long Pass,Pass,FirstHalf,39.6,75.3,63.5,10.4,Successful
+Achraf Hakimi,PSG,40,27,Pass,Pass,FirstHalf,64.0,12.2,63.7,28.6,Successful
+João Neves,PSG,40,28,Pass,Pass,FirstHalf,63.7,28.6,63.0,10.0,Successful
+Achraf Hakimi,PSG,40,30,Pass,Pass,FirstHalf,63.0,10.0,39.9,25.3,Successful
+Marquinhos,PSG,40,32,Pass,Pass,FirstHalf,39.9,25.3,42.9,34.9,Successful
+Fabián Ruiz,PSG,40,39,Pass,Pass,FirstHalf,45.3,45.7,46.9,69.1,Successful
+Vitinha,PSG,40,43,Pass,Pass,FirstHalf,54.3,68.7,58.8,65.4,Successful
+Ousmane Dembélé,PSG,40,45,Pass,Pass,FirstHalf,58.8,65.4,52.7,58.5,Successful
+Fabián Ruiz,PSG,40,46,Pass,Pass,FirstHalf,52.7,58.5,60.8,63.4,Successful
+Ousmane Dembélé,PSG,40,47,Pass,Pass,FirstHalf,60.8,63.4,56.5,77.6,Successful
+Vitinha,PSG,40,49,Pass,Pass,FirstHalf,56.5,77.6,62.8,97.2,Successful
+Nuno Mendes,PSG,40,50,Pass,Pass,FirstHalf,62.8,97.2,53.1,89.6,Successful
+Vitinha,PSG,40,52,Pass,Pass,FirstHalf,53.1,88.0,36.5,59.9,Successful
+Beraldo,PSG,40,55,Pass,Pass,FirstHalf,36.5,59.9,45.1,52.2,Successful
+Fabián Ruiz,PSG,40,57,Pass,Pass,FirstHalf,45.1,52.2,36.0,34.0,Successful
+Marquinhos,PSG,41,3,Pass,Pass,FirstHalf,44.3,26.2,47.0,35.2,Successful
+Achraf Hakimi,PSG,41,4,Pass,Pass,FirstHalf,47.0,35.2,38.6,41.5,Successful
+Fabián Ruiz,PSG,41,6,Pass,Pass,FirstHalf,38.6,41.5,44.1,54.3,Successful
+Ousmane Dembélé,PSG,41,8,Pass,Pass,FirstHalf,44.1,54.3,56.0,41.0,Unsuccessful
+Antonio Rüdiger,Real Madrid,41,8,Pass,Pass,FirstHalf,40.1,63.6,47.7,69.9,Successful
+Jude Bellingham,Real Madrid,41,9,Ball Recovery,BallRecovery,FirstHalf,47.7,69.9,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,41,12,Pass,Pass,FirstHalf,69.4,75.0,73.9,93.8,Successful
+Vinícius Júnior,Real Madrid,41,14,Pass,Pass,FirstHalf,73.9,93.8,77.4,75.3,Unsuccessful
+Fabián Ruiz,PSG,41,16,Ball Recovery,BallRecovery,FirstHalf,26.5,31.8,0.0,0.0,Successful
+Fabián Ruiz,PSG,41,17,Long Pass,Pass,FirstHalf,27.7,32.4,76.3,24.7,Unsuccessful
+Thibaut Courtois,Real Madrid,41,20,KeeperSweeper,KeeperSweeper,FirstHalf,24.5,73.6,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,41,21,Chipped Pass,Pass,FirstHalf,23.9,75.3,43.9,84.5,Unsuccessful
+Désiré Doué,PSG,41,23,BallTouch,BallTouch,FirstHalf,61.7,25.0,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,41,26,Successful Dribble,TakeOn,FirstHalf,40.5,74.7,0.0,0.0,Successful
+Désiré Doué,PSG,41,26,Challenge,Challenge,FirstHalf,59.5,25.3,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,41,27,Ball Recovery,BallRecovery,FirstHalf,43.6,72.9,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,41,27,Pass,Pass,FirstHalf,43.3,72.3,47.4,38.3,Successful
+Federico Valverde,Real Madrid,41,36,Pass,Pass,FirstHalf,64.0,21.0,62.6,28.3,Successful
+Arda Güler,Real Madrid,41,37,Pass,Pass,FirstHalf,64.3,29.2,63.0,40.7,Successful
+Aurélien Tchouaméni,Real Madrid,41,39,Pass,Pass,FirstHalf,63.3,39.7,64.6,29.4,Successful
+Arda Güler,Real Madrid,41,44,Pass,Pass,FirstHalf,64.0,29.8,65.7,19.1,Successful
+Federico Valverde,Real Madrid,41,45,Pass,Pass,FirstHalf,65.7,19.1,75.0,6.8,Successful
+Gonzalo García,Real Madrid,41,47,Pass,Pass,FirstHalf,75.1,8.3,87.7,21.0,Successful
+Federico Valverde,Real Madrid,41,50,Pass,Pass,FirstHalf,88.0,21.2,87.9,25.6,Unsuccessful
+Fabián Ruiz,PSG,41,50,BlockedPass,BlockedPass,FirstHalf,9.0,70.6,0.0,0.0,Successful
+Federico Valverde,Real Madrid,41,53,Pass,Pass,FirstHalf,94.0,7.9,85.0,10.3,Successful
+Gonzalo García,Real Madrid,41,57,Unsuccessful Dribble,TakeOn,FirstHalf,84.7,12.7,0.0,0.0,Unsuccessful
+Nuno Mendes,PSG,41,57,Successful Tackle,Tackle,FirstHalf,15.3,87.3,0.0,0.0,Successful
+Nuno Mendes,PSG,41,58,Ball Recovery,BallRecovery,FirstHalf,18.3,83.8,0.0,0.0,Successful
+Nuno Mendes,PSG,41,59,Foul,Foul,FirstHalf,19.0,84.0,0.0,0.0,Successful
+Gonzalo García,Real Madrid,41,59,Foul,Foul,FirstHalf,81.0,16.0,0.0,0.0,Unsuccessful
+Vitinha,PSG,42,34,Pass,Pass,FirstHalf,24.6,79.0,33.0,94.5,Successful
+Nuno Mendes,PSG,42,36,Pass,Pass,FirstHalf,33.0,94.5,26.1,91.7,Successful
+Fabián Ruiz,PSG,42,38,Pass,Pass,FirstHalf,26.1,91.7,24.8,81.2,Successful
+Vitinha,PSG,42,44,Pass,Pass,FirstHalf,36.7,58.2,43.1,13.5,Successful
+Achraf Hakimi,PSG,42,46,Pass,Pass,FirstHalf,43.1,13.5,44.4,24.3,Successful
+Vitinha,PSG,42,47,Long Pass,Pass,FirstHalf,44.4,24.3,84.2,3.4,Unsuccessful
+Antonio Rüdiger,Real Madrid,42,52,Ball Recovery,BallRecovery,FirstHalf,25.0,97.1,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,42,53,Pass,Pass,FirstHalf,25.0,97.1,5.9,70.6,Successful
+Thibaut Courtois,Real Madrid,42,54,Long Pass,Pass,FirstHalf,5.9,70.6,60.2,45.5,Unsuccessful
+Beraldo,PSG,42,59,Ball Recovery,BallRecovery,FirstHalf,38.7,58.5,0.0,0.0,Successful
+Ousmane Dembélé,PSG,43,0,Offside,OffsideGiven,FirstHalf,78.5,25.6,0.0,0.0,Unsuccessful
+Beraldo,PSG,43,0,Pass,Pass,FirstHalf,38.7,58.5,41.8,70.2,Successful
+Fabián Ruiz,PSG,43,3,Pass,Pass,FirstHalf,56.2,74.4,58.6,93.3,Successful
+Khvicha Kvaratskhelia,PSG,43,6,Pass,Pass,FirstHalf,58.6,93.3,45.6,82.7,Successful
+Nuno Mendes,PSG,43,9,Pass,Pass,FirstHalf,46.0,80.9,38.6,56.7,Successful
+Beraldo,PSG,43,10,Pass,Pass,FirstHalf,38.6,56.6,43.8,56.6,Successful
+Vitinha,PSG,43,14,Pass,Pass,FirstHalf,44.0,53.6,45.7,72.6,Successful
+João Neves,PSG,43,17,Pass,Pass,FirstHalf,46.6,73.0,57.9,93.8,Successful
+Khvicha Kvaratskhelia,PSG,43,23,Pass,Pass,FirstHalf,57.9,93.8,44.0,85.9,Successful
+Nuno Mendes,PSG,43,25,Pass,Pass,FirstHalf,50.1,85.4,59.4,97.4,Successful
+Khvicha Kvaratskhelia,PSG,43,27,Pass,Pass,FirstHalf,60.6,96.9,64.7,86.2,Successful
+João Neves,PSG,43,29,Pass,Pass,FirstHalf,64.4,86.6,63.6,97.5,Successful
+Khvicha Kvaratskhelia,PSG,43,31,Long Pass,Pass,FirstHalf,62.9,96.0,73.3,9.2,Successful
+Achraf Hakimi,PSG,43,36,Offside,OffsidePass,FirstHalf,68.0,5.2,78.5,25.6,Successful
+Antonio Rüdiger,Real Madrid,43,36,OffsideProvoked,OffsideProvoked,FirstHalf,22.4,66.0,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,44,17,Long Pass,Pass,FirstHalf,11.2,75.0,72.2,45.4,Unsuccessful
+Nuno Mendes,PSG,44,22,Pass,Pass,FirstHalf,30.8,62.6,37.4,69.6,Successful
+Fabián Ruiz,PSG,44,24,Ball Recovery,BallRecovery,FirstHalf,37.4,69.6,0.0,0.0,Successful
+Fabián Ruiz,PSG,44,24,Long Pass,Pass,FirstHalf,37.4,69.6,72.4,89.4,Unsuccessful
+Federico Valverde,Real Madrid,44,28,Long Pass,Pass,FirstHalf,26.5,15.9,7.9,66.0,Successful
+Thibaut Courtois,Real Madrid,44,33,Ball Recovery,BallRecovery,FirstHalf,7.9,66.3,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,44,33,Long Pass,Pass,FirstHalf,8.2,66.7,65.5,88.9,Unsuccessful
+Marquinhos,PSG,44,38,Aerial Won,Aerial,FirstHalf,34.3,12.5,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,44,38,Aerial Lost,Aerial,FirstHalf,65.7,87.5,0.0,0.0,Unsuccessful
+Marquinhos,PSG,44,39,Pass,Pass,FirstHalf,34.0,14.9,42.0,4.3,Successful
+Achraf Hakimi,PSG,44,40,Ball Recovery,BallRecovery,FirstHalf,42.0,4.3,0.0,0.0,Successful
+Achraf Hakimi,PSG,44,40,Pass,Pass,FirstHalf,42.0,4.3,42.4,18.2,Successful
+Vitinha,PSG,44,42,Pass,Pass,FirstHalf,42.4,18.2,30.1,40.6,Successful
+Beraldo,PSG,44,43,Pass,Pass,FirstHalf,30.1,40.6,27.4,22.2,Successful
+Marquinhos,PSG,44,45,Long Pass,Pass,FirstHalf,27.4,22.2,29.0,77.3,Successful
+Nuno Mendes,PSG,44,50,Pass,Pass,FirstHalf,29.0,77.3,43.1,65.1,Successful
+Fabián Ruiz,PSG,44,53,Pass,Pass,FirstHalf,44.3,71.7,31.6,77.2,Successful
+Nuno Mendes,PSG,44,58,Pass,Pass,FirstHalf,33.7,75.4,35.6,72.9,Successful
+Fabián Ruiz,PSG,45,4,Pass,Pass,FirstHalf,34.9,68.7,26.6,56.4,Successful
+Beraldo,PSG,45,6,Pass,Pass,FirstHalf,26.8,56.4,31.8,54.5,Successful
+João Neves,PSG,45,7,Pass,Pass,FirstHalf,31.3,55.1,31.4,80.5,Successful
+Nuno Mendes,PSG,45,10,Pass,Pass,FirstHalf,31.4,80.5,37.2,73.0,Successful
+Fabián Ruiz,PSG,45,11,Pass,Pass,FirstHalf,37.2,73.0,29.5,79.7,Successful
+Nuno Mendes,PSG,45,12,Pass,Pass,FirstHalf,29.5,79.7,36.3,96.2,Successful
+Vitinha,PSG,45,15,Pass,Pass,FirstHalf,34.1,95.4,45.4,97.1,Successful
+Désiré Doué,PSG,45,17,Pass,Pass,FirstHalf,44.6,97.1,36.8,96.2,Successful
+Vitinha,PSG,45,20,Pass,Pass,FirstHalf,36.7,96.2,33.0,79.9,Successful
+João Neves,PSG,45,23,Long Pass,Pass,FirstHalf,33.0,79.9,26.2,25.5,Successful
+Marquinhos,PSG,45,25,Pass,Pass,FirstHalf,27.0,25.2,40.6,5.2,Successful
+Achraf Hakimi,PSG,45,28,Pass,Pass,FirstHalf,40.6,5.2,44.5,14.6,Successful
+Ousmane Dembélé,PSG,45,30,Pass,Pass,FirstHalf,53.7,15.6,74.3,8.2,Successful
+Achraf Hakimi,PSG,45,33,Unsuccessful Dribble,TakeOn,FirstHalf,74.3,8.4,0.0,0.0,Unsuccessful
+Fran García,Real Madrid,45,33,Successful Tackle,Tackle,FirstHalf,25.7,91.6,0.0,0.0,Successful
+Fran García,Real Madrid,45,34,CornerAwarded,CornerAwarded,FirstHalf,25.7,91.6,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,45,34,CornerAwarded,CornerAwarded,FirstHalf,74.3,8.4,0.0,0.0,Successful
+Vitinha,PSG,46,30,Cross,Pass,FirstHalf,99.5,0.5,89.7,48.4,Unsuccessful
+Antonio Rüdiger,Real Madrid,46,33,Aerial Won,Aerial,FirstHalf,12.8,57.4,0.0,0.0,Successful
+João Neves,PSG,46,33,Aerial Lost,Aerial,FirstHalf,87.2,42.6,0.0,0.0,Unsuccessful
+Antonio Rüdiger,Real Madrid,46,33,Clearance,Clearance,FirstHalf,9.9,56.6,23.3,35.8,Successful
+Nuno Mendes,PSG,46,35,Shot on Target,SavedShot,FirstHalf,87.8,69.4,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,46,35,Save,Save,FirstHalf,2.1,45.9,0.0,0.0,Successful
+Arda Güler,Real Madrid,46,38,Ball Recovery,BallRecovery,FirstHalf,15.4,32.5,0.0,0.0,Successful
+Arda Güler,Real Madrid,46,43,Foul,Foul,FirstHalf,35.5,40.2,0.0,0.0,Successful
+João Neves,PSG,46,43,Foul,Foul,FirstHalf,64.5,59.8,0.0,0.0,Unsuccessful
+João Neves,PSG,46,47,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,47,9,Pass,Pass,FirstHalf,31.7,35.7,35.8,18.5,Successful
+Federico Valverde,Real Madrid,47,9,Pass,Pass,FirstHalf,35.8,18.5,56.6,5.3,Successful
+Gonzalo García,Real Madrid,47,14,Pass,Pass,FirstHalf,56.6,5.3,45.7,10.9,Successful
+Federico Valverde,Real Madrid,47,15,Pass,Pass,FirstHalf,45.7,10.9,56.1,4.1,Successful
+Gonzalo García,Real Madrid,47,16,Pass,Pass,FirstHalf,56.1,4.1,61.1,18.8,Successful
+Arda Güler,Real Madrid,47,17,Through Ball,Pass,FirstHalf,61.6,21.0,89.7,31.3,Unsuccessful
+Gianluigi Donnarumma,PSG,47,20,Smother,Smother,FirstHalf,12.2,60.2,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,47,23,KeeperPickup,KeeperPickup,FirstHalf,11.4,59.3,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,47,30,Pass,Pass,FirstHalf,12.7,62.4,27.9,83.6,Successful
+Fabián Ruiz,PSG,47,32,Pass,Pass,FirstHalf,28.6,84.7,35.8,77.5,Successful
+Nuno Mendes,PSG,47,37,Long Pass,Pass,FirstHalf,34.4,66.9,26.9,15.8,Successful
+Achraf Hakimi,PSG,47,42,Pass,Pass,FirstHalf,32.9,14.9,34.9,34.6,Successful
+João Neves,PSG,47,46,Pass,Pass,FirstHalf,35.4,34.6,33.0,63.1,Successful
+Beraldo,PSG,47,49,Pass,Pass,FirstHalf,34.1,63.4,38.5,79.3,Successful
+Fabián Ruiz,PSG,47,52,Pass,Pass,FirstHalf,38.5,79.3,43.4,97.5,Successful
+Khvicha Kvaratskhelia,PSG,47,53,Pass,Pass,FirstHalf,43.3,97.7,36.4,87.4,Successful
+Fabián Ruiz,PSG,47,55,Long Pass,Pass,FirstHalf,36.8,88.1,73.5,86.9,Successful
+Ousmane Dembélé,PSG,48,1,Cross,Pass,FirstHalf,76.5,91.0,99.2,53.8,Unsuccessful
+Thibaut Courtois,Real Madrid,48,1,Clearance,Clearance,FirstHalf,1.7,47.4,0.0,47.9,Successful
+Thibaut Courtois,Real Madrid,48,4,CornerAwarded,CornerAwarded,FirstHalf,11.8,40.6,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,48,4,CornerAwarded,CornerAwarded,FirstHalf,88.2,59.4,0.0,0.0,Successful
+,Real Madrid,48,5,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,48,5,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Vitinha,PSG,45,0,Long Pass,Pass,SecondHalf,50.2,49.9,100.0,92.3,Unsuccessful
+Raúl Asencio,Real Madrid,45,22,Pass,Pass,SecondHalf,3.6,40.0,2.2,51.0,Successful
+Thibaut Courtois,Real Madrid,45,27,Long Pass,Pass,SecondHalf,3.6,54.3,44.1,74.1,Successful
+Jude Bellingham,Real Madrid,45,30,Pass,Pass,SecondHalf,44.1,74.1,54.7,71.8,Unsuccessful
+Marquinhos,PSG,45,31,Pass,Pass,SecondHalf,43.9,20.1,47.4,23.0,Successful
+Vitinha,PSG,45,32,Long Pass,Pass,SecondHalf,47.4,23.0,8.8,50.6,Successful
+Gianluigi Donnarumma,PSG,45,36,Ball Recovery,BallRecovery,SecondHalf,8.8,50.6,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,45,37,Pass,Pass,SecondHalf,9.5,57.6,14.4,87.7,Successful
+Nuno Mendes,PSG,45,40,Pass,Pass,SecondHalf,14.0,87.7,31.4,93.2,Unsuccessful
+Federico Valverde,Real Madrid,45,42,Ball Recovery,BallRecovery,SecondHalf,66.1,5.8,0.0,0.0,Successful
+Federico Valverde,Real Madrid,45,47,Loss of Possession,Dispossessed,SecondHalf,87.0,6.2,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,45,47,Was Dribbled,Tackle,SecondHalf,13.0,93.8,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,45,48,Pass,Pass,SecondHalf,97.4,3.5,96.9,17.4,Unsuccessful
+Nuno Mendes,PSG,45,51,Ball Recovery,BallRecovery,SecondHalf,7.3,83.2,0.0,0.0,Successful
+Nuno Mendes,PSG,45,51,Pass,Pass,SecondHalf,7.3,83.2,15.6,93.3,Successful
+Khvicha Kvaratskhelia,PSG,45,52,Pass,Pass,SecondHalf,15.6,93.3,30.1,93.3,Successful
+Fabián Ruiz,PSG,45,55,Long Pass,Pass,SecondHalf,30.1,93.3,60.3,20.7,Successful
+Désiré Doué,PSG,46,3,Pass,Pass,SecondHalf,68.0,27.3,80.7,13.7,Successful
+Achraf Hakimi,PSG,46,7,Pass,Pass,SecondHalf,79.6,14.3,77.3,24.4,Successful
+Vitinha,PSG,46,9,Pass,Pass,SecondHalf,77.3,24.4,74.8,6.8,Successful
+Achraf Hakimi,PSG,46,11,Pass,Pass,SecondHalf,74.8,6.8,76.9,18.8,Successful
+Désiré Doué,PSG,46,14,Pass,Pass,SecondHalf,76.4,15.9,65.8,4.0,Successful
+Vitinha,PSG,46,17,Pass,Pass,SecondHalf,64.0,4.3,68.9,4.4,Successful
+Achraf Hakimi,PSG,46,18,Pass,Pass,SecondHalf,68.9,4.4,58.4,4.1,Successful
+Vitinha,PSG,46,20,Pass,Pass,SecondHalf,58.4,4.1,41.3,10.3,Successful
+Marquinhos,PSG,46,23,Pass,Pass,SecondHalf,41.3,10.3,45.8,18.9,Successful
+Vitinha,PSG,46,30,Chipped Pass,Pass,SecondHalf,50.4,30.7,58.5,4.9,Successful
+Achraf Hakimi,PSG,46,31,Pass,Pass,SecondHalf,58.5,4.9,62.7,15.5,Unsuccessful
+Antonio Rüdiger,Real Madrid,46,33,Pass,Pass,SecondHalf,30.9,79.4,41.6,86.0,Successful
+Jude Bellingham,Real Madrid,46,34,Ball Recovery,BallRecovery,SecondHalf,41.6,86.0,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,46,35,Successful Dribble,TakeOn,SecondHalf,43.2,89.5,0.0,0.0,Successful
+João Neves,PSG,46,35,Challenge,Challenge,SecondHalf,56.8,10.5,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,46,38,Unsuccessful Dribble,TakeOn,SecondHalf,54.8,95.6,0.0,0.0,Unsuccessful
+João Neves,PSG,46,38,Successful Tackle,Tackle,SecondHalf,45.2,4.4,0.0,0.0,Successful
+João Neves,PSG,46,39,Ball Recovery,BallRecovery,SecondHalf,41.0,3.7,0.0,0.0,Successful
+João Neves,PSG,46,40,Pass,Pass,SecondHalf,41.0,3.7,42.0,8.8,Successful
+Vitinha,PSG,46,41,Pass,Pass,SecondHalf,41.2,12.7,28.6,14.6,Unsuccessful
+Vinícius Júnior,Real Madrid,46,45,Successful Dribble,TakeOn,SecondHalf,74.0,90.4,0.0,0.0,Successful
+Marquinhos,PSG,46,45,Challenge,Challenge,SecondHalf,26.0,9.6,0.0,0.0,Unsuccessful
+Vinícius Júnior,Real Madrid,46,46,Ball Recovery,BallRecovery,SecondHalf,81.3,94.1,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,46,50,Cross,Pass,SecondHalf,96.2,90.6,87.4,49.7,Unsuccessful
+Beraldo,PSG,46,51,Pass,Pass,SecondHalf,13.8,51.8,3.6,50.9,Successful
+Gianluigi Donnarumma,PSG,46,56,Ball Recovery,BallRecovery,SecondHalf,2.7,58.8,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,46,56,Pass,Pass,SecondHalf,2.7,58.8,22.5,88.6,Successful
+Fabián Ruiz,PSG,46,59,Pass,Pass,SecondHalf,23.1,89.0,48.0,90.9,Successful
+Ousmane Dembélé,PSG,47,0,Offside,OffsideGiven,SecondHalf,61.8,70.9,0.0,0.0,Unsuccessful
+Khvicha Kvaratskhelia,PSG,47,2,Offside,OffsidePass,SecondHalf,55.6,90.4,61.8,70.9,Successful
+Raúl Asencio,Real Madrid,47,2,OffsideProvoked,OffsideProvoked,SecondHalf,38.7,11.3,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,47,29,Pass,Pass,SecondHalf,31.8,26.4,29.9,43.0,Successful
+Antonio Rüdiger,Real Madrid,47,30,BallTouch,BallTouch,SecondHalf,29.6,44.5,0.0,0.0,Successful
+João Neves,PSG,47,32,Ball Recovery,BallRecovery,SecondHalf,41.7,20.9,0.0,0.0,Successful
+João Neves,PSG,47,32,Pass,Pass,SecondHalf,41.7,20.9,38.8,46.0,Successful
+Fabián Ruiz,PSG,47,34,Pass,Pass,SecondHalf,38.8,46.0,46.6,33.0,Successful
+João Neves,PSG,47,39,Pass,Pass,SecondHalf,45.9,25.3,35.2,39.2,Successful
+Beraldo,PSG,47,41,Pass,Pass,SecondHalf,35.3,39.5,39.7,54.3,Successful
+Fabián Ruiz,PSG,47,43,Pass,Pass,SecondHalf,39.2,56.3,56.8,94.4,Successful
+Khvicha Kvaratskhelia,PSG,47,54,Pass,Pass,SecondHalf,69.2,59.3,72.1,43.8,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,47,55,BallTouch,BallTouch,SecondHalf,26.0,43.4,0.0,0.0,Successful
+Achraf Hakimi,PSG,47,58,Pass,Pass,SecondHalf,72.8,11.6,91.6,17.9,Successful
+Désiré Doué,PSG,48,1,Cross,Pass,SecondHalf,91.8,17.9,98.3,48.4,Unsuccessful
+Thibaut Courtois,Real Madrid,48,2,Clearance,Clearance,SecondHalf,1.9,55.7,2.4,75.6,Successful
+Fran García,Real Madrid,48,3,Ball Recovery,BallRecovery,SecondHalf,3.0,75.3,0.0,0.0,Successful
+Fran García,Real Madrid,48,4,Pass,Pass,SecondHalf,3.9,75.3,13.9,74.8,Successful
+Jude Bellingham,Real Madrid,48,5,Unsuccessful Dribble,TakeOn,SecondHalf,15.1,73.5,0.0,0.0,Unsuccessful
+Jude Bellingham,Real Madrid,48,9,Foul,Foul,SecondHalf,19.4,73.4,0.0,0.0,Successful
+Achraf Hakimi,PSG,48,9,Foul,Foul,SecondHalf,80.6,26.6,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,48,20,Pass,Pass,SecondHalf,22.1,68.7,31.0,65.5,Successful
+Arda Güler,Real Madrid,48,21,Pass,Pass,SecondHalf,31.2,66.0,39.6,71.5,Successful
+Kylian Mbappé,Real Madrid,48,25,Pass,Pass,SecondHalf,51.7,62.0,68.7,27.6,Successful
+Gonzalo García,Real Madrid,48,29,Pass,Pass,SecondHalf,83.5,26.1,86.0,35.5,Unsuccessful
+Nuno Mendes,PSG,48,30,Interception,Interception,SecondHalf,11.7,70.5,0.0,0.0,Successful
+Gonzalo García,Real Madrid,48,33,Pass,Pass,SecondHalf,85.9,18.5,73.6,23.1,Successful
+Arda Güler,Real Madrid,48,35,Pass,Pass,SecondHalf,73.6,23.7,85.8,32.1,Successful
+Kylian Mbappé,Real Madrid,48,42,Pass,Pass,SecondHalf,92.1,31.5,91.6,25.3,Unsuccessful
+Gonzalo García,Real Madrid,48,43,Challenge,Challenge,SecondHalf,91.6,24.7,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,48,43,Successful Dribble,TakeOn,SecondHalf,8.4,75.3,0.0,0.0,Successful
+Fabián Ruiz,PSG,48,45,Ball Recovery,BallRecovery,SecondHalf,5.1,92.3,0.0,0.0,Successful
+Fabián Ruiz,PSG,48,50,Chipped Pass,Pass,SecondHalf,8.2,94.4,29.8,79.0,Successful
+Vitinha,PSG,48,52,Pass,Pass,SecondHalf,29.8,79.0,37.6,70.2,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,48,52,Ball Recovery,BallRecovery,SecondHalf,61.6,30.9,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,48,53,Pass,Pass,SecondHalf,61.5,30.9,71.4,27.3,Successful
+Federico Valverde,Real Madrid,48,56,Pass,Pass,SecondHalf,71.9,27.4,68.0,45.5,Successful
+Jude Bellingham,Real Madrid,48,57,Pass,Pass,SecondHalf,68.0,45.5,70.9,43.0,Successful
+Aurélien Tchouaméni,Real Madrid,49,0,Loss of Possession,Dispossessed,SecondHalf,71.8,49.3,0.0,0.0,Successful
+João Neves,PSG,49,0,Successful Tackle,Tackle,SecondHalf,28.2,50.7,0.0,0.0,Successful
+João Neves,PSG,49,2,Foul,Foul,SecondHalf,27.5,51.9,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,49,2,Foul,Foul,SecondHalf,72.5,48.1,0.0,0.0,Unsuccessful
+Vitinha,PSG,50,45,Pass,Pass,SecondHalf,28.7,45.7,30.8,72.0,Successful
+Nuno Mendes,PSG,50,50,Pass,Pass,SecondHalf,32.9,74.7,25.3,63.9,Successful
+Beraldo,PSG,50,52,Pass,Pass,SecondHalf,25.4,63.7,24.8,41.0,Successful
+Vitinha,PSG,50,56,Pass,Pass,SecondHalf,33.3,33.0,26.7,19.2,Successful
+Marquinhos,PSG,50,57,Pass,Pass,SecondHalf,26.7,19.2,19.8,57.0,Successful
+Beraldo,PSG,51,4,Pass,Pass,SecondHalf,21.4,57.8,31.5,62.3,Successful
+João Neves,PSG,51,5,Pass,Pass,SecondHalf,31.5,62.3,23.2,57.0,Successful
+Beraldo,PSG,51,6,Chipped Pass,Pass,SecondHalf,23.0,57.0,45.7,43.1,Successful
+Désiré Doué,PSG,51,8,Pass,Pass,SecondHalf,46.4,50.0,59.3,78.5,Unsuccessful
+Gonzalo García,Real Madrid,51,11,Pass,Pass,SecondHalf,44.9,24.1,38.4,21.9,Successful
+Federico Valverde,Real Madrid,51,12,Ball Recovery,BallRecovery,SecondHalf,38.4,21.9,0.0,0.0,Successful
+Federico Valverde,Real Madrid,51,13,Pass,Pass,SecondHalf,38.4,23.3,34.4,38.0,Successful
+Aurélien Tchouaméni,Real Madrid,51,14,BallTouch,BallTouch,SecondHalf,34.0,39.1,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,51,16,Ball Recovery,BallRecovery,SecondHalf,66.2,49.1,0.0,0.0,Successful
+Ousmane Dembélé,PSG,51,16,Pass,Pass,SecondHalf,66.2,49.1,72.8,56.6,Successful
+Désiré Doué,PSG,51,18,Unsuccessful Dribble,TakeOn,SecondHalf,72.0,57.0,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,51,18,Successful Tackle,Tackle,SecondHalf,28.0,43.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,51,19,Pass,Pass,SecondHalf,31.1,37.7,21.8,45.8,Successful
+Aurélien Tchouaméni,Real Madrid,51,20,Ball Recovery,BallRecovery,SecondHalf,21.8,45.8,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,51,21,Pass,Pass,SecondHalf,22.9,47.3,31.5,68.7,Successful
+Jude Bellingham,Real Madrid,51,23,BallTouch,BallTouch,SecondHalf,31.5,68.7,0.0,0.0,Unsuccessful
+Vitinha,PSG,51,24,Ball Recovery,BallRecovery,SecondHalf,64.8,15.5,0.0,0.0,Successful
+Vitinha,PSG,51,27,Pass,Pass,SecondHalf,61.8,12.9,59.6,11.9,Unsuccessful
+Vinícius Júnior,Real Madrid,51,27,BlockedPass,BlockedPass,SecondHalf,34.2,87.2,0.0,0.0,Successful
+Fran García,Real Madrid,51,30,Foul,Foul,SecondHalf,27.0,95.2,0.0,0.0,Successful
+Désiré Doué,PSG,51,30,Foul,Foul,SecondHalf,73.0,4.8,0.0,0.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,51,42,Pass,Pass,SecondHalf,28.6,92.4,30.6,72.0,Successful
+Federico Valverde,Real Madrid,51,47,Pass,Pass,SecondHalf,45.0,70.3,52.6,94.7,Successful
+Fran García,Real Madrid,51,49,Pass,Pass,SecondHalf,55.0,95.1,61.1,97.5,Successful
+Vinícius Júnior,Real Madrid,51,54,Pass,Pass,SecondHalf,61.7,97.4,48.5,87.2,Successful
+Federico Valverde,Real Madrid,51,57,Pass,Pass,SecondHalf,46.6,73.5,54.1,34.2,Successful
+Raúl Asencio,Real Madrid,52,0,Pass,Pass,SecondHalf,58.0,28.8,71.5,8.2,Successful
+Gonzalo García,Real Madrid,52,2,Pass,Pass,SecondHalf,72.7,8.8,68.2,9.7,Successful
+Arda Güler,Real Madrid,52,4,Pass,Pass,SecondHalf,67.8,11.1,76.7,37.0,Successful
+Kylian Mbappé,Real Madrid,52,5,Pass,Pass,SecondHalf,76.7,37.0,79.1,31.2,Successful
+Federico Valverde,Real Madrid,52,6,Key Pass,Pass,SecondHalf,79.5,31.3,83.1,43.4,Successful
+Kylian Mbappé,Real Madrid,52,7,Shot off Target,MissedShots,SecondHalf,83.3,44.6,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,52,39,Pass,Pass,SecondHalf,4.2,51.2,3.9,71.8,Successful
+Beraldo,PSG,52,41,Long Pass,Pass,SecondHalf,4.7,72.0,36.9,82.3,Successful
+Khvicha Kvaratskhelia,PSG,52,44,Foul,Foul,SecondHalf,41.8,82.8,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,52,44,Foul,Foul,SecondHalf,58.2,17.2,0.0,0.0,Unsuccessful
+Vitinha,PSG,53,7,Pass,Pass,SecondHalf,37.5,81.1,38.7,69.4,Successful
+Fabián Ruiz,PSG,53,8,Pass,Pass,SecondHalf,38.7,69.4,35.1,78.2,Successful
+Vitinha,PSG,53,8,Pass,Pass,SecondHalf,35.1,78.2,36.4,59.0,Successful
+Fabián Ruiz,PSG,53,10,Pass,Pass,SecondHalf,36.1,55.5,29.2,25.0,Successful
+Marquinhos,PSG,53,12,Pass,Pass,SecondHalf,29.4,24.7,44.9,13.7,Successful
+Ousmane Dembélé,PSG,53,15,Pass,Pass,SecondHalf,55.3,14.6,61.6,4.6,Successful
+Désiré Doué,PSG,53,17,Pass,Pass,SecondHalf,61.6,4.6,58.5,10.7,Successful
+Achraf Hakimi,PSG,53,18,Pass,Pass,SecondHalf,58.5,10.9,56.6,18.6,Successful
+Fabián Ruiz,PSG,53,21,Pass,Pass,SecondHalf,46.5,25.2,33.5,50.6,Successful
+Beraldo,PSG,53,23,Pass,Pass,SecondHalf,33.4,50.6,38.9,64.0,Successful
+Vitinha,PSG,53,25,Pass,Pass,SecondHalf,38.9,63.9,12.6,43.4,Successful
+Gianluigi Donnarumma,PSG,53,33,Long Pass,Pass,SecondHalf,13.5,39.8,41.3,59.0,Unsuccessful
+Arda Güler,Real Madrid,53,34,Aerial Won,Aerial,SecondHalf,58.4,40.4,0.0,0.0,Successful
+Nuno Mendes,PSG,53,34,Aerial Lost,Aerial,SecondHalf,41.6,59.6,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,53,34,Pass,Pass,SecondHalf,57.9,39.4,59.8,43.9,Successful
+Gonzalo García,Real Madrid,53,36,Pass,Pass,SecondHalf,60.0,43.9,53.0,49.1,Successful
+Antonio Rüdiger,Real Madrid,53,38,Ball Recovery,BallRecovery,SecondHalf,53.0,49.1,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,53,38,Pass,Pass,SecondHalf,53.0,49.1,46.0,34.0,Successful
+Raúl Asencio,Real Madrid,53,40,Long Pass,Pass,SecondHalf,42.0,33.1,16.4,60.2,Successful
+Thibaut Courtois,Real Madrid,53,45,Long Pass,Pass,SecondHalf,18.0,63.1,56.6,28.0,Successful
+Gonzalo García,Real Madrid,53,49,Pass,Pass,SecondHalf,56.8,28.0,56.2,15.8,Unsuccessful
+Nuno Mendes,PSG,53,51,Ball Recovery,BallRecovery,SecondHalf,39.3,78.1,0.0,0.0,Successful
+Nuno Mendes,PSG,53,59,Pass,Pass,SecondHalf,69.2,82.0,60.2,68.5,Successful
+Fabián Ruiz,PSG,54,3,Pass,Pass,SecondHalf,59.9,67.3,59.0,77.6,Successful
+Vitinha,PSG,54,6,Pass,Pass,SecondHalf,59.0,77.6,72.5,93.9,Successful
+Khvicha Kvaratskhelia,PSG,54,10,Pass,Pass,SecondHalf,72.5,93.9,62.6,80.9,Successful
+Vitinha,PSG,54,13,Long Pass,Pass,SecondHalf,62.6,80.9,46.1,31.2,Successful
+Marquinhos,PSG,54,15,Pass,Pass,SecondHalf,46.1,31.2,60.8,17.3,Successful
+Achraf Hakimi,PSG,54,19,Pass,Pass,SecondHalf,61.1,16.7,66.3,5.9,Successful
+Désiré Doué,PSG,54,21,Pass,Pass,SecondHalf,66.3,5.9,67.8,13.8,Successful
+Fabián Ruiz,PSG,54,23,Pass,Pass,SecondHalf,68.8,14.6,73.6,29.5,Successful
+Ousmane Dembélé,PSG,54,24,Pass,Pass,SecondHalf,73.6,29.5,69.7,25.3,Unsuccessful
+Jude Bellingham,Real Madrid,54,26,Pass,Pass,SecondHalf,27.3,75.0,28.3,75.0,Unsuccessful
+Achraf Hakimi,PSG,54,26,BlockedPass,BlockedPass,SecondHalf,69.7,25.3,0.0,0.0,Successful
+Marquinhos,PSG,54,29,Pass,Pass,SecondHalf,60.0,5.8,69.4,5.0,Successful
+Fabián Ruiz,PSG,54,36,Long Pass,Pass,SecondHalf,67.7,8.2,43.5,66.3,Successful
+Nuno Mendes,PSG,54,40,Pass,Pass,SecondHalf,43.5,66.3,66.6,71.2,Successful
+Ousmane Dembélé,PSG,54,44,Pass,Pass,SecondHalf,66.7,71.2,66.1,70.8,Unsuccessful
+Arda Güler,Real Madrid,54,44,BlockedPass,BlockedPass,SecondHalf,29.9,22.1,0.0,0.0,Successful
+Arda Güler,Real Madrid,54,45,Ball Recovery,BallRecovery,SecondHalf,29.3,20.6,0.0,0.0,Successful
+Arda Güler,Real Madrid,54,46,Pass,Pass,SecondHalf,28.9,18.8,23.8,20.0,Successful
+Federico Valverde,Real Madrid,54,49,Pass,Pass,SecondHalf,23.1,14.9,35.6,16.2,Successful
+Gonzalo García,Real Madrid,54,52,Foul,Foul,SecondHalf,34.9,20.0,0.0,0.0,Successful
+Nuno Mendes,PSG,54,52,Foul,Foul,SecondHalf,65.1,80.0,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,54,57,Pass,Pass,SecondHalf,32.6,20.0,30.2,45.5,Successful
+Aurélien Tchouaméni,Real Madrid,54,59,Pass,Pass,SecondHalf,30.2,47.0,27.4,72.4,Successful
+Antonio Rüdiger,Real Madrid,55,1,Pass,Pass,SecondHalf,27.4,72.4,41.9,97.5,Successful
+Fran García,Real Madrid,55,6,Pass,Pass,SecondHalf,61.2,86.3,57.6,66.9,Successful
+Jude Bellingham,Real Madrid,55,8,Long Pass,Pass,SecondHalf,58.6,62.0,72.1,15.8,Successful
+Gonzalo García,Real Madrid,55,14,Pass,Pass,SecondHalf,80.7,14.4,70.1,28.8,Successful
+Federico Valverde,Real Madrid,55,16,Pass,Pass,SecondHalf,69.6,30.0,65.8,44.5,Successful
+Aurélien Tchouaméni,Real Madrid,55,18,Pass,Pass,SecondHalf,65.8,44.8,65.0,57.9,Successful
+Jude Bellingham,Real Madrid,55,22,Long Pass,Pass,SecondHalf,65.1,51.3,87.7,0.0,Unsuccessful
+Nuno Mendes,PSG,55,44,Long Pass,Pass,SecondHalf,8.7,100.0,34.7,69.3,Successful
+João Neves,PSG,55,48,Pass,Pass,SecondHalf,35.8,76.0,17.5,90.0,Successful
+Nuno Mendes,PSG,55,51,Long Pass,Pass,SecondHalf,18.2,90.0,46.9,5.9,Unsuccessful
+Fran García,Real Madrid,55,55,BallTouch,BallTouch,SecondHalf,51.9,86.8,0.0,0.0,Unsuccessful
+Désiré Doué,PSG,56,0,Pass,Pass,SecondHalf,61.1,14.0,55.0,21.0,Successful
+Achraf Hakimi,PSG,56,2,Pass,Pass,SecondHalf,55.0,21.0,48.5,40.3,Successful
+Fabián Ruiz,PSG,56,3,Pass,Pass,SecondHalf,52.0,41.3,65.3,53.1,Successful
+João Neves,PSG,56,6,Key Pass,Pass,SecondHalf,68.5,52.1,82.7,89.1,Successful
+Khvicha Kvaratskhelia,PSG,56,11,Shot off Target,MissedShots,SecondHalf,85.6,66.2,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,56,35,Pass,Pass,SecondHalf,3.7,40.3,2.6,53.3,Successful
+Thibaut Courtois,Real Madrid,56,37,Long Pass,Pass,SecondHalf,3.0,54.9,60.6,62.3,Unsuccessful
+Beraldo,PSG,56,42,Aerial Won,Aerial,SecondHalf,38.8,35.2,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,56,42,Aerial Lost,Aerial,SecondHalf,61.2,64.8,0.0,0.0,Unsuccessful
+Beraldo,PSG,56,43,Clearance,Clearance,SecondHalf,37.6,30.9,60.8,25.6,Successful
+Jude Bellingham,Real Madrid,56,47,BallTouch,BallTouch,SecondHalf,49.8,71.5,0.0,0.0,Unsuccessful
+João Neves,PSG,56,48,Ball Recovery,BallRecovery,SecondHalf,58.2,28.8,0.0,0.0,Successful
+João Neves,PSG,56,48,Pass,Pass,SecondHalf,58.2,28.8,66.8,18.6,Successful
+Désiré Doué,PSG,56,49,Pass,Pass,SecondHalf,66.7,19.2,66.4,37.4,Successful
+Vitinha,PSG,56,54,Pass,Pass,SecondHalf,69.8,33.9,85.6,22.4,Successful
+Achraf Hakimi,PSG,56,56,Pass,Pass,SecondHalf,85.6,22.4,98.7,50.1,Unsuccessful
+Thibaut Courtois,Real Madrid,56,57,KeeperPickup,KeeperPickup,SecondHalf,1.7,49.9,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,57,0,Pass,Pass,SecondHalf,7.2,46.3,28.3,27.1,Successful
+Arda Güler,Real Madrid,57,3,Pass,Pass,SecondHalf,28.3,27.7,30.4,26.4,Unsuccessful
+Nuno Mendes,PSG,57,3,BlockedPass,BlockedPass,SecondHalf,67.9,64.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,57,8,Pass,Pass,SecondHalf,43.1,54.2,57.8,94.2,Successful
+Vinícius Júnior,Real Madrid,57,10,Pass,Pass,SecondHalf,57.8,94.2,53.0,89.0,Successful
+Fran García,Real Madrid,57,14,Pass,Pass,SecondHalf,57.9,91.1,64.1,98.1,Successful
+Vinícius Júnior,Real Madrid,57,15,Pass,Pass,SecondHalf,64.1,98.1,60.3,93.2,Successful
+Fran García,Real Madrid,57,19,Key Pass,Pass,SecondHalf,67.8,89.6,90.9,77.3,Successful
+Vinícius Júnior,Real Madrid,57,26,Shot on Target,SavedShot,SecondHalf,91.2,66.4,0.0,0.0,Successful
+Marquinhos,PSG,57,26,Save,Save,SecondHalf,7.1,35.2,0.0,0.0,Successful
+Fran García,Real Madrid,57,37,Throw In,Pass,SecondHalf,74.1,100.0,60.0,94.5,Successful
+Antonio Rüdiger,Real Madrid,57,38,Pass,Pass,SecondHalf,59.1,93.9,60.9,80.0,Successful
+Jude Bellingham,Real Madrid,57,38,Pass,Pass,SecondHalf,60.9,80.0,57.0,47.6,Successful
+Aurélien Tchouaméni,Real Madrid,57,40,Pass,Pass,SecondHalf,56.9,47.0,66.2,40.1,Successful
+Arda Güler,Real Madrid,57,44,Pass,Pass,SecondHalf,64.0,31.0,68.3,6.4,Successful
+Federico Valverde,Real Madrid,57,46,Pass,Pass,SecondHalf,67.3,8.0,61.9,19.1,Successful
+Arda Güler,Real Madrid,57,48,Pass,Pass,SecondHalf,61.7,19.2,58.2,21.8,Unsuccessful
+Ousmane Dembélé,PSG,57,48,BlockedPass,BlockedPass,SecondHalf,40.1,71.2,0.0,0.0,Successful
+Arda Güler,Real Madrid,57,51,Pass,Pass,SecondHalf,59.3,31.6,69.8,50.9,Successful
+Kylian Mbappé,Real Madrid,57,53,BallTouch,BallTouch,SecondHalf,69.7,51.0,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,57,55,Foul,Foul,SecondHalf,68.2,63.4,0.0,0.0,Successful
+Marquinhos,PSG,57,55,Foul,Foul,SecondHalf,31.8,36.6,0.0,0.0,Unsuccessful
+Ousmane Dembélé,PSG,58,22,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Gonçalo Ramos,PSG,58,22,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Khvicha Kvaratskhelia,PSG,58,30,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Bradley Barcola,PSG,58,30,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,58,45,Chipped Pass,Pass,SecondHalf,68.8,62.1,86.9,39.1,Unsuccessful
+Fabián Ruiz,PSG,58,47,Clearance,Clearance,SecondHalf,13.6,61.5,33.9,74.4,Successful
+Federico Valverde,Real Madrid,58,50,Successful Dribble,TakeOn,SecondHalf,65.8,33.1,0.0,0.0,Successful
+Bradley Barcola,PSG,58,50,Challenge,Challenge,SecondHalf,34.2,66.9,0.0,0.0,Unsuccessful
+Federico Valverde,Real Madrid,58,53,Pass,Pass,SecondHalf,65.9,52.1,64.8,86.2,Successful
+Fran García,Real Madrid,58,57,Cross,Pass,SecondHalf,74.1,89.3,89.5,44.5,Unsuccessful
+Nuno Mendes,PSG,58,59,Clearance,Clearance,SecondHalf,9.8,49.3,26.0,28.9,Successful
+Jude Bellingham,Real Madrid,59,1,Pass,Pass,SecondHalf,76.5,71.8,72.7,62.3,Successful
+Arda Güler,Real Madrid,59,2,Pass,Pass,SecondHalf,72.7,62.3,92.6,97.2,Successful
+Fran García,Real Madrid,59,6,BallTouch,BallTouch,SecondHalf,92.6,97.2,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,59,23,Throw In,Pass,SecondHalf,12.3,0.0,15.2,8.5,Successful
+João Neves,PSG,59,24,Pass,Pass,SecondHalf,15.2,8.5,10.3,3.5,Successful
+Achraf Hakimi,PSG,59,26,Long Pass,Pass,SecondHalf,10.3,3.5,36.3,29.7,Unsuccessful
+Arda Güler,Real Madrid,59,27,Pass,Pass,SecondHalf,63.8,66.9,72.4,59.0,Successful
+Gonzalo García,Real Madrid,59,28,BallTouch,BallTouch,SecondHalf,72.4,59.0,0.0,0.0,Unsuccessful
+Beraldo,PSG,59,29,Clearance,Clearance,SecondHalf,19.2,36.4,47.0,20.6,Successful
+Antonio Rüdiger,Real Madrid,59,31,Ball Recovery,BallRecovery,SecondHalf,54.7,72.4,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,59,32,Pass,Pass,SecondHalf,55.1,71.5,50.3,49.6,Successful
+Raúl Asencio,Real Madrid,59,38,Pass,Pass,SecondHalf,58.4,34.8,63.4,32.2,Successful
+Arda Güler,Real Madrid,59,40,Unsuccessful Dribble,TakeOn,SecondHalf,66.1,32.6,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,59,40,Successful Tackle,Tackle,SecondHalf,33.9,67.4,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,59,44,KeeperPickup,KeeperPickup,SecondHalf,3.3,65.4,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,59,50,Pass,Pass,SecondHalf,9.6,62.6,27.0,79.9,Successful
+Nuno Mendes,PSG,59,53,Pass,Pass,SecondHalf,27.4,80.0,32.4,82.1,Successful
+Fabián Ruiz,PSG,59,54,Pass,Pass,SecondHalf,32.4,82.1,34.9,85.7,Unsuccessful
+Federico Valverde,Real Madrid,59,55,BallTouch,BallTouch,SecondHalf,58.3,10.9,0.0,0.0,Successful
+Arda Güler,Real Madrid,59,56,Ball Recovery,BallRecovery,SecondHalf,62.6,6.8,0.0,0.0,Successful
+Arda Güler,Real Madrid,59,57,Unsuccessful Dribble,TakeOn,SecondHalf,64.8,9.6,0.0,0.0,Unsuccessful
+Fabián Ruiz,PSG,59,57,Successful Tackle,Tackle,SecondHalf,35.2,90.4,0.0,0.0,Successful
+Federico Valverde,Real Madrid,60,7,Throw In,Pass,SecondHalf,61.6,0.0,73.4,6.2,Successful
+Gonzalo García,Real Madrid,60,11,Pass,Pass,SecondHalf,67.6,4.9,59.2,16.1,Successful
+Federico Valverde,Real Madrid,60,12,Pass,Pass,SecondHalf,59.2,16.1,53.3,46.9,Successful
+Antonio Rüdiger,Real Madrid,60,14,Pass,Pass,SecondHalf,53.3,46.9,53.9,83.9,Successful
+Fran García,Real Madrid,60,20,Pass,Pass,SecondHalf,65.0,87.4,55.4,70.6,Successful
+Aurélien Tchouaméni,Real Madrid,60,22,Pass,Pass,SecondHalf,55.4,70.6,60.1,56.0,Successful
+Jude Bellingham,Real Madrid,60,24,Pass,Pass,SecondHalf,56.7,52.1,49.5,27.4,Successful
+Raúl Asencio,Real Madrid,60,26,Pass,Pass,SecondHalf,49.3,24.1,51.1,20.3,Unsuccessful
+Bradley Barcola,PSG,60,26,BlockedPass,BlockedPass,SecondHalf,57.8,87.4,0.0,0.0,Successful
+Bradley Barcola,PSG,60,28,Ball Recovery,BallRecovery,SecondHalf,60.9,90.8,0.0,0.0,Successful
+Bradley Barcola,PSG,60,34,Pass,Pass,SecondHalf,88.9,73.3,84.9,50.9,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,60,36,Pass,Pass,SecondHalf,15.3,46.9,31.6,8.0,Successful
+Federico Valverde,Real Madrid,60,37,Ball Recovery,BallRecovery,SecondHalf,31.6,8.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,60,42,Pass,Pass,SecondHalf,61.1,14.3,65.6,34.0,Successful
+Vinícius Júnior,Real Madrid,60,44,Pass,Pass,SecondHalf,67.0,31.9,65.2,21.3,Successful
+Federico Valverde,Real Madrid,60,45,Pass,Pass,SecondHalf,65.2,21.3,83.7,12.0,Successful
+Arda Güler,Real Madrid,60,48,Pass,Pass,SecondHalf,86.1,11.7,97.7,25.3,Successful
+Vinícius Júnior,Real Madrid,60,51,Pass,Pass,SecondHalf,97.7,25.3,91.3,43.4,Unsuccessful
+Fabián Ruiz,PSG,60,54,BallTouch,BallTouch,SecondHalf,10.4,58.5,0.0,0.0,Successful
+Marquinhos,PSG,60,56,Clearance,Clearance,SecondHalf,5.2,55.1,12.9,68.8,Successful
+Arda Güler,Real Madrid,60,56,BallTouch,BallTouch,SecondHalf,87.1,33.1,0.0,0.0,Unsuccessful
+Nuno Mendes,PSG,60,57,BallTouch,BallTouch,SecondHalf,13.3,72.0,0.0,0.0,Successful
+João Neves,PSG,60,57,Ball Recovery,BallRecovery,SecondHalf,23.2,61.2,0.0,0.0,Successful
+João Neves,PSG,60,58,Long Pass,Pass,SecondHalf,23.2,61.2,48.8,89.9,Successful
+Bradley Barcola,PSG,61,9,Pass,Pass,SecondHalf,77.1,75.7,70.2,83.2,Successful
+Gonçalo Ramos,PSG,61,15,Pass,Pass,SecondHalf,70.8,80.8,56.9,79.6,Successful
+João Neves,PSG,61,16,Pass,Pass,SecondHalf,56.5,80.0,52.2,71.1,Successful
+Fabián Ruiz,PSG,61,17,Pass,Pass,SecondHalf,52.6,71.1,56.4,53.4,Successful
+Vitinha,PSG,61,21,Pass,Pass,SecondHalf,55.2,48.8,63.1,12.3,Successful
+Achraf Hakimi,PSG,61,25,Pass,Pass,SecondHalf,63.2,10.6,69.7,2.3,Successful
+Désiré Doué,PSG,61,31,Key Pass,Pass,SecondHalf,84.5,10.3,92.0,51.9,Successful
+Bradley Barcola,PSG,61,33,Shot on Target,SavedShot,SecondHalf,90.6,51.3,0.0,0.0,Successful
+Federico Valverde,Real Madrid,61,33,Save,Save,SecondHalf,9.4,48.4,0.0,0.0,Successful
+Raúl Asencio,Real Madrid,61,34,Pass,Pass,SecondHalf,9.9,52.2,25.3,30.7,Successful
+Arda Güler,Real Madrid,61,35,Ball Recovery,BallRecovery,SecondHalf,25.3,30.7,0.0,0.0,Successful
+Arda Güler,Real Madrid,61,39,Long Pass,Pass,SecondHalf,34.1,53.0,75.2,44.8,Unsuccessful
+Marquinhos,PSG,61,43,Ball Recovery,BallRecovery,SecondHalf,23.6,56.6,0.0,0.0,Successful
+Marquinhos,PSG,61,43,Pass,Pass,SecondHalf,23.6,56.6,3.4,40.3,Successful
+Gianluigi Donnarumma,PSG,61,48,Pass,Pass,SecondHalf,6.0,33.4,24.1,26.4,Successful
+Beraldo,PSG,61,52,Pass,Pass,SecondHalf,24.9,26.8,35.8,42.4,Successful
+Fabián Ruiz,PSG,61,53,Pass,Pass,SecondHalf,34.6,41.3,43.0,45.5,Successful
+João Neves,PSG,61,55,Pass,Pass,SecondHalf,43.0,45.5,40.6,32.7,Successful
+Vitinha,PSG,61,57,Pass,Pass,SecondHalf,41.0,31.0,61.2,4.7,Successful
+Achraf Hakimi,PSG,62,3,Pass,Pass,SecondHalf,62.2,7.9,46.3,47.3,Successful
+Fabián Ruiz,PSG,62,9,Pass,Pass,SecondHalf,47.3,52.8,48.0,41.2,Successful
+João Neves,PSG,62,14,Pass,Pass,SecondHalf,48.0,42.8,43.6,77.2,Successful
+Nuno Mendes,PSG,62,17,Pass,Pass,SecondHalf,43.6,77.2,62.8,73.2,Successful
+Gonçalo Ramos,PSG,62,19,Pass,Pass,SecondHalf,62.8,73.2,63.9,50.1,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,62,20,Ball Recovery,BallRecovery,SecondHalf,32.7,47.6,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,62,20,Pass,Pass,SecondHalf,32.8,47.6,27.2,51.6,Successful
+Antonio Rüdiger,Real Madrid,62,22,Key Pass,Pass,SecondHalf,27.2,51.6,40.2,70.0,Successful
+Jude Bellingham,Real Madrid,62,30,Shot on Target,SavedShot,SecondHalf,77.3,48.3,0.0,0.0,Successful
+Beraldo,PSG,62,30,Save,Save,SecondHalf,19.0,51.1,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,62,33,Pass,Pass,SecondHalf,63.7,47.5,76.9,24.1,Successful
+Gonzalo García,Real Madrid,62,37,Cross,Pass,SecondHalf,77.7,24.1,94.3,58.1,Unsuccessful
+Marquinhos,PSG,62,39,Aerial Won,Aerial,SecondHalf,6.2,42.4,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,62,39,Aerial Lost,Aerial,SecondHalf,93.2,57.2,0.0,0.0,Unsuccessful
+Marquinhos,PSG,62,39,Clearance,Clearance,SecondHalf,8.0,43.7,0.0,3.4,Successful
+Gonzalo García,Real Madrid,62,42,CornerAwarded,CornerAwarded,SecondHalf,98.4,82.2,0.0,0.0,Successful
+Marquinhos,PSG,62,42,CornerAwarded,CornerAwarded,SecondHalf,1.6,17.8,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,63,12,Pass,Pass,SecondHalf,99.5,99.5,81.6,77.9,Successful
+Arda Güler,Real Madrid,63,13,Pass,Pass,SecondHalf,81.6,77.9,85.9,86.5,Successful
+Kylian Mbappé,Real Madrid,63,14,Cross,Pass,SecondHalf,85.9,86.5,96.3,48.4,Unsuccessful
+Gianluigi Donnarumma,PSG,63,16,Punch,Punch,SecondHalf,4.0,43.6,8.1,100.0,Successful
+Raúl Asencio,Real Madrid,63,54,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Éder Militão,Real Madrid,63,54,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jude Bellingham,Real Madrid,63,59,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Luka Modric,Real Madrid,63,59,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,64,0,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Vinícius Júnior,Real Madrid,64,13,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Brahim Díaz,Real Madrid,64,13,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,64,25,Throw In,Pass,SecondHalf,84.7,0.0,85.1,10.9,Successful
+Brahim Díaz,Real Madrid,64,29,Pass,Pass,SecondHalf,85.1,10.9,78.6,4.3,Successful
+Federico Valverde,Real Madrid,64,32,Pass,Pass,SecondHalf,77.3,4.0,52.9,20.0,Successful
+Aurélien Tchouaméni,Real Madrid,64,34,Pass,Pass,SecondHalf,51.3,26.2,47.3,53.1,Successful
+Antonio Rüdiger,Real Madrid,64,36,Pass,Pass,SecondHalf,47.3,53.1,46.6,73.5,Successful
+Arda Güler,Real Madrid,64,38,Pass,Pass,SecondHalf,46.6,73.5,53.5,93.0,Successful
+Fran García,Real Madrid,64,39,Pass,Pass,SecondHalf,53.5,93.0,45.7,86.2,Successful
+Arda Güler,Real Madrid,64,40,Chipped Pass,Pass,SecondHalf,45.7,86.2,72.7,84.1,Unsuccessful
+Marquinhos,PSG,64,42,Pass,Pass,SecondHalf,24.7,14.7,39.7,7.1,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,64,45,Pass,Pass,SecondHalf,63.1,88.9,71.6,79.6,Successful
+Fran García,Real Madrid,64,46,Pass,Pass,SecondHalf,71.6,79.4,64.9,75.6,Successful
+Arda Güler,Real Madrid,64,48,Long Pass,Pass,SecondHalf,65.3,72.9,72.3,13.1,Successful
+Federico Valverde,Real Madrid,64,52,Pass,Pass,SecondHalf,74.4,13.2,81.9,49.0,Unsuccessful
+Fabián Ruiz,PSG,64,54,Pass,Pass,SecondHalf,22.2,51.0,20.3,66.6,Successful
+Vitinha,PSG,64,55,Ball Recovery,BallRecovery,SecondHalf,20.3,66.6,0.0,0.0,Successful
+Vitinha,PSG,64,55,Pass,Pass,SecondHalf,20.3,66.6,14.6,59.0,Successful
+Fabián Ruiz,PSG,64,56,Pass,Pass,SecondHalf,14.6,59.0,27.7,48.7,Successful
+Gonçalo Ramos,PSG,64,59,Pass,Pass,SecondHalf,27.1,41.3,45.3,8.0,Successful
+Désiré Doué,PSG,65,3,Pass,Pass,SecondHalf,45.1,9.4,32.3,14.7,Successful
+Achraf Hakimi,PSG,65,5,Pass,Pass,SecondHalf,32.3,14.7,39.5,17.3,Successful
+Gonçalo Ramos,PSG,65,6,Pass,Pass,SecondHalf,39.5,17.3,32.6,14.1,Successful
+Achraf Hakimi,PSG,65,8,Pass,Pass,SecondHalf,33.2,14.7,28.5,28.8,Successful
+Marquinhos,PSG,65,11,Pass,Pass,SecondHalf,28.7,31.3,28.7,59.7,Successful
+Fabián Ruiz,PSG,65,14,Pass,Pass,SecondHalf,29.6,63.0,29.0,78.4,Successful
+Nuno Mendes,PSG,65,15,Pass,Pass,SecondHalf,29.0,78.4,26.2,48.5,Successful
+Beraldo,PSG,65,18,Pass,Pass,SecondHalf,26.2,48.5,27.6,23.9,Successful
+Marquinhos,PSG,65,21,Long Pass,Pass,SecondHalf,27.9,26.1,24.0,81.2,Successful
+Nuno Mendes,PSG,65,24,Pass,Pass,SecondHalf,24.0,81.2,34.5,82.4,Successful
+Fabián Ruiz,PSG,65,26,Pass,Pass,SecondHalf,34.5,82.4,44.2,100.0,Unsuccessful
+Fabián Ruiz,PSG,65,57,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,65,57,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Désiré Doué,PSG,65,58,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Senny Mayulu,PSG,65,58,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,66,10,Throw In,Pass,SecondHalf,58.3,0.0,60.4,6.2,Successful
+Gonzalo García,Real Madrid,66,11,Pass,Pass,SecondHalf,60.4,6.2,56.3,4.3,Successful
+Federico Valverde,Real Madrid,66,13,Long Pass,Pass,SecondHalf,57.1,4.4,33.5,47.6,Successful
+Antonio Rüdiger,Real Madrid,66,19,Pass,Pass,SecondHalf,32.7,47.2,38.3,40.6,Successful
+Aurélien Tchouaméni,Real Madrid,66,20,Pass,Pass,SecondHalf,38.4,38.3,33.5,14.0,Successful
+Éder Militão,Real Madrid,66,21,Pass,Pass,SecondHalf,33.2,12.9,35.7,10.1,Unsuccessful
+Bradley Barcola,PSG,66,21,BlockedPass,BlockedPass,SecondHalf,69.2,96.0,0.0,0.0,Successful
+Federico Valverde,Real Madrid,66,34,Throw In,Pass,SecondHalf,31.9,0.0,44.1,9.1,Successful
+Luka Modric,Real Madrid,66,35,Pass,Pass,SecondHalf,44.1,9.1,54.3,4.6,Successful
+Federico Valverde,Real Madrid,66,36,Unsuccessful Dribble,TakeOn,SecondHalf,58.8,4.8,0.0,0.0,Unsuccessful
+Nuno Mendes,PSG,66,36,Successful Tackle,Tackle,SecondHalf,41.2,95.2,0.0,0.0,Successful
+Federico Valverde,Real Madrid,66,40,Throw In,Pass,SecondHalf,64.7,0.0,82.0,8.8,Successful
+Gonzalo García,Real Madrid,66,44,Pass,Pass,SecondHalf,79.6,7.1,74.0,27.7,Successful
+Luka Modric,Real Madrid,66,45,Pass,Pass,SecondHalf,74.0,27.7,81.6,36.6,Successful
+Brahim Díaz,Real Madrid,66,47,BallTouch,BallTouch,SecondHalf,84.7,37.9,0.0,0.0,Unsuccessful
+Vitinha,PSG,66,49,Clearance,Clearance,SecondHalf,5.2,64.6,10.7,85.3,Successful
+Gonzalo García,Real Madrid,66,52,Pass,Pass,SecondHalf,93.0,12.2,91.6,28.0,Successful
+Luka Modric,Real Madrid,66,56,Cross,Pass,SecondHalf,97.9,24.9,96.5,56.9,Unsuccessful
+Achraf Hakimi,PSG,66,58,Clearance,Clearance,SecondHalf,5.0,41.8,0.0,30.4,Successful
+Luka Modric,Real Madrid,66,59,CornerAwarded,CornerAwarded,SecondHalf,99.4,64.8,0.0,0.0,Successful
+Achraf Hakimi,PSG,66,59,CornerAwarded,CornerAwarded,SecondHalf,0.6,35.2,0.0,0.0,Unsuccessful
+Kylian Mbappé,Real Madrid,67,9,Pass,Pass,SecondHalf,99.5,99.5,94.5,88.6,Successful
+Luka Modric,Real Madrid,67,13,BallTouch,BallTouch,SecondHalf,92.0,73.8,0.0,0.0,Unsuccessful
+Senny Mayulu,PSG,67,14,Ball Recovery,BallRecovery,SecondHalf,8.8,29.7,0.0,0.0,Successful
+Senny Mayulu,PSG,67,17,Pass,Pass,SecondHalf,13.8,30.3,28.5,52.2,Unsuccessful
+Federico Valverde,Real Madrid,67,18,Ball Recovery,BallRecovery,SecondHalf,66.2,44.6,0.0,0.0,Successful
+Federico Valverde,Real Madrid,67,19,Pass,Pass,SecondHalf,67.0,42.2,78.2,13.7,Successful
+Éder Militão,Real Madrid,67,24,Pass,Pass,SecondHalf,84.4,9.5,72.6,25.5,Successful
+Federico Valverde,Real Madrid,67,26,Pass,Pass,SecondHalf,71.1,26.1,67.1,37.6,Successful
+Aurélien Tchouaméni,Real Madrid,67,28,Pass,Pass,SecondHalf,66.7,37.6,70.0,50.4,Successful
+Brahim Díaz,Real Madrid,67,30,Pass,Pass,SecondHalf,70.0,50.4,66.2,60.6,Successful
+Luka Modric,Real Madrid,67,32,Pass,Pass,SecondHalf,65.8,57.8,69.7,26.5,Successful
+Federico Valverde,Real Madrid,67,36,Pass,Pass,SecondHalf,74.4,23.0,92.9,14.6,Successful
+Éder Militão,Real Madrid,67,38,Cross,Pass,SecondHalf,93.0,14.6,91.5,38.5,Unsuccessful
+João Neves,PSG,67,40,BallTouch,BallTouch,SecondHalf,7.4,66.9,0.0,0.0,Successful
+Éder Militão,Real Madrid,67,40,CornerAwarded,CornerAwarded,SecondHalf,92.2,35.1,0.0,0.0,Successful
+João Neves,PSG,67,40,CornerAwarded,CornerAwarded,SecondHalf,7.8,64.9,0.0,0.0,Unsuccessful
+Arda Güler,Real Madrid,67,52,Pass,Pass,SecondHalf,99.5,0.5,76.8,25.8,Successful
+Luka Modric,Real Madrid,67,54,Pass,Pass,SecondHalf,76.8,25.8,87.8,18.5,Successful
+Arda Güler,Real Madrid,67,56,Cross,Pass,SecondHalf,87.8,19.4,93.2,56.3,Unsuccessful
+Marquinhos,PSG,68,0,Clearance,Clearance,SecondHalf,6.2,42.8,16.0,35.4,Successful
+Aurélien Tchouaméni,Real Madrid,68,0,Pass,Pass,SecondHalf,84.1,66.3,87.7,58.7,Successful
+Éder Militão,Real Madrid,68,2,BallTouch,BallTouch,SecondHalf,87.7,58.7,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,68,3,Clearance,Clearance,SecondHalf,13.5,39.2,28.3,41.3,Successful
+Achraf Hakimi,PSG,68,3,Aerial Won,Aerial,SecondHalf,27.4,39.5,0.0,0.0,Successful
+Aurélien Tchouaméni,Real Madrid,68,3,Aerial Lost,Aerial,SecondHalf,72.6,60.5,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,68,4,Pass,Pass,SecondHalf,28.2,33.3,26.6,34.0,Unsuccessful
+Aurélien Tchouaméni,Real Madrid,68,4,BallTouch,BallTouch,SecondHalf,74.2,65.6,0.0,0.0,Successful
+João Neves,PSG,68,6,Aerial Won,Aerial,SecondHalf,24.6,45.0,0.0,0.0,Successful
+Éder Militão,Real Madrid,68,6,Aerial Lost,Aerial,SecondHalf,76.1,53.9,0.0,0.0,Unsuccessful
+João Neves,PSG,68,7,Pass,Pass,SecondHalf,22.5,51.1,22.4,48.1,Unsuccessful
+Éder Militão,Real Madrid,68,8,BallTouch,BallTouch,SecondHalf,73.4,58.3,0.0,0.0,Successful
+Vitinha,PSG,68,10,Ball Recovery,BallRecovery,SecondHalf,26.2,63.6,0.0,0.0,Successful
+Vitinha,PSG,68,10,Pass,Pass,SecondHalf,26.2,63.6,38.1,55.5,Successful
+Senny Mayulu,PSG,68,11,Unsuccessful Dribble,TakeOn,SecondHalf,39.0,60.1,0.0,0.0,Unsuccessful
+Luka Modric,Real Madrid,68,11,Was Dribbled,Tackle,SecondHalf,61.0,39.9,0.0,0.0,Unsuccessful
+Senny Mayulu,PSG,68,14,Key Pass,Pass,SecondHalf,38.1,55.5,66.4,24.7,Successful
+Gonçalo Ramos,PSG,68,19,Shot on Target,SavedShot,SecondHalf,82.1,49.3,0.0,0.0,Successful
+Fran García,Real Madrid,68,19,Save,Save,SecondHalf,15.1,50.7,0.0,0.0,Successful
+Éder Militão,Real Madrid,68,20,BallTouch,BallTouch,SecondHalf,12.9,49.7,0.0,0.0,Successful
+Achraf Hakimi,PSG,68,23,Pass,Pass,SecondHalf,77.9,71.7,87.2,88.4,Successful
+Bradley Barcola,PSG,68,25,Pass,Pass,SecondHalf,86.7,89.3,65.2,83.8,Successful
+Vitinha,PSG,68,29,Pass,Pass,SecondHalf,65.0,87.4,61.6,67.2,Successful
+João Neves,PSG,68,31,Pass,Pass,SecondHalf,61.6,67.2,63.5,83.9,Successful
+Vitinha,PSG,68,34,Pass,Pass,SecondHalf,60.0,75.6,76.2,94.1,Successful
+Bradley Barcola,PSG,68,44,Pass,Pass,SecondHalf,91.9,73.8,98.6,53.7,Unsuccessful
+Thibaut Courtois,Real Madrid,68,45,KeeperPickup,KeeperPickup,SecondHalf,1.2,42.8,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,68,51,Long Pass,Pass,SecondHalf,14.3,49.9,38.2,95.1,Successful
+Fran García,Real Madrid,68,58,Pass,Pass,SecondHalf,40.9,95.0,42.2,81.4,Successful
+Kylian Mbappé,Real Madrid,69,4,Unsuccessful Dribble,TakeOn,SecondHalf,67.6,73.9,0.0,0.0,Unsuccessful
+Gianluigi Donnarumma,PSG,69,6,KeeperPickup,KeeperPickup,SecondHalf,12.5,38.6,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,69,13,Pass,Pass,SecondHalf,10.4,35.4,26.9,8.0,Successful
+Achraf Hakimi,PSG,69,18,Pass,Pass,SecondHalf,31.1,6.4,29.6,24.4,Successful
+Vitinha,PSG,69,20,Long Pass,Pass,SecondHalf,29.1,31.2,23.1,85.9,Successful
+Nuno Mendes,PSG,69,25,Long Pass,Pass,SecondHalf,23.1,85.9,77.3,92.3,Successful
+Bradley Barcola,PSG,69,31,BallTouch,BallTouch,SecondHalf,87.9,82.4,0.0,0.0,Unsuccessful
+,Real Madrid,69,33,Foul,Foul,SecondHalf,10.6,16.8,0.0,0.0,Successful
+Bradley Barcola,PSG,69,33,Foul,Foul,SecondHalf,89.4,83.2,0.0,0.0,Unsuccessful
+Éder Militão,Real Madrid,69,45,Pass,Pass,SecondHalf,15.6,17.4,26.1,57.3,Successful
+Antonio Rüdiger,Real Madrid,69,46,Pass,Pass,SecondHalf,26.1,57.3,36.8,81.1,Successful
+Fran García,Real Madrid,69,46,Pass,Pass,SecondHalf,36.8,81.1,30.1,63.3,Successful
+Antonio Rüdiger,Real Madrid,69,51,Pass,Pass,SecondHalf,32.3,61.4,26.9,37.0,Successful
+Éder Militão,Real Madrid,69,52,Chipped Pass,Pass,SecondHalf,26.8,35.1,45.6,7.9,Successful
+Brahim Díaz,Real Madrid,69,58,Foul,Foul,SecondHalf,57.2,7.8,0.0,0.0,Successful
+Nuno Mendes,PSG,69,58,Foul,Foul,SecondHalf,42.8,92.2,0.0,0.0,Unsuccessful
+Gonzalo García,Real Madrid,70,14,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Dani Carvajal,Real Madrid,70,14,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,70,15,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Luka Modric,Real Madrid,70,25,Pass,Pass,SecondHalf,54.0,5.9,64.1,5.3,Successful
+Federico Valverde,Real Madrid,70,26,Pass,Pass,SecondHalf,64.1,5.3,57.6,8.0,Successful
+Luka Modric,Real Madrid,70,31,Pass,Pass,SecondHalf,56.0,15.2,36.5,34.6,Successful
+Éder Militão,Real Madrid,70,33,Pass,Pass,SecondHalf,36.5,34.6,33.8,53.0,Successful
+Aurélien Tchouaméni,Real Madrid,70,35,Pass,Pass,SecondHalf,33.4,56.3,8.7,52.1,Successful
+Thibaut Courtois,Real Madrid,70,39,Long Pass,Pass,SecondHalf,9.2,51.9,58.3,32.1,Unsuccessful
+Beraldo,PSG,70,42,Pass,Pass,SecondHalf,40.6,58.1,36.7,67.0,Successful
+Nuno Mendes,PSG,70,45,Ball Recovery,BallRecovery,SecondHalf,34.4,67.8,0.0,0.0,Successful
+Nuno Mendes,PSG,70,46,Pass,Pass,SecondHalf,34.9,67.8,29.5,50.7,Successful
+Beraldo,PSG,70,48,Pass,Pass,SecondHalf,29.4,49.3,46.2,56.4,Successful
+Vitinha,PSG,70,52,Pass,Pass,SecondHalf,47.0,46.3,58.3,5.9,Successful
+Achraf Hakimi,PSG,70,56,Pass,Pass,SecondHalf,58.3,5.9,63.7,13.7,Successful
+Senny Mayulu,PSG,70,58,Pass,Pass,SecondHalf,63.7,13.7,59.3,5.3,Successful
+Achraf Hakimi,PSG,70,59,Pass,Pass,SecondHalf,59.3,5.3,56.2,21.2,Successful
+Vitinha,PSG,71,5,Pass,Pass,SecondHalf,63.4,24.7,73.2,3.4,Successful
+Achraf Hakimi,PSG,71,8,Pass,Pass,SecondHalf,73.1,3.8,62.9,14.9,Successful
+Vitinha,PSG,71,9,Pass,Pass,SecondHalf,62.9,14.9,59.8,10.6,Successful
+João Neves,PSG,71,18,Pass,Pass,SecondHalf,58.1,10.0,60.7,4.1,Successful
+Achraf Hakimi,PSG,71,18,Pass,Pass,SecondHalf,60.7,4.1,60.5,12.9,Successful
+Gonçalo Ramos,PSG,71,19,Pass,Pass,SecondHalf,60.5,12.9,65.5,3.8,Successful
+Senny Mayulu,PSG,71,20,Pass,Pass,SecondHalf,65.5,3.8,60.6,10.6,Successful
+Achraf Hakimi,PSG,71,23,Pass,Pass,SecondHalf,60.6,10.6,60.6,18.8,Successful
+João Neves,PSG,71,24,Pass,Pass,SecondHalf,60.6,18.8,60.6,5.5,Successful
+Achraf Hakimi,PSG,71,24,Pass,Pass,SecondHalf,60.6,5.5,56.2,5.3,Successful
+Vitinha,PSG,71,26,Pass,Pass,SecondHalf,56.2,5.3,36.5,19.8,Successful
+Marquinhos,PSG,71,30,Pass,Pass,SecondHalf,37.4,24.0,29.6,43.9,Successful
+Beraldo,PSG,71,32,Pass,Pass,SecondHalf,29.7,44.3,39.5,57.3,Successful
+Warren Zaïre-Emery,PSG,71,34,Pass,Pass,SecondHalf,37.7,55.8,35.9,41.2,Successful
+Vitinha,PSG,71,37,Long Pass,Pass,SecondHalf,38.8,39.1,67.1,11.0,Successful
+Achraf Hakimi,PSG,71,43,Key Pass,Pass,SecondHalf,69.7,24.0,89.0,30.1,Successful
+Gonçalo Ramos,PSG,71,44,Shot off Target,MissedShots,SecondHalf,89.8,36.8,0.0,0.0,Successful
+Thibaut Courtois,Real Madrid,71,59,Pass,Pass,SecondHalf,3.7,51.3,14.2,28.9,Successful
+Éder Militão,Real Madrid,72,0,Pass,Pass,SecondHalf,12.4,35.6,26.5,34.4,Successful
+Luka Modric,Real Madrid,72,1,Pass,Pass,SecondHalf,31.5,33.1,42.8,19.1,Successful
+Federico Valverde,Real Madrid,72,5,Pass,Pass,SecondHalf,74.3,27.4,89.1,19.1,Successful
+Dani Carvajal,Real Madrid,72,6,Pass,Pass,SecondHalf,89.1,19.1,79.8,37.7,Successful
+Federico Valverde,Real Madrid,72,8,Pass,Pass,SecondHalf,79.6,37.7,84.3,49.4,Unsuccessful
+Beraldo,PSG,72,9,Clearance,Clearance,SecondHalf,14.7,48.1,33.2,57.0,Successful
+Luka Modric,Real Madrid,72,10,Pass,Pass,SecondHalf,65.7,43.1,70.7,39.8,Unsuccessful
+Vitinha,PSG,72,11,Interception,Interception,SecondHalf,31.4,59.9,0.0,0.0,Successful
+Vitinha,PSG,72,12,Ball Recovery,BallRecovery,SecondHalf,31.4,59.9,0.0,0.0,Successful
+Vitinha,PSG,72,16,Long Pass,Pass,SecondHalf,31.1,62.3,1.3,52.1,Successful
+Gianluigi Donnarumma,PSG,72,22,Pass,Pass,SecondHalf,4.5,53.0,8.3,26.8,Successful
+Marquinhos,PSG,72,24,Pass,Pass,SecondHalf,8.4,26.8,17.8,5.9,Successful
+Achraf Hakimi,PSG,72,27,Pass,Pass,SecondHalf,17.1,5.6,32.0,5.2,Successful
+Senny Mayulu,PSG,72,30,Pass,Pass,SecondHalf,30.8,5.2,18.7,2.5,Successful
+Achraf Hakimi,PSG,72,32,Long Pass,Pass,SecondHalf,20.3,2.9,38.6,82.0,Unsuccessful
+Federico Valverde,Real Madrid,72,37,Pass,Pass,SecondHalf,60.8,19.1,57.2,28.6,Unsuccessful
+Bradley Barcola,PSG,72,37,Unsuccessful Dribble,TakeOn,SecondHalf,37.4,63.7,0.0,0.0,Unsuccessful
+Bradley Barcola,PSG,72,38,Foul,Foul,SecondHalf,43.0,67.8,0.0,0.0,Successful
+Dani Carvajal,Real Madrid,72,38,Foul,Foul,SecondHalf,57.0,32.2,0.0,0.0,Unsuccessful
+Dani Carvajal,Real Madrid,72,40,Card,Card,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Nuno Mendes,PSG,73,1,Pass,Pass,SecondHalf,37.8,74.2,44.5,63.3,Successful
+João Neves,PSG,73,2,Pass,Pass,SecondHalf,44.5,63.3,36.0,72.9,Successful
+Nuno Mendes,PSG,73,4,Pass,Pass,SecondHalf,36.0,72.9,26.4,52.1,Successful
+Beraldo,PSG,73,5,Pass,Pass,SecondHalf,26.4,52.1,33.2,25.2,Successful
+Marquinhos,PSG,73,8,Long Pass,Pass,SecondHalf,37.6,26.5,29.8,73.3,Successful
+Nuno Mendes,PSG,73,14,Pass,Pass,SecondHalf,29.8,73.3,43.2,63.4,Unsuccessful
+Federico Valverde,Real Madrid,73,14,Interception,Interception,SecondHalf,55.7,25.9,0.0,0.0,Successful
+Federico Valverde,Real Madrid,73,14,Ball Recovery,BallRecovery,SecondHalf,56.5,33.6,0.0,0.0,Successful
+Federico Valverde,Real Madrid,73,15,Pass,Pass,SecondHalf,56.6,34.0,66.7,56.9,Successful
+Kylian Mbappé,Real Madrid,73,18,Pass,Pass,SecondHalf,69.9,52.8,80.4,24.7,Successful
+Brahim Díaz,Real Madrid,73,27,Cross,Pass,SecondHalf,91.7,14.7,87.6,42.2,Unsuccessful
+João Neves,PSG,73,28,Pass,Pass,SecondHalf,12.7,60.8,26.5,63.3,Unsuccessful
+João Neves,PSG,73,29,Error,Error,SecondHalf,16.4,58.8,0.0,0.0,Successful
+Federico Valverde,Real Madrid,73,29,Shot on Target,SavedShot,SecondHalf,78.7,40.3,0.0,0.0,Successful
+Beraldo,PSG,73,29,Save,Save,SecondHalf,8.9,56.3,0.0,0.0,Successful
+Federico Valverde,Real Madrid,73,31,CornerAwarded,CornerAwarded,SecondHalf,87.8,45.8,0.0,0.0,Successful
+Beraldo,PSG,73,31,CornerAwarded,CornerAwarded,SecondHalf,12.2,54.2,0.0,0.0,Unsuccessful
+Luka Modric,Real Madrid,73,57,Cross,Pass,SecondHalf,99.5,99.5,90.5,54.8,Unsuccessful
+Vitinha,PSG,73,59,Clearance,Clearance,SecondHalf,7.8,33.1,31.9,36.4,Successful
+Kylian Mbappé,Real Madrid,74,3,Pass,Pass,SecondHalf,71.2,59.1,77.8,27.4,Successful
+Arda Güler,Real Madrid,74,8,Pass,Pass,SecondHalf,79.6,27.0,92.0,20.7,Successful
+Federico Valverde,Real Madrid,74,9,Cross,Pass,SecondHalf,92.0,20.7,91.3,45.5,Unsuccessful
+Nuno Mendes,PSG,74,11,Clearance,Clearance,SecondHalf,12.2,58.5,31.7,58.1,Successful
+Fran García,Real Madrid,74,15,Shot off Target,MissedShots,SecondHalf,80.6,46.6,0.0,0.0,Successful
+Nuno Mendes,PSG,74,15,BallTouch,BallTouch,SecondHalf,15.1,57.9,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,74,18,KeeperPickup,KeeperPickup,SecondHalf,1.0,50.1,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,74,31,Pass,Pass,SecondHalf,9.3,51.5,29.0,55.1,Successful
+Warren Zaïre-Emery,PSG,74,34,Pass,Pass,SecondHalf,29.4,42.1,25.4,26.1,Successful
+Vitinha,PSG,74,41,Pass,Pass,SecondHalf,28.9,49.1,22.1,77.5,Successful
+Nuno Mendes,PSG,74,42,Pass,Pass,SecondHalf,22.3,77.6,38.0,90.2,Successful
+Bradley Barcola,PSG,74,45,Pass,Pass,SecondHalf,36.7,87.7,34.0,65.8,Successful
+João Neves,PSG,74,46,Pass,Pass,SecondHalf,34.0,65.8,31.7,56.0,Successful
+Vitinha,PSG,74,47,Pass,Pass,SecondHalf,31.7,56.0,32.3,10.6,Successful
+Marquinhos,PSG,74,52,Pass,Pass,SecondHalf,34.4,10.9,43.0,2.6,Successful
+Achraf Hakimi,PSG,74,55,Pass,Pass,SecondHalf,44.6,3.8,55.8,9.7,Successful
+Senny Mayulu,PSG,74,56,Pass,Pass,SecondHalf,55.8,9.7,43.1,2.5,Successful
+Achraf Hakimi,PSG,74,59,Long Pass,Pass,SecondHalf,43.2,2.8,26.1,43.3,Successful
+Beraldo,PSG,75,3,Long Pass,Pass,SecondHalf,25.9,47.7,46.4,100.0,Unsuccessful
+Dani Carvajal,Real Madrid,77,27,Long Pass,Pass,SecondHalf,48.7,0.0,39.1,45.7,Successful
+Aurélien Tchouaméni,Real Madrid,77,30,Pass,Pass,SecondHalf,42.5,52.8,32.4,70.9,Successful
+Antonio Rüdiger,Real Madrid,77,32,Pass,Pass,SecondHalf,31.8,70.8,36.0,40.6,Successful
+Luka Modric,Real Madrid,77,39,Long Pass,Pass,SecondHalf,31.3,51.6,40.0,5.2,Successful
+Dani Carvajal,Real Madrid,77,43,Pass,Pass,SecondHalf,43.1,5.3,44.4,18.5,Successful
+Federico Valverde,Real Madrid,77,45,Pass,Pass,SecondHalf,43.1,20.0,44.8,28.6,Successful
+Luka Modric,Real Madrid,77,46,Pass,Pass,SecondHalf,44.8,28.6,55.3,24.6,Successful
+Brahim Díaz,Real Madrid,77,48,Pass,Pass,SecondHalf,55.3,24.6,56.5,16.7,Successful
+Arda Güler,Real Madrid,77,49,Pass,Pass,SecondHalf,56.5,16.7,67.7,5.3,Successful
+Dani Carvajal,Real Madrid,77,53,Pass,Pass,SecondHalf,74.8,9.8,67.8,15.9,Successful
+Arda Güler,Real Madrid,77,58,Pass,Pass,SecondHalf,65.1,19.4,74.8,3.8,Successful
+Dani Carvajal,Real Madrid,78,1,Pass,Pass,SecondHalf,73.1,3.8,52.9,16.1,Successful
+Éder Militão,Real Madrid,78,4,Pass,Pass,SecondHalf,52.9,16.1,48.3,51.3,Successful
+Aurélien Tchouaméni,Real Madrid,78,8,Pass,Pass,SecondHalf,47.5,51.0,45.3,27.1,Successful
+Éder Militão,Real Madrid,78,10,Chipped Pass,Pass,SecondHalf,45.3,27.1,63.4,28.3,Unsuccessful
+Beraldo,PSG,78,11,Pass,Pass,SecondHalf,34.2,55.7,40.1,33.1,Successful
+João Neves,PSG,78,15,Ball Recovery,BallRecovery,SecondHalf,40.1,33.1,0.0,0.0,Successful
+João Neves,PSG,78,15,Pass,Pass,SecondHalf,40.1,33.1,34.4,23.0,Successful
+Achraf Hakimi,PSG,78,16,Pass,Pass,SecondHalf,34.4,23.0,39.6,18.2,Successful
+João Neves,PSG,78,19,Pass,Pass,SecondHalf,37.0,13.4,43.1,3.8,Successful
+Senny Mayulu,PSG,78,21,Pass,Pass,SecondHalf,43.1,3.8,33.2,3.2,Successful
+João Neves,PSG,78,23,Pass,Pass,SecondHalf,33.2,3.2,35.9,11.0,Successful
+Senny Mayulu,PSG,78,25,Pass,Pass,SecondHalf,34.1,11.0,32.5,4.6,Successful
+João Neves,PSG,78,28,Long Pass,Pass,SecondHalf,31.7,4.7,66.8,18.0,Successful
+Achraf Hakimi,PSG,78,34,Pass,Pass,SecondHalf,76.2,26.7,83.5,30.0,Unsuccessful
+Éder Militão,Real Madrid,78,35,Interception,Interception,SecondHalf,17.8,69.0,0.0,0.0,Successful
+Éder Militão,Real Madrid,78,36,CornerAwarded,CornerAwarded,SecondHalf,17.2,69.4,0.0,0.0,Unsuccessful
+Achraf Hakimi,PSG,78,36,CornerAwarded,CornerAwarded,SecondHalf,82.8,30.6,0.0,0.0,Successful
+Nuno Mendes,PSG,78,58,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lee Kang-In,PSG,78,58,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,78,59,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Vitinha,PSG,79,32,Key Pass,Pass,SecondHalf,99.5,0.5,92.9,41.9,Successful
+Bradley Barcola,PSG,79,35,Aerial Won,Aerial,SecondHalf,93.0,45.8,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,79,35,Aerial Lost,Aerial,SecondHalf,7.0,54.2,0.0,0.0,Unsuccessful
+Bradley Barcola,PSG,79,35,Shot off Target,MissedShots,SecondHalf,92.3,46.2,0.0,0.0,Successful
+Gonçalo Ramos,PSG,79,38,Pass,Pass,SecondHalf,97.9,89.4,79.3,79.0,Successful
+Lee Kang-In,PSG,79,43,Pass,Pass,SecondHalf,75.8,92.4,58.0,75.9,Successful
+Warren Zaïre-Emery,PSG,79,47,Pass,Pass,SecondHalf,45.3,77.0,23.8,46.9,Successful
+Gianluigi Donnarumma,PSG,79,53,Long Pass,Pass,SecondHalf,24.0,46.4,75.3,32.2,Unsuccessful
+Antonio Rüdiger,Real Madrid,79,58,Ball Recovery,BallRecovery,SecondHalf,21.2,70.5,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,80,0,Pass,Pass,SecondHalf,21.2,70.2,19.5,39.4,Successful
+Éder Militão,Real Madrid,80,2,Pass,Pass,SecondHalf,19.5,38.5,36.9,24.0,Successful
+Brahim Díaz,Real Madrid,80,5,Pass,Pass,SecondHalf,36.9,24.0,41.7,5.9,Successful
+Federico Valverde,Real Madrid,80,6,Pass,Pass,SecondHalf,42.1,5.6,66.0,12.0,Unsuccessful
+Senny Mayulu,PSG,80,10,Foul,Foul,SecondHalf,30.6,88.1,0.0,0.0,Successful
+Brahim Díaz,Real Madrid,80,10,Foul,Foul,SecondHalf,69.4,11.9,0.0,0.0,Unsuccessful
+Warren Zaïre-Emery,PSG,80,24,Pass,Pass,SecondHalf,27.6,89.6,22.1,75.1,Successful
+Beraldo,PSG,80,25,Pass,Pass,SecondHalf,22.1,75.1,10.9,52.7,Successful
+Gianluigi Donnarumma,PSG,80,26,Pass,Pass,SecondHalf,10.9,52.7,12.3,64.6,Successful
+Beraldo,PSG,80,29,Chipped Pass,Pass,SecondHalf,12.2,65.5,40.2,59.6,Successful
+Gonçalo Ramos,PSG,80,31,Aerial Won,Aerial,SecondHalf,43.6,67.3,0.0,0.0,Successful
+Éder Militão,Real Madrid,80,31,Aerial Lost,Aerial,SecondHalf,57.6,35.2,0.0,0.0,Unsuccessful
+Gonçalo Ramos,PSG,80,31,Pass,Pass,SecondHalf,40.2,59.6,49.0,78.2,Unsuccessful
+Dani Carvajal,Real Madrid,80,32,Pass,Pass,SecondHalf,51.0,12.9,41.6,41.9,Successful
+Antonio Rüdiger,Real Madrid,80,34,Ball Recovery,BallRecovery,SecondHalf,41.3,42.7,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,80,35,Pass,Pass,SecondHalf,41.3,42.7,58.3,70.6,Successful
+Arda Güler,Real Madrid,80,40,Pass,Pass,SecondHalf,65.5,71.8,71.7,56.4,Unsuccessful
+Marquinhos,PSG,80,42,Ball Recovery,BallRecovery,SecondHalf,32.9,28.6,0.0,0.0,Successful
+Marquinhos,PSG,80,43,Pass,Pass,SecondHalf,34.5,28.2,37.5,21.8,Successful
+Achraf Hakimi,PSG,80,45,Loss of Possession,Dispossessed,SecondHalf,38.2,22.7,0.0,0.0,Successful
+Fran García,Real Madrid,80,45,Successful Tackle,Tackle,SecondHalf,61.8,77.3,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,80,48,Ball Recovery,BallRecovery,SecondHalf,41.9,73.9,0.0,0.0,Successful
+Antonio Rüdiger,Real Madrid,80,48,Pass,Pass,SecondHalf,41.7,74.1,42.8,90.0,Successful
+Aurélien Tchouaméni,Real Madrid,80,52,Long Pass,Pass,SecondHalf,34.7,92.3,13.8,53.6,Successful
+Thibaut Courtois,Real Madrid,80,56,Pass,Pass,SecondHalf,13.8,53.6,20.9,43.0,Successful
+Éder Militão,Real Madrid,80,57,Pass,Pass,SecondHalf,20.9,43.0,11.6,62.9,Successful
+Thibaut Courtois,Real Madrid,80,59,Pass,Pass,SecondHalf,11.6,62.9,21.9,60.9,Successful
+Aurélien Tchouaméni,Real Madrid,81,5,Pass,Pass,SecondHalf,25.2,38.9,41.1,32.4,Successful
+Brahim Díaz,Real Madrid,81,9,Pass,Pass,SecondHalf,39.5,28.5,43.5,3.4,Successful
+Dani Carvajal,Real Madrid,81,9,Pass,Pass,SecondHalf,43.5,3.4,36.4,17.3,Successful
+Brahim Díaz,Real Madrid,81,11,Pass,Pass,SecondHalf,36.4,17.3,32.1,23.3,Successful
+Aurélien Tchouaméni,Real Madrid,81,12,Pass,Pass,SecondHalf,32.1,23.3,29.2,31.5,Successful
+Éder Militão,Real Madrid,81,15,Pass,Pass,SecondHalf,29.2,28.0,4.3,35.4,Successful
+Thibaut Courtois,Real Madrid,81,24,Long Pass,Pass,SecondHalf,6.3,48.4,60.9,79.1,Unsuccessful
+Marquinhos,PSG,81,27,Interception,Interception,SecondHalf,36.8,20.4,0.0,0.0,Successful
+Vitinha,PSG,81,29,Pass,Pass,SecondHalf,46.6,25.2,45.8,6.7,Successful
+Achraf Hakimi,PSG,81,31,Pass,Pass,SecondHalf,45.8,6.7,39.8,18.9,Successful
+Vitinha,PSG,81,32,Ball Recovery,BallRecovery,SecondHalf,40.0,19.4,0.0,0.0,Successful
+Vitinha,PSG,81,34,Pass,Pass,SecondHalf,42.2,25.5,53.3,10.7,Successful
+Achraf Hakimi,PSG,81,37,Pass,Pass,SecondHalf,54.6,11.1,58.1,5.3,Successful
+Lee Kang-In,PSG,81,38,Pass,Pass,SecondHalf,58.1,5.3,52.6,6.8,Successful
+Achraf Hakimi,PSG,81,41,Pass,Pass,SecondHalf,47.8,7.1,47.2,20.3,Successful
+Vitinha,PSG,81,49,Pass,Pass,SecondHalf,53.1,43.1,54.7,20.6,Successful
+João Neves,PSG,81,52,Pass,Pass,SecondHalf,56.2,19.1,65.8,2.3,Successful
+Lee Kang-In,PSG,81,57,Pass,Pass,SecondHalf,70.3,14.4,63.2,12.8,Successful
+João Neves,PSG,81,59,Pass,Pass,SecondHalf,63.2,12.8,63.3,18.9,Successful
+Vitinha,PSG,82,3,Pass,Pass,SecondHalf,64.2,27.4,70.2,22.8,Successful
+Achraf Hakimi,PSG,82,4,Pass,Pass,SecondHalf,70.2,22.8,64.4,10.1,Successful
+João Neves,PSG,82,7,Pass,Pass,SecondHalf,64.4,10.1,67.9,23.7,Successful
+Vitinha,PSG,82,11,Pass,Pass,SecondHalf,66.1,25.9,51.5,52.8,Successful
+Beraldo,PSG,82,13,Pass,Pass,SecondHalf,52.2,53.4,67.4,60.6,Successful
+Senny Mayulu,PSG,82,14,Pass,Pass,SecondHalf,67.4,60.6,52.1,77.3,Successful
+Warren Zaïre-Emery,PSG,82,16,Pass,Pass,SecondHalf,52.1,77.3,63.3,94.7,Successful
+Bradley Barcola,PSG,82,17,Chipped Pass,Pass,SecondHalf,63.3,94.7,83.6,82.6,Successful
+Senny Mayulu,PSG,82,20,Unsuccessful Dribble,TakeOn,SecondHalf,85.4,83.0,0.0,0.0,Unsuccessful
+Éder Militão,Real Madrid,82,20,Successful Tackle,Tackle,SecondHalf,14.6,17.0,0.0,0.0,Successful
+Arda Güler,Real Madrid,82,40,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lucas Vázquez,Real Madrid,82,40,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,83,4,Throw In,Pass,SecondHalf,90.2,100.0,94.2,73.2,Unsuccessful
+Dani Carvajal,Real Madrid,83,6,Clearance,Clearance,SecondHalf,3.3,19.4,16.6,24.4,Successful
+Luka Modric,Real Madrid,83,8,Ball Recovery,BallRecovery,SecondHalf,17.2,25.5,0.0,0.0,Successful
+Luka Modric,Real Madrid,83,9,Pass,Pass,SecondHalf,17.4,25.5,31.6,43.3,Successful
+Lucas Vázquez,Real Madrid,83,14,Long Pass,Pass,SecondHalf,34.4,42.4,73.2,6.4,Successful
+Brahim Díaz,Real Madrid,83,21,Pass,Pass,SecondHalf,71.9,6.1,77.0,14.1,Successful
+Federico Valverde,Real Madrid,83,25,Cross,Pass,SecondHalf,91.7,13.4,92.1,18.3,Unsuccessful
+Bradley Barcola,PSG,83,25,Clearance,Clearance,SecondHalf,8.6,86.3,0.0,0.0,Successful
+Federico Valverde,Real Madrid,83,27,CornerAwarded,CornerAwarded,SecondHalf,91.8,15.6,0.0,0.0,Successful
+Bradley Barcola,PSG,83,27,CornerAwarded,CornerAwarded,SecondHalf,8.2,84.4,0.0,0.0,Unsuccessful
+Luka Modric,Real Madrid,83,58,Key Pass,Pass,SecondHalf,99.5,0.5,89.5,48.4,Successful
+Éder Militão,Real Madrid,83,59,Aerial Won,Aerial,SecondHalf,88.4,43.9,0.0,0.0,Successful
+Achraf Hakimi,PSG,83,59,Aerial Lost,Aerial,SecondHalf,11.2,54.6,0.0,0.0,Unsuccessful
+Éder Militão,Real Madrid,84,0,Shot off Target,MissedShots,SecondHalf,90.5,45.0,0.0,0.0,Successful
+Vitinha,PSG,84,27,Pass,Pass,SecondHalf,4.5,49.7,8.4,15.6,Successful
+Marquinhos,PSG,84,28,Pass,Pass,SecondHalf,8.4,17.0,4.5,34.0,Successful
+Vitinha,PSG,84,31,Long Pass,Pass,SecondHalf,5.2,33.3,38.1,10.3,Unsuccessful
+Lee Kang-In,PSG,84,34,Foul,Foul,SecondHalf,41.1,12.4,0.0,0.0,Successful
+Fran García,Real Madrid,84,34,Foul,Foul,SecondHalf,58.9,87.6,0.0,0.0,Unsuccessful
+João Neves,PSG,84,51,Pass,Pass,SecondHalf,35.6,17.0,33.6,27.4,Successful
+Vitinha,PSG,84,56,Pass,Pass,SecondHalf,42.8,60.5,59.9,93.5,Successful
+Bradley Barcola,PSG,85,1,Pass,Pass,SecondHalf,56.7,90.8,41.7,73.6,Successful
+Vitinha,PSG,85,11,Pass,Pass,SecondHalf,36.7,77.5,24.8,52.1,Successful
+Beraldo,PSG,85,14,Pass,Pass,SecondHalf,25.1,54.8,39.5,38.2,Successful
+Senny Mayulu,PSG,85,16,Pass,Pass,SecondHalf,39.5,38.2,27.4,19.8,Successful
+Marquinhos,PSG,85,22,Pass,Pass,SecondHalf,30.1,20.3,44.9,16.5,Successful
+Lee Kang-In,PSG,85,25,Pass,Pass,SecondHalf,44.9,16.5,51.6,18.9,Unsuccessful
+Dani Carvajal,Real Madrid,85,27,BallTouch,BallTouch,SecondHalf,43.4,78.5,0.0,0.0,Successful
+Senny Mayulu,PSG,85,28,BallTouch,BallTouch,SecondHalf,53.9,12.5,0.0,0.0,Successful
+Lee Kang-In,PSG,85,34,BallTouch,BallTouch,SecondHalf,58.1,5.6,0.0,0.0,Unsuccessful
+Fran García,Real Madrid,85,43,Throw In,Pass,SecondHalf,32.1,100.0,29.6,75.1,Successful
+Dani Carvajal,Real Madrid,85,44,Pass,Pass,SecondHalf,29.3,73.6,19.8,60.9,Successful
+Éder Militão,Real Madrid,85,47,Long Pass,Pass,SecondHalf,19.7,57.9,34.1,10.4,Successful
+Federico Valverde,Real Madrid,85,54,Pass,Pass,SecondHalf,65.5,13.7,73.4,39.1,Unsuccessful
+Beraldo,PSG,85,55,Pass,Pass,SecondHalf,27.0,60.6,32.0,66.7,Successful
+Warren Zaïre-Emery,PSG,85,56,Ball Recovery,BallRecovery,SecondHalf,31.5,64.0,0.0,0.0,Successful
+Warren Zaïre-Emery,PSG,85,57,Pass,Pass,SecondHalf,30.2,61.5,34.3,59.7,Successful
+João Neves,PSG,86,1,Pass,Pass,SecondHalf,32.9,67.9,24.8,75.1,Successful
+Vitinha,PSG,86,4,Long Pass,Pass,SecondHalf,22.4,74.2,37.8,4.7,Successful
+Achraf Hakimi,PSG,86,11,Pass,Pass,SecondHalf,38.8,4.6,47.5,4.0,Successful
+Lee Kang-In,PSG,86,13,Pass,Pass,SecondHalf,47.5,4.0,39.5,3.8,Successful
+Achraf Hakimi,PSG,86,17,Pass,Pass,SecondHalf,39.5,3.8,26.9,28.5,Successful
+Marquinhos,PSG,86,19,Pass,Pass,SecondHalf,26.9,28.5,25.7,50.7,Successful
+Beraldo,PSG,86,22,Pass,Pass,SecondHalf,26.7,54.0,27.2,82.9,Successful
+Vitinha,PSG,86,25,Pass,Pass,SecondHalf,27.2,82.9,40.9,73.2,Successful
+João Neves,PSG,86,28,Unsuccessful Dribble,TakeOn,SecondHalf,40.2,71.9,0.0,0.0,Unsuccessful
+Éder Militão,Real Madrid,86,28,Was Dribbled,Tackle,SecondHalf,59.8,28.1,0.0,0.0,Unsuccessful
+João Neves,PSG,86,28,BallTouch,BallTouch,SecondHalf,37.2,60.2,0.0,0.0,Successful
+Éder Militão,Real Madrid,86,29,Ball Recovery,BallRecovery,SecondHalf,62.6,31.9,0.0,0.0,Successful
+Éder Militão,Real Madrid,86,31,Shot on Target,SavedShot,SecondHalf,77.7,38.9,0.0,0.0,Successful
+Gianluigi Donnarumma,PSG,86,31,Save,Save,SecondHalf,2.0,50.1,0.0,0.0,Successful
+Beraldo,PSG,86,35,Ball Recovery,BallRecovery,SecondHalf,8.3,40.9,0.0,0.0,Successful
+Beraldo,PSG,86,39,Pass,Pass,SecondHalf,10.4,28.9,25.7,3.4,Successful
+Lee Kang-In,PSG,86,41,Pass,Pass,SecondHalf,25.7,3.4,41.6,3.1,Successful
+Gonçalo Ramos,PSG,86,43,Pass,Pass,SecondHalf,41.0,3.5,31.5,3.7,Successful
+Lee Kang-In,PSG,86,44,Long Pass,Pass,SecondHalf,32.0,4.7,74.6,7.7,Successful
+Achraf Hakimi,PSG,86,50,Long Pass,Pass,SecondHalf,78.2,10.9,87.8,57.2,Successful
+Bradley Barcola,PSG,86,53,Unsuccessful Dribble,TakeOn,SecondHalf,88.4,56.3,0.0,0.0,Unsuccessful
+Éder Militão,Real Madrid,86,53,Was Dribbled,Tackle,SecondHalf,11.6,43.7,0.0,0.0,Unsuccessful
+Bradley Barcola,PSG,86,57,Assist,Pass,SecondHalf,87.9,64.8,88.1,53.3,Successful
+Gonçalo Ramos,PSG,87,0,Goal,Goal,SecondHalf,90.8,52.6,0.0,0.0,Successful
+Kylian Mbappé,Real Madrid,88,23,Pass,Pass,SecondHalf,49.9,50.1,30.2,50.7,Successful
+Antonio Rüdiger,Real Madrid,88,24,BallTouch,BallTouch,SecondHalf,30.2,50.7,0.0,0.0,Successful
+Bradley Barcola,PSG,88,28,Ball Recovery,BallRecovery,SecondHalf,68.3,94.8,0.0,0.0,Successful
+Bradley Barcola,PSG,88,29,Long Pass,Pass,SecondHalf,68.2,95.0,37.5,83.0,Successful
+Warren Zaïre-Emery,PSG,88,33,Pass,Pass,SecondHalf,35.4,80.2,42.8,59.9,Successful
+Achraf Hakimi,PSG,88,35,Pass,Pass,SecondHalf,42.8,59.9,32.4,49.1,Successful
+Beraldo,PSG,88,37,Pass,Pass,SecondHalf,32.6,48.8,37.4,12.3,Successful
+Marquinhos,PSG,88,39,Pass,Pass,SecondHalf,37.4,12.3,55.4,4.4,Successful
+Lee Kang-In,PSG,88,45,Pass,Pass,SecondHalf,56.3,18.0,55.0,28.0,Successful
+Achraf Hakimi,PSG,88,48,Pass,Pass,SecondHalf,54.9,30.0,40.1,58.5,Successful
+Warren Zaïre-Emery,PSG,88,55,Pass,Pass,SecondHalf,54.4,67.9,46.7,76.0,Successful
+Vitinha,PSG,89,0,Pass,Pass,SecondHalf,46.4,62.9,57.2,21.8,Successful
+Lee Kang-In,PSG,89,1,Pass,Pass,SecondHalf,57.2,21.8,41.5,21.6,Successful
+Marquinhos,PSG,89,4,Pass,Pass,SecondHalf,40.8,21.5,34.5,44.3,Successful
+Beraldo,PSG,89,6,Pass,Pass,SecondHalf,34.5,44.3,42.2,43.0,Successful
+Vitinha,PSG,89,10,Pass,Pass,SecondHalf,45.4,41.2,59.8,5.3,Successful
+Senny Mayulu,PSG,89,13,Pass,Pass,SecondHalf,59.9,6.7,59.0,23.0,Successful
+Achraf Hakimi,PSG,89,15,Pass,Pass,SecondHalf,59.0,23.0,53.5,16.4,Successful
+Lee Kang-In,PSG,89,16,Pass,Pass,SecondHalf,53.5,16.4,59.3,21.5,Successful
+Achraf Hakimi,PSG,89,17,Pass,Pass,SecondHalf,59.3,21.5,52.2,19.8,Successful
+Vitinha,PSG,89,18,Pass,Pass,SecondHalf,52.2,19.8,54.5,8.0,Successful
+Lee Kang-In,PSG,89,20,Pass,Pass,SecondHalf,47.2,9.2,32.3,24.1,Successful
+Marquinhos,PSG,89,23,Pass,Pass,SecondHalf,32.3,24.1,33.5,43.9,Successful
+Beraldo,PSG,89,26,Pass,Pass,SecondHalf,32.6,48.5,32.6,70.8,Successful
+Warren Zaïre-Emery,PSG,89,28,Pass,Pass,SecondHalf,32.9,71.1,44.9,94.8,Successful
+Bradley Barcola,PSG,89,32,Pass,Pass,SecondHalf,44.5,92.3,48.1,79.1,Successful
+Warren Zaïre-Emery,PSG,89,35,Long Pass,Pass,SecondHalf,56.5,84.2,87.0,92.9,Successful
+Bradley Barcola,PSG,89,42,Pass,Pass,SecondHalf,87.0,92.9,85.0,85.3,Successful
+Gonçalo Ramos,PSG,89,44,Pass,Pass,SecondHalf,85.0,85.3,84.8,94.4,Successful
+Bradley Barcola,PSG,89,46,Pass,Pass,SecondHalf,84.8,94.4,73.9,84.7,Successful
+Warren Zaïre-Emery,PSG,89,47,Pass,Pass,SecondHalf,73.8,84.8,63.1,76.1,Successful
+João Neves,PSG,89,50,Pass,Pass,SecondHalf,61.7,74.4,53.3,49.9,Successful
+Beraldo,PSG,89,52,Pass,Pass,SecondHalf,53.3,49.9,61.4,8.2,Successful
+Vitinha,PSG,89,56,Pass,Pass,SecondHalf,61.4,8.2,67.8,18.5,Successful
+Achraf Hakimi,PSG,89,58,Pass,Pass,SecondHalf,67.9,18.8,58.8,11.7,Successful
+Vitinha,PSG,90,0,Pass,Pass,SecondHalf,58.8,11.7,60.8,13.2,Unsuccessful
+Lucas Vázquez,Real Madrid,90,0,BlockedPass,BlockedPass,SecondHalf,36.7,77.9,0.0,0.0,Successful
+,Real Madrid,90,2,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,90,2,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,PSG,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Real Madrid,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful

@@ -1,0 +1,1626 @@
+player,team,minute,second,event,raw_event,period,x,y,endX,endY,outcome
+,Napoli,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,Start,Start,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Tasos Douvikas,Como,0,0,Pass,Pass,FirstHalf,49.7,50.2,29.8,51.1,Successful
+Trevoh Chalobah,Como,0,3,Pass,Pass,FirstHalf,29.8,51.1,43.8,59.5,Successful
+Lucas da Cunha,Como,0,7,Pass,Pass,FirstHalf,57.8,65.2,60.0,78.3,Successful
+Álex Valle,Como,0,9,Long Pass,Pass,FirstHalf,61.2,75.6,85.8,44.5,Unsuccessful
+Rafa Marín,Napoli,0,12,Aerial Won,Aerial,FirstHalf,14.2,55.5,0.0,0.0,Successful
+Tasos Douvikas,Como,0,12,Aerial Lost,Aerial,FirstHalf,85.8,44.5,0.0,0.0,Unsuccessful
+Rafa Marín,Napoli,0,12,Clearance,Clearance,FirstHalf,14.2,55.5,8.6,77.5,Successful
+Mathías Olivera,Napoli,0,14,Ball Recovery,BallRecovery,FirstHalf,8.7,73.9,0.0,0.0,Successful
+Mathías Olivera,Napoli,0,14,Pass,Pass,FirstHalf,8.7,73.9,26.5,78.1,Unsuccessful
+Luis Milla,Como,0,17,Interception,Interception,FirstHalf,73.5,21.9,0.0,0.0,Successful
+Luis Milla,Como,0,17,Pass,Pass,FirstHalf,85.1,8.8,84.2,12.4,Unsuccessful
+Noa Lang,Napoli,0,17,BlockedPass,BlockedPass,FirstHalf,15.8,87.6,0.0,0.0,Successful
+Noa Lang,Napoli,0,20,Pass,Pass,FirstHalf,9.4,89.7,9.9,79.6,Successful
+Mathías Olivera,Napoli,0,22,Long Pass,Pass,FirstHalf,9.5,80.4,26.3,85.9,Unsuccessful
+Yan Couto,Como,0,25,Pass,Pass,FirstHalf,65.9,5.1,51.7,13.3,Successful
+Jacobo Ramón,Como,0,29,Pass,Pass,FirstHalf,53.6,23.8,50.4,54.1,Successful
+Trevoh Chalobah,Como,0,31,Pass,Pass,FirstHalf,50.4,54.1,54.1,74.1,Successful
+Martin Baturina,Como,0,33,Pass,Pass,FirstHalf,54.1,74.1,45.8,57.9,Successful
+Trevoh Chalobah,Como,0,34,Pass,Pass,FirstHalf,42.5,55.6,40.7,34.9,Successful
+Jacobo Ramón,Como,0,37,Pass,Pass,FirstHalf,41.0,34.5,43.8,35.8,Successful
+Luis Milla,Como,0,39,Chipped Pass,Pass,FirstHalf,44.0,35.7,55.6,21.6,Unsuccessful
+Noa Lang,Napoli,0,39,Pass,Pass,FirstHalf,41.4,69.9,54.8,65.7,Successful
+Stanislav Lobotka,Napoli,0,41,Ball Recovery,BallRecovery,FirstHalf,54.6,66.1,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,0,41,Pass,Pass,FirstHalf,54.6,66.1,55.1,78.4,Successful
+Noa Lang,Napoli,0,43,Unsuccessful Dribble,TakeOn,FirstHalf,59.8,90.6,0.0,0.0,Unsuccessful
+Yan Couto,Como,0,43,Successful Tackle,Tackle,FirstHalf,40.2,9.4,0.0,0.0,Successful
+Nico Paz,Como,0,46,Ball Recovery,BallRecovery,FirstHalf,36.9,4.2,0.0,0.0,Successful
+Nico Paz,Como,0,46,Unsuccessful Dribble,TakeOn,FirstHalf,37.4,4.5,0.0,0.0,Unsuccessful
+Mathías Olivera,Napoli,0,46,Was Dribbled,Tackle,FirstHalf,62.6,95.4,0.0,0.0,Unsuccessful
+Yan Couto,Como,0,48,Pass,Pass,FirstHalf,32.8,7.6,35.6,6.4,Unsuccessful
+Mathías Olivera,Napoli,0,48,BlockedPass,BlockedPass,FirstHalf,64.4,93.6,0.0,0.0,Successful
+Yan Couto,Como,0,49,Pass,Pass,FirstHalf,35.6,6.4,39.5,7.0,Successful
+Nico Paz,Como,0,50,Pass,Pass,FirstHalf,39.5,7.0,37.7,27.9,Successful
+Assane Diao,Como,0,51,Pass,Pass,FirstHalf,37.7,27.9,39.3,32.5,Unsuccessful
+Frank Anguissa,Napoli,0,51,BlockedPass,BlockedPass,FirstHalf,60.7,67.5,0.0,0.0,Successful
+Jacobo Ramón,Como,0,54,Pass,Pass,FirstHalf,30.0,32.8,28.2,53.4,Successful
+Trevoh Chalobah,Como,0,56,Pass,Pass,FirstHalf,28.8,58.5,37.8,84.1,Successful
+Álex Valle,Como,1,0,Pass,Pass,FirstHalf,35.8,74.1,30.5,37.3,Successful
+Jacobo Ramón,Como,1,3,Pass,Pass,FirstHalf,30.5,35.7,34.3,6.9,Successful
+Yan Couto,Como,1,6,Pass,Pass,FirstHalf,34.8,7.6,22.7,30.4,Successful
+Jacobo Ramón,Como,1,9,Pass,Pass,FirstHalf,23.5,31.9,24.8,65.7,Successful
+Trevoh Chalobah,Como,1,11,Pass,Pass,FirstHalf,25.8,67.0,30.0,85.0,Successful
+Lucas da Cunha,Como,1,13,Pass,Pass,FirstHalf,30.0,85.0,44.7,84.1,Successful
+Álex Valle,Como,1,14,Pass,Pass,FirstHalf,44.7,84.1,38.8,94.3,Successful
+Martin Baturina,Como,1,16,Pass,Pass,FirstHalf,41.4,91.2,45.4,73.3,Successful
+Lucas da Cunha,Como,1,17,Pass,Pass,FirstHalf,45.4,73.3,39.3,73.8,Successful
+Martin Baturina,Como,1,19,Pass,Pass,FirstHalf,42.9,65.4,43.3,35.2,Successful
+Jacobo Ramón,Como,1,23,Pass,Pass,FirstHalf,47.3,33.6,64.9,29.2,Successful
+Nico Paz,Como,1,25,Pass,Pass,FirstHalf,64.9,29.2,70.1,5.4,Successful
+Assane Diao,Como,1,31,Pass,Pass,FirstHalf,74.8,9.9,65.6,17.8,Successful
+Yan Couto,Como,1,32,Pass,Pass,FirstHalf,66.0,18.0,75.4,4.0,Successful
+Assane Diao,Como,1,35,Pass,Pass,FirstHalf,75.5,4.0,75.0,15.6,Successful
+Nico Paz,Como,1,37,Pass,Pass,FirstHalf,75.2,16.9,76.2,31.6,Successful
+Martin Baturina,Como,1,38,Pass,Pass,FirstHalf,76.2,31.6,85.5,36.4,Successful
+Tasos Douvikas,Como,1,40,Pass,Pass,FirstHalf,85.5,36.4,91.9,18.9,Successful
+Assane Diao,Como,1,43,Cross,Pass,FirstHalf,91.9,19.9,93.1,69.4,Unsuccessful
+Matteo Politano,Napoli,1,45,Clearance,Clearance,FirstHalf,6.7,29.5,6.0,0.0,Successful
+Álex Valle,Como,2,3,Throw In,Pass,FirstHalf,87.4,100.0,78.0,95.4,Successful
+Martin Baturina,Como,2,4,Pass,Pass,FirstHalf,78.0,95.4,79.5,95.4,Unsuccessful
+Frank Anguissa,Napoli,2,4,BlockedPass,BlockedPass,FirstHalf,20.5,4.6,0.0,0.0,Successful
+Álex Valle,Como,2,11,Throw In,Pass,FirstHalf,81.1,100.0,71.3,94.0,Successful
+Lucas da Cunha,Como,2,13,Pass,Pass,FirstHalf,71.3,94.0,70.5,99.3,Successful
+Álex Valle,Como,2,14,Pass,Pass,FirstHalf,70.5,99.3,54.3,97.0,Successful
+Trevoh Chalobah,Como,2,16,Pass,Pass,FirstHalf,54.3,97.0,49.1,65.4,Successful
+Jacobo Ramón,Como,2,17,Pass,Pass,FirstHalf,49.1,65.4,49.2,40.2,Successful
+Yan Couto,Como,2,28,Pass,Pass,FirstHalf,59.3,28.9,56.7,34.8,Successful
+Luis Milla,Como,2,29,Pass,Pass,FirstHalf,56.7,34.8,60.0,27.6,Successful
+Yan Couto,Como,2,32,Pass,Pass,FirstHalf,61.9,24.7,47.2,35.5,Successful
+Jacobo Ramón,Como,2,34,Pass,Pass,FirstHalf,47.2,35.5,45.5,60.3,Successful
+Trevoh Chalobah,Como,2,37,Pass,Pass,FirstHalf,44.9,61.2,47.1,79.9,Successful
+Lucas da Cunha,Como,2,41,Pass,Pass,FirstHalf,43.6,68.7,35.6,34.3,Successful
+Jacobo Ramón,Como,2,44,Pass,Pass,FirstHalf,35.6,33.9,40.7,13.2,Successful
+Yan Couto,Como,2,47,Pass,Pass,FirstHalf,40.7,13.2,63.2,3.7,Successful
+Nico Paz,Como,2,50,Pass,Pass,FirstHalf,66.0,4.8,68.2,17.8,Successful
+Assane Diao,Como,2,51,Pass,Pass,FirstHalf,68.2,17.8,81.5,9.9,Unsuccessful
+Rafa Marín,Napoli,2,53,Interception,Interception,FirstHalf,18.5,90.1,0.0,0.0,Successful
+Yan Couto,Como,3,5,Throw In,Pass,FirstHalf,76.4,0.0,71.4,12.6,Successful
+Nico Paz,Como,3,6,Pass,Pass,FirstHalf,71.4,12.6,68.9,7.9,Successful
+Yan Couto,Como,3,11,Loss of Possession,Dispossessed,FirstHalf,67.6,6.6,0.0,0.0,Successful
+Noa Lang,Napoli,3,11,Successful Tackle,Tackle,FirstHalf,32.4,93.5,0.0,0.0,Successful
+Yan Couto,Como,3,19,Throw In,Pass,FirstHalf,57.5,0.0,44.7,15.0,Successful
+Jacobo Ramón,Como,3,28,Pass,Pass,FirstHalf,53.9,27.1,57.7,10.2,Successful
+Yan Couto,Como,3,31,Pass,Pass,FirstHalf,57.7,9.9,44.1,24.1,Successful
+Jacobo Ramón,Como,3,33,Pass,Pass,FirstHalf,44.1,24.1,42.6,37.2,Successful
+Luis Milla,Como,3,36,Pass,Pass,FirstHalf,42.6,37.2,52.7,40.0,Successful
+Lucas da Cunha,Como,3,37,Pass,Pass,FirstHalf,52.7,40.0,44.5,35.1,Successful
+Luis Milla,Como,3,40,Pass,Pass,FirstHalf,44.3,33.6,45.1,22.6,Successful
+Jacobo Ramón,Como,3,43,Pass,Pass,FirstHalf,45.1,22.5,43.7,34.5,Successful
+Luis Milla,Como,3,50,Pass,Pass,FirstHalf,53.2,40.0,55.7,7.8,Successful
+Yan Couto,Como,3,51,Pass,Pass,FirstHalf,55.8,7.6,68.6,6.0,Successful
+Assane Diao,Como,3,53,Pass,Pass,FirstHalf,68.6,6.0,66.6,16.3,Successful
+Nico Paz,Como,3,55,Pass,Pass,FirstHalf,66.6,16.3,55.9,7.6,Successful
+Yan Couto,Como,3,58,Pass,Pass,FirstHalf,55.1,10.5,45.7,31.3,Successful
+Jacobo Ramón,Como,4,0,Pass,Pass,FirstHalf,45.7,31.3,45.7,57.3,Successful
+Trevoh Chalobah,Como,4,2,Pass,Pass,FirstHalf,45.9,58.3,56.9,63.1,Successful
+Lucas da Cunha,Como,4,5,Pass,Pass,FirstHalf,56.9,67.5,61.6,96.0,Successful
+Álex Valle,Como,4,9,Pass,Pass,FirstHalf,80.1,96.1,79.7,91.6,Unsuccessful
+Matteo Politano,Napoli,4,13,BallTouch,BallTouch,FirstHalf,16.2,14.2,0.0,0.0,Successful
+Martin Baturina,Como,4,15,Pass,Pass,FirstHalf,88.6,83.4,87.7,79.9,Unsuccessful
+Amir Rrahmani,Napoli,4,15,BlockedPass,BlockedPass,FirstHalf,12.3,20.1,0.0,0.0,Successful
+Scott McTominay,Napoli,4,18,Pass,Pass,FirstHalf,16.7,24.2,15.5,24.6,Unsuccessful
+Luis Milla,Como,4,18,BlockedPass,BlockedPass,FirstHalf,84.5,75.4,0.0,0.0,Successful
+Martin Baturina,Como,4,22,Cross,Pass,FirstHalf,94.6,77.5,94.8,52.8,Unsuccessful
+Rafa Marín,Napoli,4,23,Clearance,Clearance,FirstHalf,6.1,36.6,18.9,22.6,Successful
+Álex Valle,Como,4,25,Shot off Target,MissedShots,FirstHalf,86.1,68.9,0.0,0.0,Successful
+Rafa Marín,Napoli,4,25,BallTouch,BallTouch,FirstHalf,6.4,41.5,0.0,0.0,Successful
+Scott McTominay,Napoli,4,26,BallTouch,BallTouch,FirstHalf,11.8,44.1,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,4,27,BallTouch,BallTouch,FirstHalf,19.2,39.1,0.0,0.0,Unsuccessful
+Luis Milla,Como,4,31,Pass,Pass,FirstHalf,79.1,53.7,79.2,41.4,Successful
+Nico Paz,Como,4,32,Pass,Pass,FirstHalf,79.2,41.4,86.1,19.3,Successful
+Assane Diao,Como,4,34,Pass,Pass,FirstHalf,86.1,19.3,79.4,26.8,Successful
+Luis Milla,Como,4,35,Cross,Pass,FirstHalf,79.4,26.8,95.1,52.5,Unsuccessful
+Alex Meret,Napoli,4,37,KeeperPickup,KeeperPickup,FirstHalf,7.0,47.4,0.0,0.0,Successful
+Alex Meret,Napoli,4,39,Long Pass,Pass,FirstHalf,15.6,51.0,78.5,12.0,Unsuccessful
+Jean Butez,Como,4,44,KeeperSweeper,KeeperSweeper,FirstHalf,26.4,83.2,0.0,0.0,Successful
+Jean Butez,Como,4,45,Aerial Won,Aerial,FirstHalf,23.6,86.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,4,45,Aerial Lost,Aerial,FirstHalf,76.4,13.8,0.0,0.0,Unsuccessful
+Jean Butez,Como,4,45,Clearance,Clearance,FirstHalf,26.4,83.2,29.4,100.0,Successful
+Giovanni Di Lorenzo,Napoli,5,4,Long Pass,Pass,FirstHalf,66.4,0.0,45.8,18.4,Successful
+Amir Rrahmani,Napoli,5,6,Pass,Pass,FirstHalf,45.8,18.3,46.9,45.1,Successful
+Rafa Marín,Napoli,5,8,Pass,Pass,FirstHalf,47.3,45.0,47.5,33.9,Successful
+Amir Rrahmani,Napoli,5,10,Pass,Pass,FirstHalf,52.6,34.0,47.6,60.6,Successful
+Rafa Marín,Napoli,5,14,Pass,Pass,FirstHalf,47.6,60.6,47.9,79.3,Successful
+Mathías Olivera,Napoli,5,17,Long Pass,Pass,FirstHalf,47.9,79.3,86.3,86.8,Unsuccessful
+Yan Couto,Como,5,20,Interception,Interception,FirstHalf,13.7,13.2,0.0,0.0,Successful
+Mathías Olivera,Napoli,5,26,Throw In,Pass,FirstHalf,80.7,100.0,79.1,81.0,Successful
+Scott McTominay,Napoli,5,28,Pass,Pass,FirstHalf,78.4,81.6,74.2,92.5,Successful
+Mathías Olivera,Napoli,5,29,Pass,Pass,FirstHalf,74.1,92.8,56.2,86.7,Successful
+Rafa Marín,Napoli,5,32,Pass,Pass,FirstHalf,56.4,86.2,53.1,48.6,Successful
+Amir Rrahmani,Napoli,5,37,Pass,Pass,FirstHalf,60.3,38.7,58.4,65.5,Successful
+Rafa Marín,Napoli,5,40,Pass,Pass,FirstHalf,59.0,65.4,68.8,94.2,Successful
+Noa Lang,Napoli,5,46,Pass,Pass,FirstHalf,80.1,90.0,95.8,72.4,Successful
+Mathías Olivera,Napoli,5,49,Pass,Pass,FirstHalf,96.1,72.3,95.7,70.9,Unsuccessful
+Jacobo Ramón,Como,5,49,BlockedPass,BlockedPass,FirstHalf,4.3,29.1,0.0,0.0,Successful
+Mathías Olivera,Napoli,5,50,Key Pass,Pass,FirstHalf,97.0,70.6,96.6,54.3,Successful
+Rasmus Højlund,Napoli,5,51,Shot off Target,MissedShots,FirstHalf,96.6,54.3,0.0,0.0,Successful
+Frank Anguissa,Napoli,5,52,BallTouch,BallTouch,FirstHalf,96.3,43.7,0.0,0.0,Successful
+Scott McTominay,Napoli,5,53,Shot on Target,SavedShot,FirstHalf,95.9,46.9,0.0,0.0,Successful
+Álex Valle,Como,5,53,Save,Save,FirstHalf,2.0,51.6,0.0,0.0,Successful
+Lucas da Cunha,Como,5,56,Clearance,Clearance,FirstHalf,12.2,50.2,44.6,66.4,Successful
+Amir Rrahmani,Napoli,5,57,Pass,Pass,FirstHalf,60.0,32.4,74.1,33.9,Successful
+Matteo Politano,Napoli,5,58,Pass,Pass,FirstHalf,74.2,34.0,71.2,19.2,Successful
+Giovanni Di Lorenzo,Napoli,6,1,Cross,Pass,FirstHalf,71.6,19.3,75.9,25.9,Unsuccessful
+Álex Valle,Como,6,1,BallTouch,BallTouch,FirstHalf,19.5,68.1,0.0,0.0,Successful
+Jacobo Ramón,Como,6,2,Clearance,Clearance,FirstHalf,7.5,49.9,14.2,40.6,Successful
+Mathías Olivera,Napoli,6,3,Shot off Target,MissedShots,FirstHalf,86.4,62.5,0.0,0.0,Successful
+Jean Butez,Como,6,41,Pass,Pass,FirstHalf,2.1,46.3,10.1,70.8,Successful
+Trevoh Chalobah,Como,6,42,Pass,Pass,FirstHalf,10.1,70.8,32.7,73.8,Unsuccessful
+Frank Anguissa,Napoli,6,42,Ball Recovery,BallRecovery,FirstHalf,66.5,17.4,0.0,0.0,Successful
+Frank Anguissa,Napoli,6,43,Pass,Pass,FirstHalf,66.5,17.4,65.3,29.4,Successful
+Stanislav Lobotka,Napoli,6,44,Pass,Pass,FirstHalf,65.3,29.4,70.8,39.9,Successful
+Scott McTominay,Napoli,6,45,Pass,Pass,FirstHalf,71.0,40.0,73.0,38.5,Unsuccessful
+Luis Milla,Como,6,46,Interception,Interception,FirstHalf,27.0,61.5,0.0,0.0,Successful
+Jacobo Ramón,Como,6,49,Clearance,Clearance,FirstHalf,11.6,42.0,42.0,7.8,Successful
+Mathías Olivera,Napoli,6,50,Pass,Pass,FirstHalf,58.6,72.3,75.5,59.2,Successful
+Scott McTominay,Napoli,6,52,BallTouch,BallTouch,FirstHalf,72.3,62.1,0.0,0.0,Unsuccessful
+Nico Paz,Como,6,53,Pass,Pass,FirstHalf,33.1,24.1,22.5,17.2,Successful
+Yan Couto,Como,6,54,Ball Recovery,BallRecovery,FirstHalf,22.5,17.2,0.0,0.0,Successful
+Yan Couto,Como,6,55,Pass,Pass,FirstHalf,22.4,17.5,17.8,31.6,Successful
+Jacobo Ramón,Como,6,58,Pass,Pass,FirstHalf,21.0,31.3,26.5,41.8,Successful
+Lucas da Cunha,Como,7,5,Pass,Pass,FirstHalf,34.3,60.1,42.3,61.0,Successful
+Martin Baturina,Como,7,8,Pass,Pass,FirstHalf,43.0,69.9,52.3,94.5,Successful
+Álex Valle,Como,7,10,Pass,Pass,FirstHalf,52.3,94.5,45.8,73.8,Successful
+Lucas da Cunha,Como,7,13,Pass,Pass,FirstHalf,46.1,69.4,39.4,63.0,Successful
+Trevoh Chalobah,Como,7,16,Pass,Pass,FirstHalf,39.4,63.0,44.0,73.8,Successful
+Lucas da Cunha,Como,7,18,Pass,Pass,FirstHalf,44.0,73.8,54.0,96.7,Successful
+Martin Baturina,Como,7,20,Pass,Pass,FirstHalf,54.2,96.7,46.2,85.9,Successful
+Lucas da Cunha,Como,7,23,Pass,Pass,FirstHalf,45.9,81.9,37.6,64.9,Successful
+Trevoh Chalobah,Como,7,26,Pass,Pass,FirstHalf,39.8,63.3,37.2,37.2,Successful
+Jacobo Ramón,Como,7,31,Long Pass,Pass,FirstHalf,46.2,33.6,77.1,95.4,Successful
+Álex Valle,Como,7,34,Pass,Pass,FirstHalf,77.1,95.4,64.6,85.9,Successful
+Lucas da Cunha,Como,7,37,Pass,Pass,FirstHalf,64.6,85.9,63.5,70.5,Successful
+Luis Milla,Como,7,39,Pass,Pass,FirstHalf,64.1,72.1,67.3,84.7,Successful
+Lucas da Cunha,Como,7,42,Pass,Pass,FirstHalf,68.3,83.4,76.8,95.1,Successful
+Álex Valle,Como,7,43,Pass,Pass,FirstHalf,75.1,94.3,70.5,81.0,Successful
+Martin Baturina,Como,7,47,Pass,Pass,FirstHalf,68.6,74.4,64.4,42.3,Successful
+Jacobo Ramón,Como,7,51,Pass,Pass,FirstHalf,64.1,32.7,67.9,20.8,Successful
+Yan Couto,Como,7,54,Pass,Pass,FirstHalf,65.2,31.0,60.6,46.6,Successful
+Luis Milla,Como,7,55,Pass,Pass,FirstHalf,60.6,46.6,60.3,69.4,Successful
+Trevoh Chalobah,Como,7,57,Pass,Pass,FirstHalf,60.3,69.4,67.6,95.5,Successful
+Lucas da Cunha,Como,8,1,Pass,Pass,FirstHalf,71.8,94.0,74.1,78.1,Successful
+Álex Valle,Como,8,2,Pass,Pass,FirstHalf,74.1,78.1,63.5,70.8,Successful
+Nico Paz,Como,8,5,Pass,Pass,FirstHalf,61.9,66.1,65.1,22.9,Successful
+Yan Couto,Como,8,10,Pass,Pass,FirstHalf,70.6,20.2,77.5,8.8,Successful
+Assane Diao,Como,8,12,Pass,Pass,FirstHalf,73.4,11.5,58.5,31.3,Successful
+Jacobo Ramón,Como,8,14,Pass,Pass,FirstHalf,58.5,31.3,62.8,35.7,Successful
+Luis Milla,Como,8,16,Pass,Pass,FirstHalf,62.2,34.3,72.7,26.5,Successful
+Assane Diao,Como,8,20,Cross,Pass,FirstHalf,88.3,19.3,85.6,37.0,Successful
+Nico Paz,Como,8,22,Loss of Possession,Dispossessed,FirstHalf,87.4,36.6,0.0,0.0,Successful
+Rafa Marín,Napoli,8,23,Was Dribbled,Tackle,FirstHalf,12.5,63.4,0.0,0.0,Unsuccessful
+Nico Paz,Como,8,23,BallTouch,BallTouch,FirstHalf,85.6,37.0,0.0,0.0,Successful
+Amir Rrahmani,Napoli,8,46,Pass,Pass,FirstHalf,3.4,40.9,2.5,55.2,Successful
+Alex Meret,Napoli,8,48,Long Pass,Pass,FirstHalf,5.4,61.3,48.1,58.2,Unsuccessful
+Jacobo Ramón,Como,8,51,Long Pass,Pass,FirstHalf,55.5,45.0,74.5,54.6,Unsuccessful
+Tasos Douvikas,Como,8,54,Challenge,Challenge,FirstHalf,76.4,48.7,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,8,54,Successful Dribble,TakeOn,FirstHalf,23.6,51.3,0.0,0.0,Successful
+Frank Anguissa,Napoli,8,55,Pass,Pass,FirstHalf,23.6,45.9,23.0,66.6,Successful
+Rafa Marín,Napoli,8,56,Pass,Pass,FirstHalf,23.0,66.6,26.7,85.2,Successful
+Mathías Olivera,Napoli,8,58,Pass,Pass,FirstHalf,26.7,87.1,16.0,74.4,Successful
+Rafa Marín,Napoli,9,0,Pass,Pass,FirstHalf,16.0,74.5,6.2,50.4,Successful
+Alex Meret,Napoli,9,3,Pass,Pass,FirstHalf,6.0,50.4,17.3,7.6,Successful
+Giovanni Di Lorenzo,Napoli,9,6,Pass,Pass,FirstHalf,17.1,7.3,33.9,14.1,Successful
+Frank Anguissa,Napoli,9,10,Pass,Pass,FirstHalf,32.9,12.6,41.4,9.7,Successful
+Scott McTominay,Napoli,9,12,Pass,Pass,FirstHalf,39.7,9.0,30.6,15.6,Successful
+Frank Anguissa,Napoli,9,16,Pass,Pass,FirstHalf,31.7,20.8,39.2,10.8,Successful
+Scott McTominay,Napoli,9,23,Pass,Pass,FirstHalf,36.3,23.5,39.9,5.8,Successful
+Giovanni Di Lorenzo,Napoli,9,28,Long Pass,Pass,FirstHalf,42.1,6.1,89.0,23.8,Unsuccessful
+Jean Butez,Como,9,30,KeeperPickup,KeeperPickup,FirstHalf,6.4,78.3,0.0,0.0,Successful
+Jean Butez,Como,9,32,Pass,Pass,FirstHalf,7.6,76.5,23.7,39.7,Successful
+Jacobo Ramón,Como,9,38,Pass,Pass,FirstHalf,26.7,36.7,31.0,22.0,Successful
+Yan Couto,Como,9,41,Pass,Pass,FirstHalf,34.8,20.5,34.4,40.3,Successful
+Luis Milla,Como,9,43,Pass,Pass,FirstHalf,35.8,42.9,45.9,59.1,Successful
+Lucas da Cunha,Como,9,47,Pass,Pass,FirstHalf,52.9,66.7,58.2,94.2,Successful
+Martin Baturina,Como,9,51,Pass,Pass,FirstHalf,58.0,93.3,53.8,74.7,Successful
+Lucas da Cunha,Como,9,53,Pass,Pass,FirstHalf,53.5,72.7,52.4,36.6,Successful
+Jacobo Ramón,Como,9,57,Pass,Pass,FirstHalf,56.2,32.1,63.2,7.8,Successful
+Yan Couto,Como,9,59,Pass,Pass,FirstHalf,63.8,7.9,72.8,13.6,Successful
+Nico Paz,Como,10,3,Pass,Pass,FirstHalf,71.7,24.1,74.8,25.9,Unsuccessful
+Rafa Marín,Napoli,10,3,BlockedPass,BlockedPass,FirstHalf,25.2,74.1,0.0,0.0,Successful
+Frank Anguissa,Napoli,10,5,Pass,Pass,FirstHalf,26.0,57.9,30.0,57.6,Unsuccessful
+Luis Milla,Como,10,7,Interception,Interception,FirstHalf,70.0,42.4,0.0,0.0,Successful
+Álex Valle,Como,10,8,Pass,Pass,FirstHalf,63.2,60.1,52.9,54.0,Successful
+Trevoh Chalobah,Como,10,9,Pass,Pass,FirstHalf,52.9,54.0,48.3,34.5,Successful
+Jacobo Ramón,Como,10,13,Long Pass,Pass,FirstHalf,55.5,36.7,70.2,90.3,Successful
+Álex Valle,Como,10,17,Loss of Possession,Dispossessed,FirstHalf,69.8,87.2,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,10,17,Successful Tackle,Tackle,FirstHalf,30.2,12.8,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,10,19,Unsuccessful Dribble,TakeOn,FirstHalf,35.0,11.6,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,10,19,Was Dribbled,Tackle,FirstHalf,65.1,88.4,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,10,21,BallTouch,BallTouch,FirstHalf,32.9,12.4,0.0,0.0,Successful
+Álex Valle,Como,10,22,Pass,Pass,FirstHalf,53.5,94.3,35.2,64.5,Successful
+Trevoh Chalobah,Como,10,25,Pass,Pass,FirstHalf,35.6,62.1,42.4,40.0,Successful
+Jacobo Ramón,Como,10,28,Pass,Pass,FirstHalf,44.6,34.8,52.6,12.9,Successful
+Yan Couto,Como,10,31,Pass,Pass,FirstHalf,52.6,12.9,42.9,31.9,Successful
+Jacobo Ramón,Como,10,33,Pass,Pass,FirstHalf,44.6,33.0,41.0,56.7,Successful
+Trevoh Chalobah,Como,10,36,Pass,Pass,FirstHalf,41.0,56.7,50.8,68.8,Successful
+Álex Valle,Como,10,41,Pass,Pass,FirstHalf,53.1,66.6,48.1,35.8,Successful
+Jacobo Ramón,Como,10,43,Pass,Pass,FirstHalf,54.6,33.6,57.6,43.8,Successful
+Luis Milla,Como,10,46,Pass,Pass,FirstHalf,57.5,41.8,58.3,12.3,Successful
+Yan Couto,Como,10,48,Pass,Pass,FirstHalf,58.2,12.3,68.3,4.5,Successful
+Assane Diao,Como,10,50,Pass,Pass,FirstHalf,68.3,4.5,65.2,10.6,Successful
+Nico Paz,Como,10,53,Pass,Pass,FirstHalf,66.7,13.5,56.0,11.5,Successful
+Yan Couto,Como,10,56,Pass,Pass,FirstHalf,60.6,33.1,64.4,51.6,Successful
+Álex Valle,Como,10,58,Pass,Pass,FirstHalf,64.4,51.6,57.6,66.6,Successful
+Trevoh Chalobah,Como,10,59,Pass,Pass,FirstHalf,57.6,66.6,63.0,95.1,Successful
+Lucas da Cunha,Como,11,5,Pass,Pass,FirstHalf,66.7,72.1,63.8,46.8,Successful
+Luis Milla,Como,11,7,Long Pass,Pass,FirstHalf,64.2,42.7,83.7,5.2,Successful
+Assane Diao,Como,11,14,Cross,Pass,FirstHalf,87.7,16.5,100.0,63.4,Unsuccessful
+Alex Meret,Napoli,11,31,Pass,Pass,FirstHalf,4.5,49.3,8.3,69.1,Successful
+Rafa Marín,Napoli,11,34,Pass,Pass,FirstHalf,9.8,69.7,14.3,90.4,Successful
+Mathías Olivera,Napoli,11,36,Pass,Pass,FirstHalf,14.4,90.4,33.9,88.9,Successful
+Stanislav Lobotka,Napoli,11,40,Loss of Possession,Dispossessed,FirstHalf,55.3,92.6,0.0,0.0,Successful
+Nico Paz,Como,11,40,Successful Tackle,Tackle,FirstHalf,44.7,7.4,0.0,0.0,Successful
+Mathías Olivera,Napoli,11,57,Throw In,Pass,FirstHalf,59.5,100.0,43.8,87.0,Successful
+Giovanni Di Lorenzo,Napoli,12,0,Offside,OffsideGiven,FirstHalf,85.6,23.2,0.0,0.0,Unsuccessful
+Rafa Marín,Napoli,12,0,Pass,Pass,FirstHalf,43.8,83.1,42.7,48.0,Successful
+Amir Rrahmani,Napoli,12,5,Pass,Pass,FirstHalf,47.1,48.3,48.7,65.5,Successful
+Rafa Marín,Napoli,12,9,Pass,Pass,FirstHalf,48.8,65.5,68.1,93.1,Successful
+Noa Lang,Napoli,12,14,Pass,Pass,FirstHalf,69.3,93.7,58.3,70.2,Successful
+Rafa Marín,Napoli,12,16,Pass,Pass,FirstHalf,58.0,70.2,61.9,45.7,Successful
+Frank Anguissa,Napoli,12,19,Pass,Pass,FirstHalf,61.5,40.5,65.7,4.8,Successful
+Matteo Politano,Napoli,12,21,Pass,Pass,FirstHalf,64.6,5.1,74.4,13.8,Unsuccessful
+Álex Valle,Como,12,22,Interception,Interception,FirstHalf,25.6,86.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,12,24,Offside,OffsidePass,FirstHalf,74.2,28.3,85.6,23.2,Successful
+Jacobo Ramón,Como,12,24,OffsideProvoked,OffsideProvoked,FirstHalf,18.4,53.4,0.0,0.0,Successful
+Trevoh Chalobah,Como,12,46,Pass,Pass,FirstHalf,12.2,73.8,4.9,52.0,Successful
+Jean Butez,Como,12,47,Pass,Pass,FirstHalf,4.9,52.0,23.6,18.1,Successful
+Yan Couto,Como,12,49,Pass,Pass,FirstHalf,24.0,15.1,11.9,16.0,Successful
+Jacobo Ramón,Como,12,56,Pass,Pass,FirstHalf,11.9,16.0,6.0,43.9,Successful
+Jean Butez,Como,12,57,Pass,Pass,FirstHalf,6.0,43.9,22.8,76.9,Successful
+Trevoh Chalobah,Como,13,1,Pass,Pass,FirstHalf,29.6,75.0,27.7,61.5,Successful
+Lucas da Cunha,Como,13,3,Pass,Pass,FirstHalf,31.9,58.3,40.3,25.2,Successful
+Yan Couto,Como,13,11,Pass,Pass,FirstHalf,56.3,37.3,46.6,59.7,Successful
+Trevoh Chalobah,Como,13,14,Pass,Pass,FirstHalf,47.5,59.1,58.2,66.7,Successful
+Lucas da Cunha,Como,13,17,Pass,Pass,FirstHalf,58.2,66.7,47.3,60.1,Successful
+Trevoh Chalobah,Como,13,19,Pass,Pass,FirstHalf,47.3,60.1,52.9,43.2,Successful
+Luis Milla,Como,13,21,Pass,Pass,FirstHalf,52.9,43.2,57.1,24.7,Successful
+Nico Paz,Como,13,22,Pass,Pass,FirstHalf,57.1,24.7,67.4,29.1,Successful
+Yan Couto,Como,13,24,Pass,Pass,FirstHalf,67.3,27.6,72.0,5.7,Successful
+Assane Diao,Como,13,26,Pass,Pass,FirstHalf,70.2,7.2,59.4,10.2,Successful
+Nico Paz,Como,13,28,Pass,Pass,FirstHalf,59.4,10.2,59.7,27.4,Successful
+Luis Milla,Como,13,30,Pass,Pass,FirstHalf,59.3,25.3,71.4,8.5,Successful
+Assane Diao,Como,13,33,Pass,Pass,FirstHalf,71.4,8.5,75.1,16.6,Successful
+Yan Couto,Como,13,33,Pass,Pass,FirstHalf,75.1,16.6,87.3,6.1,Successful
+Assane Diao,Como,13,35,Cross,Pass,FirstHalf,87.3,7.2,84.7,63.6,Successful
+Álex Valle,Como,13,38,Key Pass,BallTouch,FirstHalf,84.3,63.3,0.0,0.0,Successful
+Lucas da Cunha,Como,13,41,Shot on Target,SavedShot,FirstHalf,76.4,70.0,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,13,41,Save,Save,FirstHalf,13.2,38.6,0.0,0.0,Successful
+Lucas da Cunha,Como,13,41,CornerAwarded,CornerAwarded,FirstHalf,91.6,50.0,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,13,41,CornerAwarded,CornerAwarded,FirstHalf,8.4,50.0,0.0,0.0,Unsuccessful
+Nico Paz,Como,14,10,Key Pass,Pass,FirstHalf,99.5,0.5,91.1,43.8,Successful
+Álex Valle,Como,14,12,Shot off Target,MissedShots,FirstHalf,91.1,43.8,0.0,0.0,Successful
+Alex Meret,Napoli,14,32,Pass,Pass,FirstHalf,4.2,43.3,11.2,73.9,Successful
+Rafa Marín,Napoli,14,33,Pass,Pass,FirstHalf,11.3,73.9,10.6,88.0,Successful
+Mathías Olivera,Napoli,14,34,Pass,Pass,FirstHalf,10.6,88.0,19.4,74.1,Successful
+Rafa Marín,Napoli,14,35,Pass,Pass,FirstHalf,20.0,75.6,21.6,93.4,Successful
+Stanislav Lobotka,Napoli,14,39,Pass,Pass,FirstHalf,20.9,93.6,12.0,60.4,Successful
+Frank Anguissa,Napoli,14,41,Pass,Pass,FirstHalf,12.0,60.4,6.9,73.2,Successful
+Mathías Olivera,Napoli,14,43,Pass,Pass,FirstHalf,6.9,73.2,12.6,88.3,Successful
+Assane Diao,Como,14,45,Challenge,Challenge,FirstHalf,89.6,8.9,0.0,0.0,Unsuccessful
+Stanislav Lobotka,Napoli,14,45,Successful Dribble,TakeOn,FirstHalf,10.4,91.1,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,14,49,Pass,Pass,FirstHalf,11.6,82.3,4.0,45.4,Successful
+Alex Meret,Napoli,14,51,Long Pass,Pass,FirstHalf,4.4,44.4,26.3,6.3,Successful
+Giovanni Di Lorenzo,Napoli,14,59,Pass,Pass,FirstHalf,38.0,17.4,34.8,33.1,Successful
+Mathías Olivera,Napoli,15,0,Offside,OffsideGiven,FirstHalf,71.8,75.6,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,15,4,Long Pass,Pass,FirstHalf,41.2,34.9,69.1,85.6,Successful
+Noa Lang,Napoli,15,7,Aerial Won,Aerial,FirstHalf,69.1,85.6,0.0,0.0,Successful
+Yan Couto,Como,15,7,Aerial Lost,Aerial,FirstHalf,30.9,14.4,0.0,0.0,Unsuccessful
+Noa Lang,Napoli,15,7,Offside,OffsidePass,FirstHalf,69.1,85.6,71.8,75.6,Successful
+Jacobo Ramón,Como,15,7,OffsideProvoked,OffsideProvoked,FirstHalf,29.5,29.1,0.0,0.0,Successful
+Jacobo Ramón,Como,15,32,Long Pass,Pass,FirstHalf,26.9,25.8,52.0,54.7,Successful
+Tasos Douvikas,Como,15,37,Foul,Foul,FirstHalf,52.2,56.6,0.0,0.0,Successful
+Amir Rrahmani,Napoli,15,37,Foul,Foul,FirstHalf,47.8,43.4,0.0,0.0,Unsuccessful
+Luis Milla,Como,16,0,Pass,Pass,FirstHalf,52.6,53.4,54.5,70.3,Successful
+Lucas da Cunha,Como,16,4,Long Pass,Pass,FirstHalf,55.8,70.0,71.6,13.2,Successful
+Assane Diao,Como,16,9,Assist,Pass,FirstHalf,91.6,29.5,89.4,47.8,Successful
+Martin Baturina,Como,16,11,Goal,Goal,FirstHalf,89.7,47.4,0.0,0.0,Successful
+Rasmus Højlund,Napoli,17,32,Pass,Pass,FirstHalf,50.2,49.9,34.1,37.2,Successful
+Amir Rrahmani,Napoli,17,34,Pass,Pass,FirstHalf,34.4,39.9,34.7,58.2,Successful
+Rafa Marín,Napoli,17,35,Pass,Pass,FirstHalf,34.7,58.2,38.7,84.1,Successful
+Mathías Olivera,Napoli,17,36,Pass,Pass,FirstHalf,38.7,84.1,33.8,63.4,Successful
+Rafa Marín,Napoli,17,37,Pass,Pass,FirstHalf,33.8,63.3,34.6,39.6,Successful
+Amir Rrahmani,Napoli,17,39,Long Pass,Pass,FirstHalf,35.6,39.7,85.6,19.6,Unsuccessful
+Álex Valle,Como,17,44,BallTouch,BallTouch,FirstHalf,13.1,69.9,0.0,0.0,Successful
+Trevoh Chalobah,Como,17,46,Clearance,Clearance,FirstHalf,13.2,66.3,31.2,78.3,Successful
+Giovanni Di Lorenzo,Napoli,17,49,Pass,Pass,FirstHalf,59.6,23.5,50.8,25.5,Successful
+Amir Rrahmani,Napoli,17,52,Pass,Pass,FirstHalf,59.2,26.5,69.1,17.1,Successful
+Giovanni Di Lorenzo,Napoli,17,55,Pass,Pass,FirstHalf,69.2,16.9,73.6,6.6,Successful
+Matteo Politano,Napoli,17,57,Pass,Pass,FirstHalf,73.3,6.6,64.3,14.2,Successful
+Frank Anguissa,Napoli,17,59,Pass,Pass,FirstHalf,64.3,13.9,55.1,28.8,Successful
+Amir Rrahmani,Napoli,18,2,Pass,Pass,FirstHalf,55.5,28.6,58.0,64.0,Successful
+Rafa Marín,Napoli,18,5,Pass,Pass,FirstHalf,58.2,63.4,62.5,54.1,Successful
+Stanislav Lobotka,Napoli,18,6,Pass,Pass,FirstHalf,62.5,54.1,54.1,39.6,Successful
+Amir Rrahmani,Napoli,18,11,Chipped Pass,Pass,FirstHalf,63.0,31.8,78.0,1.9,Successful
+Matteo Politano,Napoli,18,18,Key Pass,Pass,FirstHalf,87.5,9.7,96.8,57.6,Successful
+Noa Lang,Napoli,18,22,Shot off Target,MissedShots,FirstHalf,96.8,57.6,0.0,0.0,Successful
+Jean Butez,Como,18,50,Long Pass,Pass,FirstHalf,4.6,52.1,63.5,24.6,Successful
+Assane Diao,Como,18,52,Aerial Won,Aerial,FirstHalf,63.5,24.6,0.0,0.0,Successful
+Mathías Olivera,Napoli,18,52,Aerial Lost,Aerial,FirstHalf,36.5,75.4,0.0,0.0,Unsuccessful
+Assane Diao,Como,18,53,Pass,Pass,FirstHalf,63.5,24.6,68.1,30.7,Unsuccessful
+Mathías Olivera,Napoli,18,59,Ball Recovery,BallRecovery,FirstHalf,34.9,64.0,0.0,0.0,Successful
+Mathías Olivera,Napoli,18,59,Pass,Pass,FirstHalf,34.9,64.0,35.1,42.6,Successful
+Frank Anguissa,Napoli,19,0,Pass,Pass,FirstHalf,35.1,42.6,34.7,20.2,Successful
+Giovanni Di Lorenzo,Napoli,19,3,Pass,Pass,FirstHalf,38.2,18.7,51.0,3.7,Successful
+Matteo Politano,Napoli,19,7,Pass,Pass,FirstHalf,51.5,3.9,46.5,12.7,Successful
+Giovanni Di Lorenzo,Napoli,19,12,Pass,Pass,FirstHalf,47.7,22.5,66.8,37.2,Successful
+Rasmus Højlund,Napoli,19,14,Unsuccessful Dribble,TakeOn,FirstHalf,68.4,40.6,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,19,14,Successful Tackle,Tackle,FirstHalf,31.6,59.4,0.0,0.0,Successful
+Luis Milla,Como,19,17,Ball Recovery,BallRecovery,FirstHalf,34.4,56.2,0.0,0.0,Successful
+Luis Milla,Como,19,17,Pass,Pass,FirstHalf,34.4,56.2,44.5,68.2,Successful
+Lucas da Cunha,Como,19,18,Pass,Pass,FirstHalf,44.5,68.2,61.4,92.2,Successful
+Martin Baturina,Como,19,25,Pass,Pass,FirstHalf,79.6,66.9,80.5,37.8,Successful
+Assane Diao,Como,19,29,Pass,Pass,FirstHalf,77.2,40.0,75.2,26.4,Successful
+Yan Couto,Como,19,32,Cross,Pass,FirstHalf,72.7,26.4,91.8,76.8,Unsuccessful
+Matteo Politano,Napoli,19,35,Ball Recovery,BallRecovery,FirstHalf,8.2,11.1,0.0,0.0,Successful
+Matteo Politano,Napoli,19,38,Pass,Pass,FirstHalf,17.7,7.8,24.1,30.1,Successful
+Stanislav Lobotka,Napoli,19,41,Pass,Pass,FirstHalf,24.1,29.2,35.4,31.2,Successful
+Frank Anguissa,Napoli,19,45,Foul,Foul,FirstHalf,36.6,30.2,0.0,0.0,Successful
+Luis Milla,Como,19,45,Foul,Foul,FirstHalf,63.4,69.8,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,19,54,Pass,Pass,FirstHalf,34.9,25.8,29.3,48.7,Successful
+Amir Rrahmani,Napoli,19,56,Pass,Pass,FirstHalf,30.8,49.5,34.8,70.0,Successful
+Rafa Marín,Napoli,19,59,Pass,Pass,FirstHalf,34.8,70.0,58.8,95.2,Successful
+Noa Lang,Napoli,20,5,Pass,Pass,FirstHalf,67.1,81.6,77.5,63.3,Unsuccessful
+Trevoh Chalobah,Como,20,6,Ball Recovery,BallRecovery,FirstHalf,27.1,32.4,0.0,0.0,Successful
+Trevoh Chalobah,Como,20,7,Pass,Pass,FirstHalf,27.1,32.4,35.5,17.2,Successful
+Nico Paz,Como,20,9,Pass,Pass,FirstHalf,32.4,15.6,21.9,16.2,Successful
+Yan Couto,Como,20,10,Pass,Pass,FirstHalf,21.9,16.2,21.4,28.0,Successful
+Jacobo Ramón,Como,20,11,Pass,Pass,FirstHalf,21.4,28.0,29.3,23.2,Unsuccessful
+Mathías Olivera,Napoli,20,14,Loss of Possession,Dispossessed,FirstHalf,72.0,70.0,0.0,0.0,Successful
+Luis Milla,Como,20,14,Successful Tackle,Tackle,FirstHalf,28.0,30.0,0.0,0.0,Successful
+Luis Milla,Como,20,17,Pass,Pass,FirstHalf,28.3,38.4,29.2,58.3,Successful
+Álex Valle,Como,20,22,Long Pass,Pass,FirstHalf,48.1,41.4,71.1,6.1,Successful
+Nico Paz,Como,20,26,Pass,Pass,FirstHalf,77.9,13.5,95.3,31.0,Successful
+Álex Valle,Como,20,29,Pass,Pass,FirstHalf,96.6,31.0,93.8,34.3,Unsuccessful
+Stanislav Lobotka,Napoli,20,29,BlockedPass,BlockedPass,FirstHalf,6.2,65.7,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,20,30,CornerAwarded,CornerAwarded,FirstHalf,1.4,66.2,0.0,0.0,Unsuccessful
+Álex Valle,Como,20,30,CornerAwarded,CornerAwarded,FirstHalf,98.6,33.8,0.0,0.0,Successful
+Luis Milla,Como,21,5,Key Pass,Pass,FirstHalf,99.5,0.5,90.5,48.1,Successful
+Assane Diao,Como,21,7,Shot on Target,SavedShot,FirstHalf,90.5,48.1,0.0,0.0,Successful
+Alex Meret,Napoli,21,7,Save,Save,FirstHalf,2.6,51.9,0.0,0.0,Successful
+Alex Meret,Napoli,21,10,KeeperPickup,KeeperPickup,FirstHalf,4.4,52.6,0.0,0.0,Successful
+Alex Meret,Napoli,21,16,Pass,Pass,FirstHalf,11.0,50.2,22.0,18.4,Successful
+Giovanni Di Lorenzo,Napoli,21,21,Pass,Pass,FirstHalf,27.1,17.1,30.7,27.4,Successful
+Frank Anguissa,Napoli,21,23,Pass,Pass,FirstHalf,38.1,30.1,53.9,65.5,Successful
+Scott McTominay,Napoli,21,26,Pass,Pass,FirstHalf,55.8,66.7,71.9,90.0,Successful
+Noa Lang,Napoli,21,32,Cross,Pass,FirstHalf,88.1,79.0,88.9,62.8,Unsuccessful
+Jacobo Ramón,Como,21,34,Clearance,Clearance,FirstHalf,7.9,38.1,5.4,24.4,Successful
+Yan Couto,Como,21,35,Ball Recovery,BallRecovery,FirstHalf,6.8,24.3,0.0,0.0,Successful
+Yan Couto,Como,21,37,Chipped Pass,Pass,FirstHalf,12.0,24.7,30.8,44.4,Successful
+Lucas da Cunha,Como,21,39,Pass,Pass,FirstHalf,30.8,44.4,26.5,50.8,Successful
+Nico Paz,Como,21,42,Pass,Pass,FirstHalf,27.0,55.0,36.9,58.2,Successful
+Martin Baturina,Como,21,49,Pass,Pass,FirstHalf,45.4,64.9,39.5,59.5,Successful
+Nico Paz,Como,21,50,Pass,Pass,FirstHalf,39.5,59.5,43.5,53.1,Successful
+Lucas da Cunha,Como,21,51,Pass,Pass,FirstHalf,43.6,53.2,45.8,56.7,Successful
+Nico Paz,Como,21,53,Pass,Pass,FirstHalf,46.4,53.8,37.6,23.8,Successful
+Yan Couto,Como,21,56,Pass,Pass,FirstHalf,41.3,23.4,56.1,3.9,Successful
+Assane Diao,Como,21,58,Pass,Pass,FirstHalf,57.0,3.3,43.0,19.3,Successful
+Yan Couto,Como,22,0,Pass,Pass,FirstHalf,43.5,20.5,37.7,40.2,Successful
+Jacobo Ramón,Como,22,3,Pass,Pass,FirstHalf,37.7,40.2,44.8,64.6,Successful
+Lucas da Cunha,Como,22,5,Pass,Pass,FirstHalf,44.8,64.6,39.5,56.4,Successful
+Trevoh Chalobah,Como,22,8,Pass,Pass,FirstHalf,38.3,57.3,38.2,37.0,Successful
+Jacobo Ramón,Como,22,9,Pass,Pass,FirstHalf,38.2,37.0,44.9,46.2,Successful
+Luis Milla,Como,22,12,Pass,Pass,FirstHalf,45.1,47.1,46.8,74.5,Successful
+Lucas da Cunha,Como,22,17,Pass,Pass,FirstHalf,51.6,74.4,54.9,68.7,Successful
+Martin Baturina,Como,22,20,Pass,Pass,FirstHalf,53.3,68.2,46.4,75.9,Successful
+Lucas da Cunha,Como,22,21,Pass,Pass,FirstHalf,46.4,75.9,40.1,61.9,Successful
+Trevoh Chalobah,Como,22,22,Pass,Pass,FirstHalf,40.1,61.9,38.0,36.9,Successful
+Jacobo Ramón,Como,22,25,Pass,Pass,FirstHalf,37.8,34.9,36.3,10.0,Successful
+Yan Couto,Como,22,27,Long Pass,Pass,FirstHalf,32.8,15.6,14.9,54.6,Successful
+Jean Butez,Como,22,31,Pass,Pass,FirstHalf,14.9,54.6,25.0,68.7,Successful
+Trevoh Chalobah,Como,22,36,Pass,Pass,FirstHalf,24.0,62.5,30.4,49.9,Successful
+Luis Milla,Como,22,42,Pass,Pass,FirstHalf,32.1,53.4,33.2,70.0,Successful
+Trevoh Chalobah,Como,22,45,Pass,Pass,FirstHalf,34.0,69.6,40.5,93.1,Successful
+Álex Valle,Como,22,47,Pass,Pass,FirstHalf,40.1,90.6,33.2,73.0,Successful
+Trevoh Chalobah,Como,25,39,Pass,Pass,FirstHalf,29.6,60.0,24.1,35.7,Successful
+Jacobo Ramón,Como,25,46,Pass,Pass,FirstHalf,26.4,29.5,37.3,27.0,Successful
+Nico Paz,Como,25,47,Pass,Pass,FirstHalf,37.3,27.0,29.5,9.3,Successful
+Yan Couto,Como,25,48,Pass,Pass,FirstHalf,29.5,9.3,20.1,25.9,Successful
+Jacobo Ramón,Como,25,51,Pass,Pass,FirstHalf,21.1,23.4,3.3,50.2,Successful
+Jean Butez,Como,26,3,Long Pass,Pass,FirstHalf,14.4,46.0,52.8,73.2,Successful
+Tasos Douvikas,Como,26,7,Pass,Pass,FirstHalf,43.2,72.3,40.0,86.1,Successful
+Álex Valle,Como,26,9,Pass,Pass,FirstHalf,40.0,86.1,69.3,79.6,Successful
+Assane Diao,Como,26,16,Pass,Pass,FirstHalf,70.7,96.3,91.9,86.2,Successful
+Álex Valle,Como,26,18,Cross,Pass,FirstHalf,91.9,86.2,92.1,53.8,Unsuccessful
+Amir Rrahmani,Napoli,26,18,Clearance,Clearance,FirstHalf,8.4,43.9,0.0,16.5,Successful
+Álex Valle,Como,26,19,CornerAwarded,CornerAwarded,FirstHalf,97.6,71.6,0.0,0.0,Successful
+Amir Rrahmani,Napoli,26,19,CornerAwarded,CornerAwarded,FirstHalf,2.4,28.4,0.0,0.0,Unsuccessful
+Martin Baturina,Como,26,51,Pass,Pass,FirstHalf,99.5,99.5,81.8,94.6,Successful
+Luis Milla,Como,26,54,Cross,Pass,FirstHalf,80.2,92.8,91.4,53.8,Unsuccessful
+Rasmus Højlund,Napoli,26,56,Clearance,Clearance,FirstHalf,8.4,43.5,13.1,60.3,Successful
+Trevoh Chalobah,Como,26,59,Aerial Won,Aerial,FirstHalf,86.9,39.7,0.0,0.0,Successful
+Frank Anguissa,Napoli,26,59,Aerial Lost,Aerial,FirstHalf,13.1,60.3,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,26,59,Key Pass,Pass,FirstHalf,86.9,39.7,84.4,40.2,Successful
+Jacobo Ramón,Como,27,0,Shot off Target,MissedShots,FirstHalf,84.4,40.2,0.0,0.0,Successful
+Alex Meret,Napoli,27,14,Pass,Pass,FirstHalf,4.7,49.3,7.0,71.4,Successful
+Rafa Marín,Napoli,27,18,Pass,Pass,FirstHalf,16.7,73.3,18.9,92.8,Successful
+Mathías Olivera,Napoli,27,20,Pass,Pass,FirstHalf,17.4,92.4,24.5,73.6,Successful
+Rafa Marín,Napoli,27,21,Pass,Pass,FirstHalf,26.2,78.9,29.0,96.4,Successful
+Stanislav Lobotka,Napoli,27,29,Pass,Pass,FirstHalf,42.3,88.0,61.7,67.6,Successful
+Rasmus Højlund,Napoli,27,30,Pass,Pass,FirstHalf,60.9,70.8,58.7,45.7,Successful
+Scott McTominay,Napoli,27,33,Pass,Pass,FirstHalf,63.1,41.4,78.2,13.3,Successful
+Matteo Politano,Napoli,27,37,Pass,Pass,FirstHalf,80.0,19.8,95.7,20.2,Successful
+Giovanni Di Lorenzo,Napoli,27,40,Pass,Pass,FirstHalf,95.9,21.7,86.9,45.1,Unsuccessful
+Luis Milla,Como,27,42,Clearance,Clearance,FirstHalf,9.0,53.2,54.6,78.6,Successful
+Amir Rrahmani,Napoli,27,52,Pass,Pass,FirstHalf,48.3,17.1,65.4,11.5,Successful
+Matteo Politano,Napoli,27,53,Pass,Pass,FirstHalf,64.9,11.5,54.9,24.1,Successful
+Amir Rrahmani,Napoli,27,57,Pass,Pass,FirstHalf,55.1,22.8,59.3,28.8,Successful
+Scott McTominay,Napoli,28,0,Pass,Pass,FirstHalf,64.1,24.6,74.2,5.7,Successful
+Matteo Politano,Napoli,28,3,Pass,Pass,FirstHalf,78.2,5.7,64.4,22.5,Successful
+Giovanni Di Lorenzo,Napoli,28,7,Pass,Pass,FirstHalf,65.7,24.9,65.8,32.7,Successful
+Stanislav Lobotka,Napoli,28,8,Pass,Pass,FirstHalf,65.8,32.7,56.9,29.1,Successful
+Amir Rrahmani,Napoli,28,10,Pass,Pass,FirstHalf,58.3,30.4,61.8,49.8,Successful
+Mathías Olivera,Napoli,28,12,Long Pass,Pass,FirstHalf,62.2,51.6,73.9,95.1,Successful
+Noa Lang,Napoli,28,17,Pass,Pass,FirstHalf,67.6,88.0,66.6,63.0,Successful
+Stanislav Lobotka,Napoli,28,20,Pass,Pass,FirstHalf,67.8,65.5,61.7,75.1,Unsuccessful
+Assane Diao,Como,28,22,Ball Recovery,BallRecovery,FirstHalf,36.0,16.6,0.0,0.0,Successful
+Assane Diao,Como,28,29,Pass,Pass,FirstHalf,76.2,49.2,80.1,69.7,Successful
+Martin Baturina,Como,28,32,Pass,Pass,FirstHalf,84.9,66.0,84.6,40.3,Unsuccessful
+Mathías Olivera,Napoli,28,33,Pass,Pass,FirstHalf,8.8,57.7,11.1,52.0,Successful
+Stanislav Lobotka,Napoli,28,35,Ball Recovery,BallRecovery,FirstHalf,14.0,51.9,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,28,35,Pass,Pass,FirstHalf,14.0,51.9,28.7,35.7,Successful
+Scott McTominay,Napoli,28,39,Pass,Pass,FirstHalf,29.1,33.7,29.7,14.4,Successful
+Matteo Politano,Napoli,28,44,Long Pass,Pass,FirstHalf,39.7,19.9,52.9,93.6,Successful
+Noa Lang,Napoli,28,54,Pass,Pass,FirstHalf,73.6,83.8,79.5,64.9,Successful
+Mathías Olivera,Napoli,28,56,Pass,Pass,FirstHalf,79.5,64.9,67.5,77.2,Successful
+Noa Lang,Napoli,28,57,Pass,Pass,FirstHalf,67.5,76.9,65.9,60.6,Successful
+Frank Anguissa,Napoli,29,2,Pass,Pass,FirstHalf,67.8,55.2,66.6,72.3,Successful
+Noa Lang,Napoli,29,6,Pass,Pass,FirstHalf,65.0,68.7,64.9,38.7,Successful
+Amir Rrahmani,Napoli,29,9,Pass,Pass,FirstHalf,65.9,37.3,68.5,49.5,Successful
+Stanislav Lobotka,Napoli,29,12,Pass,Pass,FirstHalf,65.9,48.0,64.2,39.0,Successful
+Amir Rrahmani,Napoli,29,13,Key Pass,Pass,FirstHalf,64.1,38.2,77.1,47.7,Successful
+Jacobo Ramón,Como,29,15,Challenge,Challenge,FirstHalf,19.4,49.7,0.0,0.0,Unsuccessful
+Rasmus Højlund,Napoli,29,15,Successful Dribble,TakeOn,FirstHalf,80.6,50.3,0.0,0.0,Successful
+Rasmus Højlund,Napoli,29,17,Goal,Goal,FirstHalf,81.7,53.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,30,0,Offside,OffsideGiven,FirstHalf,80.4,70.2,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,30,40,Pass,Pass,FirstHalf,49.8,50.2,34.8,57.1,Successful
+Trevoh Chalobah,Como,30,41,Pass,Pass,FirstHalf,34.8,57.1,26.9,35.5,Successful
+Jacobo Ramón,Como,30,44,Pass,Pass,FirstHalf,26.9,34.9,29.5,13.3,Successful
+Yan Couto,Como,30,45,Pass,Pass,FirstHalf,29.7,13.3,38.8,8.1,Successful
+Nico Paz,Como,30,47,Pass,Pass,FirstHalf,38.8,8.1,40.8,18.9,Successful
+Luis Milla,Como,30,48,Pass,Pass,FirstHalf,40.8,18.9,57.0,7.5,Successful
+Assane Diao,Como,30,49,Pass,Pass,FirstHalf,57.0,7.5,59.3,6.4,Unsuccessful
+Mathías Olivera,Napoli,30,49,BlockedPass,BlockedPass,FirstHalf,40.7,93.6,0.0,0.0,Successful
+Rafa Marín,Napoli,30,51,Ball Recovery,BallRecovery,FirstHalf,35.9,89.1,0.0,0.0,Successful
+Rafa Marín,Napoli,30,52,Pass,Pass,FirstHalf,35.9,89.1,41.0,67.0,Successful
+Frank Anguissa,Napoli,30,53,Long Pass,OffsidePass,FirstHalf,44.2,63.4,80.4,70.2,Successful
+Yan Couto,Como,30,53,OffsideProvoked,OffsideProvoked,FirstHalf,26.2,37.2,0.0,0.0,Successful
+Jean Butez,Como,31,18,Pass,Pass,FirstHalf,17.8,40.6,22.3,64.5,Successful
+Trevoh Chalobah,Como,31,20,Pass,Pass,FirstHalf,18.0,63.3,14.5,23.8,Successful
+Jacobo Ramón,Como,31,23,Pass,Pass,FirstHalf,14.5,23.8,7.5,47.8,Successful
+Jean Butez,Como,31,36,Pass,Pass,FirstHalf,13.9,53.4,24.9,46.9,Successful
+Luis Milla,Como,31,37,Pass,Pass,FirstHalf,24.9,46.9,10.1,52.2,Successful
+Jean Butez,Como,31,48,Pass,Pass,FirstHalf,10.9,47.1,21.3,7.0,Successful
+Yan Couto,Como,31,53,Pass,Pass,FirstHalf,21.3,7.0,41.4,3.7,Unsuccessful
+Mathías Olivera,Napoli,31,54,Pass,Pass,FirstHalf,54.6,94.9,72.2,81.9,Unsuccessful
+Nico Paz,Como,32,8,Foul,Foul,FirstHalf,33.2,15.8,0.0,0.0,Successful
+Scott McTominay,Napoli,32,8,Foul,Foul,FirstHalf,66.8,84.2,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,32,15,Key Pass,Pass,FirstHalf,31.5,22.6,33.7,38.2,Successful
+Lucas da Cunha,Como,32,19,Shot off Target,MissedShots,FirstHalf,39.5,42.3,0.0,0.0,Successful
+Alex Meret,Napoli,32,24,Pass,Pass,FirstHalf,2.8,43.6,18.0,17.5,Successful
+Giovanni Di Lorenzo,Napoli,32,28,Pass,Pass,FirstHalf,18.7,20.5,35.5,7.5,Successful
+Matteo Politano,Napoli,32,29,Pass,Pass,FirstHalf,35.2,7.8,32.2,12.7,Successful
+Frank Anguissa,Napoli,32,31,Long Pass,Pass,FirstHalf,32.2,12.7,63.8,19.9,Unsuccessful
+Trevoh Chalobah,Como,32,34,Pass,Pass,FirstHalf,36.2,80.2,53.2,83.7,Successful
+Álex Valle,Como,32,35,Pass,Pass,FirstHalf,53.2,83.7,53.3,64.8,Successful
+Luis Milla,Como,32,37,Pass,Pass,FirstHalf,53.3,64.8,55.7,43.2,Successful
+Nico Paz,Como,32,39,Ball Recovery,BallRecovery,FirstHalf,55.8,43.2,0.0,0.0,Successful
+Frank Anguissa,Napoli,32,41,Challenge,Challenge,FirstHalf,43.7,58.3,0.0,0.0,Unsuccessful
+Nico Paz,Como,32,41,Successful Dribble,TakeOn,FirstHalf,56.3,41.7,0.0,0.0,Successful
+Nico Paz,Como,32,43,Pass,Pass,FirstHalf,59.9,41.5,62.7,64.5,Successful
+Lucas da Cunha,Como,32,44,Pass,Pass,FirstHalf,65.6,70.6,73.5,76.3,Successful
+Martin Baturina,Como,32,47,Pass,Pass,FirstHalf,76.8,70.9,71.9,58.9,Successful
+Lucas da Cunha,Como,32,48,Pass,Pass,FirstHalf,71.9,58.5,66.6,30.0,Successful
+Yan Couto,Como,32,55,Pass,Pass,FirstHalf,77.8,28.3,80.7,7.0,Successful
+Assane Diao,Como,32,58,Pass,Pass,FirstHalf,79.9,8.5,63.1,30.7,Successful
+Luis Milla,Como,33,2,Pass,Pass,FirstHalf,70.9,27.0,79.4,3.6,Successful
+Assane Diao,Como,33,5,Pass,Pass,FirstHalf,80.2,5.5,67.6,16.9,Successful
+Luis Milla,Como,33,7,Pass,Pass,FirstHalf,67.6,16.9,66.0,34.6,Successful
+Jacobo Ramón,Como,33,10,Pass,Pass,FirstHalf,69.2,37.8,67.6,72.7,Successful
+Álex Valle,Como,33,14,Key Pass,Pass,FirstHalf,67.6,72.7,86.2,48.4,Successful
+Tasos Douvikas,Como,33,15,Shot off Target,MissedShots,FirstHalf,86.2,48.4,0.0,0.0,Successful
+Alex Meret,Napoli,33,33,Pass,Pass,FirstHalf,4.0,49.3,6.8,68.8,Successful
+Rafa Marín,Napoli,33,37,Pass,Pass,FirstHalf,12.5,64.9,21.5,37.8,Successful
+Frank Anguissa,Napoli,33,39,Pass,Pass,FirstHalf,21.5,37.8,8.1,35.8,Successful
+Amir Rrahmani,Napoli,33,41,Pass,Pass,FirstHalf,9.5,36.7,11.4,34.8,Unsuccessful
+Martin Baturina,Como,33,41,Key Pass,BlockedPass,FirstHalf,88.6,65.2,0.0,0.0,Successful
+Rafa Marín,Napoli,33,41,Error,Error,FirstHalf,10.0,35.1,0.0,0.0,Successful
+Tasos Douvikas,Como,33,41,Ball Recovery,BallRecovery,FirstHalf,85.9,50.1,0.0,0.0,Successful
+Tasos Douvikas,Como,33,43,Goal,Goal,FirstHalf,86.4,48.0,0.0,0.0,Successful
+Rasmus Højlund,Napoli,34,44,Pass,Pass,FirstHalf,50.4,49.9,40.4,38.7,Successful
+Frank Anguissa,Napoli,34,48,Pass,Pass,FirstHalf,41.0,44.2,39.5,51.9,Successful
+Stanislav Lobotka,Napoli,34,49,Pass,Pass,FirstHalf,39.4,51.9,40.0,66.0,Successful
+Scott McTominay,Napoli,34,51,Pass,Pass,FirstHalf,40.0,64.8,38.2,27.9,Successful
+Amir Rrahmani,Napoli,34,56,Pass,Pass,FirstHalf,40.2,28.0,39.7,40.0,Successful
+Stanislav Lobotka,Napoli,34,57,Pass,Pass,FirstHalf,39.8,40.0,42.9,22.3,Successful
+Amir Rrahmani,Napoli,35,1,Pass,Pass,FirstHalf,45.3,21.9,36.5,39.7,Successful
+Stanislav Lobotka,Napoli,35,3,Pass,Pass,FirstHalf,36.9,37.6,42.4,73.9,Successful
+Rafa Marín,Napoli,35,7,Pass,Pass,FirstHalf,49.2,73.9,67.3,92.1,Successful
+Noa Lang,Napoli,35,13,Pass,Pass,FirstHalf,82.5,89.8,89.0,71.5,Successful
+Mathías Olivera,Napoli,35,15,Pass,Pass,FirstHalf,89.0,71.5,81.9,62.8,Unsuccessful
+Luis Milla,Como,35,16,BallTouch,BallTouch,FirstHalf,11.4,34.3,0.0,0.0,Successful
+Jacobo Ramón,Como,35,17,Ball Recovery,BallRecovery,FirstHalf,15.1,31.5,0.0,0.0,Successful
+Jacobo Ramón,Como,35,18,Pass,Pass,FirstHalf,24.9,26.1,40.5,28.2,Successful
+Tasos Douvikas,Como,35,22,Foul,Foul,FirstHalf,42.7,28.6,0.0,0.0,Successful
+Rafa Marín,Napoli,35,22,Foul,Foul,FirstHalf,57.3,71.4,0.0,0.0,Unsuccessful
+Yan Couto,Como,35,32,Pass,Pass,FirstHalf,42.8,25.3,38.6,31.9,Successful
+Luis Milla,Como,35,35,Pass,Pass,FirstHalf,38.5,31.9,42.9,38.8,Successful
+Lucas da Cunha,Como,35,36,Pass,Pass,FirstHalf,42.9,38.8,35.8,33.3,Successful
+Luis Milla,Como,35,36,Pass,Pass,FirstHalf,35.8,33.3,31.2,25.6,Successful
+Jacobo Ramón,Como,35,38,Pass,Pass,FirstHalf,31.2,25.6,36.6,11.4,Successful
+Yan Couto,Como,35,39,Pass,Pass,FirstHalf,36.3,12.3,25.3,28.6,Successful
+Jacobo Ramón,Como,35,42,Pass,Pass,FirstHalf,21.7,33.1,6.9,52.2,Successful
+Jean Butez,Como,35,52,Chipped Pass,Pass,FirstHalf,9.7,49.2,21.8,81.3,Successful
+Trevoh Chalobah,Como,35,57,Pass,Pass,FirstHalf,27.5,88.5,40.1,97.6,Successful
+Martin Baturina,Como,36,5,Pass,Pass,FirstHalf,42.7,89.5,48.8,65.4,Successful
+Lucas da Cunha,Como,36,11,Pass,Pass,FirstHalf,48.1,56.7,43.5,28.3,Successful
+Yan Couto,Como,36,14,Pass,Pass,FirstHalf,43.5,28.3,43.6,40.2,Successful
+Luis Milla,Como,36,15,Pass,Pass,FirstHalf,43.6,40.2,52.6,51.3,Successful
+Lucas da Cunha,Como,36,18,Pass,Pass,FirstHalf,53.5,53.1,62.6,46.0,Unsuccessful
+Amir Rrahmani,Napoli,36,21,Ball Recovery,BallRecovery,FirstHalf,36.3,54.0,0.0,0.0,Successful
+Amir Rrahmani,Napoli,36,21,Pass,Pass,FirstHalf,36.8,53.4,40.8,32.7,Successful
+Frank Anguissa,Napoli,36,23,Pass,Pass,FirstHalf,40.7,32.7,33.3,16.8,Successful
+Giovanni Di Lorenzo,Napoli,36,28,Pass,Pass,FirstHalf,44.9,10.3,58.0,28.6,Successful
+Scott McTominay,Napoli,36,31,Long Pass,Pass,FirstHalf,59.6,28.6,78.5,93.1,Successful
+Noa Lang,Napoli,36,38,Pass,Pass,FirstHalf,84.8,81.0,89.0,70.2,Unsuccessful
+Yan Couto,Como,36,39,Interception,Interception,FirstHalf,11.0,29.8,0.0,0.0,Successful
+Yan Couto,Como,36,40,Ball Recovery,BallRecovery,FirstHalf,13.2,34.9,0.0,0.0,Successful
+Yan Couto,Como,36,41,Pass,Pass,FirstHalf,13.2,34.9,18.1,48.0,Successful
+Lucas da Cunha,Como,36,42,Pass,Pass,FirstHalf,18.1,48.0,10.8,32.8,Successful
+Jacobo Ramón,Como,36,43,Pass,Pass,FirstHalf,10.8,32.8,30.5,42.0,Successful
+Martin Baturina,Como,36,48,Foul,Foul,FirstHalf,41.3,37.0,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,36,48,Foul,Foul,FirstHalf,58.7,63.0,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,36,52,Card,Card,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Jacobo Ramón,Como,38,16,Pass,Pass,FirstHalf,42.9,34.3,41.6,57.4,Successful
+Trevoh Chalobah,Como,38,18,Pass,Pass,FirstHalf,41.6,57.4,47.1,54.4,Successful
+Lucas da Cunha,Como,38,22,Pass,Pass,FirstHalf,57.3,65.7,54.1,44.1,Successful
+Luis Milla,Como,38,25,Pass,Pass,FirstHalf,59.5,36.7,71.2,4.2,Successful
+Assane Diao,Como,38,26,Pass,Pass,FirstHalf,71.2,4.2,60.1,13.8,Successful
+Yan Couto,Como,38,28,Pass,Pass,FirstHalf,60.1,13.8,62.2,32.8,Successful
+Luis Milla,Como,38,31,Pass,Pass,FirstHalf,62.2,32.8,73.2,7.9,Successful
+Assane Diao,Como,38,36,Pass,Pass,FirstHalf,76.7,9.4,67.1,33.4,Successful
+Luis Milla,Como,38,38,Pass,Pass,FirstHalf,66.3,36.1,63.6,60.6,Successful
+Trevoh Chalobah,Como,38,40,Pass,Pass,FirstHalf,62.6,60.4,67.3,84.3,Successful
+Martin Baturina,Como,38,42,Pass,Pass,FirstHalf,67.3,84.3,77.5,94.6,Successful
+Álex Valle,Como,38,45,Pass,Pass,FirstHalf,77.5,94.6,67.6,88.2,Successful
+Martin Baturina,Como,38,48,Pass,Pass,FirstHalf,68.5,82.3,67.1,55.0,Successful
+Luis Milla,Como,38,50,Pass,Pass,FirstHalf,67.1,55.0,71.0,39.6,Successful
+Nico Paz,Como,38,53,Pass,Pass,FirstHalf,71.1,37.3,74.9,28.8,Successful
+Yan Couto,Como,38,55,Pass,Pass,FirstHalf,77.8,30.9,80.5,34.0,Unsuccessful
+Noa Lang,Napoli,38,55,BlockedPass,BlockedPass,FirstHalf,19.5,66.0,0.0,0.0,Successful
+Yan Couto,Como,38,56,Pass,Pass,FirstHalf,85.8,27.7,91.4,14.2,Successful
+Assane Diao,Como,38,58,Cross,Pass,FirstHalf,91.4,14.2,91.3,44.5,Unsuccessful
+Rafa Marín,Napoli,38,59,Clearance,Clearance,FirstHalf,11.4,57.7,30.6,53.2,Successful
+Luis Milla,Como,39,1,Pass,Pass,FirstHalf,67.9,42.6,75.8,34.8,Successful
+Nico Paz,Como,39,3,Pass,Pass,FirstHalf,75.8,34.8,74.6,46.2,Successful
+Martin Baturina,Como,39,5,Chipped Pass,Pass,FirstHalf,74.6,46.2,86.2,41.8,Successful
+Yan Couto,Como,39,6,Pass,Pass,FirstHalf,86.2,41.8,85.8,54.0,Successful
+Tasos Douvikas,Como,39,8,Pass,Pass,FirstHalf,85.8,54.0,89.5,45.1,Unsuccessful
+Mathías Olivera,Napoli,39,9,Ball Recovery,BallRecovery,FirstHalf,8.3,58.9,0.0,0.0,Successful
+Mathías Olivera,Napoli,39,10,Pass,Pass,FirstHalf,8.3,58.9,2.0,48.4,Successful
+Alex Meret,Napoli,39,11,Long Pass,Pass,FirstHalf,2.0,48.3,41.2,50.4,Unsuccessful
+Luis Milla,Como,39,15,Pass,Pass,FirstHalf,63.1,53.2,37.9,70.5,Successful
+Jacobo Ramón,Como,39,19,Ball Recovery,BallRecovery,FirstHalf,37.9,70.5,0.0,0.0,Successful
+Jacobo Ramón,Como,39,20,Pass,Pass,FirstHalf,37.9,70.5,54.7,89.1,Successful
+Lucas da Cunha,Como,39,23,Pass,Pass,FirstHalf,54.9,89.2,61.8,71.8,Successful
+Álex Valle,Como,39,24,Pass,Pass,FirstHalf,61.8,71.8,57.1,86.4,Successful
+Lucas da Cunha,Como,39,25,Pass,Pass,FirstHalf,57.0,85.8,55.4,64.2,Successful
+Luis Milla,Como,39,27,Pass,Pass,FirstHalf,55.4,64.2,62.1,69.0,Successful
+Martin Baturina,Como,39,33,Pass,Pass,FirstHalf,64.6,63.3,57.9,39.1,Successful
+Jacobo Ramón,Como,39,36,Pass,Pass,FirstHalf,60.6,35.2,73.7,4.3,Successful
+Assane Diao,Como,39,41,Pass,Pass,FirstHalf,73.6,4.6,63.4,18.0,Successful
+Yan Couto,Como,39,44,Pass,Pass,FirstHalf,64.3,22.3,63.6,39.0,Successful
+Luis Milla,Como,39,45,Pass,Pass,FirstHalf,63.6,39.0,60.6,31.0,Successful
+Jacobo Ramón,Como,39,47,Pass,Pass,FirstHalf,60.6,30.9,60.6,38.4,Successful
+Luis Milla,Como,39,50,Pass,Pass,FirstHalf,53.4,34.9,26.0,53.4,Successful
+Jean Butez,Como,39,57,Pass,Pass,FirstHalf,26.0,53.4,27.8,68.8,Successful
+Trevoh Chalobah,Como,39,59,Pass,Pass,FirstHalf,27.8,68.8,35.2,76.0,Successful
+Martin Baturina,Como,40,1,Pass,Pass,FirstHalf,31.4,73.3,10.4,45.6,Successful
+Jean Butez,Como,40,7,Chipped Pass,Pass,FirstHalf,9.3,43.2,20.7,77.1,Successful
+Trevoh Chalobah,Como,40,11,Pass,Pass,FirstHalf,20.8,75.4,24.2,93.3,Successful
+Lucas da Cunha,Como,40,14,Pass,Pass,FirstHalf,24.2,93.3,35.3,96.6,Successful
+Álex Valle,Como,40,16,Pass,Pass,FirstHalf,38.4,94.0,37.3,75.3,Successful
+Luis Milla,Como,40,20,BallTouch,BallTouch,FirstHalf,37.3,75.1,0.0,0.0,Successful
+Álex Valle,Como,40,22,Pass,Pass,FirstHalf,33.4,72.1,33.4,43.2,Successful
+Jacobo Ramón,Como,40,26,Pass,Pass,FirstHalf,52.1,34.3,59.9,25.3,Successful
+Nico Paz,Como,40,31,Pass,Pass,FirstHalf,62.7,32.5,59.2,45.1,Successful
+Luis Milla,Como,40,33,Pass,Pass,FirstHalf,59.2,45.1,64.3,65.7,Successful
+Álex Valle,Como,40,35,Pass,Pass,FirstHalf,64.3,67.8,72.8,94.0,Successful
+Martin Baturina,Como,40,40,Pass,Pass,FirstHalf,77.2,85.5,76.1,65.4,Successful
+Luis Milla,Como,40,43,Pass,Pass,FirstHalf,76.9,69.3,73.4,69.6,Successful
+Martin Baturina,Como,40,46,Pass,Pass,FirstHalf,71.1,69.1,68.2,41.5,Successful
+Jacobo Ramón,Como,40,48,Pass,Pass,FirstHalf,68.2,40.5,72.2,31.5,Successful
+Nico Paz,Como,40,50,Pass,Pass,FirstHalf,72.2,31.5,72.8,20.2,Successful
+Yan Couto,Como,40,52,Pass,Pass,FirstHalf,69.7,20.2,67.6,29.2,Successful
+Nico Paz,Como,40,54,Unsuccessful Dribble,TakeOn,FirstHalf,66.3,29.2,0.0,0.0,Unsuccessful
+Mathías Olivera,Napoli,40,54,Was Dribbled,Tackle,FirstHalf,33.8,70.8,0.0,0.0,Unsuccessful
+Nico Paz,Como,40,55,BallTouch,BallTouch,FirstHalf,67.2,29.2,0.0,0.0,Successful
+Mathías Olivera,Napoli,40,58,Ball Recovery,BallRecovery,FirstHalf,36.0,68.1,0.0,0.0,Successful
+Mathías Olivera,Napoli,40,58,Pass,Pass,FirstHalf,36.0,68.1,62.4,70.9,Successful
+Rasmus Højlund,Napoli,41,1,Unsuccessful Dribble,TakeOn,FirstHalf,66.6,70.6,0.0,0.0,Unsuccessful
+Yan Couto,Como,41,1,Was Dribbled,Tackle,FirstHalf,33.4,29.4,0.0,0.0,Unsuccessful
+Rasmus Højlund,Napoli,41,2,BallTouch,BallTouch,FirstHalf,67.4,70.2,0.0,0.0,Successful
+Yan Couto,Como,41,4,Ball Recovery,BallRecovery,FirstHalf,35.7,19.9,0.0,0.0,Successful
+Yan Couto,Como,41,5,Pass,Pass,FirstHalf,36.9,19.5,55.2,20.2,Successful
+Nico Paz,Como,41,6,Pass,Pass,FirstHalf,55.2,20.2,44.0,15.9,Successful
+Yan Couto,Como,41,7,Pass,Pass,FirstHalf,44.0,15.9,47.3,32.7,Successful
+Martin Baturina,Como,41,11,Pass,Pass,FirstHalf,57.9,36.7,55.5,64.9,Successful
+Lucas da Cunha,Como,41,16,Pass,Pass,FirstHalf,58.6,70.3,63.5,91.9,Successful
+Álex Valle,Como,41,17,Pass,Pass,FirstHalf,63.5,91.9,59.4,71.4,Successful
+Lucas da Cunha,Como,41,20,Pass,Pass,FirstHalf,63.2,71.4,57.1,45.6,Successful
+Luis Milla,Como,41,26,Pass,Pass,FirstHalf,59.9,39.9,64.1,18.9,Successful
+Yan Couto,Como,41,27,Pass,Pass,FirstHalf,64.1,18.9,74.7,5.2,Successful
+Assane Diao,Como,41,33,Cross,Pass,FirstHalf,93.9,22.0,96.1,44.4,Unsuccessful
+Alex Meret,Napoli,41,34,KeeperPickup,KeeperPickup,FirstHalf,3.7,50.4,0.0,0.0,Successful
+Alex Meret,Napoli,41,38,Pass,Pass,FirstHalf,8.7,44.8,16.9,21.7,Successful
+Giovanni Di Lorenzo,Napoli,41,42,Pass,Pass,FirstHalf,17.2,21.4,25.3,34.9,Successful
+Frank Anguissa,Napoli,41,44,Pass,Pass,FirstHalf,25.3,34.8,18.5,22.5,Successful
+Giovanni Di Lorenzo,Napoli,41,45,Pass,Pass,FirstHalf,18.5,22.3,24.1,35.8,Successful
+Stanislav Lobotka,Napoli,41,47,Pass,Pass,FirstHalf,24.1,35.8,8.1,56.5,Successful
+Alex Meret,Napoli,41,49,Pass,Pass,FirstHalf,8.1,56.5,22.2,83.1,Successful
+Mathías Olivera,Napoli,41,54,Pass,Pass,FirstHalf,26.7,84.4,42.5,94.9,Successful
+Scott McTominay,Napoli,41,56,Pass,Pass,FirstHalf,38.4,90.4,38.6,57.3,Successful
+Stanislav Lobotka,Napoli,41,58,Pass,Pass,FirstHalf,39.9,58.3,35.4,37.0,Successful
+Amir Rrahmani,Napoli,42,2,Pass,Pass,FirstHalf,42.8,34.9,65.1,11.7,Successful
+Giovanni Di Lorenzo,Napoli,42,6,Pass,Pass,FirstHalf,68.7,12.6,72.9,6.4,Successful
+Matteo Politano,Napoli,42,10,Pass,Pass,FirstHalf,69.5,22.0,63.1,37.6,Successful
+Amir Rrahmani,Napoli,42,13,Long Pass,Pass,FirstHalf,63.7,37.2,67.9,89.1,Successful
+Mathías Olivera,Napoli,42,16,Pass,Pass,FirstHalf,67.9,89.1,76.1,93.7,Successful
+Noa Lang,Napoli,42,23,Pass,Pass,FirstHalf,82.8,90.3,67.9,71.7,Successful
+Rafa Marín,Napoli,42,25,Pass,Pass,FirstHalf,67.9,71.7,64.7,48.7,Successful
+Amir Rrahmani,Napoli,42,28,Long Pass,Pass,FirstHalf,65.4,48.0,82.1,5.7,Successful
+Martin Baturina,Como,42,34,Challenge,Challenge,FirstHalf,8.5,83.1,0.0,0.0,Unsuccessful
+Matteo Politano,Napoli,42,34,Successful Dribble,TakeOn,FirstHalf,91.5,16.9,0.0,0.0,Successful
+Matteo Politano,Napoli,42,34,Cross,Pass,FirstHalf,85.1,15.1,93.3,54.1,Unsuccessful
+Jacobo Ramón,Como,42,36,Aerial Won,Aerial,FirstHalf,6.7,45.9,0.0,0.0,Successful
+Frank Anguissa,Napoli,42,36,Aerial Lost,Aerial,FirstHalf,93.3,54.1,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,42,37,Clearance,Clearance,FirstHalf,6.7,45.9,20.3,69.6,Successful
+Tasos Douvikas,Como,42,39,Clearance,Clearance,FirstHalf,20.3,69.7,22.1,76.3,Successful
+Matteo Politano,Napoli,42,39,Aerial Won,Aerial,FirstHalf,77.9,23.7,0.0,0.0,Successful
+Tasos Douvikas,Como,42,39,Aerial Lost,Aerial,FirstHalf,22.1,76.3,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,42,41,BallTouch,BallTouch,FirstHalf,22.1,76.3,0.0,0.0,Successful
+Matteo Politano,Napoli,42,41,BallTouch,BallTouch,FirstHalf,64.6,35.2,0.0,0.0,Unsuccessful
+Martin Baturina,Como,42,43,Ball Recovery,BallRecovery,FirstHalf,27.8,68.5,0.0,0.0,Successful
+Martin Baturina,Como,42,44,BallTouch,BallTouch,FirstHalf,30.7,67.6,0.0,0.0,Successful
+Lucas da Cunha,Como,42,45,BallTouch,BallTouch,FirstHalf,36.2,68.4,0.0,0.0,Successful
+Martin Baturina,Como,42,47,Key Pass,Pass,FirstHalf,44.5,77.7,81.2,25.9,Successful
+Nico Paz,Como,42,55,Shot on Target,SavedShot,FirstHalf,87.8,29.4,0.0,0.0,Successful
+Rafa Marín,Napoli,42,55,Save,Save,FirstHalf,9.9,66.2,0.0,0.0,Successful
+Nico Paz,Como,42,56,CornerAwarded,CornerAwarded,FirstHalf,95.8,32.6,0.0,0.0,Successful
+Rafa Marín,Napoli,42,56,CornerAwarded,CornerAwarded,FirstHalf,4.3,67.4,0.0,0.0,Unsuccessful
+Luis Milla,Como,43,52,Cross,Pass,FirstHalf,99.5,0.5,90.1,51.4,Unsuccessful
+Amir Rrahmani,Napoli,43,55,Clearance,Clearance,FirstHalf,8.9,54.4,27.4,52.2,Successful
+Martin Baturina,Como,43,57,Shot off Target,MissedShots,FirstHalf,73.6,43.3,0.0,0.0,Successful
+Alex Meret,Napoli,44,18,Long Pass,Pass,FirstHalf,2.7,42.3,28.4,7.8,Successful
+Giovanni Di Lorenzo,Napoli,44,24,Pass,Pass,FirstHalf,40.3,12.0,43.9,31.9,Successful
+Frank Anguissa,Napoli,44,26,Pass,Pass,FirstHalf,45.8,36.4,45.1,53.8,Successful
+Stanislav Lobotka,Napoli,44,27,Pass,Pass,FirstHalf,45.1,53.8,60.5,91.9,Successful
+Rafa Marín,Napoli,44,31,Pass,Pass,FirstHalf,61.9,88.5,74.1,94.5,Successful
+Noa Lang,Napoli,44,34,Unsuccessful Dribble,TakeOn,FirstHalf,84.0,91.6,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,44,38,Ball Recovery,BallRecovery,FirstHalf,3.8,25.3,0.0,0.0,Successful
+Jacobo Ramón,Como,44,38,Pass,Pass,FirstHalf,3.8,25.3,12.6,26.8,Successful
+Yan Couto,Como,44,41,Pass,Pass,FirstHalf,19.3,28.8,20.4,15.7,Successful
+Nico Paz,Como,44,42,Pass,Pass,FirstHalf,20.4,15.7,11.5,6.7,Successful
+Assane Diao,Como,44,46,Long Pass,Pass,FirstHalf,7.2,10.9,32.8,30.6,Unsuccessful
+Frank Anguissa,Napoli,44,50,Interception,Interception,FirstHalf,67.2,69.4,0.0,0.0,Successful
+Frank Anguissa,Napoli,44,50,Ball Recovery,BallRecovery,FirstHalf,65.7,73.2,0.0,0.0,Successful
+Frank Anguissa,Napoli,44,51,Pass,Pass,FirstHalf,65.7,73.5,62.6,80.1,Successful
+Stanislav Lobotka,Napoli,44,53,Pass,Pass,FirstHalf,62.9,79.3,58.6,51.6,Successful
+Amir Rrahmani,Napoli,44,55,Pass,Pass,FirstHalf,60.3,49.3,86.3,30.9,Unsuccessful
+Álex Valle,Como,44,58,Pass,Pass,FirstHalf,11.7,69.0,2.5,49.9,Successful
+Jean Butez,Como,45,0,Clearance,Clearance,FirstHalf,2.3,49.6,69.4,46.3,Successful
+Alex Meret,Napoli,45,8,Pass,Pass,FirstHalf,25.1,51.1,35.1,42.1,Successful
+Amir Rrahmani,Napoli,45,9,Pass,Pass,FirstHalf,40.5,40.0,47.1,69.0,Successful
+Rafa Marín,Napoli,45,11,Pass,Pass,FirstHalf,47.1,69.0,57.1,53.2,Successful
+Stanislav Lobotka,Napoli,45,12,Pass,Pass,FirstHalf,57.1,53.2,39.9,30.0,Successful
+Amir Rrahmani,Napoli,45,15,Pass,Pass,FirstHalf,43.7,36.3,65.1,2.8,Successful
+Matteo Politano,Napoli,45,24,Long Pass,Pass,FirstHalf,68.3,26.5,75.2,92.7,Successful
+Noa Lang,Napoli,45,31,Cross,Pass,FirstHalf,87.2,87.7,90.6,52.3,Unsuccessful
+Jacobo Ramón,Como,45,33,Clearance,Clearance,FirstHalf,7.4,41.5,11.2,46.5,Successful
+Frank Anguissa,Napoli,45,35,Aerial Won,Aerial,FirstHalf,88.8,53.5,0.0,0.0,Successful
+Lucas da Cunha,Como,45,35,Aerial Lost,Aerial,FirstHalf,11.2,46.5,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,45,35,Pass,Pass,FirstHalf,88.8,53.5,98.1,53.8,Unsuccessful
+Jean Butez,Como,45,38,KeeperPickup,KeeperPickup,FirstHalf,0.8,38.2,0.0,0.0,Successful
+Jean Butez,Como,46,19,Long Pass,Pass,FirstHalf,9.1,43.9,42.7,66.7,Unsuccessful
+Giovanni Di Lorenzo,Napoli,46,21,Aerial Won,Aerial,FirstHalf,57.3,33.3,0.0,0.0,Successful
+Martin Baturina,Como,46,21,Aerial Lost,Aerial,FirstHalf,42.7,66.7,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,46,21,Pass,Pass,FirstHalf,57.3,33.3,66.1,31.9,Successful
+Frank Anguissa,Napoli,46,23,Ball Recovery,BallRecovery,FirstHalf,66.1,31.9,0.0,0.0,Successful
+Frank Anguissa,Napoli,46,23,Pass,Pass,FirstHalf,66.1,31.9,66.0,4.8,Successful
+Matteo Politano,Napoli,46,29,Pass,Pass,FirstHalf,59.1,21.7,45.3,36.4,Successful
+Amir Rrahmani,Napoli,46,31,Pass,Pass,FirstHalf,44.5,39.0,50.9,68.8,Successful
+Rafa Marín,Napoli,46,34,Pass,Pass,FirstHalf,51.7,69.3,60.5,70.0,Successful
+Scott McTominay,Napoli,46,38,Pass,Pass,FirstHalf,58.3,63.1,54.7,37.5,Successful
+Amir Rrahmani,Napoli,46,41,Pass,Pass,FirstHalf,54.9,37.8,56.8,61.3,Successful
+Rafa Marín,Napoli,46,42,Pass,Pass,FirstHalf,58.4,61.5,72.3,93.1,Successful
+Noa Lang,Napoli,46,48,Cross,Pass,FirstHalf,91.3,89.4,90.3,50.2,Unsuccessful
+Jean Butez,Como,46,52,Claim,Claim,FirstHalf,9.7,49.8,0.0,0.0,Successful
+Jean Butez,Como,47,2,Long Pass,Pass,FirstHalf,15.0,42.3,37.8,9.9,Unsuccessful
+Stanislav Lobotka,Napoli,47,6,Interception,Interception,FirstHalf,62.2,90.1,0.0,0.0,Successful
+Yan Couto,Como,47,23,Throw In,Pass,FirstHalf,30.7,0.0,38.7,5.5,Successful
+Assane Diao,Como,47,24,BallTouch,BallTouch,FirstHalf,41.2,3.4,0.0,0.0,Successful
+Mathías Olivera,Napoli,47,28,Throw In,Pass,FirstHalf,55.9,100.0,42.0,88.6,Successful
+Rafa Marín,Napoli,47,29,Long Pass,Pass,FirstHalf,41.5,87.6,30.4,7.3,Successful
+Giovanni Di Lorenzo,Napoli,47,37,Long Pass,Pass,FirstHalf,35.4,7.9,70.5,28.5,Successful
+Frank Anguissa,Napoli,47,38,BallTouch,BallTouch,FirstHalf,70.5,28.5,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,47,39,Pass,Pass,FirstHalf,23.1,73.0,35.7,71.7,Successful
+Lucas da Cunha,Como,47,40,Ball Recovery,BallRecovery,FirstHalf,37.5,69.6,0.0,0.0,Successful
+Lucas da Cunha,Como,47,45,Pass,Pass,FirstHalf,61.5,66.3,67.0,90.6,Successful
+Martin Baturina,Como,47,51,Pass,Pass,FirstHalf,72.5,76.5,66.7,51.3,Successful
+Luis Milla,Como,47,54,Pass,Pass,FirstHalf,66.7,51.3,72.0,42.0,Successful
+Nico Paz,Como,47,56,Pass,Pass,FirstHalf,69.7,40.3,72.5,28.0,Successful
+Yan Couto,Como,48,0,Pass,Pass,FirstHalf,74.6,18.4,84.5,5.1,Successful
+Assane Diao,Como,48,3,Pass,Pass,FirstHalf,84.4,4.9,66.1,14.1,Successful
+Yan Couto,Como,48,5,Pass,Pass,FirstHalf,66.1,14.1,58.4,33.6,Successful
+Nico Paz,Como,48,7,Pass,Pass,FirstHalf,58.4,33.6,64.0,36.7,Successful
+Luis Milla,Como,48,9,Pass,Pass,FirstHalf,64.0,36.7,61.6,27.3,Successful
+Nico Paz,Como,48,9,Pass,Pass,FirstHalf,61.6,27.3,56.9,38.7,Successful
+Jacobo Ramón,Como,48,12,Pass,Pass,FirstHalf,56.9,38.7,61.0,68.1,Successful
+Álex Valle,Como,48,16,Pass,Pass,FirstHalf,61.5,70.5,67.1,63.9,Successful
+Martin Baturina,Como,48,20,Pass,Pass,FirstHalf,63.6,62.5,64.4,42.7,Successful
+Luis Milla,Como,48,24,Pass,Pass,FirstHalf,64.3,37.9,72.0,26.5,Successful
+Nico Paz,Como,48,26,Pass,Pass,FirstHalf,72.0,26.5,59.3,30.6,Successful
+Jacobo Ramón,Como,48,27,Pass,Pass,FirstHalf,59.3,30.6,60.7,39.3,Successful
+Luis Milla,Como,48,29,Pass,Pass,FirstHalf,60.7,39.3,59.0,28.0,Successful
+Jacobo Ramón,Como,48,29,Pass,Pass,FirstHalf,59.0,28.0,60.3,37.8,Successful
+Luis Milla,Como,48,31,Pass,Pass,FirstHalf,60.3,37.8,68.6,53.2,Successful
+Álex Valle,Como,48,33,Pass,Pass,FirstHalf,68.6,53.2,59.3,64.2,Successful
+Trevoh Chalobah,Como,48,34,Pass,Pass,FirstHalf,59.2,64.2,59.9,74.1,Successful
+Martin Baturina,Como,48,35,Pass,Pass,FirstHalf,59.9,74.1,65.2,92.5,Successful
+Lucas da Cunha,Como,48,38,Pass,Pass,FirstHalf,65.6,87.0,60.3,70.8,Successful
+Martin Baturina,Como,48,42,Pass,Pass,FirstHalf,60.3,70.8,52.7,64.9,Successful
+Trevoh Chalobah,Como,48,44,Pass,Pass,FirstHalf,52.7,64.9,48.5,39.9,Successful
+Jacobo Ramón,Como,48,47,Pass,Pass,FirstHalf,52.6,34.5,64.7,22.5,Successful
+Nico Paz,Como,48,48,Key Pass,Pass,FirstHalf,64.7,22.5,66.6,32.4,Successful
+Lucas da Cunha,Como,48,52,Shot on Target,SavedShot,FirstHalf,70.0,45.4,0.0,0.0,Successful
+Amir Rrahmani,Napoli,48,52,Save,Save,FirstHalf,21.6,53.4,0.0,0.0,Successful
+Álex Valle,Como,48,57,Key Pass,Pass,FirstHalf,78.3,82.0,88.2,47.6,Successful
+Martin Baturina,Como,48,58,Shot on Target,SavedShot,FirstHalf,88.2,47.6,0.0,0.0,Successful
+Alex Meret,Napoli,48,58,Save,Save,FirstHalf,3.2,49.3,0.0,0.0,Successful
+Alex Meret,Napoli,49,0,CornerAwarded,CornerAwarded,FirstHalf,0.0,54.2,0.0,0.0,Unsuccessful
+Martin Baturina,Como,49,0,CornerAwarded,CornerAwarded,FirstHalf,100.0,45.8,0.0,0.0,Successful
+Luis Milla,Como,49,22,Cross,Pass,FirstHalf,99.7,0.7,93.2,50.9,Unsuccessful
+Amir Rrahmani,Napoli,49,23,Foul,Foul,FirstHalf,8.4,50.0,0.0,0.0,Successful
+Nico Paz,Como,49,23,Foul,Foul,FirstHalf,91.6,50.0,0.0,0.0,Unsuccessful
+,Napoli,49,55,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Como,49,55,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+Frank Anguissa,Napoli,45,0,Offside,OffsideGiven,SecondHalf,79.7,24.1,0.0,0.0,Unsuccessful
+,Napoli,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,45,0,Start,Start,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Rasmus Højlund,Napoli,45,0,Pass,Pass,SecondHalf,49.9,50.1,36.6,52.0,Successful
+Stanislav Lobotka,Napoli,45,2,Pass,Pass,SecondHalf,36.5,52.0,36.1,36.3,Successful
+Amir Rrahmani,Napoli,45,4,Pass,Pass,SecondHalf,36.1,36.3,34.8,66.9,Successful
+Rafa Marín,Napoli,45,7,Pass,Pass,SecondHalf,35.4,67.2,42.1,77.8,Successful
+Scott McTominay,Napoli,45,11,Pass,Pass,SecondHalf,47.5,74.7,44.5,37.3,Successful
+Amir Rrahmani,Napoli,45,14,Pass,Pass,SecondHalf,47.2,35.7,59.2,6.3,Successful
+Giovanni Di Lorenzo,Napoli,45,16,Offside,OffsidePass,SecondHalf,59.3,6.3,79.7,24.1,Successful
+Trevoh Chalobah,Como,45,16,OffsideProvoked,OffsideProvoked,SecondHalf,29.6,71.8,0.0,0.0,Successful
+Trevoh Chalobah,Como,45,41,Long Pass,Pass,SecondHalf,22.5,82.2,72.8,49.6,Unsuccessful
+Amir Rrahmani,Napoli,45,46,Clearance,Clearance,SecondHalf,30.0,50.2,33.3,63.4,Successful
+Mathías Olivera,Napoli,45,49,Pass,Pass,SecondHalf,33.3,63.6,44.3,58.9,Successful
+Scott McTominay,Napoli,45,50,Pass,Pass,SecondHalf,44.1,59.1,36.5,53.2,Successful
+Stanislav Lobotka,Napoli,45,51,Pass,Pass,SecondHalf,36.8,53.1,53.2,52.3,Successful
+Scott McTominay,Napoli,45,52,Unsuccessful Dribble,TakeOn,SecondHalf,55.0,47.7,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,45,52,Successful Tackle,Tackle,SecondHalf,45.0,52.3,0.0,0.0,Successful
+Trevoh Chalobah,Como,45,53,Pass,Pass,SecondHalf,39.0,57.7,46.8,40.8,Successful
+Nico Paz,Como,45,55,Pass,Pass,SecondHalf,48.1,35.2,64.9,9.7,Successful
+Assane Diao,Como,45,58,BallTouch,BallTouch,SecondHalf,64.9,9.7,0.0,0.0,Unsuccessful
+Mathías Olivera,Napoli,45,59,Ball Recovery,BallRecovery,SecondHalf,40.5,91.8,0.0,0.0,Successful
+Mathías Olivera,Napoli,46,2,Loss of Possession,Dispossessed,SecondHalf,42.7,93.5,0.0,0.0,Successful
+Assane Diao,Como,46,2,Was Dribbled,Tackle,SecondHalf,57.2,6.4,0.0,0.0,Unsuccessful
+Mathías Olivera,Napoli,46,3,BallTouch,BallTouch,SecondHalf,41.3,92.2,0.0,0.0,Successful
+Mathías Olivera,Napoli,46,4,Challenge,Challenge,SecondHalf,34.8,88.0,0.0,0.0,Unsuccessful
+Assane Diao,Como,46,4,Successful Dribble,TakeOn,SecondHalf,65.2,12.0,0.0,0.0,Successful
+Assane Diao,Como,46,5,Ball Recovery,BallRecovery,SecondHalf,57.4,5.7,0.0,0.0,Successful
+Assane Diao,Como,46,12,Pass,Pass,SecondHalf,73.0,17.7,68.8,31.5,Successful
+Luis Milla,Como,46,15,Pass,Pass,SecondHalf,66.6,34.6,72.3,51.6,Successful
+Lucas da Cunha,Como,46,16,Pass,Pass,SecondHalf,72.8,52.5,73.8,75.1,Successful
+Álex Valle,Como,46,20,Pass,Pass,SecondHalf,69.7,63.6,65.4,52.5,Successful
+Luis Milla,Como,46,22,Long Pass,Pass,SecondHalf,65.3,51.1,74.9,6.3,Successful
+Assane Diao,Como,46,26,Pass,Pass,SecondHalf,78.4,6.3,69.2,15.9,Successful
+Yan Couto,Como,46,28,Pass,Pass,SecondHalf,69.2,15.9,67.1,25.9,Successful
+Luis Milla,Como,46,30,Pass,Pass,SecondHalf,68.1,24.9,69.1,15.7,Successful
+Yan Couto,Como,46,33,Pass,Pass,SecondHalf,67.8,17.4,58.0,31.9,Successful
+Jacobo Ramón,Como,46,34,Pass,Pass,SecondHalf,58.0,31.9,71.0,37.9,Successful
+Nico Paz,Como,46,35,Pass,Pass,SecondHalf,71.0,37.9,66.4,31.6,Successful
+Luis Milla,Como,46,37,Pass,Pass,SecondHalf,66.4,31.6,55.0,32.8,Successful
+Jacobo Ramón,Como,46,42,Pass,Pass,SecondHalf,55.0,32.8,61.5,40.2,Successful
+Álex Valle,Como,46,43,Pass,Pass,SecondHalf,61.5,40.2,62.3,33.6,Successful
+Luis Milla,Como,46,43,Pass,Pass,SecondHalf,62.3,33.6,54.1,22.3,Successful
+Jacobo Ramón,Como,46,45,Pass,Pass,SecondHalf,54.1,22.3,67.2,2.5,Successful
+Assane Diao,Como,46,47,Pass,Pass,SecondHalf,67.2,2.5,70.6,12.9,Successful
+Yan Couto,Como,46,48,Pass,Pass,SecondHalf,70.6,12.9,63.4,3.1,Successful
+Assane Diao,Como,46,49,Pass,Pass,SecondHalf,63.4,3.1,43.2,10.8,Successful
+Jacobo Ramón,Como,46,53,Pass,Pass,SecondHalf,43.2,10.8,45.8,25.0,Successful
+Luis Milla,Como,46,54,Pass,Pass,SecondHalf,45.8,25.0,41.7,10.3,Successful
+Jacobo Ramón,Como,46,57,Pass,Pass,SecondHalf,40.3,10.0,21.5,45.3,Successful
+Jean Butez,Como,47,0,Pass,Pass,SecondHalf,21.5,46.2,27.4,68.7,Successful
+Trevoh Chalobah,Como,47,2,Pass,Pass,SecondHalf,27.5,68.7,14.0,45.4,Successful
+Jean Butez,Como,47,10,Long Pass,Pass,SecondHalf,16.6,34.8,64.0,61.2,Unsuccessful
+Amir Rrahmani,Napoli,47,11,Aerial Won,Aerial,SecondHalf,36.0,38.8,0.0,0.0,Successful
+Tasos Douvikas,Como,47,11,Aerial Lost,Aerial,SecondHalf,64.0,61.2,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,47,11,Pass,Pass,SecondHalf,36.0,38.8,56.1,38.8,Unsuccessful
+Lucas da Cunha,Como,47,15,Pass,Pass,SecondHalf,45.5,59.1,51.2,55.0,Unsuccessful
+Amir Rrahmani,Napoli,47,17,Interception,Interception,SecondHalf,48.8,45.0,0.0,0.0,Successful
+Tasos Douvikas,Como,47,17,Pass,Pass,SecondHalf,52.0,54.3,47.7,47.7,Successful
+Luis Milla,Como,47,18,Pass,Pass,SecondHalf,47.7,47.7,58.8,39.4,Successful
+Nico Paz,Como,47,23,Pass,Pass,SecondHalf,75.4,53.1,95.5,74.2,Unsuccessful
+Matteo Politano,Napoli,47,26,Interception,Interception,SecondHalf,4.5,25.8,0.0,0.0,Successful
+Martin Baturina,Como,47,30,BallTouch,BallTouch,SecondHalf,95.3,76.9,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,47,44,Throw In,Pass,SecondHalf,8.5,0.0,14.3,11.7,Successful
+Stanislav Lobotka,Napoli,47,49,Long Pass,Pass,SecondHalf,19.2,27.1,22.6,79.0,Successful
+Mathías Olivera,Napoli,47,54,Pass,Pass,SecondHalf,33.3,87.9,49.3,94.6,Successful
+Noa Lang,Napoli,47,57,Pass,Pass,SecondHalf,49.3,94.6,37.0,93.4,Successful
+Mathías Olivera,Napoli,48,0,Pass,Pass,SecondHalf,37.8,93.4,35.7,74.7,Successful
+Rafa Marín,Napoli,48,4,Pass,Pass,SecondHalf,43.0,66.3,62.7,94.8,Unsuccessful
+Yan Couto,Como,48,6,Ball Recovery,BallRecovery,SecondHalf,38.7,6.3,0.0,0.0,Successful
+Yan Couto,Como,48,13,Pass,Pass,SecondHalf,66.3,24.0,54.5,22.9,Successful
+Luis Milla,Como,48,15,Pass,Pass,SecondHalf,55.5,23.7,58.6,31.8,Successful
+Nico Paz,Como,48,16,Pass,Pass,SecondHalf,58.6,31.8,55.1,26.5,Successful
+Luis Milla,Como,48,17,Pass,Pass,SecondHalf,55.1,26.5,58.5,38.4,Successful
+Lucas da Cunha,Como,48,20,Pass,Pass,SecondHalf,58.5,38.4,40.8,43.0,Successful
+Jacobo Ramón,Como,48,24,Pass,Pass,SecondHalf,44.5,44.4,55.0,55.2,Successful
+Álex Valle,Como,48,25,Pass,Pass,SecondHalf,55.0,55.2,45.4,45.1,Successful
+Jacobo Ramón,Como,48,28,Pass,Pass,SecondHalf,41.8,39.0,44.6,14.1,Successful
+Yan Couto,Como,48,32,Pass,Pass,SecondHalf,44.1,16.6,35.6,35.2,Successful
+Jacobo Ramón,Como,48,34,Pass,Pass,SecondHalf,35.6,35.2,47.6,47.7,Successful
+Nico Paz,Como,48,37,Pass,Pass,SecondHalf,46.6,48.7,46.0,66.1,Successful
+Lucas da Cunha,Como,48,38,Pass,Pass,SecondHalf,46.0,66.1,61.5,90.7,Successful
+Martin Baturina,Como,48,51,Pass,Pass,SecondHalf,86.9,74.5,73.5,79.8,Successful
+Lucas da Cunha,Como,48,53,Key Pass,Pass,SecondHalf,75.3,79.9,90.3,44.5,Successful
+Assane Diao,Como,48,56,Aerial Won,Aerial,SecondHalf,90.3,44.5,0.0,0.0,Successful
+Mathías Olivera,Napoli,48,56,Aerial Lost,Aerial,SecondHalf,9.7,55.5,0.0,0.0,Unsuccessful
+Assane Diao,Como,48,56,Shot off Target,MissedShots,SecondHalf,90.3,44.5,0.0,0.0,Successful
+Alex Meret,Napoli,49,10,Pass,Pass,SecondHalf,1.8,52.3,9.8,67.0,Successful
+Rafa Marín,Napoli,49,12,Pass,Pass,SecondHalf,15.2,70.2,18.6,92.7,Successful
+Mathías Olivera,Napoli,49,14,Pass,Pass,SecondHalf,18.7,93.0,37.2,96.1,Successful
+Noa Lang,Napoli,49,18,Pass,Pass,SecondHalf,36.1,94.8,36.4,74.8,Successful
+Rafa Marín,Napoli,49,20,Chipped Pass,Pass,SecondHalf,36.4,74.8,58.8,75.9,Successful
+Rasmus Højlund,Napoli,49,21,Pass,Pass,SecondHalf,58.8,75.9,68.0,88.2,Unsuccessful
+Jacobo Ramón,Como,49,22,Long Pass,Pass,SecondHalf,39.4,21.7,67.1,35.5,Successful
+Lucas da Cunha,Como,49,23,Ball Recovery,BallRecovery,SecondHalf,66.6,36.1,0.0,0.0,Successful
+Lucas da Cunha,Como,49,25,Pass,Pass,SecondHalf,63.4,35.1,65.2,60.9,Successful
+Martin Baturina,Como,49,30,Pass,Pass,SecondHalf,69.1,51.4,73.9,34.8,Successful
+Nico Paz,Como,49,31,BallTouch,BallTouch,SecondHalf,73.9,34.8,0.0,0.0,Unsuccessful
+Mathías Olivera,Napoli,49,32,BallTouch,BallTouch,SecondHalf,38.0,75.6,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,49,33,Pass,Pass,SecondHalf,24.3,71.2,16.6,91.8,Successful
+Noa Lang,Napoli,49,35,Ball Recovery,BallRecovery,SecondHalf,16.3,91.8,0.0,0.0,Successful
+Noa Lang,Napoli,49,39,Unsuccessful Dribble,TakeOn,SecondHalf,18.4,93.1,0.0,0.0,Unsuccessful
+Yan Couto,Como,49,46,Throw In,Pass,SecondHalf,64.2,0.0,59.5,26.8,Successful
+Luis Milla,Como,49,48,Pass,Pass,SecondHalf,59.5,26.8,69.2,40.9,Successful
+Lucas da Cunha,Como,49,49,Pass,Pass,SecondHalf,69.2,40.9,67.6,61.6,Successful
+Álex Valle,Como,49,52,Pass,Pass,SecondHalf,67.6,61.6,52.9,47.8,Successful
+Trevoh Chalobah,Como,49,55,Pass,Pass,SecondHalf,52.9,47.8,52.9,25.5,Successful
+Jacobo Ramón,Como,49,56,Pass,Pass,SecondHalf,52.9,25.5,58.2,6.0,Successful
+Yan Couto,Como,49,58,Pass,Pass,SecondHalf,58.2,6.0,44.2,21.7,Successful
+Jacobo Ramón,Como,50,1,Pass,Pass,SecondHalf,43.7,28.0,48.9,34.6,Successful
+Lucas da Cunha,Como,50,2,Long Pass,Pass,SecondHalf,48.9,34.6,18.8,48.4,Successful
+Jean Butez,Como,50,5,Pass,Pass,SecondHalf,18.8,48.4,29.2,64.5,Successful
+Trevoh Chalobah,Como,50,8,Pass,Pass,SecondHalf,28.4,66.6,33.6,83.7,Successful
+Álex Valle,Como,50,11,Pass,Pass,SecondHalf,34.2,83.1,47.9,89.4,Successful
+Luis Milla,Como,50,16,Pass,Pass,SecondHalf,58.5,93.4,66.3,90.7,Successful
+Álex Valle,Como,50,19,Pass,Pass,SecondHalf,71.9,92.1,71.9,87.6,Unsuccessful
+Matteo Politano,Napoli,50,19,BlockedPass,BlockedPass,SecondHalf,28.1,12.4,0.0,0.0,Successful
+Matteo Politano,Napoli,50,23,CornerAwarded,CornerAwarded,SecondHalf,12.0,7.4,0.0,0.0,Unsuccessful
+Álex Valle,Como,50,23,CornerAwarded,CornerAwarded,SecondHalf,88.0,92.6,0.0,0.0,Successful
+Luis Milla,Como,50,51,Cross,Pass,SecondHalf,99.5,99.5,95.5,49.5,Unsuccessful
+Alex Meret,Napoli,50,52,Aerial Won,Aerial,SecondHalf,4.5,50.5,0.0,0.0,Successful
+Trevoh Chalobah,Como,50,52,Aerial Lost,Aerial,SecondHalf,95.5,49.5,0.0,0.0,Unsuccessful
+Alex Meret,Napoli,50,53,Punch,Punch,SecondHalf,4.5,50.5,12.5,53.2,Successful
+Noa Lang,Napoli,50,57,Clearance,Clearance,SecondHalf,12.7,44.4,44.7,12.0,Successful
+Jean Butez,Como,51,1,Pass,Pass,SecondHalf,42.6,84.1,56.7,86.7,Successful
+Lucas da Cunha,Como,51,5,Long Pass,Pass,SecondHalf,60.3,81.0,80.9,8.2,Successful
+Nico Paz,Como,51,11,Pass,Pass,SecondHalf,90.8,8.5,96.6,24.1,Successful
+Assane Diao,Como,51,14,Key Pass,Pass,SecondHalf,90.8,24.6,89.7,16.6,Successful
+Nico Paz,Como,51,17,Shot off Target,MissedShots,SecondHalf,89.5,21.9,0.0,0.0,Successful
+Alex Meret,Napoli,51,33,Long Pass,Pass,SecondHalf,4.2,44.2,41.4,38.8,Unsuccessful
+Álex Valle,Como,51,36,Ball Recovery,BallRecovery,SecondHalf,71.3,58.0,0.0,0.0,Successful
+Álex Valle,Como,51,37,Pass,Pass,SecondHalf,74.7,56.2,77.4,38.1,Successful
+Nico Paz,Como,51,39,Pass,Pass,SecondHalf,77.4,38.1,87.3,22.9,Successful
+Assane Diao,Como,51,42,Pass,Pass,SecondHalf,88.0,23.7,78.7,37.0,Successful
+Nico Paz,Como,51,43,Pass,Pass,SecondHalf,78.5,37.0,82.4,47.2,Successful
+Álex Valle,Como,51,44,Pass,Pass,SecondHalf,82.4,47.2,75.7,56.2,Successful
+Lucas da Cunha,Como,51,46,Key Pass,Pass,SecondHalf,75.7,56.2,78.6,80.8,Successful
+Martin Baturina,Como,51,52,Shot off Target,MissedShots,SecondHalf,78.5,68.9,0.0,0.0,Successful
+Alex Meret,Napoli,52,8,Pass,Pass,SecondHalf,3.3,49.6,8.1,67.5,Successful
+Rafa Marín,Napoli,52,11,Pass,Pass,SecondHalf,15.4,70.2,15.1,95.4,Successful
+Mathías Olivera,Napoli,52,13,Pass,Pass,SecondHalf,15.3,95.1,26.5,96.0,Successful
+Stanislav Lobotka,Napoli,52,15,Pass,Pass,SecondHalf,26.6,96.0,38.4,85.8,Unsuccessful
+Luis Milla,Como,52,16,Pass,Pass,SecondHalf,64.1,14.1,70.2,4.9,Successful
+Nico Paz,Como,52,18,Ball Recovery,BallRecovery,SecondHalf,70.2,4.9,0.0,0.0,Successful
+Nico Paz,Como,52,18,Pass,Pass,SecondHalf,70.2,4.9,55.4,3.7,Successful
+Luis Milla,Como,52,22,Pass,Pass,SecondHalf,57.8,4.3,44.4,19.5,Successful
+Jacobo Ramón,Como,52,24,Pass,Pass,SecondHalf,44.4,19.5,45.8,52.2,Successful
+Trevoh Chalobah,Como,52,26,Pass,Pass,SecondHalf,45.8,52.2,53.2,44.2,Successful
+Lucas da Cunha,Como,52,31,Pass,Pass,SecondHalf,57.1,39.4,67.8,15.9,Successful
+Nico Paz,Como,52,34,Pass,Pass,SecondHalf,74.0,18.9,76.7,30.6,Successful
+Yan Couto,Como,52,36,Pass,Pass,SecondHalf,76.7,30.6,85.1,47.4,Unsuccessful
+Amir Rrahmani,Napoli,52,40,Ball Recovery,BallRecovery,SecondHalf,22.9,53.8,0.0,0.0,Successful
+Amir Rrahmani,Napoli,52,40,Pass,Pass,SecondHalf,22.9,53.8,26.8,62.4,Successful
+Nico Paz,Como,52,41,Challenge,Challenge,SecondHalf,71.0,35.6,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,52,41,Successful Dribble,TakeOn,SecondHalf,29.0,64.4,0.0,0.0,Successful
+Frank Anguissa,Napoli,52,43,Long Pass,Pass,SecondHalf,40.8,69.6,67.9,94.3,Unsuccessful
+Jacobo Ramón,Como,52,45,Interception,Interception,SecondHalf,32.1,5.7,0.0,0.0,Successful
+Jacobo Ramón,Como,52,47,Ball Recovery,BallRecovery,SecondHalf,43.2,6.6,0.0,0.0,Successful
+Mathías Olivera,Napoli,52,47,BallTouch,BallTouch,SecondHalf,66.6,94.0,0.0,0.0,Successful
+Jacobo Ramón,Como,52,47,Pass,Pass,SecondHalf,43.2,6.6,45.2,3.6,Successful
+Assane Diao,Como,52,51,Pass,Pass,SecondHalf,47.2,5.8,38.6,7.6,Successful
+Jacobo Ramón,Como,52,54,Pass,Pass,SecondHalf,39.2,11.8,32.0,44.1,Successful
+Trevoh Chalobah,Como,52,57,Pass,Pass,SecondHalf,31.8,44.8,48.3,53.5,Successful
+Lucas da Cunha,Como,53,1,Pass,Pass,SecondHalf,52.6,56.2,55.8,45.1,Successful
+Martin Baturina,Como,53,8,Pass,Pass,SecondHalf,58.8,39.9,55.0,21.1,Successful
+Yan Couto,Como,53,15,Pass,Pass,SecondHalf,60.5,37.9,70.9,4.3,Successful
+Assane Diao,Como,53,22,Pass,Pass,SecondHalf,74.4,4.9,57.1,25.3,Successful
+Luis Milla,Como,53,26,Pass,Pass,SecondHalf,58.7,25.2,55.0,36.6,Successful
+Jacobo Ramón,Como,53,34,Pass,Pass,SecondHalf,54.6,33.7,60.2,46.6,Successful
+Lucas da Cunha,Como,53,38,Pass,Pass,SecondHalf,69.3,51.1,78.4,36.6,Successful
+Tasos Douvikas,Como,53,40,Pass,Pass,SecondHalf,77.6,30.7,78.7,10.0,Successful
+Assane Diao,Como,53,47,Pass,Pass,SecondHalf,79.8,15.6,68.5,25.3,Successful
+Luis Milla,Como,53,48,Pass,Pass,SecondHalf,68.2,25.3,73.2,39.9,Successful
+Lucas da Cunha,Como,53,50,Pass,Pass,SecondHalf,73.2,39.9,65.4,45.0,Successful
+Jacobo Ramón,Como,53,51,Pass,Pass,SecondHalf,65.4,45.0,76.0,46.5,Successful
+Nico Paz,Como,53,53,Pass,Pass,SecondHalf,76.0,46.5,77.2,57.1,Unsuccessful
+Giovanni Di Lorenzo,Napoli,53,54,Pass,Pass,SecondHalf,28.0,50.8,34.6,46.3,Unsuccessful
+Luis Milla,Como,53,55,Interception,Interception,SecondHalf,65.4,53.7,0.0,0.0,Successful
+Trevoh Chalobah,Como,53,57,Pass,Pass,SecondHalf,61.2,65.5,68.8,82.6,Successful
+Martin Baturina,Como,54,1,Pass,Pass,SecondHalf,72.9,69.1,74.2,59.7,Successful
+Frank Anguissa,Napoli,54,2,Challenge,Challenge,SecondHalf,27.8,39.0,0.0,0.0,Unsuccessful
+Nico Paz,Como,54,2,Successful Dribble,TakeOn,SecondHalf,72.2,61.0,0.0,0.0,Successful
+Nico Paz,Como,54,3,Pass,Pass,SecondHalf,80.3,74.7,81.9,66.9,Successful
+Martin Baturina,Como,54,4,Unsuccessful Dribble,TakeOn,SecondHalf,79.3,62.2,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,54,4,Was Dribbled,Tackle,SecondHalf,20.6,37.7,0.0,0.0,Unsuccessful
+Martin Baturina,Como,54,5,BallTouch,BallTouch,SecondHalf,75.1,77.7,0.0,0.0,Successful
+Frank Anguissa,Napoli,54,6,BallTouch,BallTouch,SecondHalf,20.8,39.9,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,54,7,BallTouch,BallTouch,SecondHalf,21.2,41.1,0.0,0.0,Successful
+Amir Rrahmani,Napoli,54,8,Ball Recovery,BallRecovery,SecondHalf,22.2,46.3,0.0,0.0,Successful
+Amir Rrahmani,Napoli,54,9,Pass,Pass,SecondHalf,25.1,47.4,24.3,32.8,Successful
+Frank Anguissa,Napoli,54,10,Pass,Pass,SecondHalf,24.6,32.8,24.6,21.9,Successful
+Matteo Politano,Napoli,54,12,Pass,Pass,SecondHalf,27.2,17.4,23.8,29.8,Successful
+Giovanni Di Lorenzo,Napoli,54,18,Pass,Pass,SecondHalf,34.3,22.9,45.2,5.4,Successful
+Matteo Politano,Napoli,54,23,Pass,Pass,SecondHalf,47.0,14.1,46.9,46.9,Successful
+Scott McTominay,Napoli,54,25,Pass,Pass,SecondHalf,48.7,45.7,66.6,65.4,Unsuccessful
+Assane Diao,Como,54,28,Interception,Interception,SecondHalf,33.4,34.6,0.0,0.0,Successful
+Noa Lang,Napoli,54,31,Unsuccessful Dribble,TakeOn,SecondHalf,85.2,77.1,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,54,31,Was Dribbled,Tackle,SecondHalf,14.7,23.0,0.0,0.0,Unsuccessful
+Noa Lang,Napoli,54,32,Key Pass,BallTouch,SecondHalf,87.5,85.0,0.0,0.0,Successful
+Mathías Olivera,Napoli,54,34,Shot off Target,MissedShots,SecondHalf,89.3,61.0,0.0,0.0,Successful
+Scott McTominay,Napoli,55,7,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,55,7,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Mathías Olivera,Napoli,55,25,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,55,25,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Noa Lang,Napoli,55,28,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Alisson Santos,Napoli,55,28,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Trevoh Chalobah,Como,55,44,Pass,Pass,SecondHalf,4.6,61.0,1.7,50.8,Successful
+Jean Butez,Como,55,50,Long Pass,Pass,SecondHalf,3.4,45.4,48.9,58.3,Successful
+Tasos Douvikas,Como,55,55,Foul,Foul,SecondHalf,49.0,60.0,0.0,0.0,Successful
+Amir Rrahmani,Napoli,55,55,Foul,Foul,SecondHalf,51.0,40.0,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,56,7,Pass,Pass,SecondHalf,46.4,64.0,46.4,57.4,Successful
+Luis Milla,Como,56,8,Pass,Pass,SecondHalf,46.4,57.4,48.6,65.8,Successful
+Lucas da Cunha,Como,56,8,Pass,Pass,SecondHalf,48.6,65.8,40.0,33.7,Successful
+Jacobo Ramón,Como,56,11,Pass,Pass,SecondHalf,40.0,33.7,47.9,44.8,Successful
+Luis Milla,Como,56,13,Pass,Pass,SecondHalf,47.9,44.8,42.2,32.4,Successful
+Jacobo Ramón,Como,56,15,Pass,Pass,SecondHalf,42.9,30.7,45.9,42.9,Successful
+Luis Milla,Como,56,17,Pass,Pass,SecondHalf,45.9,42.9,46.8,10.0,Successful
+Yan Couto,Como,56,20,Pass,Pass,SecondHalf,46.8,10.0,55.8,23.1,Successful
+Alisson Santos,Napoli,56,23,Challenge,Challenge,SecondHalf,33.6,91.6,0.0,0.0,Unsuccessful
+Nico Paz,Como,56,23,Successful Dribble,TakeOn,SecondHalf,66.4,8.4,0.0,0.0,Successful
+Nico Paz,Como,56,25,BallTouch,BallTouch,SecondHalf,64.2,12.1,0.0,0.0,Unsuccessful
+Rafa Marín,Napoli,56,26,Ball Recovery,BallRecovery,SecondHalf,43.4,86.9,0.0,0.0,Successful
+Rafa Marín,Napoli,56,27,Pass,Pass,SecondHalf,40.8,89.8,32.7,84.1,Successful
+Leonardo Spinazzola,Napoli,56,29,Pass,Pass,SecondHalf,33.2,82.2,35.0,66.1,Successful
+Stanislav Lobotka,Napoli,56,30,Pass,Pass,SecondHalf,35.1,66.0,35.3,27.4,Successful
+Amir Rrahmani,Napoli,56,37,Pass,Pass,SecondHalf,42.5,26.1,39.9,57.6,Successful
+Rafa Marín,Napoli,56,41,Pass,Pass,SecondHalf,44.0,67.0,61.5,94.2,Successful
+Alisson Santos,Napoli,56,48,Pass,Pass,SecondHalf,68.9,85.0,68.6,61.6,Successful
+Stanislav Lobotka,Napoli,56,50,Pass,Pass,SecondHalf,67.8,61.5,69.5,24.1,Successful
+Giovanni Di Lorenzo,Napoli,56,53,Pass,Pass,SecondHalf,69.3,22.0,85.2,8.5,Successful
+Matteo Politano,Napoli,56,58,Pass,Pass,SecondHalf,90.0,6.3,77.1,15.6,Successful
+Giovanni Di Lorenzo,Napoli,57,0,Offside,OffsideGiven,SecondHalf,88.5,43.8,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,57,0,Pass,Pass,SecondHalf,77.6,18.0,86.5,31.0,Successful
+Stanislav Lobotka,Napoli,57,3,Pass,Pass,SecondHalf,92.7,29.1,86.5,14.5,Successful
+Matteo Politano,Napoli,57,7,Key Pass,Pass,SecondHalf,90.6,15.6,89.9,59.4,Successful
+Frank Anguissa,Napoli,57,9,Aerial Won,Aerial,SecondHalf,89.9,59.4,0.0,0.0,Successful
+Assane Diao,Como,57,9,Aerial Lost,Aerial,SecondHalf,10.1,40.6,0.0,0.0,Unsuccessful
+Frank Anguissa,Napoli,57,10,Shot off Target,MissedShots,SecondHalf,89.9,59.4,0.0,0.0,Successful
+Rasmus Højlund,Napoli,57,11,BallTouch,BallTouch,SecondHalf,90.2,50.1,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,57,13,Clearance,Clearance,SecondHalf,9.6,43.6,27.4,65.1,Successful
+Kevin De Bruyne,Napoli,57,13,Pass,Pass,SecondHalf,74.7,35.4,73.2,47.7,Successful
+Amir Rrahmani,Napoli,57,15,Offside,OffsidePass,SecondHalf,73.2,47.7,88.5,43.8,Successful
+Trevoh Chalobah,Como,57,15,OffsideProvoked,OffsideProvoked,SecondHalf,12.9,51.6,0.0,0.0,Successful
+Martin Baturina,Como,57,43,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Maxence Caqueret,Como,57,43,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Yan Couto,Como,57,51,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Ivan Smolcic,Como,57,51,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jean Butez,Como,58,5,Long Pass,Pass,SecondHalf,9.6,49.5,71.9,46.6,Unsuccessful
+Amir Rrahmani,Napoli,58,9,Ball Recovery,BallRecovery,SecondHalf,30.8,55.8,0.0,0.0,Successful
+Amir Rrahmani,Napoli,58,11,Pass,Pass,SecondHalf,30.6,56.4,33.8,82.2,Successful
+Leonardo Spinazzola,Napoli,58,17,Pass,Pass,SecondHalf,53.6,82.9,52.3,67.6,Successful
+Stanislav Lobotka,Napoli,58,23,Pass,Pass,SecondHalf,62.5,70.2,62.4,84.1,Successful
+Leonardo Spinazzola,Napoli,58,27,Pass,Pass,SecondHalf,58.2,91.2,53.9,59.7,Successful
+Rafa Marín,Napoli,58,30,Pass,Pass,SecondHalf,53.5,57.6,58.8,36.3,Successful
+Amir Rrahmani,Napoli,58,33,Pass,Pass,SecondHalf,56.2,34.8,52.9,57.6,Successful
+Rafa Marín,Napoli,58,36,Pass,Pass,SecondHalf,53.4,59.4,57.7,81.1,Successful
+Leonardo Spinazzola,Napoli,58,40,Pass,Pass,SecondHalf,71.0,87.4,82.3,73.8,Successful
+Rasmus Højlund,Napoli,58,42,Pass,Pass,SecondHalf,82.3,73.8,93.3,76.2,Successful
+Leonardo Spinazzola,Napoli,58,45,Unsuccessful Dribble,TakeOn,SecondHalf,96.7,68.4,0.0,0.0,Unsuccessful
+Luis Milla,Como,58,45,Successful Tackle,Tackle,SecondHalf,3.3,31.6,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,58,46,CornerAwarded,CornerAwarded,SecondHalf,97.2,68.0,0.0,0.0,Successful
+Luis Milla,Como,58,46,CornerAwarded,CornerAwarded,SecondHalf,2.8,31.9,0.0,0.0,Unsuccessful
+Kevin De Bruyne,Napoli,59,11,Key Pass,Pass,SecondHalf,99.5,99.5,91.3,69.3,Successful
+Giovanni Di Lorenzo,Napoli,59,12,Aerial Won,Aerial,SecondHalf,91.3,69.3,0.0,0.0,Successful
+Luis Milla,Como,59,12,Aerial Lost,Aerial,SecondHalf,8.7,30.7,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,59,12,Shot on Target,SavedShot,SecondHalf,91.3,69.3,0.0,0.0,Successful
+Luis Milla,Como,59,12,Save,Save,SecondHalf,6.6,35.0,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,59,15,Key Pass,Pass,SecondHalf,89.5,94.2,74.8,73.3,Successful
+Alisson Santos,Napoli,59,17,Shot on Target,SavedShot,SecondHalf,75.1,69.3,0.0,0.0,Successful
+Álex Valle,Como,59,17,Save,Save,SecondHalf,18.0,35.9,0.0,0.0,Successful
+Trevoh Chalobah,Como,59,21,Aerial Won,Aerial,SecondHalf,9.7,49.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,59,21,Aerial Lost,Aerial,SecondHalf,90.3,50.8,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,59,21,Clearance,Clearance,SecondHalf,9.1,52.6,22.7,47.1,Successful
+Maxence Caqueret,Como,59,22,Clearance,Clearance,SecondHalf,22.7,47.1,28.1,49.8,Successful
+Stanislav Lobotka,Napoli,59,23,Pass,Pass,SecondHalf,68.3,44.7,74.5,16.9,Successful
+Matteo Politano,Napoli,59,26,Pass,Pass,SecondHalf,74.4,16.0,68.3,29.7,Successful
+Stanislav Lobotka,Napoli,59,29,Pass,Pass,SecondHalf,65.7,33.0,63.8,49.9,Successful
+Leonardo Spinazzola,Napoli,59,32,Pass,Pass,SecondHalf,64.1,49.5,66.9,69.1,Successful
+Kevin De Bruyne,Napoli,59,35,Chipped Pass,Pass,SecondHalf,68.3,61.2,87.0,50.7,Successful
+Amir Rrahmani,Napoli,59,38,Loss of Possession,Dispossessed,SecondHalf,87.0,49.6,0.0,0.0,Successful
+Trevoh Chalobah,Como,59,38,Successful Tackle,Tackle,SecondHalf,13.0,50.4,0.0,0.0,Successful
+Maxence Caqueret,Como,59,41,Long Pass,Pass,SecondHalf,27.8,54.4,44.5,48.6,Unsuccessful
+Leonardo Spinazzola,Napoli,59,46,Chipped Pass,Pass,SecondHalf,56.5,39.9,67.5,3.9,Successful
+Matteo Politano,Napoli,59,48,Pass,Pass,SecondHalf,67.5,3.9,57.4,25.8,Successful
+Leonardo Spinazzola,Napoli,59,50,Pass,Pass,SecondHalf,57.4,25.8,58.5,0.0,Unsuccessful
+Álex Valle,Como,60,8,Throw In,Pass,SecondHalf,47.2,100.0,43.7,89.1,Successful
+Maxence Caqueret,Como,60,10,Unsuccessful Dribble,TakeOn,SecondHalf,40.7,89.6,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,60,10,Successful Tackle,Tackle,SecondHalf,59.2,10.4,0.0,0.0,Successful
+Álex Valle,Como,60,22,Long Pass,Pass,SecondHalf,47.7,100.0,75.5,84.7,Successful
+Nico Paz,Como,60,26,Successful Dribble,TakeOn,SecondHalf,84.6,80.0,0.0,0.0,Successful
+Rafa Marín,Napoli,60,26,Challenge,Challenge,SecondHalf,15.3,20.0,0.0,0.0,Unsuccessful
+Nico Paz,Como,60,29,Loss of Possession,Dispossessed,SecondHalf,92.0,87.8,0.0,0.0,Successful
+Rafa Marín,Napoli,60,29,Successful Tackle,Tackle,SecondHalf,8.0,12.2,0.0,0.0,Successful
+Rafa Marín,Napoli,60,30,Ball Recovery,BallRecovery,SecondHalf,24.8,18.4,0.0,0.0,Successful
+Rafa Marín,Napoli,60,31,Pass,Pass,SecondHalf,14.9,3.9,29.9,19.6,Successful
+Giovanni Di Lorenzo,Napoli,60,33,Pass,Pass,SecondHalf,24.8,18.4,15.5,25.9,Successful
+Stanislav Lobotka,Napoli,60,35,Pass,Pass,SecondHalf,15.5,25.9,30.0,57.7,Successful
+Kevin De Bruyne,Napoli,60,40,Pass,Pass,SecondHalf,38.0,65.1,52.1,92.7,Unsuccessful
+Assane Diao,Como,60,42,Interception,Interception,SecondHalf,47.9,7.3,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,60,49,Throw In,Pass,SecondHalf,45.8,100.0,39.1,86.7,Successful
+Kevin De Bruyne,Napoli,61,0,Pass,Pass,SecondHalf,60.5,74.4,80.6,78.4,Unsuccessful
+Ivan Smolcic,Como,61,5,Interception,Interception,SecondHalf,19.4,21.6,0.0,0.0,Successful
+Ivan Smolcic,Como,61,7,Ball Recovery,BallRecovery,SecondHalf,21.7,14.7,0.0,0.0,Successful
+Ivan Smolcic,Como,61,7,Pass,Pass,SecondHalf,21.7,14.7,32.8,29.2,Successful
+Luis Milla,Como,61,8,Pass,Pass,SecondHalf,32.8,29.2,54.5,25.6,Successful
+Leonardo Spinazzola,Napoli,61,9,Challenge,Challenge,SecondHalf,44.0,76.6,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,61,9,Successful Dribble,TakeOn,SecondHalf,56.0,23.4,0.0,0.0,Successful
+Tasos Douvikas,Como,61,12,Loss of Possession,Dispossessed,SecondHalf,59.0,6.8,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,61,12,Successful Tackle,Tackle,SecondHalf,41.0,93.2,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,61,14,Ball Recovery,BallRecovery,SecondHalf,37.9,84.9,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,61,14,Pass,Pass,SecondHalf,37.9,84.9,31.1,72.9,Successful
+Rafa Marín,Napoli,61,19,Pass,Pass,SecondHalf,33.0,72.1,33.4,51.3,Successful
+Amir Rrahmani,Napoli,61,20,Pass,Pass,SecondHalf,33.2,50.5,38.7,23.2,Successful
+Giovanni Di Lorenzo,Napoli,61,22,Long Pass,Pass,SecondHalf,39.1,23.4,86.2,25.9,Unsuccessful
+Jean Butez,Como,61,28,KeeperPickup,KeeperPickup,SecondHalf,12.8,72.4,0.0,0.0,Successful
+Jean Butez,Como,61,29,Pass,Pass,SecondHalf,15.2,64.0,20.1,41.1,Successful
+Jacobo Ramón,Como,61,36,Pass,Pass,SecondHalf,27.8,40.8,30.3,9.9,Successful
+Ivan Smolcic,Como,61,39,Pass,Pass,SecondHalf,32.0,9.9,45.4,2.8,Successful
+Assane Diao,Como,61,42,Pass,Pass,SecondHalf,42.5,3.4,36.8,10.9,Successful
+Nico Paz,Como,61,44,Chipped Pass,Pass,SecondHalf,36.9,10.6,60.7,1.9,Successful
+Luis Milla,Como,61,47,BallTouch,BallTouch,SecondHalf,60.7,1.9,0.0,0.0,Unsuccessful
+Stanislav Lobotka,Napoli,61,47,Ball Recovery,BallRecovery,SecondHalf,36.0,92.7,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,61,48,Pass,Pass,SecondHalf,35.9,92.8,41.9,67.3,Successful
+Frank Anguissa,Napoli,61,56,Pass,Pass,SecondHalf,55.6,64.8,59.6,71.7,Successful
+Stanislav Lobotka,Napoli,62,2,Pass,Pass,SecondHalf,69.7,76.5,77.3,95.5,Successful
+Alisson Santos,Napoli,62,5,Pass,Pass,SecondHalf,71.1,95.5,54.3,71.8,Successful
+Rafa Marín,Napoli,62,7,Pass,Pass,SecondHalf,54.1,67.3,56.5,38.7,Successful
+Amir Rrahmani,Napoli,62,13,Pass,Pass,SecondHalf,60.4,38.8,59.7,66.7,Successful
+Rafa Marín,Napoli,62,16,Pass,Pass,SecondHalf,60.9,66.6,71.2,78.4,Successful
+Leonardo Spinazzola,Napoli,62,19,Pass,Pass,SecondHalf,71.3,78.1,78.3,67.6,Successful
+Rasmus Højlund,Napoli,62,20,Pass,Pass,SecondHalf,78.2,67.6,67.4,57.6,Successful
+Stanislav Lobotka,Napoli,62,22,Pass,Pass,SecondHalf,67.6,57.4,69.6,76.0,Successful
+Leonardo Spinazzola,Napoli,62,23,Pass,Pass,SecondHalf,72.3,75.6,82.6,87.7,Successful
+Alisson Santos,Napoli,62,27,Pass,Pass,SecondHalf,88.0,86.7,77.2,78.6,Successful
+Leonardo Spinazzola,Napoli,62,29,Pass,Pass,SecondHalf,77.1,78.7,88.9,69.7,Successful
+Kevin De Bruyne,Napoli,62,30,Cross,Pass,SecondHalf,89.6,76.1,93.0,16.8,Successful
+Matteo Politano,Napoli,62,38,Pass,Pass,SecondHalf,92.1,15.6,80.9,17.4,Successful
+Giovanni Di Lorenzo,Napoli,62,39,Cross,Pass,SecondHalf,80.9,17.4,91.0,52.8,Unsuccessful
+Jacobo Ramón,Como,62,42,Aerial Won,Aerial,SecondHalf,9.0,47.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,62,42,Aerial Lost,Aerial,SecondHalf,91.0,52.8,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,62,43,Clearance,Clearance,SecondHalf,9.0,47.2,22.7,38.7,Successful
+Nico Paz,Como,62,45,Long Pass,Pass,SecondHalf,22.7,38.7,26.8,64.0,Unsuccessful
+Amir Rrahmani,Napoli,62,45,Pass,Pass,SecondHalf,68.6,39.1,90.0,45.0,Unsuccessful
+Jean Butez,Como,62,51,Claim,Claim,SecondHalf,10.0,55.0,0.0,0.0,Unsuccessful
+Jean Butez,Como,62,52,KeeperPickup,KeeperPickup,SecondHalf,11.3,62.8,0.0,0.0,Successful
+Jean Butez,Como,63,5,Pass,Pass,SecondHalf,8.8,62.4,17.1,74.2,Successful
+Trevoh Chalobah,Como,63,8,Long Pass,Pass,SecondHalf,17.1,74.2,62.4,73.6,Successful
+Tasos Douvikas,Como,63,10,Foul,Foul,SecondHalf,59.6,78.4,0.0,0.0,Successful
+Amir Rrahmani,Napoli,63,10,Foul,Foul,SecondHalf,40.4,21.6,0.0,0.0,Unsuccessful
+Lucas da Cunha,Como,63,34,Pass,Pass,SecondHalf,56.4,71.8,40.8,64.9,Successful
+Trevoh Chalobah,Como,63,38,Pass,Pass,SecondHalf,40.8,64.9,43.2,35.2,Successful
+Jacobo Ramón,Como,63,39,Pass,Pass,SecondHalf,43.2,35.2,47.7,44.5,Successful
+Luis Milla,Como,63,41,Pass,Pass,SecondHalf,47.7,44.5,40.6,18.6,Successful
+Ivan Smolcic,Como,63,43,Pass,Pass,SecondHalf,40.6,18.6,33.0,39.3,Successful
+Jacobo Ramón,Como,63,47,Pass,Pass,SecondHalf,33.0,39.3,34.9,63.1,Successful
+Trevoh Chalobah,Como,63,49,Pass,Pass,SecondHalf,35.3,66.4,41.4,89.2,Successful
+Lucas da Cunha,Como,63,51,Pass,Pass,SecondHalf,41.3,89.2,44.2,69.3,Successful
+Luis Milla,Como,63,53,Pass,Pass,SecondHalf,44.2,69.3,48.5,85.2,Successful
+Nico Paz,Como,63,54,Pass,Pass,SecondHalf,48.5,85.2,34.4,93.9,Successful
+Lucas da Cunha,Como,63,57,Pass,Pass,SecondHalf,38.5,78.4,44.3,51.9,Successful
+Maxence Caqueret,Como,63,59,Pass,Pass,SecondHalf,44.3,51.9,33.2,42.9,Successful
+Jacobo Ramón,Como,64,4,Pass,Pass,SecondHalf,40.5,43.5,44.1,33.6,Successful
+Maxence Caqueret,Como,64,5,Pass,Pass,SecondHalf,44.1,33.6,62.9,33.7,Successful
+Lucas da Cunha,Como,64,8,Pass,Pass,SecondHalf,62.9,33.7,55.7,44.2,Successful
+Maxence Caqueret,Como,64,10,Pass,Pass,SecondHalf,56.8,45.6,54.1,68.5,Successful
+Nico Paz,Como,64,12,Pass,Pass,SecondHalf,61.0,68.8,66.7,97.8,Successful
+Álex Valle,Como,64,14,Pass,Pass,SecondHalf,66.7,97.8,61.0,83.4,Successful
+Nico Paz,Como,64,15,Pass,Pass,SecondHalf,61.0,83.4,61.2,67.2,Successful
+Maxence Caqueret,Como,64,16,Pass,Pass,SecondHalf,61.2,67.2,63.2,82.3,Successful
+Nico Paz,Como,64,17,Pass,Pass,SecondHalf,63.2,82.3,57.9,68.7,Successful
+Maxence Caqueret,Como,64,19,Pass,Pass,SecondHalf,59.2,70.2,63.9,85.2,Successful
+Nico Paz,Como,64,22,Pass,Pass,SecondHalf,63.9,85.2,53.4,73.9,Successful
+Maxence Caqueret,Como,64,25,Pass,Pass,SecondHalf,53.3,74.1,45.8,36.1,Successful
+Jacobo Ramón,Como,64,29,Pass,Pass,SecondHalf,46.1,28.9,68.0,2.4,Successful
+Assane Diao,Como,64,30,Pass,Pass,SecondHalf,68.0,2.4,47.5,2.2,Successful
+Ivan Smolcic,Como,64,33,Long Pass,Pass,SecondHalf,47.5,2.2,84.5,0.0,Unsuccessful
+Assane Diao,Como,64,58,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Marc Oliver Kempf,Como,64,58,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lucas da Cunha,Como,65,5,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Máximo Perrone,Como,65,5,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,65,6,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,65,17,Throw In,Pass,SecondHalf,34.6,100.0,37.6,73.8,Successful
+Stanislav Lobotka,Napoli,65,18,Pass,Pass,SecondHalf,37.9,73.9,33.9,90.3,Successful
+Leonardo Spinazzola,Napoli,65,21,Pass,Pass,SecondHalf,38.0,91.8,57.1,94.5,Successful
+Kevin De Bruyne,Napoli,65,24,Pass,Pass,SecondHalf,57.1,94.5,74.6,93.6,Unsuccessful
+Ivan Smolcic,Como,65,26,BallTouch,BallTouch,SecondHalf,34.7,10.2,0.0,0.0,Successful
+Alisson Santos,Napoli,65,29,Pass,Pass,SecondHalf,69.3,93.4,63.9,78.3,Successful
+Kevin De Bruyne,Napoli,65,30,Pass,Pass,SecondHalf,64.2,78.0,60.6,55.3,Successful
+Stanislav Lobotka,Napoli,65,33,Pass,Pass,SecondHalf,62.3,54.7,60.8,33.7,Successful
+Amir Rrahmani,Napoli,65,38,Pass,Pass,SecondHalf,66.8,35.2,62.7,58.6,Successful
+Rafa Marín,Napoli,65,40,Pass,Pass,SecondHalf,62.7,60.0,67.4,82.9,Successful
+Leonardo Spinazzola,Napoli,65,46,Pass,Pass,SecondHalf,68.0,73.9,65.9,43.3,Successful
+Amir Rrahmani,Napoli,65,49,Pass,Pass,SecondHalf,66.1,40.2,66.3,67.5,Successful
+Rafa Marín,Napoli,65,51,Pass,Pass,SecondHalf,66.6,67.5,73.8,84.6,Successful
+Kevin De Bruyne,Napoli,65,56,Long Pass,Pass,SecondHalf,73.3,78.7,93.8,0.0,Unsuccessful
+Álex Valle,Como,66,13,Throw In,Pass,SecondHalf,5.3,100.0,4.8,88.6,Successful
+Marc Oliver Kempf,Como,66,15,Long Pass,Pass,SecondHalf,4.8,88.6,40.0,88.2,Unsuccessful
+Amir Rrahmani,Napoli,66,18,Aerial Won,Aerial,SecondHalf,60.0,11.8,0.0,0.0,Successful
+Tasos Douvikas,Como,66,18,Aerial Lost,Aerial,SecondHalf,40.0,88.2,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,66,18,Pass,Pass,SecondHalf,60.0,11.8,77.5,0.0,Unsuccessful
+Álex Valle,Como,66,28,Throw In,Pass,SecondHalf,29.4,100.0,44.8,91.9,Successful
+Tasos Douvikas,Como,66,32,Loss of Possession,Dispossessed,SecondHalf,43.4,88.7,0.0,0.0,Successful
+Amir Rrahmani,Napoli,66,32,Successful Tackle,Tackle,SecondHalf,56.6,11.3,0.0,0.0,Successful
+Frank Anguissa,Napoli,66,34,Pass,Pass,SecondHalf,63.9,17.7,42.4,15.7,Successful
+Giovanni Di Lorenzo,Napoli,66,36,Ball Recovery,BallRecovery,SecondHalf,42.8,15.4,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,66,38,Pass,Pass,SecondHalf,42.8,15.4,39.1,39.4,Successful
+Rafa Marín,Napoli,66,39,Pass,Pass,SecondHalf,40.4,40.0,55.5,72.0,Successful
+Leonardo Spinazzola,Napoli,66,45,Pass,Pass,SecondHalf,77.8,86.7,80.2,93.7,Successful
+Alisson Santos,Napoli,66,49,Unsuccessful Dribble,TakeOn,SecondHalf,78.2,85.8,0.0,0.0,Unsuccessful
+Ivan Smolcic,Como,66,49,Was Dribbled,Tackle,SecondHalf,21.8,14.2,0.0,0.0,Unsuccessful
+Stanislav Lobotka,Napoli,66,53,Pass,Pass,SecondHalf,63.4,76.2,59.3,60.3,Successful
+Rafa Marín,Napoli,66,56,Long Pass,Pass,SecondHalf,62.2,59.5,83.7,7.0,Successful
+Rasmus Højlund,Napoli,67,0,Offside,OffsideGiven,SecondHalf,92.6,63.9,0.0,0.0,Unsuccessful
+Matteo Politano,Napoli,67,3,Pass,Pass,SecondHalf,79.8,9.4,67.4,17.7,Successful
+Giovanni Di Lorenzo,Napoli,67,4,Pass,Pass,SecondHalf,67.5,17.7,61.9,34.5,Successful
+Amir Rrahmani,Napoli,67,11,Pass,Pass,SecondHalf,64.7,35.1,60.3,58.8,Successful
+Rafa Marín,Napoli,67,14,Pass,Pass,SecondHalf,60.3,58.8,68.0,86.7,Successful
+Kevin De Bruyne,Napoli,67,17,Pass,Pass,SecondHalf,68.6,86.8,79.0,95.7,Successful
+Alisson Santos,Napoli,67,18,Pass,Pass,SecondHalf,78.3,95.7,64.6,84.6,Successful
+Kevin De Bruyne,Napoli,67,24,Offside,OffsidePass,SecondHalf,65.1,82.5,92.6,63.9,Successful
+Trevoh Chalobah,Como,67,24,OffsideProvoked,OffsideProvoked,SecondHalf,12.8,38.8,0.0,0.0,Successful
+Jean Butez,Como,70,8,Long Pass,Pass,SecondHalf,14.4,36.4,26.9,93.9,Successful
+Marc Oliver Kempf,Como,70,14,Pass,Pass,SecondHalf,34.0,93.1,39.1,73.3,Successful
+Máximo Perrone,Como,70,16,Pass,Pass,SecondHalf,39.1,73.3,26.2,93.3,Successful
+Marc Oliver Kempf,Como,70,17,Pass,Pass,SecondHalf,26.3,93.3,53.4,80.5,Unsuccessful
+Amir Rrahmani,Napoli,70,19,Long Pass,Pass,SecondHalf,45.7,22.3,72.7,32.1,Successful
+Rasmus Højlund,Napoli,70,21,Ball Recovery,BallRecovery,SecondHalf,70.4,31.2,0.0,0.0,Successful
+Rasmus Højlund,Napoli,70,21,Pass,Pass,SecondHalf,70.4,31.2,66.8,22.6,Successful
+Frank Anguissa,Napoli,70,23,Pass,Pass,SecondHalf,68.6,20.5,62.4,31.5,Successful
+Stanislav Lobotka,Napoli,70,25,Pass,Pass,SecondHalf,63.8,32.8,66.7,79.5,Successful
+Leonardo Spinazzola,Napoli,70,31,Pass,Pass,SecondHalf,80.5,78.0,81.4,87.9,Successful
+Alisson Santos,Napoli,70,34,Unsuccessful Dribble,TakeOn,SecondHalf,81.7,88.4,0.0,0.0,Unsuccessful
+Nico Paz,Como,70,34,Was Dribbled,Tackle,SecondHalf,18.3,11.6,0.0,0.0,Unsuccessful
+Alisson Santos,Napoli,70,40,Cross,Pass,SecondHalf,86.4,92.8,90.2,62.2,Unsuccessful
+Jacobo Ramón,Como,70,42,Clearance,Clearance,SecondHalf,12.9,40.9,36.5,28.9,Successful
+Stanislav Lobotka,Napoli,70,44,Pass,Pass,SecondHalf,69.4,73.9,74.1,59.1,Successful
+Kevin De Bruyne,Napoli,70,45,BallTouch,BallTouch,SecondHalf,74.1,59.1,0.0,0.0,Unsuccessful
+Luis Milla,Como,70,47,Long Pass,Pass,SecondHalf,25.9,31.5,33.3,27.3,Unsuccessful
+Stanislav Lobotka,Napoli,70,48,Pass,Pass,SecondHalf,72.9,71.1,85.1,65.7,Successful
+Leonardo Spinazzola,Napoli,70,49,Pass,Pass,SecondHalf,85.2,65.7,87.0,48.0,Successful
+Giovanni Di Lorenzo,Napoli,70,50,Unsuccessful Dribble,TakeOn,SecondHalf,87.0,47.8,0.0,0.0,Unsuccessful
+Jean Butez,Como,70,53,Smother,Smother,SecondHalf,3.3,35.4,0.0,0.0,Successful
+Jean Butez,Como,70,54,KeeperPickup,KeeperPickup,SecondHalf,3.3,35.4,0.0,0.0,Successful
+Jean Butez,Como,71,11,Pass,Pass,SecondHalf,15.2,45.7,29.9,67.6,Successful
+Luis Milla,Como,71,13,BallTouch,BallTouch,SecondHalf,29.9,67.6,0.0,0.0,Successful
+Maxence Caqueret,Como,71,14,Pass,Pass,SecondHalf,38.2,88.5,32.2,67.6,Successful
+Luis Milla,Como,71,18,Pass,Pass,SecondHalf,32.2,67.6,30.7,37.5,Successful
+Máximo Perrone,Como,71,19,Pass,Pass,SecondHalf,30.7,37.5,30.5,23.8,Successful
+Jacobo Ramón,Como,71,20,Pass,Pass,SecondHalf,30.5,23.8,40.3,4.9,Successful
+Ivan Smolcic,Como,71,23,Pass,Pass,SecondHalf,40.2,4.8,22.5,6.1,Successful
+Jacobo Ramón,Como,71,25,Pass,Pass,SecondHalf,22.3,6.4,5.9,33.1,Successful
+Jean Butez,Como,71,28,Long Pass,Pass,SecondHalf,8.8,26.7,63.4,31.8,Successful
+Tasos Douvikas,Como,71,33,Aerial Won,Aerial,SecondHalf,63.4,31.8,0.0,0.0,Successful
+Amir Rrahmani,Napoli,71,33,Aerial Lost,Aerial,SecondHalf,36.6,68.2,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,71,34,Pass,Pass,SecondHalf,63.4,31.8,60.5,32.7,Unsuccessful
+Amir Rrahmani,Napoli,71,35,BallTouch,BallTouch,SecondHalf,39.7,73.8,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,71,37,Ball Recovery,BallRecovery,SecondHalf,36.1,47.8,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,71,37,Pass,Pass,SecondHalf,36.1,47.8,38.7,22.8,Successful
+Matteo Politano,Napoli,71,40,Pass,Pass,SecondHalf,42.3,19.6,39.9,31.6,Successful
+Giovanni Di Lorenzo,Napoli,71,44,Pass,Pass,SecondHalf,40.0,31.8,55.0,42.3,Successful
+Stanislav Lobotka,Napoli,71,48,Foul,Foul,SecondHalf,52.6,46.7,0.0,0.0,Successful
+Máximo Perrone,Como,71,48,Foul,Foul,SecondHalf,47.4,53.3,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,72,5,Long Pass,Pass,SecondHalf,54.5,38.8,91.5,71.2,Unsuccessful
+Jean Butez,Como,72,9,KeeperPickup,KeeperPickup,SecondHalf,11.4,27.1,0.0,0.0,Successful
+Jean Butez,Como,72,16,Pass,Pass,SecondHalf,14.4,45.9,22.2,82.9,Successful
+Marc Oliver Kempf,Como,72,21,Pass,Pass,SecondHalf,33.6,85.5,37.6,67.9,Successful
+Luis Milla,Como,72,25,Pass,Pass,SecondHalf,37.0,67.9,41.6,61.8,Successful
+Máximo Perrone,Como,72,26,Pass,Pass,SecondHalf,41.6,61.8,38.5,70.3,Successful
+Luis Milla,Como,72,27,Pass,Pass,SecondHalf,39.9,70.2,44.4,86.7,Successful
+Maxence Caqueret,Como,72,28,Pass,Pass,SecondHalf,44.4,86.7,35.9,70.3,Successful
+Luis Milla,Como,72,32,Pass,Pass,SecondHalf,35.5,67.6,30.5,27.1,Successful
+Jacobo Ramón,Como,72,35,Pass,Pass,SecondHalf,32.2,27.4,45.5,17.2,Successful
+Nico Paz,Como,72,39,Pass,Pass,SecondHalf,44.6,15.3,41.8,5.5,Successful
+Ivan Smolcic,Como,72,43,Pass,Pass,SecondHalf,36.5,5.1,22.8,22.6,Unsuccessful
+Jean Butez,Como,72,46,KeeperSweeper,KeeperSweeper,SecondHalf,12.5,25.6,0.0,0.0,Successful
+Rasmus Højlund,Napoli,72,47,Unsuccessful Dribble,TakeOn,SecondHalf,77.6,72.2,0.0,0.0,Unsuccessful
+Jean Butez,Como,72,47,Was Dribbled,Tackle,SecondHalf,22.4,27.8,0.0,0.0,Unsuccessful
+Rasmus Højlund,Napoli,72,48,BallTouch,BallTouch,SecondHalf,80.4,74.5,0.0,0.0,Successful
+Jean Butez,Como,72,48,Long Pass,Pass,SecondHalf,24.3,20.7,49.1,11.5,Unsuccessful
+Leonardo Spinazzola,Napoli,72,51,Ball Recovery,BallRecovery,SecondHalf,60.6,88.0,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,72,53,Chipped Pass,Pass,SecondHalf,60.3,86.5,83.4,95.1,Unsuccessful
+Ivan Smolcic,Como,72,57,Clearance,Clearance,SecondHalf,17.3,5.4,19.1,0.0,Successful
+Alisson Santos,Napoli,73,5,Long Pass,Pass,SecondHalf,82.5,100.0,62.0,88.8,Successful
+Rafa Marín,Napoli,73,9,Pass,Pass,SecondHalf,62.1,82.6,62.1,51.3,Successful
+Amir Rrahmani,Napoli,73,10,Pass,Pass,SecondHalf,62.1,51.0,65.8,18.6,Successful
+Giovanni Di Lorenzo,Napoli,73,12,Pass,Pass,SecondHalf,65.8,18.6,75.3,7.0,Successful
+Matteo Politano,Napoli,73,15,Pass,Pass,SecondHalf,69.3,9.4,46.5,31.2,Successful
+Amir Rrahmani,Napoli,73,16,Long Pass,Pass,SecondHalf,47.3,30.4,81.1,8.4,Successful
+Frank Anguissa,Napoli,73,24,Pass,Pass,SecondHalf,82.5,8.1,69.3,16.8,Successful
+Giovanni Di Lorenzo,Napoli,73,25,Pass,Pass,SecondHalf,69.3,16.8,69.0,31.5,Successful
+Stanislav Lobotka,Napoli,73,31,Cross,Pass,SecondHalf,95.8,24.0,92.7,57.9,Unsuccessful
+Ivan Smolcic,Como,73,33,Foul,Foul,SecondHalf,6.3,44.7,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,73,33,Foul,Foul,SecondHalf,93.7,55.3,0.0,0.0,Unsuccessful
+Jean Butez,Como,76,11,Pass,Pass,SecondHalf,5.2,45.3,28.1,46.0,Successful
+Máximo Perrone,Como,76,13,Pass,Pass,SecondHalf,28.1,46.0,35.4,47.1,Successful
+Nico Paz,Como,76,16,Pass,Pass,SecondHalf,37.5,52.6,41.9,63.0,Successful
+Luis Milla,Como,76,19,Pass,Pass,SecondHalf,41.9,63.0,37.7,41.8,Successful
+Máximo Perrone,Como,76,20,Pass,Pass,SecondHalf,37.7,41.8,45.7,47.2,Successful
+Nico Paz,Como,76,21,Pass,Pass,SecondHalf,45.7,47.2,38.7,42.4,Successful
+Máximo Perrone,Como,76,22,Pass,Pass,SecondHalf,38.7,42.4,47.1,42.7,Successful
+Nico Paz,Como,76,30,Pass,Pass,SecondHalf,53.2,34.6,42.1,58.8,Successful
+Trevoh Chalobah,Como,76,32,Pass,Pass,SecondHalf,41.6,60.0,39.7,89.5,Successful
+Marc Oliver Kempf,Como,76,33,Pass,Pass,SecondHalf,39.7,89.5,45.4,96.0,Successful
+Álex Valle,Como,76,35,Pass,Pass,SecondHalf,45.7,94.5,59.4,77.7,Successful
+Tasos Douvikas,Como,76,37,Pass,Pass,SecondHalf,59.4,77.7,62.2,81.0,Unsuccessful
+Amir Rrahmani,Napoli,76,37,BlockedPass,BlockedPass,SecondHalf,37.8,19.0,0.0,0.0,Successful
+Tasos Douvikas,Como,76,41,Pass,Pass,SecondHalf,56.2,91.0,48.7,72.6,Successful
+Máximo Perrone,Como,76,45,Pass,Pass,SecondHalf,49.4,58.6,45.5,32.2,Successful
+Jacobo Ramón,Como,76,46,Pass,Pass,SecondHalf,45.5,32.2,49.2,44.5,Successful
+Máximo Perrone,Como,76,47,Pass,Pass,SecondHalf,49.2,44.5,45.9,32.8,Successful
+Jacobo Ramón,Como,76,48,Pass,Pass,SecondHalf,45.9,32.8,48.7,42.7,Successful
+Máximo Perrone,Como,76,50,Pass,Pass,SecondHalf,52.4,43.2,55.2,66.1,Successful
+Luis Milla,Como,76,53,Pass,Pass,SecondHalf,55.2,67.9,63.4,94.2,Successful
+Álex Valle,Como,76,55,Pass,Pass,SecondHalf,63.4,94.2,57.5,69.3,Successful
+Luis Milla,Como,76,58,Pass,Pass,SecondHalf,56.4,68.2,44.8,31.8,Successful
+Jacobo Ramón,Como,77,3,Pass,Pass,SecondHalf,44.8,31.8,59.1,14.7,Successful
+Maxence Caqueret,Como,77,6,Pass,Pass,SecondHalf,59.1,14.7,88.4,19.2,Successful
+Máximo Perrone,Como,77,9,Key Pass,Pass,SecondHalf,89.6,19.5,79.3,35.7,Successful
+Nico Paz,Como,77,11,Shot off Target,MissedShots,SecondHalf,79.3,35.7,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,77,14,Challenge,Challenge,SecondHalf,12.4,61.2,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,77,14,Successful Dribble,TakeOn,SecondHalf,87.6,38.8,0.0,0.0,Successful
+Tasos Douvikas,Como,77,14,Key Pass,Pass,SecondHalf,88.2,44.2,84.8,40.0,Successful
+Frank Anguissa,Napoli,77,18,Challenge,Challenge,SecondHalf,12.9,66.0,0.0,0.0,Unsuccessful
+Nico Paz,Como,77,18,Successful Dribble,TakeOn,SecondHalf,87.1,34.0,0.0,0.0,Successful
+Nico Paz,Como,77,20,Shot on Target,SavedShot,SecondHalf,85.2,39.6,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,77,20,Save,Save,SecondHalf,10.2,58.3,0.0,0.0,Successful
+Tasos Douvikas,Como,77,21,Pass,Pass,SecondHalf,90.0,52.9,82.9,47.8,Successful
+Maxence Caqueret,Como,77,23,Unsuccessful Dribble,TakeOn,SecondHalf,83.8,51.4,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,77,23,Was Dribbled,Tackle,SecondHalf,16.2,48.6,0.0,0.0,Unsuccessful
+Maxence Caqueret,Como,77,24,Unsuccessful Dribble,TakeOn,SecondHalf,84.8,52.5,0.0,0.0,Unsuccessful
+Matteo Politano,Napoli,77,24,Was Dribbled,Tackle,SecondHalf,15.2,47.5,0.0,0.0,Unsuccessful
+Maxence Caqueret,Como,77,25,BallTouch,BallTouch,SecondHalf,82.9,47.8,0.0,0.0,Successful
+Amir Rrahmani,Napoli,77,26,Clearance,Clearance,SecondHalf,11.0,47.8,18.2,51.3,Successful
+Stanislav Lobotka,Napoli,77,28,Clearance,Clearance,SecondHalf,18.2,51.3,41.9,62.7,Successful
+Trevoh Chalobah,Como,77,30,Pass,Pass,SecondHalf,56.1,47.7,65.1,36.3,Successful
+Luis Milla,Como,77,31,Pass,Pass,SecondHalf,65.1,36.3,73.8,39.7,Successful
+Maxence Caqueret,Como,77,33,Pass,Pass,SecondHalf,73.8,39.7,71.2,55.6,Successful
+Máximo Perrone,Como,77,35,Pass,Pass,SecondHalf,71.2,55.6,70.8,73.2,Successful
+Álex Valle,Como,77,36,Pass,Pass,SecondHalf,70.8,73.2,68.4,60.1,Successful
+Máximo Perrone,Como,77,37,Pass,Pass,SecondHalf,68.4,60.1,63.5,45.7,Successful
+Trevoh Chalobah,Como,77,42,Pass,Pass,SecondHalf,63.5,45.7,76.0,45.9,Successful
+Luis Milla,Como,77,43,Pass,Pass,SecondHalf,64.7,34.2,69.3,46.6,Successful
+Maxence Caqueret,Como,77,44,Key Pass,Pass,SecondHalf,66.1,47.2,76.1,46.8,Successful
+Nico Paz,Como,77,45,Shot on Target,SavedShot,SecondHalf,72.6,46.4,0.0,0.0,Successful
+Rafa Marín,Napoli,77,45,Save,Save,SecondHalf,21.0,53.4,0.0,0.0,Successful
+Nico Paz,Como,78,4,CornerAwarded,CornerAwarded,SecondHalf,92.8,62.2,0.0,0.0,Successful
+Rafa Marín,Napoli,78,4,CornerAwarded,CornerAwarded,SecondHalf,7.2,37.8,0.0,0.0,Unsuccessful
+Luis Milla,Como,78,22,Cross,Pass,SecondHalf,99.5,99.5,92.3,51.9,Unsuccessful
+Amir Rrahmani,Napoli,78,24,Clearance,Clearance,SecondHalf,7.6,47.8,22.6,41.7,Successful
+Maxence Caqueret,Como,78,32,Pass,Pass,SecondHalf,76.0,55.6,86.9,53.2,Successful
+Jacobo Ramón,Como,78,33,BallTouch,BallTouch,SecondHalf,86.9,53.2,0.0,0.0,Unsuccessful
+Alex Meret,Napoli,78,38,KeeperPickup,KeeperPickup,SecondHalf,11.9,45.0,0.0,0.0,Successful
+Alex Meret,Napoli,78,38,Pass,Pass,SecondHalf,11.9,45.0,23.7,23.8,Successful
+Giovanni Di Lorenzo,Napoli,78,44,Pass,Pass,SecondHalf,32.6,15.3,42.5,4.0,Successful
+Matteo Politano,Napoli,78,45,Long Pass,Pass,SecondHalf,42.5,4.0,79.8,25.2,Successful
+Rasmus Højlund,Napoli,78,55,Pass,Pass,SecondHalf,86.9,22.6,72.7,6.6,Successful
+Matteo Politano,Napoli,78,58,Pass,Pass,SecondHalf,72.5,4.8,61.0,19.6,Successful
+Giovanni Di Lorenzo,Napoli,79,1,Pass,Pass,SecondHalf,61.3,19.6,74.9,4.6,Successful
+Matteo Politano,Napoli,79,5,Cross,Pass,SecondHalf,73.1,11.2,88.5,52.5,Unsuccessful
+Kevin De Bruyne,Napoli,79,9,Shot off Target,MissedShots,SecondHalf,71.5,51.7,0.0,0.0,Successful
+Ivan Smolcic,Como,79,9,Clearance,Clearance,SecondHalf,12.6,36.4,26.7,41.5,Successful
+Rasmus Højlund,Napoli,79,34,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Lorenzo Lucca,Napoli,79,34,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Frank Anguissa,Napoli,79,43,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+David Neres,Napoli,79,43,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Napoli,79,45,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Jean Butez,Como,80,11,Long Pass,Pass,SecondHalf,4.5,45.0,75.1,29.7,Unsuccessful
+Amir Rrahmani,Napoli,80,16,Chipped Pass,Pass,SecondHalf,28.8,75.0,37.3,87.1,Successful
+Leonardo Spinazzola,Napoli,80,18,BallTouch,BallTouch,SecondHalf,37.3,87.1,0.0,0.0,Unsuccessful
+Ivan Smolcic,Como,80,32,Throw In,Pass,SecondHalf,62.4,0.0,74.7,18.6,Unsuccessful
+Rafa Marín,Napoli,80,37,Foul,Foul,SecondHalf,24.6,79.5,0.0,0.0,Successful
+Tasos Douvikas,Como,80,37,Foul,Foul,SecondHalf,75.3,20.4,0.0,0.0,Unsuccessful
+Nico Paz,Como,80,59,Substitution Off,SubstitutionOff,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Kaiki,Como,80,59,Substitution On,SubstitutionOn,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,81,0,FormationChange,FormationChange,SecondHalf,0.0,0.0,0.0,0.0,Successful
+Rafa Marín,Napoli,81,8,Pass,Pass,SecondHalf,29.6,79.5,31.5,73.6,Successful
+Kevin De Bruyne,Napoli,81,10,Pass,Pass,SecondHalf,35.6,76.2,27.3,51.9,Successful
+Alex Meret,Napoli,81,13,Pass,Pass,SecondHalf,27.0,51.3,36.0,29.1,Successful
+Amir Rrahmani,Napoli,81,16,Pass,Pass,SecondHalf,36.4,32.4,44.2,3.3,Successful
+Giovanni Di Lorenzo,Napoli,81,19,Pass,Pass,SecondHalf,42.0,8.4,42.5,24.0,Successful
+Stanislav Lobotka,Napoli,81,22,Pass,Pass,SecondHalf,35.4,22.8,25.9,23.2,Successful
+Amir Rrahmani,Napoli,81,24,Pass,Pass,SecondHalf,27.1,24.4,27.2,68.8,Successful
+Rafa Marín,Napoli,81,26,Pass,Pass,SecondHalf,27.6,68.7,33.6,50.8,Successful
+Stanislav Lobotka,Napoli,81,34,Pass,Pass,SecondHalf,57.5,47.4,60.5,16.3,Successful
+Giovanni Di Lorenzo,Napoli,81,38,Pass,Pass,SecondHalf,60.8,18.6,54.1,33.3,Successful
+Amir Rrahmani,Napoli,81,40,Pass,Pass,SecondHalf,55.3,33.7,57.4,53.7,Successful
+Kevin De Bruyne,Napoli,81,43,Pass,Pass,SecondHalf,64.6,54.0,79.7,94.5,Successful
+Alisson Santos,Napoli,81,48,Pass,Pass,SecondHalf,86.4,82.0,86.9,62.4,Successful
+Leonardo Spinazzola,Napoli,81,50,Pass,Pass,SecondHalf,87.1,59.8,80.6,54.1,Unsuccessful
+Luis Milla,Como,81,51,Interception,Interception,SecondHalf,19.4,45.9,0.0,0.0,Successful
+Luis Milla,Como,81,52,Clearance,Clearance,SecondHalf,20.2,39.7,64.3,25.5,Successful
+Alex Meret,Napoli,81,57,Pass,Pass,SecondHalf,34.7,75.4,59.5,84.3,Successful
+Kevin De Bruyne,Napoli,82,1,Pass,Pass,SecondHalf,54.8,81.3,48.2,63.3,Successful
+Rafa Marín,Napoli,82,4,Pass,Pass,SecondHalf,55.2,62.2,47.7,36.7,Successful
+Amir Rrahmani,Napoli,82,8,Pass,Pass,SecondHalf,50.1,34.5,66.3,5.1,Successful
+Giovanni Di Lorenzo,Napoli,82,12,Pass,Pass,SecondHalf,68.8,16.3,65.6,32.5,Successful
+Stanislav Lobotka,Napoli,82,15,Pass,Pass,SecondHalf,64.1,39.7,58.6,59.1,Successful
+Rafa Marín,Napoli,82,17,Pass,Pass,SecondHalf,58.1,58.5,65.3,82.0,Successful
+Kevin De Bruyne,Napoli,82,18,Pass,Pass,SecondHalf,65.3,81.9,79.7,77.5,Successful
+Leonardo Spinazzola,Napoli,82,21,Pass,Pass,SecondHalf,79.6,77.1,79.4,73.9,Unsuccessful
+Jacobo Ramón,Como,82,21,BlockedPass,BlockedPass,SecondHalf,20.6,26.1,0.0,0.0,Successful
+Leonardo Spinazzola,Napoli,82,22,Pass,Pass,SecondHalf,79.5,73.8,84.7,61.9,Successful
+Lorenzo Lucca,Napoli,82,24,Key Pass,Pass,SecondHalf,86.0,60.7,87.2,68.1,Successful
+Alisson Santos,Napoli,82,25,Shot off Target,MissedShots,SecondHalf,87.2,68.1,0.0,0.0,Successful
+Jean Butez,Como,82,50,Long Pass,Pass,SecondHalf,5.2,42.4,63.8,10.5,Unsuccessful
+Leonardo Spinazzola,Napoli,82,54,Pass,Pass,SecondHalf,39.9,93.6,42.0,80.1,Successful
+Kevin De Bruyne,Napoli,82,55,Pass,Pass,SecondHalf,42.0,80.1,30.0,61.0,Successful
+Amir Rrahmani,Napoli,82,57,Ball Recovery,BallRecovery,SecondHalf,31.7,57.7,0.0,0.0,Successful
+Amir Rrahmani,Napoli,83,0,Pass,Pass,SecondHalf,41.3,40.8,46.4,47.1,Successful
+Stanislav Lobotka,Napoli,83,2,Pass,Pass,SecondHalf,51.9,43.0,51.6,27.1,Successful
+Amir Rrahmani,Napoli,83,9,Pass,Pass,SecondHalf,61.3,28.5,54.1,54.3,Successful
+Rafa Marín,Napoli,83,13,Long Pass,Pass,SecondHalf,57.0,53.2,100.0,89.7,Unsuccessful
+Jean Butez,Como,83,43,Long Pass,Pass,SecondHalf,5.1,41.7,72.7,0.0,Unsuccessful
+Rafa Marín,Napoli,83,50,Long Pass,Pass,SecondHalf,34.2,100.0,32.0,66.4,Successful
+Amir Rrahmani,Napoli,83,55,Pass,Pass,SecondHalf,31.2,60.9,37.7,24.4,Successful
+Giovanni Di Lorenzo,Napoli,83,58,Pass,Pass,SecondHalf,38.7,23.7,42.7,38.8,Successful
+Stanislav Lobotka,Napoli,83,59,Pass,Pass,SecondHalf,38.8,33.0,48.7,22.5,Unsuccessful
+Lorenzo Lucca,Napoli,84,0,Offside,OffsideGiven,SecondHalf,81.1,31.8,0.0,0.0,Unsuccessful
+Álex Valle,Como,84,1,Interception,Interception,SecondHalf,51.3,77.5,0.0,0.0,Successful
+Luis Milla,Como,84,2,Ball Recovery,BallRecovery,SecondHalf,60.5,70.8,0.0,0.0,Successful
+Luis Milla,Como,84,2,Pass,Pass,SecondHalf,60.5,70.8,53.8,55.5,Successful
+Máximo Perrone,Como,84,2,Pass,Pass,SecondHalf,53.8,55.5,39.7,63.7,Successful
+Trevoh Chalobah,Como,84,4,Pass,Pass,SecondHalf,39.7,63.7,35.0,42.4,Successful
+Jacobo Ramón,Como,84,5,Pass,Pass,SecondHalf,35.0,42.4,18.2,53.2,Successful
+Jean Butez,Como,84,8,Long Pass,Pass,SecondHalf,18.1,53.1,71.5,15.9,Unsuccessful
+Leonardo Spinazzola,Napoli,84,13,Pass,Pass,SecondHalf,32.0,88.2,36.0,85.6,Unsuccessful
+Maxence Caqueret,Como,84,15,Unsuccessful Dribble,TakeOn,SecondHalf,70.4,8.7,0.0,0.0,Unsuccessful
+Rafa Marín,Napoli,84,17,Ball Recovery,BallRecovery,SecondHalf,15.1,86.4,0.0,0.0,Successful
+Rafa Marín,Napoli,84,18,Pass,Pass,SecondHalf,15.1,86.4,4.5,60.1,Successful
+Alex Meret,Napoli,84,20,Pass,Pass,SecondHalf,4.5,60.3,14.5,92.2,Successful
+Rafa Marín,Napoli,84,22,Pass,Pass,SecondHalf,17.1,93.3,24.9,62.2,Successful
+Stanislav Lobotka,Napoli,84,30,Foul,Foul,SecondHalf,30.0,81.9,0.0,0.0,Successful
+Maxence Caqueret,Como,84,30,Foul,Foul,SecondHalf,70.0,18.1,0.0,0.0,Unsuccessful
+Kevin De Bruyne,Napoli,84,37,Pass,Pass,SecondHalf,30.9,73.5,28.4,68.7,Successful
+Leonardo Spinazzola,Napoli,84,39,Pass,Pass,SecondHalf,28.4,68.5,32.4,73.8,Successful
+Kevin De Bruyne,Napoli,84,45,Pass,Pass,SecondHalf,37.0,61.5,40.9,29.8,Successful
+Amir Rrahmani,Napoli,84,46,Pass,Pass,SecondHalf,41.0,29.8,51.4,8.1,Successful
+Matteo Politano,Napoli,84,48,Long Pass,OffsidePass,SecondHalf,52.3,12.6,81.1,31.8,Successful
+Trevoh Chalobah,Como,84,48,OffsideProvoked,OffsideProvoked,SecondHalf,33.6,53.2,0.0,0.0,Successful
+Jean Butez,Como,85,20,Long Pass,Pass,SecondHalf,21.0,69.3,71.8,76.2,Unsuccessful
+Amir Rrahmani,Napoli,85,21,Aerial Won,Aerial,SecondHalf,28.2,23.8,0.0,0.0,Successful
+Tasos Douvikas,Como,85,21,Aerial Lost,Aerial,SecondHalf,71.8,76.2,0.0,0.0,Unsuccessful
+Amir Rrahmani,Napoli,85,22,BallTouch,BallTouch,SecondHalf,31.9,32.2,0.0,0.0,Unsuccessful
+Kaiki,Como,85,28,BallTouch,BallTouch,SecondHalf,78.6,69.9,0.0,0.0,Unsuccessful
+Giovanni Di Lorenzo,Napoli,85,29,Ball Recovery,BallRecovery,SecondHalf,35.2,42.7,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,85,29,Pass,Pass,SecondHalf,37.2,45.4,34.9,69.0,Successful
+Leonardo Spinazzola,Napoli,85,33,Pass,Pass,SecondHalf,40.1,84.3,44.8,94.0,Successful
+Maxence Caqueret,Como,85,38,Challenge,Challenge,SecondHalf,52.9,7.7,0.0,0.0,Unsuccessful
+Alisson Santos,Napoli,85,38,Successful Dribble,TakeOn,SecondHalf,47.1,92.3,0.0,0.0,Successful
+Alisson Santos,Napoli,85,43,Pass,Pass,SecondHalf,78.9,73.8,86.0,68.5,Unsuccessful
+Jacobo Ramón,Como,85,45,Ball Recovery,BallRecovery,SecondHalf,17.6,23.2,0.0,0.0,Successful
+Jacobo Ramón,Como,85,46,Pass,Pass,SecondHalf,17.6,15.0,22.1,24.4,Successful
+Maxence Caqueret,Como,85,49,Pass,Pass,SecondHalf,22.1,24.4,22.5,28.5,Successful
+Ivan Smolcic,Como,85,50,Pass,Pass,SecondHalf,22.5,28.5,35.7,25.2,Successful
+Máximo Perrone,Como,85,51,Pass,Pass,SecondHalf,35.7,25.2,29.1,23.4,Successful
+Maxence Caqueret,Como,85,52,Pass,Pass,SecondHalf,29.1,23.4,40.0,37.5,Successful
+Tasos Douvikas,Como,85,54,Foul,Foul,SecondHalf,37.4,36.6,0.0,0.0,Successful
+Amir Rrahmani,Napoli,85,54,Foul,Foul,SecondHalf,62.6,63.4,0.0,0.0,Unsuccessful
+Jacobo Ramón,Como,86,19,Long Pass,Pass,SecondHalf,37.9,33.0,74.8,100.0,Unsuccessful
+Matteo Politano,Napoli,86,25,Long Pass,Pass,SecondHalf,38.4,0.0,33.3,30.6,Successful
+Amir Rrahmani,Napoli,86,27,Pass,Pass,SecondHalf,33.3,30.6,38.4,43.0,Successful
+Kevin De Bruyne,Napoli,86,31,Long Pass,Pass,SecondHalf,42.1,43.0,74.7,95.2,Successful
+Alisson Santos,Napoli,86,35,Pass,Pass,SecondHalf,74.7,95.2,74.4,72.1,Unsuccessful
+Jacobo Ramón,Como,86,36,Pass,Pass,SecondHalf,32.4,27.9,39.4,17.5,Successful
+Maxence Caqueret,Como,86,38,Ball Recovery,BallRecovery,SecondHalf,39.4,17.5,0.0,0.0,Successful
+Maxence Caqueret,Como,86,39,Pass,Pass,SecondHalf,37.3,30.3,33.1,35.4,Successful
+Máximo Perrone,Como,86,44,Pass,Pass,SecondHalf,35.5,29.1,26.7,26.5,Successful
+Jacobo Ramón,Como,86,45,Chipped Pass,Pass,SecondHalf,26.7,26.5,36.6,40.8,Successful
+Luis Milla,Como,86,47,Pass,Pass,SecondHalf,36.6,40.8,46.2,43.6,Successful
+Tasos Douvikas,Como,86,51,Pass,Pass,SecondHalf,44.3,55.5,33.3,74.8,Successful
+Marc Oliver Kempf,Como,86,53,Pass,Pass,SecondHalf,33.3,74.8,38.2,61.6,Successful
+Luis Milla,Como,86,55,Pass,Pass,SecondHalf,38.2,61.6,26.4,50.7,Successful
+Trevoh Chalobah,Como,86,57,Pass,Pass,SecondHalf,26.4,50.7,31.2,23.8,Successful
+Jacobo Ramón,Como,86,59,Pass,Pass,SecondHalf,31.2,23.8,38.8,30.9,Successful
+Máximo Perrone,Como,87,0,Pass,Pass,SecondHalf,38.8,30.9,33.9,44.8,Successful
+Luis Milla,Como,87,3,Pass,Pass,SecondHalf,36.0,38.8,32.4,12.1,Successful
+Jacobo Ramón,Como,87,6,Pass,Pass,SecondHalf,35.3,12.1,57.1,4.6,Successful
+Ivan Smolcic,Como,87,7,BallTouch,BallTouch,SecondHalf,57.1,4.5,0.0,0.0,Unsuccessful
+Leonardo Spinazzola,Napoli,87,9,BallTouch,BallTouch,SecondHalf,38.8,87.4,0.0,0.0,Unsuccessful
+Ivan Smolcic,Como,87,20,Throw In,Pass,SecondHalf,56.5,0.0,41.5,5.7,Successful
+Jacobo Ramón,Como,87,24,Pass,Pass,SecondHalf,41.5,5.7,46.2,26.8,Successful
+Luis Milla,Como,87,26,Pass,Pass,SecondHalf,46.2,26.8,48.6,34.9,Successful
+Maxence Caqueret,Como,87,27,Pass,Pass,SecondHalf,48.6,34.9,61.0,26.1,Successful
+Máximo Perrone,Como,87,31,Pass,Pass,SecondHalf,58.8,36.3,61.7,31.0,Successful
+Maxence Caqueret,Como,87,32,Pass,Pass,SecondHalf,64.6,32.2,75.1,49.2,Successful
+Tasos Douvikas,Como,87,34,Key Pass,Pass,SecondHalf,73.5,50.9,78.6,55.6,Successful
+Kaiki,Como,87,36,Shot on Target,SavedShot,SecondHalf,79.9,54.2,0.0,0.0,Successful
+Alex Meret,Napoli,87,36,Save,Save,SecondHalf,3.1,48.7,0.0,0.0,Successful
+Alex Meret,Napoli,87,37,KeeperPickup,KeeperPickup,SecondHalf,3.1,48.7,0.0,0.0,Successful
+Alex Meret,Napoli,87,41,Pass,Pass,SecondHalf,12.1,51.7,28.5,78.7,Successful
+Leonardo Spinazzola,Napoli,87,49,Long Pass,Pass,SecondHalf,47.0,82.3,82.8,67.6,Successful
+Kevin De Bruyne,Napoli,87,54,Pass,Pass,SecondHalf,89.6,71.2,86.6,60.6,Unsuccessful
+Trevoh Chalobah,Como,87,56,Clearance,Clearance,SecondHalf,14.7,36.4,38.0,0.0,Successful
+Alisson Santos,Napoli,88,3,Throw In,Pass,SecondHalf,72.6,100.0,62.3,90.6,Successful
+Leonardo Spinazzola,Napoli,88,5,Pass,Pass,SecondHalf,62.3,90.3,57.4,64.6,Successful
+Stanislav Lobotka,Napoli,88,6,Pass,Pass,SecondHalf,60.4,66.9,52.5,64.2,Successful
+Rafa Marín,Napoli,88,7,Pass,Pass,SecondHalf,53.7,65.7,55.4,35.5,Successful
+Amir Rrahmani,Napoli,88,8,Pass,Pass,SecondHalf,55.4,35.5,62.9,16.9,Successful
+Giovanni Di Lorenzo,Napoli,88,13,Pass,Pass,SecondHalf,66.3,17.4,57.8,32.5,Successful
+Amir Rrahmani,Napoli,88,15,Pass,Pass,SecondHalf,57.8,32.5,63.6,15.6,Successful
+Giovanni Di Lorenzo,Napoli,88,16,Pass,Pass,SecondHalf,63.7,15.6,77.5,5.7,Successful
+Matteo Politano,Napoli,88,19,Pass,Pass,SecondHalf,73.7,9.4,69.1,15.9,Successful
+Giovanni Di Lorenzo,Napoli,88,21,Pass,Pass,SecondHalf,68.0,16.0,71.4,22.6,Successful
+Matteo Politano,Napoli,88,24,Pass,Pass,SecondHalf,63.2,26.1,70.5,61.5,Unsuccessful
+Maxence Caqueret,Como,88,28,Ball Recovery,BallRecovery,SecondHalf,38.5,37.5,0.0,0.0,Successful
+Maxence Caqueret,Como,88,29,Pass,Pass,SecondHalf,37.1,54.7,48.0,56.7,Successful
+Máximo Perrone,Como,88,32,Pass,Pass,SecondHalf,53.8,63.6,45.0,65.8,Successful
+Maxence Caqueret,Como,88,33,Pass,Pass,SecondHalf,45.0,65.8,47.6,67.0,Unsuccessful
+Leonardo Spinazzola,Napoli,88,33,BlockedPass,BlockedPass,SecondHalf,52.4,33.0,0.0,0.0,Successful
+David Neres,Napoli,88,37,Ball Recovery,BallRecovery,SecondHalf,70.7,4.9,0.0,0.0,Successful
+David Neres,Napoli,88,43,Unsuccessful Dribble,TakeOn,SecondHalf,86.9,12.6,0.0,0.0,Unsuccessful
+Álex Valle,Como,88,43,Successful Tackle,Tackle,SecondHalf,13.1,87.4,0.0,0.0,Successful
+Maxence Caqueret,Como,88,46,Ball Recovery,BallRecovery,SecondHalf,3.2,84.0,0.0,0.0,Successful
+Maxence Caqueret,Como,88,47,Pass,Pass,SecondHalf,4.5,74.1,6.9,90.9,Successful
+Álex Valle,Como,88,53,Long Pass,Pass,SecondHalf,13.7,94.0,53.0,100.0,Unsuccessful
+Amir Rrahmani,Napoli,88,58,Long Pass,Pass,SecondHalf,50.9,0.0,47.0,33.3,Successful
+Rafa Marín,Napoli,89,2,Pass,Pass,SecondHalf,57.8,37.3,60.0,72.1,Successful
+Kevin De Bruyne,Napoli,89,5,Pass,Pass,SecondHalf,64.0,71.2,72.0,93.1,Successful
+Alisson Santos,Napoli,89,10,Pass,Pass,SecondHalf,81.7,84.7,92.2,71.2,Successful
+Kevin De Bruyne,Napoli,89,12,Pass,Pass,SecondHalf,92.2,71.2,95.2,48.0,Unsuccessful
+Luis Milla,Como,89,13,BallTouch,BallTouch,SecondHalf,7.7,47.4,0.0,0.0,Successful
+Marc Oliver Kempf,Como,89,14,Clearance,Clearance,SecondHalf,4.3,51.4,0.0,37.2,Successful
+Marc Oliver Kempf,Como,89,14,CornerAwarded,CornerAwarded,SecondHalf,0.0,35.2,0.0,0.0,Unsuccessful
+Kevin De Bruyne,Napoli,89,14,CornerAwarded,CornerAwarded,SecondHalf,100.0,64.8,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,89,39,Key Pass,Pass,SecondHalf,99.5,99.5,95.0,51.5,Successful
+Lorenzo Lucca,Napoli,89,42,Aerial Won,Aerial,SecondHalf,95.0,51.5,0.0,0.0,Successful
+Jacobo Ramón,Como,89,42,Aerial Lost,Aerial,SecondHalf,5.0,48.5,0.0,0.0,Unsuccessful
+Lorenzo Lucca,Napoli,89,42,Shot on Target,SavedShot,SecondHalf,95.0,51.5,0.0,0.0,Successful
+Jean Butez,Como,89,43,Save,Save,SecondHalf,2.9,51.1,0.0,0.0,Successful
+Jean Butez,Como,89,45,KeeperPickup,KeeperPickup,SecondHalf,2.9,51.1,0.0,0.0,Successful
+Jean Butez,Como,90,0,Long Pass,Pass,SecondHalf,13.6,48.0,75.9,65.7,Successful
+Stanislav Lobotka,Napoli,90,4,Challenge,Challenge,SecondHalf,24.4,32.8,0.0,0.0,Unsuccessful
+Kaiki,Como,90,4,Successful Dribble,TakeOn,SecondHalf,71.9,66.6,0.0,0.0,Successful
+Kaiki,Como,90,6,Key Pass,Pass,SecondHalf,94.5,67.0,93.2,45.7,Successful
+Tasos Douvikas,Como,90,8,Aerial Won,Aerial,SecondHalf,93.2,45.7,0.0,0.0,Successful
+Rafa Marín,Napoli,90,8,Aerial Lost,Aerial,SecondHalf,6.8,54.3,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,90,8,Shot on Target,SavedShot,SecondHalf,93.2,45.7,0.0,0.0,Successful
+Alex Meret,Napoli,90,8,Save,Save,SecondHalf,1.6,52.2,0.0,0.0,Successful
+Alex Meret,Napoli,90,10,KeeperPickup,KeeperPickup,SecondHalf,3.7,45.3,0.0,0.0,Successful
+Alex Meret,Napoli,90,12,Pass,Pass,SecondHalf,11.4,44.7,35.3,16.5,Successful
+David Neres,Napoli,90,16,Pass,Pass,SecondHalf,40.0,27.3,34.9,52.2,Successful
+Stanislav Lobotka,Napoli,90,19,Pass,Pass,SecondHalf,37.7,52.9,45.7,82.8,Successful
+Leonardo Spinazzola,Napoli,90,21,Pass,Pass,SecondHalf,46.4,82.9,57.3,93.1,Successful
+Kevin De Bruyne,Napoli,90,27,Pass,Pass,SecondHalf,63.0,81.1,61.7,61.3,Successful
+Stanislav Lobotka,Napoli,90,30,Pass,Pass,SecondHalf,62.0,53.2,61.9,34.5,Successful
+Amir Rrahmani,Napoli,90,34,Pass,Pass,SecondHalf,63.5,37.5,62.7,67.2,Successful
+Kevin De Bruyne,Napoli,90,37,Pass,Pass,SecondHalf,67.0,58.6,75.3,54.3,Successful
+David Neres,Napoli,90,40,Pass,Pass,SecondHalf,75.8,57.3,86.2,48.4,Successful
+Lorenzo Lucca,Napoli,90,41,Pass,Pass,SecondHalf,84.5,47.4,89.5,51.0,Unsuccessful
+Trevoh Chalobah,Como,90,43,Interception,Interception,SecondHalf,10.5,49.0,0.0,0.0,Successful
+Trevoh Chalobah,Como,90,44,Clearance,Clearance,SecondHalf,12.7,52.0,54.0,52.5,Successful
+Rafa Marín,Napoli,90,48,Pass,Pass,SecondHalf,53.9,51.6,62.3,68.8,Successful
+Kevin De Bruyne,Napoli,90,57,Pass,Pass,SecondHalf,63.5,65.5,63.7,38.2,Successful
+Amir Rrahmani,Napoli,90,59,Pass,Pass,SecondHalf,64.1,36.7,78.2,4.8,Successful
+Giovanni Di Lorenzo,Napoli,91,3,Pass,Pass,SecondHalf,79.9,4.8,82.2,30.1,Successful
+Matteo Politano,Napoli,91,5,BallTouch,BallTouch,SecondHalf,82.2,29.8,0.0,0.0,Unsuccessful
+Álex Valle,Como,91,5,Clearance,Clearance,SecondHalf,13.8,71.2,31.6,60.6,Successful
+Tasos Douvikas,Como,91,8,BallTouch,BallTouch,SecondHalf,31.7,63.9,0.0,0.0,Unsuccessful
+Stanislav Lobotka,Napoli,91,9,Pass,Pass,SecondHalf,65.7,29.8,65.9,23.1,Successful
+David Neres,Napoli,91,14,Pass,Pass,SecondHalf,70.6,22.3,73.2,6.4,Successful
+Giovanni Di Lorenzo,Napoli,91,17,Pass,Pass,SecondHalf,75.5,6.7,70.2,28.9,Successful
+Stanislav Lobotka,Napoli,91,19,Chipped Pass,Pass,SecondHalf,70.2,29.1,75.7,26.8,Unsuccessful
+Luis Milla,Como,91,21,BallTouch,BallTouch,SecondHalf,25.2,69.6,0.0,0.0,Successful
+Tasos Douvikas,Como,91,21,Aerial Won,Aerial,SecondHalf,26.6,68.0,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,91,21,Aerial Lost,Aerial,SecondHalf,72.4,32.8,0.0,0.0,Unsuccessful
+Tasos Douvikas,Como,91,22,Pass,Pass,SecondHalf,28.5,64.4,29.6,64.8,Unsuccessful
+Stanislav Lobotka,Napoli,91,22,BallTouch,BallTouch,SecondHalf,74.4,32.4,0.0,0.0,Successful
+Álex Valle,Como,91,25,Ball Recovery,BallRecovery,SecondHalf,13.1,81.4,0.0,0.0,Successful
+Álex Valle,Como,91,25,Pass,Pass,SecondHalf,13.1,81.4,20.0,88.8,Successful
+Kaiki,Como,91,27,Pass,Pass,SecondHalf,20.9,83.1,4.8,89.4,Successful
+Álex Valle,Como,91,33,Long Pass,Pass,SecondHalf,5.6,95.8,40.7,96.3,Unsuccessful
+Amir Rrahmani,Napoli,91,37,Pass,Pass,SecondHalf,66.7,6.7,72.7,19.5,Successful
+Kevin De Bruyne,Napoli,91,39,Ball Recovery,BallRecovery,SecondHalf,72.0,19.3,0.0,0.0,Successful
+Kevin De Bruyne,Napoli,91,41,Key Pass,Pass,SecondHalf,68.6,26.7,77.8,13.0,Successful
+David Neres,Napoli,91,48,Shot on Target,SavedShot,SecondHalf,78.4,32.7,0.0,0.0,Successful
+Luis Milla,Como,91,48,Save,Save,SecondHalf,18.0,64.8,0.0,0.0,Successful
+Rafa Marín,Napoli,91,50,Pass,Pass,SecondHalf,67.5,50.5,70.7,69.1,Successful
+Leonardo Spinazzola,Napoli,91,53,Pass,Pass,SecondHalf,72.8,74.5,78.3,91.8,Unsuccessful
+Ivan Smolcic,Como,91,56,Clearance,Clearance,SecondHalf,24.4,9.0,61.3,64.9,Successful
+Rafa Marín,Napoli,92,3,Pass,Pass,SecondHalf,43.6,33.0,50.3,29.1,Successful
+Amir Rrahmani,Napoli,92,5,Pass,Pass,SecondHalf,53.9,27.0,52.7,46.3,Successful
+Rafa Marín,Napoli,92,9,Pass,Pass,SecondHalf,57.9,50.1,56.7,75.9,Successful
+Leonardo Spinazzola,Napoli,92,15,Long Pass,Pass,SecondHalf,64.3,64.2,80.9,7.0,Successful
+Matteo Politano,Napoli,92,21,Cross,Pass,SecondHalf,79.5,10.5,81.1,15.3,Unsuccessful
+Álex Valle,Como,92,21,Clearance,Clearance,SecondHalf,18.9,84.7,0.0,0.0,Successful
+Matteo Politano,Napoli,92,28,Throw In,Pass,SecondHalf,83.6,0.0,72.4,10.5,Successful
+Amir Rrahmani,Napoli,92,33,Pass,Pass,SecondHalf,69.4,8.5,54.9,29.4,Successful
+Rafa Marín,Napoli,92,35,Pass,Pass,SecondHalf,55.2,29.4,60.2,40.3,Successful
+Kevin De Bruyne,Napoli,92,36,Through Ball,Pass,SecondHalf,60.2,40.3,93.5,40.5,Unsuccessful
+Jean Butez,Como,92,41,KeeperPickup,KeeperPickup,SecondHalf,4.8,60.9,0.0,0.0,Successful
+Jean Butez,Como,92,53,Long Pass,Pass,SecondHalf,14.2,56.1,78.2,100.0,Unsuccessful
+Amir Rrahmani,Napoli,93,1,Long Pass,Pass,SecondHalf,20.5,0.0,10.3,31.6,Successful
+Alex Meret,Napoli,93,4,Pass,Pass,SecondHalf,21.0,34.5,36.6,54.3,Successful
+Rafa Marín,Napoli,93,9,Pass,Pass,SecondHalf,37.3,55.3,45.8,85.9,Successful
+Leonardo Spinazzola,Napoli,93,12,Pass,Pass,SecondHalf,58.2,85.2,61.5,59.7,Successful
+Stanislav Lobotka,Napoli,93,15,Pass,Pass,SecondHalf,55.9,60.6,55.7,32.1,Successful
+Amir Rrahmani,Napoli,93,19,Pass,Pass,SecondHalf,59.2,34.9,71.1,8.5,Successful
+Giovanni Di Lorenzo,Napoli,93,23,Pass,Pass,SecondHalf,69.5,8.2,61.2,26.8,Successful
+Amir Rrahmani,Napoli,93,30,Pass,Pass,SecondHalf,60.8,27.7,74.4,7.6,Successful
+Giovanni Di Lorenzo,Napoli,93,31,Chipped Pass,Pass,SecondHalf,74.6,7.3,89.2,16.8,Unsuccessful
+Álex Valle,Como,93,33,Interception,Interception,SecondHalf,10.8,83.2,0.0,0.0,Successful
+Giovanni Di Lorenzo,Napoli,93,38,Long Pass,Pass,SecondHalf,83.9,0.0,64.4,8.8,Successful
+Amir Rrahmani,Napoli,93,41,Pass,Pass,SecondHalf,65.6,11.4,59.6,41.4,Successful
+Rafa Marín,Napoli,93,43,Pass,Pass,SecondHalf,60.2,41.1,65.3,68.5,Successful
+Leonardo Spinazzola,Napoli,93,48,Pass,Pass,SecondHalf,63.2,66.9,63.8,20.8,Successful
+Amir Rrahmani,Napoli,93,56,Pass,Pass,SecondHalf,69.2,32.8,71.5,19.6,Successful
+Lorenzo Lucca,Napoli,94,0,Offside,OffsideGiven,SecondHalf,91.2,57.1,0.0,0.0,Unsuccessful
+David Neres,Napoli,94,2,Pass,Pass,SecondHalf,70.9,27.1,64.5,56.4,Successful
+Rafa Marín,Napoli,94,6,Pass,Pass,SecondHalf,65.4,55.6,70.6,29.2,Successful
+Amir Rrahmani,Napoli,94,8,Pass,Pass,SecondHalf,71.0,30.4,85.8,7.8,Successful
+Matteo Politano,Napoli,94,12,Cross,Pass,SecondHalf,82.7,11.7,87.9,45.6,Unsuccessful
+Máximo Perrone,Como,94,16,Clearance,Clearance,SecondHalf,14.4,55.3,22.1,54.7,Successful
+Marc Oliver Kempf,Como,94,17,Aerial Won,Aerial,SecondHalf,22.1,54.7,0.0,0.0,Successful
+Stanislav Lobotka,Napoli,94,17,Aerial Lost,Aerial,SecondHalf,77.9,45.3,0.0,0.0,Unsuccessful
+Marc Oliver Kempf,Como,94,18,Clearance,Clearance,SecondHalf,22.1,54.7,37.9,42.3,Successful
+Rafa Marín,Napoli,94,18,Pass,Pass,SecondHalf,67.4,57.6,71.4,70.3,Successful
+Kevin De Bruyne,Napoli,94,21,Offside,OffsidePass,SecondHalf,71.7,69.0,91.2,57.1,Successful
+Trevoh Chalobah,Como,94,21,OffsideProvoked,OffsideProvoked,SecondHalf,14.2,48.7,0.0,0.0,Successful
+Jean Butez,Como,95,24,Long Pass,Pass,SecondHalf,13.0,41.5,65.7,73.8,Successful
+Tasos Douvikas,Como,95,25,BallTouch,BallTouch,SecondHalf,65.7,73.8,0.0,0.0,Unsuccessful
+Stanislav Lobotka,Napoli,95,25,Long Pass,Pass,SecondHalf,43.6,24.7,64.3,25.8,Unsuccessful
+Marc Oliver Kempf,Como,95,27,Foul,Foul,SecondHalf,39.8,75.3,0.0,0.0,Successful
+Lorenzo Lucca,Napoli,95,27,Foul,Foul,SecondHalf,60.2,24.7,0.0,0.0,Unsuccessful
+Trevoh Chalobah,Como,95,56,Long Pass,Pass,SecondHalf,44.3,82.2,91.7,75.0,Unsuccessful
+Alex Meret,Napoli,95,58,KeeperPickup,KeeperPickup,SecondHalf,11.5,31.3,0.0,0.0,Successful
+Matteo Politano,Napoli,96,0,Offside,OffsideGiven,SecondHalf,91.8,78.3,0.0,0.0,Unsuccessful
+Alex Meret,Napoli,96,0,Long Pass,Pass,SecondHalf,15.3,34.0,31.5,78.1,Successful
+Leonardo Spinazzola,Napoli,96,11,Unsuccessful Dribble,TakeOn,SecondHalf,69.4,96.5,0.0,0.0,Unsuccessful
+Ivan Smolcic,Como,96,11,Successful Tackle,Tackle,SecondHalf,32.2,3.6,0.0,0.0,Successful
+Alisson Santos,Napoli,96,15,Throw In,Pass,SecondHalf,62.6,100.0,55.6,81.1,Successful
+Kevin De Bruyne,Napoli,96,18,Long Pass,OffsidePass,SecondHalf,56.1,83.1,91.8,78.3,Successful
+Jacobo Ramón,Como,96,18,OffsideProvoked,OffsideProvoked,SecondHalf,29.3,38.9,0.0,0.0,Successful
+,Como,96,42,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Napoli,96,42,End,End,SecondHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Napoli,0,0,End,End,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Napoli,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
+,Como,0,0,FormationSet,FormationSet,FirstHalf,0.0,0.0,0.0,0.0,Successful
