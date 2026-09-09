@@ -1054,9 +1054,10 @@ async def cut_clip(
 
     duration = t_end - t_start
 
+    from backend.clipper import FFMPEG
     import subprocess
     cmd = [
-        "ffmpeg", "-y",
+        FFMPEG, "-y",
         "-i", str(video_path),
         "-ss", str(t_start),
         "-t", str(duration),
